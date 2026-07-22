@@ -1,0 +1,8516 @@
+[
+  {
+    "id": "ariyasathantham-haeng-panya-foundation",
+    "lens": [
+      "wat"
+    ],
+    "name": "มูลนิธิ อริยสถานธรรม แห่งปัญญา",
+    "nameRoman": "Ariyasathantham Haeng Panya Foundation",
+    "lat": 18.8275965,
+    "lng": 99.0070108,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/8586256830",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "brother-of-doi-kum",
+    "lens": [
+      "wat"
+    ],
+    "name": "Brother of Doi Kum",
+    "nameRoman": "Brother of Doi Kum",
+    "lat": 18.7620916,
+    "lng": 98.9333431,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2940077887",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "buddha-dhamma-nonghor-monastery",
+    "lens": [
+      "wat"
+    ],
+    "name": "ที่พักสงฆ์พุทธรรมหนองฮ่อ",
+    "nameRoman": "Buddha Dhamma Nonghor Monastery",
+    "lat": 18.8284385,
+    "lng": 98.9518714,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "openingHours": "Mo-Su 06:00-20:00",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/749320828",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "buddhist-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "Buddhist temple",
+    "nameRoman": "Buddhist temple",
+    "lat": 18.7916956,
+    "lng": 98.9819826,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6741683186",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chao-pho-chaeng-katam-shrine",
+    "lens": [
+      "wat"
+    ],
+    "name": "ศาลเจ้าพ่อหลักเมืองแจ่งกระต๊ำ",
+    "nameRoman": "Chao Pho Chaeng Katam Shrine",
+    "lat": 18.7818202,
+    "lng": 98.9928381,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11226861564",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chedi-liam-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "Chedi Liam Temple",
+    "nameRoman": "Chedi Liam Temple",
+    "lat": 18.7540471,
+    "lng": 98.995635,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2508210840",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chedi-liam-temple-261636339",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์เหลี่ยม",
+    "nameRoman": "Chedi Liam Temple",
+    "lat": 18.7537478,
+    "lng": 98.9957332,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/261636339",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chiang-mai-buddhist-shrine",
+    "lens": [
+      "wat"
+    ],
+    "name": "พุทธสถานเชียงใหม่",
+    "nameRoman": "Chiang Mai Buddhist Shrine",
+    "lat": 18.7872401,
+    "lng": 99.0018548,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/96423038",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "ganesha-shrine",
+    "lens": [
+      "wat"
+    ],
+    "name": "Ganesha Shrine",
+    "nameRoman": "Ganesha Shrine",
+    "lat": 18.8014927,
+    "lng": 99.0163191,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6364376085",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "grand-pavilion-hor-kham-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "หอคำหลวง",
+    "nameRoman": "Grand Pavilion (Hor Kham Luang)",
+    "lat": 18.7529741,
+    "lng": 98.9223817,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/935358254",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "house-of-spirit",
+    "lens": [
+      "wat"
+    ],
+    "name": "House of Spirit",
+    "nameRoman": "House of Spirit",
+    "lat": 18.8058643,
+    "lng": 98.9533041,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5593688307",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "khuong-singh",
+    "lens": [
+      "wat"
+    ],
+    "name": "Khuong Singh",
+    "nameRoman": "Khuong Singh",
+    "lat": 18.813547,
+    "lng": 98.9820998,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13416126895",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-4537566043",
+    "lens": [
+      "wat"
+    ],
+    "name": "สมาคมพุทธภาวนาบุญสถาน",
+    "nameRoman": null,
+    "lat": 18.7978735,
+    "lng": 98.9960802,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4537566043",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-6533745587",
+    "lens": [
+      "wat"
+    ],
+    "name": "สำนักสงฆ์บ้านขุนช่างเคี่ยน",
+    "nameRoman": null,
+    "lat": 18.8432569,
+    "lng": 98.9070154,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6533745587",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-199769536",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันพระเนตร",
+    "nameRoman": null,
+    "lat": 18.8048927,
+    "lng": 99.0446549,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/199769536",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-256126140",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธาตุกลาง",
+    "nameRoman": null,
+    "lat": 18.7767328,
+    "lng": 98.9892326,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/256126140",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-298150021",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบุญเรือง",
+    "nameRoman": null,
+    "lat": 18.7369718,
+    "lng": 99.0425877,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/298150021",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-437531160",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าเกวียน",
+    "nameRoman": null,
+    "lat": 18.8671315,
+    "lng": 99.0210092,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/437531160",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-691945180",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมธัง",
+    "nameRoman": null,
+    "lat": 18.7854865,
+    "lng": 98.9787683,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/691945180",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-692140717",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปันเส่า",
+    "nameRoman": null,
+    "lat": 18.7921924,
+    "lng": 98.9773908,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/692140717",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-692146706",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองคำ",
+    "nameRoman": null,
+    "lat": 18.7903618,
+    "lng": 98.9964915,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/692146706",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-695790006",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพันอ้น",
+    "nameRoman": null,
+    "lat": 18.7875855,
+    "lng": 98.9907993,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/695790006",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-700635985",
+    "lens": [
+      "wat"
+    ],
+    "name": "สุสานปิงห่าง",
+    "nameRoman": null,
+    "lat": 18.6864133,
+    "lng": 99.0426948,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/700635985",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-810358530",
+    "lens": [
+      "wat"
+    ],
+    "name": "หอสมเด็จพระพุทธปัญญาธรรม",
+    "nameRoman": null,
+    "lat": 18.7942614,
+    "lng": 98.9542196,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/810358530",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-813094863",
+    "lens": [
+      "wat"
+    ],
+    "name": "วิหารหลวงพ่อทันใจ พระครูบาเจ้าเทือง นาถสีโล",
+    "nameRoman": null,
+    "lat": 18.7895407,
+    "lng": 98.9745939,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/813094863",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "sala-phrachao-morakot-niramit",
+    "lens": [
+      "wat"
+    ],
+    "name": "ศาลาพระเจ้ามรกตนิรมิต",
+    "nameRoman": "Sala Phrachao Morakot Niramit",
+    "lat": 18.7107578,
+    "lng": 98.9748352,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4677874013",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "sala-tham",
+    "lens": [
+      "wat"
+    ],
+    "name": "ศาลาธรรม",
+    "nameRoman": "Sala Tham",
+    "lat": 18.8048942,
+    "lng": 98.952761,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/311213404",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "sao-hin-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเสาหิน",
+    "nameRoman": "Sao Hin Temple",
+    "lat": 18.7536192,
+    "lng": 99.0026341,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/104636963",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "si-song-mueang-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสองเมือง",
+    "nameRoman": "Si Song Mueang Temple",
+    "lat": 18.7334746,
+    "lng": 99.0442696,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/145079406",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "thai-lin-foawian",
+    "lens": [
+      "wat"
+    ],
+    "name": "ไท่หลินฝอเอวี้ยน",
+    "nameRoman": "Thai Lin Foawian",
+    "lat": 18.7495374,
+    "lng": 99.0222127,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/333979908",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "thep-montien",
+    "lens": [
+      "wat"
+    ],
+    "name": "เทพมณเฑียร",
+    "nameRoman": "Thep Montien",
+    "lat": 18.7991466,
+    "lng": 98.9904913,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/250690123",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-anagami",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอนาคามี",
+    "nameRoman": "Wat Anagami",
+    "lat": 18.7958964,
+    "lng": 98.9344099,
+    "geoPrecision": "exact",
+    "address": "Monk's trail",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "street": "Monk's trail"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4496869289",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านกลาง",
+    "nameRoman": "Wat Ban Klang",
+    "lat": 18.7368048,
+    "lng": 99.0016263,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/100291611",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-tho",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านท่อ",
+    "nameRoman": "Wat Ban Tho",
+    "lat": 18.8458015,
+    "lng": 99.0458567,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/144054116",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-tho-528423948",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านท่อ",
+    "nameRoman": "Wat Ban Tho",
+    "lat": 18.8370998,
+    "lng": 98.9886809,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/528423948",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-banmon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านมอญ",
+    "nameRoman": "Wat Banmon",
+    "lat": 18.7956601,
+    "lng": 99.0446941,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2095750485",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buak-khrok-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบวกครกหลวง",
+    "nameRoman": "Wat Buak Khrok Luang",
+    "lat": 18.7795452,
+    "lng": 99.0381824,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/370423801",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buak-khrok-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบวกครกน้อย",
+    "nameRoman": "Wat Buak Khrok Noi",
+    "lat": 18.7871963,
+    "lng": 99.0338011,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2597089405",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buak-khrok-north",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบวกครกเหนือ",
+    "nameRoman": "Wat Buak Khrok North",
+    "lat": 18.7173867,
+    "lng": 99.0030156,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3870527966",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buak-khrok-south",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบวกครกใต้",
+    "nameRoman": "Wat Buak Khrok South",
+    "lat": 18.7088189,
+    "lng": 99.0052196,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4104051572",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-bupparam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุพพาราม",
+    "nameRoman": "Wat Bupparam",
+    "lat": 18.7879069,
+    "lng": 98.998156,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/261336735",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buppha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุปผา",
+    "nameRoman": "Wat Buppha",
+    "lat": 18.6967464,
+    "lng": 99.0665777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/102687803",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-mongkhon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไชยมงคล",
+    "nameRoman": "Wat Chai Mongkhon",
+    "lat": 18.7289778,
+    "lng": 98.9933222,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2862251170",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-phrakiat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยพระเกียรติ",
+    "nameRoman": "Wat Chai Phrakiat",
+    "lat": 18.7887552,
+    "lng": 98.9858907,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/242930163",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-sathan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยสถาน",
+    "nameRoman": "Wat Chai Sathan",
+    "lat": 18.8073257,
+    "lng": 99.079294,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/355642593",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-sathit-pa-sao-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยสถิตย์ (ป่าเสร้าหลวง)",
+    "nameRoman": "Wat Chai Sathit (Pa Sao Luang)",
+    "lat": 18.8028446,
+    "lng": 99.0726315,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1268295626",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-sri-phoon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยศรีภูมิ",
+    "nameRoman": "Wat Chai Sri Phoon",
+    "lat": 18.7943682,
+    "lng": 98.9941587,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/377819719",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chaimongkol",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยมงคล",
+    "nameRoman": "Wat Chaimongkol",
+    "lat": 18.7806698,
+    "lng": 99.0046244,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/406558246",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช้างคำ",
+    "nameRoman": "Wat Chang Kham",
+    "lat": 18.6940745,
+    "lng": 98.9332833,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/145401051",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-kham-356063726",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช้างค้ำ",
+    "nameRoman": "Wat Chang Kham",
+    "lat": 18.7478812,
+    "lng": 99.0020397,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/356063726",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-khoeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช่างเคิ่ง",
+    "nameRoman": "Wat Chang Khoeng",
+    "lat": 18.6884116,
+    "lng": 99.0413016,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/679357231",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-kian",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช่างเคี่ยน",
+    "nameRoman": "Wat Chang Kian",
+    "lat": 18.8083375,
+    "lng": 98.9604404,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/576783182",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-kong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช่างฆ้อง",
+    "nameRoman": "Wat Chang Kong",
+    "lat": 18.784957,
+    "lng": 98.9981178,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/360854715",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-taem",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช่างแต้ม",
+    "nameRoman": "Wat Chang Taem",
+    "lat": 18.7852002,
+    "lng": 98.9880621,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "relation/8651541",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-changthong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช่างทอง",
+    "nameRoman": "Wat Changthong",
+    "lat": 18.7585014,
+    "lng": 98.9587258,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4459060106",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-cheatawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตวัน",
+    "nameRoman": "Wat Cheatawan",
+    "lat": 18.7885486,
+    "lng": 98.9956947,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/308548477",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Chedi Luang",
+    "nameRoman": "Wat Chedi Luang",
+    "lat": 18.7869726,
+    "lng": 98.9868572,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/243018795",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chet-lin-wat-jedlin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจ็ดลิน",
+    "nameRoman": "Wat Chet Lin - Wat Jedlin",
+    "lat": 18.7838117,
+    "lng": 98.987883,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/297359944",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chet-tha-won-khup",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชฏฐาวรคุปต์",
+    "nameRoman": "Wat Chet Tha Won Khup",
+    "lat": 18.8152096,
+    "lng": 99.0557003,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4609435362",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chetupon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตุพน",
+    "nameRoman": "Wat Chetupon",
+    "lat": 18.7975465,
+    "lng": 99.0036226,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/189056074",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-chom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงโฉม",
+    "nameRoman": "Wat Chiang Chom",
+    "lat": 18.8072959,
+    "lng": 98.9820758,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2142584557",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-khang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงขาง",
+    "nameRoman": "Wat Chiang Khang",
+    "lat": 18.7506812,
+    "lng": 99.0399381,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/375531926",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-man",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Chiang Man",
+    "nameRoman": "Wat Chiang Man",
+    "lat": 18.7937856,
+    "lng": 98.9893928,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "openingHours": "Mo-Su 05:00-18:00",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/98070869",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงยืน",
+    "nameRoman": "Wat Chiang Yuen",
+    "lat": 18.7963246,
+    "lng": 98.9887797,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1445519685",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chimphli-wan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฉิมพลีวัน",
+    "nameRoman": "Wat Chimphli Wan",
+    "lat": 18.705231,
+    "lng": 98.9620522,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1588175232",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chomphu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชมพู",
+    "nameRoman": "Wat Chomphu",
+    "lat": 18.791206,
+    "lng": 98.9945503,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/135952568",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chomphunut-wang-pong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชมพูนุท (วังป้อง)",
+    "nameRoman": "Wat Chomphunut (Wang Pong)",
+    "lat": 18.8812576,
+    "lng": 98.9977033,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/147020654",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chomthong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจอมทอง",
+    "nameRoman": "Wat Chomthong",
+    "lat": 18.6901564,
+    "lng": 98.9662335,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1243096176",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dao-dueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดาวดึงส์",
+    "nameRoman": "Wat Dao Dueng",
+    "lat": 18.7784731,
+    "lng": 98.9914189,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/106083741",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยแก้ว",
+    "nameRoman": "Wat Doi Kaeo",
+    "lat": 18.7404296,
+    "lng": 98.9201973,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/250503384",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-pao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยเปา",
+    "nameRoman": "Wat Doi Pao",
+    "lat": 18.7320401,
+    "lng": 98.9140156,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1262057825",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dokeung",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอกเอื้อง",
+    "nameRoman": "Wat Dokeung",
+    "lat": 18.7901747,
+    "lng": 98.992491,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/135952556",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dokkham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอกคำ",
+    "nameRoman": "Wat Dokkham",
+    "lat": 18.7892477,
+    "lng": 98.9929899,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/356588870",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนชัย",
+    "nameRoman": "Wat Don Chai",
+    "lat": 18.809585,
+    "lng": 99.064424,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2090560314",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-chai-405079445",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนชัย",
+    "nameRoman": "Wat Don Chai",
+    "lat": 18.7358184,
+    "lng": 98.9803299,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/405079445",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-chan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนจั่น",
+    "nameRoman": "Wat Don Chan",
+    "lat": 18.760168,
+    "lng": 99.0325757,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/97665874",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-chuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนจืน",
+    "nameRoman": "Wat Don Chuen",
+    "lat": 18.7352452,
+    "lng": 99.0252176,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/383626877",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนแก้ว",
+    "nameRoman": "Wat Don Kaeo",
+    "lat": 18.691995,
+    "lng": 98.9975608,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4125127496",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-keaw",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนแก้ว",
+    "nameRoman": "Wat Don Keaw",
+    "lat": 18.8798408,
+    "lng": 98.9720167,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1239081882",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-pin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนปิน",
+    "nameRoman": "Wat Don Pin",
+    "lat": 18.7349095,
+    "lng": 98.9574534,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/370287903",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-duang-di",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดวงดี",
+    "nameRoman": "Wat Duang Di",
+    "lat": 18.7894877,
+    "lng": 98.9884994,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/261339003",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dubphai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดับภัย",
+    "nameRoman": "Wat Dubphai",
+    "lat": 18.7928275,
+    "lng": 98.9814897,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/406992974",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-fa-ham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฟ้าฮ่าม",
+    "nameRoman": "Wat Fa Ham",
+    "lat": 18.8043845,
+    "lng": 99.0049073,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/390789320",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-faihin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฝายหิน",
+    "nameRoman": "Wat Faihin",
+    "lat": 18.7981685,
+    "lng": 98.9465986,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/818040399",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-famui",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฟ้ามุ่ย",
+    "nameRoman": "Wat Famui",
+    "lat": 18.8508353,
+    "lng": 99.0351507,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1458592077",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-fon-soi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฟ่อนสร้อย",
+    "nameRoman": "Wat Fon Soi",
+    "lat": 18.7827235,
+    "lng": 98.9884806,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/320601922",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hong-ao-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหองเฃาคำ",
+    "nameRoman": "Wat Hong Ao Kham",
+    "lat": 18.8900424,
+    "lng": 99.0545073,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/146853054",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-fai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวฝาย",
+    "nameRoman": "Wat Hua Fai",
+    "lat": 18.7735682,
+    "lng": 98.9935851,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/387446970",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huai-fai",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Huai Fai",
+    "nameRoman": "Wat Huai Fai",
+    "lat": 18.8628732,
+    "lng": 99.0654089,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1437028933",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huan-kan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหวลการณ์",
+    "nameRoman": "Wat Huan Kan",
+    "lat": 18.6902468,
+    "lng": 99.0298762,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4120901189",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-inthakhin-sadue-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอินทขีลสะดือเมือง",
+    "nameRoman": "Wat Inthakhin Sadue Muang",
+    "lat": 18.7895283,
+    "lng": 98.9870242,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/691923149",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-jed-yod",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจ็ดยอด",
+    "nameRoman": "Wat Jed Yod",
+    "lat": 18.8090617,
+    "lng": 98.9721682,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/314697470",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-jetiyanusorn",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจติยานุสรณ์",
+    "nameRoman": "Wat Jetiyanusorn",
+    "lat": 18.8001269,
+    "lng": 99.059107,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/96938507",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kamphaeng-ngam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกำแพงงาม",
+    "nameRoman": "Wat Kamphaeng Ngam",
+    "lat": 18.6875584,
+    "lng": 98.9206235,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/675336774",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kaotanluang",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Kaotanluang",
+    "nameRoman": "Wat Kaotanluang",
+    "lat": 18.8613049,
+    "lng": 99.0571505,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/250527325",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ket-karam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกตการาม",
+    "nameRoman": "Wat Ket Karam",
+    "lat": 18.7924738,
+    "lng": 99.002695,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/528019093",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khao-thaen-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Khao Thaen Noi",
+    "nameRoman": "Wat Khao Thaen Noi",
+    "lat": 18.8594192,
+    "lng": 99.0612909,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://sansailuang.go.th",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/10307371816",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khok-mupa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดคอกหมูป่า",
+    "nameRoman": "Wat Khok Mupa",
+    "lat": 18.8520493,
+    "lng": 99.0607594,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/146853058",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khuan-kama",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดควรค่าม้า",
+    "nameRoman": "Wat Khuan Kama",
+    "lat": 18.7951709,
+    "lng": 98.9837098,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/578867504",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khuang-sing",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดข่วงสิงห์",
+    "nameRoman": "Wat Khuang Sing",
+    "lat": 18.8128836,
+    "lng": 98.9826058,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/421103611",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ko-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกาะกลาง",
+    "nameRoman": "Wat Ko Klang",
+    "lat": 18.7414786,
+    "lng": 98.984369,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1014323487",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kong-sai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกองทราย",
+    "nameRoman": "Wat Kong Sai",
+    "lat": 18.7299711,
+    "lng": 99.0203092,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/594290245",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kongkaw",
+    "lens": [
+      "wat"
+    ],
+    "name": "วดโขงขาว",
+    "nameRoman": "Wat Kongkaw",
+    "lat": 18.7084165,
+    "lng": 98.9205081,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1579489369",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-daeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่แดง",
+    "nameRoman": "Wat Ku Daeng",
+    "lat": 18.6868166,
+    "lng": 99.0111526,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/146187145",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่คำ",
+    "nameRoman": "Wat Ku Kham",
+    "lat": 18.7987414,
+    "lng": 99.0178829,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3152478761",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-man-mongkhon-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่ม่านมงคลชัย",
+    "nameRoman": "Wat Ku Man Mongkhon Chai",
+    "lat": 18.7888988,
+    "lng": 99.0685136,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/277181489",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-suea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกูเสือ",
+    "nameRoman": "Wat Ku Suea",
+    "lat": 18.7229851,
+    "lng": 99.0251468,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1618139934",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-tao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่เต้า",
+    "nameRoman": "Wat Ku Tao",
+    "lat": 18.802565,
+    "lng": 98.9886363,
+    "geoPrecision": "block",
+    "address": "Ku Tao Road",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai",
+      "street": "Ku Tao Road"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/665826690",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-lak-pan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลักปัน",
+    "nameRoman": "Wat Lak Pan",
+    "lat": 18.8320043,
+    "lng": 99.0587766,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2604373946",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-lam-chang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดล่ามช้าง",
+    "nameRoman": "Wat Lam Chang",
+    "lat": 18.7930591,
+    "lng": 98.9905189,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/265150050",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-langka",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Langka",
+    "nameRoman": "Wat Langka",
+    "lat": 18.8116017,
+    "lng": 99.0062559,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/467489219",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-lat-thuan-ramib",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดลัฏฐวนรามิb",
+    "nameRoman": "Wat Lat Thuan Ramib",
+    "lat": 18.7254109,
+    "lng": 98.9576057,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/147250097",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-loi-kroh",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดลอยเคราะห์",
+    "nameRoman": "Wat Loi Kroh",
+    "lat": 18.784719,
+    "lng": 98.9968563,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/360706203",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-lok-molee",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโลกโมฬี",
+    "nameRoman": "Wat Lok Molee",
+    "lat": 18.7964151,
+    "lng": 98.9825691,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/692137164",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-kaet-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่แก้ดน้อย",
+    "nameRoman": "Wat Mae Kaet Noi",
+    "lat": 18.8782048,
+    "lng": 99.0366144,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1028254441",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-khao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่คาว",
+    "nameRoman": "Wat Mae Khao",
+    "lat": 18.8034175,
+    "lng": 99.0286589,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/8608392272",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-kuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่กวง",
+    "nameRoman": "Wat Mae Kuang",
+    "lat": 18.8279329,
+    "lng": 99.0517403,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1031055148",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-sa-lap",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่สะลาบ",
+    "nameRoman": "Wat Mae Sa Lap",
+    "lat": 18.6809406,
+    "lng": 99.0618708,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/122483975",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-sa-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่สาหลวง",
+    "nameRoman": "Wat Mae Sa Luang",
+    "lat": 18.8914842,
+    "lng": 98.9625282,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1458662000",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-yoi-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ย่อยหลวง",
+    "nameRoman": "Wat Mae Yoi Luang",
+    "lat": 18.8324146,
+    "lng": 99.0445135,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2615684340",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-yuak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่หยวก",
+    "nameRoman": "Wat Mae Yuak",
+    "lat": 18.8381679,
+    "lng": 98.977074,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/746949625",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mahawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมหาวัน",
+    "nameRoman": "Wat Mahawan",
+    "lat": 18.7877176,
+    "lng": 98.9955226,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/352321202",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mai-huay-sai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดใหม่ห้วยทราย",
+    "nameRoman": "Wat Mai Huay Sai",
+    "lat": 18.7625211,
+    "lng": 98.9425534,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1602165380",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mo-kham-tuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหม้อคำตวง",
+    "nameRoman": "Wat Mo Kham Tuang",
+    "lat": 18.7950121,
+    "lng": 98.9853576,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251360257",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mongkhon-rattana-ram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมงคลรัตนาราม",
+    "nameRoman": "Wat Mongkhon Rattana Ram",
+    "lat": 18.6996367,
+    "lng": 98.9782042,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4237120628",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mongkhon-setthi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมงคลเศรษฐี",
+    "nameRoman": "Wat Mongkhon Setthi",
+    "lat": 18.8851632,
+    "lng": 99.021057,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3359290469",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mongkhon-wana-ram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมงคลวนาราม",
+    "nameRoman": "Wat Mongkhon Wana Ram",
+    "lat": 18.6935711,
+    "lng": 99.0507707,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/382968246",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-moo-boon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมูบุ่น",
+    "nameRoman": "Wat Moo Boon",
+    "lat": 18.8150656,
+    "lng": 98.9488579,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5257298544",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-kai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองกาย",
+    "nameRoman": "Wat Mueang Kai",
+    "lat": 18.7743406,
+    "lng": 99.0110945,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2648502947",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-khon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองขอน",
+    "nameRoman": "Wat Mueang Khon",
+    "lat": 18.8785009,
+    "lng": 99.0678364,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/144194426",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-lang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองลัง",
+    "nameRoman": "Wat Mueang Lang",
+    "lat": 18.8204333,
+    "lng": 98.9952049,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/525728485",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-len",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองเล็น",
+    "nameRoman": "Wat Mueang Len",
+    "lat": 18.8690584,
+    "lng": 99.0728007,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/146856828",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-mang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองมาง",
+    "nameRoman": "Wat Mueang Mang",
+    "lat": 18.7802036,
+    "lng": 98.9913682,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/294470220",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-sattra-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองสาตรหลวง",
+    "nameRoman": "Wat Mueang Sattra Luang",
+    "lat": 18.76598,
+    "lng": 99.0122792,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2610146256",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-sattra-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองสาตรน้อย",
+    "nameRoman": "Wat Mueang Sattra Noi",
+    "lat": 18.7645796,
+    "lng": 99.0157816,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/390331056",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-wa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองวะ",
+    "nameRoman": "Wat Mueang Wa",
+    "lat": 18.8811489,
+    "lng": 99.0745959,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/146854911",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-larn",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นล้าน",
+    "nameRoman": "Wat Muen Larn",
+    "lat": 18.7881156,
+    "lng": 98.9920859,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/356585930",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-ngun-gong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นเงินกอง",
+    "nameRoman": "Wat Muen Ngun Gong",
+    "lat": 18.7853499,
+    "lng": 98.9808988,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/238829914",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-san",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นสาร",
+    "nameRoman": "Wat Muen San",
+    "lat": 18.7770121,
+    "lng": 98.9845964,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/307423269",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muentoom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นตุม",
+    "nameRoman": "Wat Muentoom",
+    "lat": 18.7841389,
+    "lng": 98.9890993,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/361100236",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-naboon-thammaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Naboon Thammaram",
+    "nameRoman": "Wat Naboon Thammaram",
+    "lat": 18.8731404,
+    "lng": 98.99745,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/10881109985",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-naboon-thammaram-1170872081",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Naboon Thammaram",
+    "nameRoman": "Wat Naboon Thammaram",
+    "lat": 18.8731988,
+    "lng": 98.9978268,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1170872081",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-cho",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนำโจ้",
+    "nameRoman": "Wat Nam Cho",
+    "lat": 18.6873499,
+    "lng": 98.9948751,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/145080211",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nan-tha-ra",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนันทารา",
+    "nameRoman": "Wat Nan Tha Ra",
+    "lat": 18.7420179,
+    "lng": 99.0430774,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2650399437",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nang-liao",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Nang Liao",
+    "nameRoman": "Wat Nang Liao",
+    "lat": 18.8311617,
+    "lng": 99.0218724,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1458584415",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nantaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนันทาราม",
+    "nameRoman": "Wat Nantaram",
+    "lat": 18.7746766,
+    "lng": 98.9863774,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/467444127",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-faek",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองแฝก",
+    "nameRoman": "Wat Nong Faek",
+    "lat": 18.6939713,
+    "lng": 99.0208127,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/577423794",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองคำ",
+    "nameRoman": "Wat Nong Kham",
+    "lat": 18.7901635,
+    "lng": 98.9967369,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2649612351",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-khong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองโค้ง",
+    "nameRoman": "Wat Nong Khong",
+    "lat": 18.76401,
+    "lng": 99.0749913,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/98698313",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-krai-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองไคร้หลวง",
+    "nameRoman": "Wat Nong Krai Luang",
+    "lat": 18.8435692,
+    "lng": 99.0216731,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/326847544",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-pa-khrang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองป่าครั่ง",
+    "nameRoman": "Wat Nong Pa Khrang",
+    "lat": 18.7892048,
+    "lng": 99.0227531,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251576969",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-pa-sae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองป่าแสะ",
+    "nameRoman": "Wat Nong Pa Sae",
+    "lat": 18.7184338,
+    "lng": 99.0508678,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/249164672",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-phueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองผึ้ง",
+    "nameRoman": "Wat Nong Phueng",
+    "lat": 18.7385922,
+    "lng": 99.0126251,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3474437368",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-si-chaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองสี่แจ่ง",
+    "nameRoman": "Wat Nong Si Chaeng",
+    "lat": 18.6799051,
+    "lng": 99.029026,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/553253715",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-ubosot",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองอุโบสถ",
+    "nameRoman": "Wat Nong Ubosot",
+    "lat": 18.8944916,
+    "lng": 99.0310087,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2613382446",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-ubosot-4592598579",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองอุโบสถ",
+    "nameRoman": "Wat Nong Ubosot",
+    "lat": 18.8950213,
+    "lng": 99.0320389,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4592598579",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ou-sai-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอู่ทรายคำ",
+    "nameRoman": "Wat Ou Sai Kham",
+    "lat": 18.7895235,
+    "lng": 98.9946251,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/650706596",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-bong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าบง",
+    "nameRoman": "Wat Pa Bong",
+    "lat": 18.7401877,
+    "lng": 99.05407,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/146900640",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-chi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าจี้",
+    "nameRoman": "Wat Pa Chi",
+    "lat": 18.7456918,
+    "lng": 98.9364153,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/992388613",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-daet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแดด",
+    "nameRoman": "Wat Pa Daet",
+    "lat": 18.8801144,
+    "lng": 99.0549533,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2590245568",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-khae-yong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแคโยง",
+    "nameRoman": "Wat Pa Khae Yong",
+    "lat": 18.726802,
+    "lng": 99.0271965,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/404528432",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-khoi-nuea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าข่อยเหนือ",
+    "nameRoman": "Wat Pa Khoi Nuea",
+    "lat": 18.8682371,
+    "lng": 98.9870511,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4418737569",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-khoi-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าข่อยใต้",
+    "nameRoman": "Wat Pa Khoi Tai",
+    "lat": 18.8631812,
+    "lng": 98.9841028,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/528426354",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-kluai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่ากล้วย",
+    "nameRoman": "Wat Pa Kluai",
+    "lat": 18.8584087,
+    "lng": 99.0691562,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3877553742",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-lan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าลาน",
+    "nameRoman": "Wat Pa Lan",
+    "lat": 18.8683521,
+    "lng": 99.0560843,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/147532398",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-ngio-khru-ba-thanchai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่างิ้ว (ครูบาทันใจ)",
+    "nameRoman": "Wat Pa Ngio (Khru Ba Thanchai)",
+    "lat": 18.719352,
+    "lng": 98.9881852,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/535164570",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-pao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเป้า",
+    "nameRoman": "Wat Pa Pao",
+    "lat": 18.7960039,
+    "lng": 98.9923575,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1445519696",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-phaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแพ่ง",
+    "nameRoman": "Wat Pa Phaeng",
+    "lat": 18.8016689,
+    "lng": 98.9989821,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "relation/18882121",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-phrao-nai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าพร้าวใน",
+    "nameRoman": "Wat Pa Phrao Nai",
+    "lat": 18.7932879,
+    "lng": 98.9805979,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/406992814",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-phrao-nok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าพร้าวนอก",
+    "nameRoman": "Wat Pa Phrao Nok",
+    "lat": 18.7630626,
+    "lng": 98.9968979,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/692677756",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-poe",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเปอะ",
+    "nameRoman": "Wat Pa Poe",
+    "lat": 18.7492879,
+    "lng": 98.9915902,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/261636204",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-tan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าตัน",
+    "nameRoman": "Wat Pa Tan",
+    "lat": 18.8109105,
+    "lng": 99.0009349,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2660469646",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-padaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแดง",
+    "nameRoman": "Wat Padaeng",
+    "lat": 18.7882863,
+    "lng": 98.9498048,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2638612434",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pak-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปากเหมือง",
+    "nameRoman": "Wat Pak Mueang",
+    "lat": 18.6812335,
+    "lng": 98.992519,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/392571428",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pan-sao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปันเสา(พันเสา)",
+    "nameRoman": "Wat Pan Sao",
+    "lat": 18.7921812,
+    "lng": 98.9776038,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/692140719",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pan-whaen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพันแหวน",
+    "nameRoman": "Wat Pan Whaen",
+    "lat": 18.7830726,
+    "lng": 98.9857493,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/Pan-Whaen-Thai-Massage-1719124068309121/",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/691949313",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-panping",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป้านปิง",
+    "nameRoman": "Wat Panping",
+    "lat": 18.7896605,
+    "lng": 98.9905275,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/383205227",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-bong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผาบ่อง",
+    "nameRoman": "Wat Pha Bong",
+    "lat": 18.789756,
+    "lng": 98.9820639,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "openingHours": "05:00-18:00",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/242929434",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-khao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผ้าขาว",
+    "nameRoman": "Wat Pha Khao",
+    "lat": 18.7856808,
+    "lng": 98.9913989,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/360858585",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-lat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผาลาด",
+    "nameRoman": "Wat Pha Lat",
+    "lat": 18.7991219,
+    "lng": 98.9342005,
+    "geoPrecision": "block",
+    "address": "บ้านห้วยผาลาด 101, Sriwichai Alley",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai",
+      "street": "บ้านห้วยผาลาด 101, Sriwichai Alley"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/302732571",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phan-tao",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Phan Tao",
+    "nameRoman": "Wat Phan Tao",
+    "lat": 18.7876922,
+    "lng": 98.9874529,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/243018378",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phan-tong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพันตอง",
+    "nameRoman": "Wat Phan Tong",
+    "lat": 18.7847177,
+    "lng": 98.9960361,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/360706201",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phang-yoi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผางยอย",
+    "nameRoman": "Wat Phang Yoi",
+    "lat": 18.739028,
+    "lng": 99.0217828,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/383587812",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phaya-chom-phu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพญาชมภู",
+    "nameRoman": "Wat Phaya Chom Phu",
+    "lat": 18.7116751,
+    "lng": 99.0604493,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/101927445",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phot-mongkhon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโพธิมงคล",
+    "nameRoman": "Wat Phot Mongkhon",
+    "lat": 18.7618035,
+    "lng": 99.0433314,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1684553068",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phothi-phichit",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโพธิพิชิต",
+    "nameRoman": "Wat Phothi Phichit",
+    "lat": 18.7264641,
+    "lng": 98.9242161,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2518154683",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-chao-meng-rai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าเม็งราย",
+    "nameRoman": "Wat Phra Chao Meng Rai",
+    "lat": 18.7850999,
+    "lng": 98.9841517,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/691917810",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-chedi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจดีย์",
+    "nameRoman": "Wat Phra Chedi",
+    "lat": 18.8124718,
+    "lng": 99.0371082,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1025083041",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-no-pa-ket-thi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนอป่าเก็ดถี",
+    "nameRoman": "Wat Phra No Pa Ket Thi",
+    "lat": 18.7056205,
+    "lng": 99.0297389,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/382248992",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-non-khon-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนอนขอนม่วง",
+    "nameRoman": "Wat Phra Non Khon Muang",
+    "lat": 18.8453289,
+    "lng": 98.977821,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1015398858",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-singh",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Phra Singh",
+    "nameRoman": "Wat Phra Singh",
+    "lat": 18.7885848,
+    "lng": 98.9813822,
+    "geoPrecision": "block",
+    "address": "2 Samlarn Rd Si Phum",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://thai.tourismthailand.org/Attraction/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai",
+      "subdistrict": "Si Phum",
+      "street": "2 Samlarn Rd"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/93414647",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยคำ",
+    "nameRoman": "Wat Phra That Doi Kham",
+    "lat": 18.759436,
+    "lng": 98.918844,
+    "geoPrecision": "block",
+    "address": "Mae Hia",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai",
+      "subdistrict": "Mae Hia"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/313040943",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-suthep",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยสุเทพราชวรวิหาร",
+    "nameRoman": "Wat Phra That Doi Suthep",
+    "lat": 18.8035942,
+    "lng": 98.9202265,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep",
+      "openingHours": "Mo-Su 06:00-20:00",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4228028194",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phratat-doikham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยคํา",
+    "nameRoman": "Wat Phratat Doikham",
+    "lat": 18.759607,
+    "lng": 98.9180905,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/313695337",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrathat-doi-suthep-racha-worawihan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยสุเทพ",
+    "nameRoman": "wat Phrathat Doi Suthep Racha Worawihan",
+    "lat": 18.8049204,
+    "lng": 98.9221034,
+    "geoPrecision": "block",
+    "address": "Sriwichai Alley Suthep",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai",
+      "subdistrict": "Suthep",
+      "street": "Sriwichai Alley"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/114651040",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phuak-hong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพวกหงษ์",
+    "nameRoman": "Wat Phuak Hong",
+    "lat": 18.7830207,
+    "lng": 98.9809442,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "relation/8201931",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phuak-taem",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพวกแต้ม",
+    "nameRoman": "Wat Phuak Taem",
+    "lat": 18.7824349,
+    "lng": 98.9830746,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/423031752",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phun-ohn",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพันอ้น",
+    "nameRoman": "Wat Phun Ohn",
+    "lat": 18.7875898,
+    "lng": 98.991168,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246253475",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phuttharam-ban-waen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพุทธารามบ้านแหวน",
+    "nameRoman": "Wat Phuttharam Ban Waen",
+    "lat": 18.7018187,
+    "lng": 98.9308298,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/10836850760",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-piyaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Piyaram",
+    "nameRoman": "Wat Piyaram",
+    "lat": 18.8551432,
+    "lng": 98.9671115,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/250269281",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pong-chang-khot",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่งช้างคด",
+    "nameRoman": "Wat Pong Chang Khot",
+    "lat": 18.6960687,
+    "lng": 99.0805836,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/106353156",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pong-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโป่งน้อย",
+    "nameRoman": "Wat Pong Noi",
+    "lat": 18.7708486,
+    "lng": 98.9448858,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2650685295",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-prasat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปราสาท",
+    "nameRoman": "Wat Prasat",
+    "lat": 18.7898096,
+    "lng": 98.9810231,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/378271848",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-prasat-tham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดประสาทธรรม",
+    "nameRoman": "Wat Prasat Tham",
+    "lat": 18.6804262,
+    "lng": 98.9165021,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2000801870",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-prathan-phon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดประทานพร",
+    "nameRoman": "Wat Prathan Phon",
+    "lat": 18.8008662,
+    "lng": 98.9590811,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2660452151",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-puak-chang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพวกช้าง",
+    "nameRoman": "Wat Puak Chang",
+    "lat": 18.7806632,
+    "lng": 98.9933968,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/356757957",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-puak-pia",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพวกเปีย",
+    "nameRoman": "Wat Puak Pia",
+    "lat": 18.7793745,
+    "lng": 98.9807023,
+    "geoPrecision": "block",
+    "address": "50 ถนนทิพเนตร",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "openingHours": "Mo-Su 05:30-20:30",
+      "province": "Chiang Mai",
+      "street": "50 ถนนทิพเนตร"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/692682522",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rachamontian",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดราชมณเทียร",
+    "nameRoman": "Wat Rachamontian",
+    "lat": 18.7951177,
+    "lng": 98.9827101,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/301483293",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ram-poeng-tapotaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร่ำเปิง (ตโปทาราม)",
+    "nameRoman": "Wat Ram Poeng (Tapotaram)",
+    "lat": 18.7748704,
+    "lng": 98.9485787,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/563172842",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-roi-chan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้อยจันทร์",
+    "nameRoman": "Wat Roi Chan",
+    "lat": 18.7215603,
+    "lng": 98.9332208,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/145082486",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-don-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องดอนไชย",
+    "nameRoman": "Wat Rong Don Chai",
+    "lat": 18.7502024,
+    "lng": 99.0499976,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/314808635",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-o",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องอ้อ",
+    "nameRoman": "Wat Rong O",
+    "lat": 18.8524394,
+    "lng": 98.9925802,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/244378291",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-sak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องสัก",
+    "nameRoman": "Wat Rong Sak",
+    "lat": 18.8523363,
+    "lng": 99.0722371,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3404898429",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-yao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องยาว",
+    "nameRoman": "Wat Rong Yao",
+    "lat": 18.718715,
+    "lng": 99.0141562,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/642809004",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saen-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนฝาง",
+    "nameRoman": "Wat Saen Fang",
+    "lat": 18.7890964,
+    "lng": 98.9987657,
+    "geoPrecision": "block",
+    "address": "ช้างม่อย",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "subdistrict": "ช้างม่อย"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/308548856",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saen-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนหลวง",
+    "nameRoman": "Wat Saen Luang",
+    "lat": 18.7117285,
+    "lng": 99.0395654,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4509361887",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saen-mueang-ma-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนเมืองมาหลวง",
+    "nameRoman": "Wat Saen Mueang Ma Luang",
+    "lat": 18.7940092,
+    "lng": 98.9863562,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251437025",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sahatsa-sakhun-phan-tao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสหัสสคุณ (พันเต้า)",
+    "nameRoman": "Wat Sahatsa Sakhun (Phan Tao)",
+    "lat": 18.7254471,
+    "lng": 98.9182622,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2494611645",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sai-moon-myanmar",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทรายมูล (พม่า)",
+    "nameRoman": "Wat Sai Moon Myanmar",
+    "lat": 18.7821615,
+    "lng": 98.9912322,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/244650874",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sai-mun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทรายมูล",
+    "nameRoman": "Wat Sai Mun",
+    "lat": 18.6824396,
+    "lng": 98.9198304,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2685558600",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saimoonmuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทรายมูลเมือง",
+    "nameRoman": "Wat Saimoonmuang",
+    "lat": 18.7826254,
+    "lng": 98.9924314,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/244650927",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sala",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Sala",
+    "nameRoman": "Wat Sala",
+    "lat": 18.7090677,
+    "lng": 98.9134173,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3727983702",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sam-pao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสำเภา",
+    "nameRoman": "Wat Sam Pao",
+    "lat": 18.7882409,
+    "lng": 98.99058,
+    "geoPrecision": "block",
+    "address": "158/2 ถนนราชภาคินัย",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "street": "158/2 ถนนราชภาคินัย"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/691941076",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-kha-yom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันคะยอม",
+    "nameRoman": "Wat San Kha Yom",
+    "lat": 18.8316281,
+    "lng": 99.034173,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2682539767",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-khue",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันคือ",
+    "nameRoman": "Wat San Khue",
+    "lat": 18.7446243,
+    "lng": 99.0200251,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/405674200",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันกลาง",
+    "nameRoman": "Wat San Klang",
+    "lat": 18.6944223,
+    "lng": 98.9905505,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/406931128",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-klang-nuea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันกลางเหนือ",
+    "nameRoman": "Wat San Klang Nuea",
+    "lat": 18.7718345,
+    "lng": 99.0541348,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/376385595",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-klang-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันกลางใต้",
+    "nameRoman": "Wat San Klang Tai",
+    "lat": 18.7635365,
+    "lng": 99.0553014,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/376384261",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันหลวง",
+    "nameRoman": "Wat San Luang",
+    "lat": 18.8453728,
+    "lng": 99.0734917,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/382365670",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-mueang-pracharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat San Mueang Pracharam",
+    "nameRoman": "Wat San Mueang Pracharam",
+    "lat": 18.8543965,
+    "lng": 98.9738735,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1458898755",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-na-meng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันนาเม็ง",
+    "nameRoman": "Wat San Na Meng",
+    "lat": 18.8426501,
+    "lng": 99.0610056,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3955781349",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-kha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าค่า",
+    "nameRoman": "Wat San Pa Kha",
+    "lat": 18.753443,
+    "lng": 99.0767106,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/95480256",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-khoi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าข่อย",
+    "nameRoman": "Wat San Pa Khoi",
+    "lat": 18.7862095,
+    "lng": 99.0081293,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251579204",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-liang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าเลียง",
+    "nameRoman": "Wat San Pa Liang",
+    "lat": 18.7542187,
+    "lng": 99.0186349,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/355863016",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-sak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าสัก",
+    "nameRoman": "Wat San Pa Sak",
+    "lat": 18.8587449,
+    "lng": 99.0282806,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/438102825",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-sak-won-urai-thamma-ram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าสักวรอุไรธรรมาราม",
+    "nameRoman": "Wat San Pa Sak Won Urai Thamma Ram",
+    "lat": 18.7146694,
+    "lng": 98.9355195,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1585328678",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pu-loei",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันปูเลย",
+    "nameRoman": "Wat San Pu Loei",
+    "lat": 18.8314655,
+    "lng": 99.0796504,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/253811339",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-sai-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันทรายหลวง",
+    "nameRoman": "Wat San Sai Luang",
+    "lat": 18.8524567,
+    "lng": 99.0448118,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/245463411",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-sai-mun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันทรายมูล",
+    "nameRoman": "Wat San Sai Mun",
+    "lat": 18.818014,
+    "lng": 99.0301461,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/383453299",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-sai-tohn-gawk",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันทรายต้นกอก",
+    "nameRoman": "Wat San Sai Tohn-Gawk",
+    "lat": 18.8249038,
+    "lng": 98.9987561,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11228426107",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-sai-ton-kok",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat San Sai Ton Kok",
+    "nameRoman": "Wat San Sai Ton Kok",
+    "lat": 18.8268252,
+    "lng": 99.000651,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3589306374",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-si",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันศรี",
+    "nameRoman": "Wat San Si",
+    "lat": 18.8200732,
+    "lng": 99.0436461,
+    "geoPrecision": "block",
+    "address": "ตำบลสันพระเนตร",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "อำเภอสันทราย",
+      "subdistrict": "ตำบลสันพระเนตร"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/225234790",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-ton-kok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันต้นกอก",
+    "nameRoman": "Wat San Ton Kok",
+    "lat": 18.6972814,
+    "lng": 98.9951229,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/146186494",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-santi-tham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันติธรรม",
+    "nameRoman": "Wat Santi Tham",
+    "lat": 18.7997294,
+    "lng": 98.9796538,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/692137169",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saraphi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสารภี",
+    "nameRoman": "Wat Saraphi",
+    "lat": 18.6881628,
+    "lng": 99.0429247,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/679357240",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sawang-ban-thoeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสว่างบรรเทิง",
+    "nameRoman": "Wat Sawang Ban Thoeng",
+    "lat": 18.8925496,
+    "lng": 98.952722,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742755533",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bun-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบุญเรือง",
+    "nameRoman": "Wat Si Bun Rueang",
+    "lat": 18.7534886,
+    "lng": 98.9995699,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/390377255",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-don-mon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนม",
+    "nameRoman": "Wat Si Don Mon",
+    "lat": 18.7035943,
+    "lng": 99.0609659,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/103497273",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-kham-chom-phu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสรีคำชมภู",
+    "nameRoman": "Wat Si Kham Chom Phu",
+    "lat": 18.7380054,
+    "lng": 99.0519474,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/104668279",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-koet",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Si Koet",
+    "nameRoman": "Wat Si Koet",
+    "lat": 18.7880092,
+    "lng": 98.9838812,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/242929545",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-photharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสรีโพธาราม",
+    "nameRoman": "Wat Si Photharam",
+    "lat": 18.7051157,
+    "lng": 99.0404746,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/257723360",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-ping-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีปิงชัย",
+    "nameRoman": "Wat Si Ping Chai",
+    "lat": 18.8750354,
+    "lng": 98.9776572,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4418737570",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-ping-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีปิงเมือง",
+    "nameRoman": "Wat Si Ping Mueang",
+    "lat": 18.7713461,
+    "lng": 98.9825953,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/653545558",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-sai-mun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีทรายมูล",
+    "nameRoman": "Wat Si Sai Mun",
+    "lat": 18.8477508,
+    "lng": 99.0203427,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/147530528",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-soda-phra-aram-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีโสดา",
+    "nameRoman": "Wat Si Soda (Phra Aram Luang)",
+    "lat": 18.8139176,
+    "lng": 98.9460034,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai",
+      "district": "Mueang Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/205009315",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-wari-sathan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีวารีสถาน",
+    "nameRoman": "Wat Si Wari Sathan",
+    "lat": 18.6844216,
+    "lng": 98.9841703,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1257138548",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sima-ram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสีมาราม",
+    "nameRoman": "Wat Sima Ram",
+    "lat": 18.7858948,
+    "lng": 99.0491784,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1691878426",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-som-det-doi-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสมเด๊จดอยน้อย",
+    "nameRoman": "Wat Som Det Doi Noi",
+    "lat": 18.8947796,
+    "lng": 98.9662195,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/255776862",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sopanaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโสภานาราม",
+    "nameRoman": "Wat Sopanaram",
+    "lat": 18.8620351,
+    "lng": 98.9647516,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1461422069",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sri-dornchai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนไชย",
+    "nameRoman": "Wat Sri Dornchai",
+    "lat": 18.7815126,
+    "lng": 99.0004599,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/220980844",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sri-moonrueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีมูลเรือง",
+    "nameRoman": "Wat Sri Moonrueang",
+    "lat": 18.6808602,
+    "lng": 98.9889388,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/786188924",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sri-sawat",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Sri Sawat",
+    "nameRoman": "Wat Sri Sawat",
+    "lat": 18.8169735,
+    "lng": 99.0759513,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2090554794",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sri-suphan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสุพรรณ",
+    "nameRoman": "Wat Sri Suphan",
+    "lat": 18.7786478,
+    "lng": 98.9833489,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/309886989",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suan-dok-monk-chat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสวนดอก",
+    "nameRoman": "Wat Suan Dok Monk Chat",
+    "lat": 18.7881559,
+    "lng": 98.9677831,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "openingHours": "06:00-22:00",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/322604682",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suan-phrik",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสวนพริก",
+    "nameRoman": "Wat Suan Phrik",
+    "lat": 18.7599813,
+    "lng": 98.9077774,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/624112307",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suphan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสุพรรณ",
+    "nameRoman": "Wat Suphan",
+    "lat": 18.7288346,
+    "lng": 99.0633931,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/151485480",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tamnak-suankhwan-sirimangkalajarn",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดตำหนักสวนขวัญศิริมังคลาจารย์",
+    "nameRoman": "Wat Tamnak Suankhwan Sirimangkalajarn",
+    "lat": 18.7479205,
+    "lng": 98.9566955,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/297699422",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tanjan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นจันทน์",
+    "nameRoman": "Wat Tanjan",
+    "lat": 18.8464227,
+    "lng": 99.026604,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1458594888",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-duea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าเดื่อ",
+    "nameRoman": "Wat Tha Duea",
+    "lat": 18.8422202,
+    "lng": 98.9914337,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/103287822",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าข้าม",
+    "nameRoman": "Wat Tha Kham",
+    "lat": 18.7430044,
+    "lng": 98.9471344,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/366853177",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-luk",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าหลุก",
+    "nameRoman": "Wat Tha Luk",
+    "lat": 18.8318242,
+    "lng": 98.9961912,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/243551350",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-mai-i",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าใหม่อิ",
+    "nameRoman": "Wat Tha Mai I",
+    "lat": 18.7210465,
+    "lng": 98.9832741,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/243404616",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-sa-toi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าสะต๋อย",
+    "nameRoman": "Wat Tha Sa Toi",
+    "lat": 18.7826667,
+    "lng": 99.0073795,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/352224619",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-srikhong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีโขง",
+    "nameRoman": "Wat Tha Srikhong",
+    "lat": 18.7959186,
+    "lng": 99.0011545,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/692686707",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-thum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าทุ่ม",
+    "nameRoman": "Wat Tha Thum",
+    "lat": 18.7958586,
+    "lng": 99.0530884,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/8618950003",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-ton-kwao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าต้นกวาว",
+    "nameRoman": "Wat Tha Ton Kwao",
+    "lat": 18.7202598,
+    "lng": 99.0707489,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/95953233",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tham-pradit-sathan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธรรมประดิษฐ์สถาน",
+    "nameRoman": "Wat Tham Pradit Sathan",
+    "lat": 18.6871231,
+    "lng": 98.9637775,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/655352968",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thao-bun-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท้าวบุญเรือง",
+    "nameRoman": "Wat Thao Bun Rueang",
+    "lat": 18.7039389,
+    "lng": 98.9354383,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/340406121",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thatkam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธาตุคำ",
+    "nameRoman": "Wat Thatkam",
+    "lat": 18.7775332,
+    "lng": 98.98861,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/256126141",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thawon-tham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถาวรธรรม",
+    "nameRoman": "Wat Thawon Tham",
+    "lat": 18.719169,
+    "lng": 98.9546807,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/147251210",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thon-kaew",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นแก้ว",
+    "nameRoman": "Wat Thon Kaew",
+    "lat": 18.6809555,
+    "lng": 98.9531717,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/655352975",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thung-khi-suea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งขี้เสือ",
+    "nameRoman": "Wat Thung Khi Suea",
+    "lat": 18.7031768,
+    "lng": 99.076426,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4763900183",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thung-pa-ket",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งป่าเก็ด",
+    "nameRoman": "Wat Thung Pa Ket",
+    "lat": 18.8789369,
+    "lng": 99.0018529,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/385423319",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-chok-lang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นโชคหลาง",
+    "nameRoman": "Wat Ton Chok Lang",
+    "lat": 18.7276324,
+    "lng": 99.0454572,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/140073543",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-hiao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นเหียว",
+    "nameRoman": "Wat Ton Hiao",
+    "lat": 18.6979296,
+    "lng": 99.0422499,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4509503055",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-kwen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นเกว๋น",
+    "nameRoman": "Wat Ton Kwen",
+    "lat": 18.7228466,
+    "lng": 98.9253401,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/624114779",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-phueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นผึ้ง",
+    "nameRoman": "Wat Ton Phueng",
+    "lat": 18.693097,
+    "lng": 99.0591498,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/103408214",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tong-kai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดตองกาย",
+    "nameRoman": "Wat Tong Kai",
+    "lat": 18.7376191,
+    "lng": 98.9308927,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/185208208",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tonyang-huang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นยางหวง",
+    "nameRoman": "Wat Tonyang Huang",
+    "lat": 18.7467511,
+    "lng": 99.0478089,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/314808535",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tung-yu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุงยู",
+    "nameRoman": "Wat Tung Yu",
+    "lat": 18.7888022,
+    "lng": 98.9841241,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/242929634",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ubosot",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุโบสถ",
+    "nameRoman": "Wat Ubosot",
+    "lat": 18.7500236,
+    "lng": 98.9376511,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3205899957",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ubosot-220573058",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุโบสถ",
+    "nameRoman": "Wat Ubosot",
+    "lat": 18.7536614,
+    "lng": 99.0495328,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/220573058",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ubosot-796430206",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุโบสถ",
+    "nameRoman": "Wat Ubosot",
+    "lat": 18.7323724,
+    "lng": 99.008033,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/796430206",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-umong-maha-therachan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุโมงค์มหาเถรจันทร์",
+    "nameRoman": "Wat Umong Maha Therachan",
+    "lat": 18.789464,
+    "lng": 98.989887,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/383205231",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-umong-suan-buddha-dhamma",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุโมงค์(สวนพุทธรรม)",
+    "nameRoman": "Wat Umong (Suan Buddha Dhamma)",
+    "lat": 18.7831026,
+    "lng": 98.9525787,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1445519684",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-up-khut",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุปคุต",
+    "nameRoman": "Wat Up Khut",
+    "lat": 18.7873796,
+    "lng": 99.0013097,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/495778859",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wang-sing-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวังสิงห์คำ",
+    "nameRoman": "Wat Wang Sing Kham",
+    "lat": 18.7062113,
+    "lng": 98.9851317,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/535164583",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wang-sing-kham-574726989",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวังสิงห์คำ",
+    "nameRoman": "Wat Wang Sing Kham",
+    "lat": 18.7029105,
+    "lng": 98.9831268,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/574726989",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wari-sutthawat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวารีสุทธาวาส",
+    "nameRoman": "Wat Wari Sutthawat",
+    "lat": 18.7809989,
+    "lng": 99.0600555,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1121219664",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-weluwan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเวฬุวัน",
+    "nameRoman": "Wat Weluwan",
+    "lat": 18.717336,
+    "lng": 99.0276825,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4111339606",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-won-wet-wi-sit",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวรเวทย์วิสิษฐ์",
+    "nameRoman": "Wat Won Wet Wi Sit",
+    "lat": 18.6920707,
+    "lng": 98.9598469,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/532900628",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wut-thi-ra-sot",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวุทฒิราษฏร์",
+    "nameRoman": "Wat Wut Thi Ra Sot",
+    "lat": 18.7286296,
+    "lng": 98.9074389,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/355202854",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-yang-kuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดยางกวง",
+    "nameRoman": "Wat Yang Kuang",
+    "lat": 18.7758094,
+    "lng": 98.9890837,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Mai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/668806316",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  }
+]

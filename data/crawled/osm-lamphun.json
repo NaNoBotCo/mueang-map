@@ -1,0 +1,5453 @@
+[
+  {
+    "id": "chakkhamphimuk-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "Chakkhamphimuk Temple",
+    "nameRoman": "Chakkhamphimuk Temple",
+    "lat": 18.5713624,
+    "lng": 98.9661758,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1268965503",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chedi",
+    "lens": [
+      "wat"
+    ],
+    "name": "Chedi",
+    "nameRoman": "Chedi",
+    "lat": 18.5939251,
+    "lng": 99.0813639,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1462558651",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "dhamma-simanta-meditation-center",
+    "lens": [
+      "wat"
+    ],
+    "name": "Dhamma Simanta Meditation Center",
+    "nameRoman": "Dhamma Simanta Meditation Center",
+    "lat": 18.4289151,
+    "lng": 98.9257715,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3333490199",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "ko-muang-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกอม่วง",
+    "nameRoman": "Ko Muang Temple",
+    "lat": 18.518002,
+    "lng": 98.9152727,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1267898926",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-13751621143",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่วงคำ",
+    "nameRoman": null,
+    "lat": 17.8090412,
+    "lng": 98.9391865,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13751621143",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-13751621145",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอัมพวัน",
+    "nameRoman": null,
+    "lat": 17.7651886,
+    "lng": 98.9717185,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13751621145",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-13751621149",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าหก",
+    "nameRoman": null,
+    "lat": 17.7761915,
+    "lng": 98.9707969,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13751621149",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-13751621152",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลวง",
+    "nameRoman": null,
+    "lat": 17.7957585,
+    "lng": 98.9641838,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13751621152",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-13751621153",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฮ่อมต้อ",
+    "nameRoman": null,
+    "lat": 17.801274,
+    "lng": 98.9613044,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13751621153",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-13751621177",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านแวน",
+    "nameRoman": null,
+    "lat": 17.7711629,
+    "lng": 98.9912418,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13751621177",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-1628628273",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไก่แก้ว",
+    "nameRoman": null,
+    "lat": 18.587929,
+    "lng": 99.0145618,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628273",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-1629379354",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฉางข้าวน้อยเหนือ",
+    "nameRoman": null,
+    "lat": 18.5069794,
+    "lng": 98.9432788,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1629379354",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-3074155086",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปวงคำ",
+    "nameRoman": null,
+    "lat": 17.7679264,
+    "lng": 98.9817859,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3074155086",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-7592014559",
+    "lens": [
+      "wat"
+    ],
+    "name": "พุทธสถานวัดน้อยศรีลาภรณ์",
+    "nameRoman": null,
+    "lat": 18.3928451,
+    "lng": 98.7503529,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/7592014559",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-1502362361",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านปู",
+    "nameRoman": null,
+    "lat": 17.8403285,
+    "lng": 99.0089508,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1502362361",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-1502362362",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านกลาง",
+    "nameRoman": null,
+    "lat": 17.7664886,
+    "lng": 98.997093,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1502362362",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-1529392506",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านก้อทุ่ง",
+    "nameRoman": null,
+    "lat": 17.6248766,
+    "lng": 98.7874252,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1529392506",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-1529392514",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดก้อยืน",
+    "nameRoman": null,
+    "lat": 17.6375536,
+    "lng": 98.7811781,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1529392514",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-1529392529",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านก้อท่า",
+    "nameRoman": null,
+    "lat": 17.6378145,
+    "lng": 98.7743433,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1529392529",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-248781582",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทาดอยแช่",
+    "nameRoman": null,
+    "lat": 18.4188918,
+    "lng": 99.0236467,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/248781582",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-362333915",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนากลาง",
+    "nameRoman": null,
+    "lat": 17.7930374,
+    "lng": 99.0179433,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/362333915",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-420482368",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านโฮ่ง",
+    "nameRoman": null,
+    "lat": 17.7753517,
+    "lng": 98.9971789,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/420482368",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "phra-that-chedi-chinakesa",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระธาตุเจดีย์ชินะเกศา",
+    "nameRoman": "Phra That Chedi Chinakesa",
+    "lat": 17.9645615,
+    "lng": 98.8406858,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1424020797",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "phra-that-in-khwaen",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระธาตุอินทร์แขวน",
+    "nameRoman": "Phra That In Khwaen",
+    "lat": 18.4813713,
+    "lng": 99.0309723,
+    "geoPrecision": "block",
+    "address": "Pa Sak",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "Pa Sak"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1046403912",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "phra-that-su-ba",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระธาตุสูบา",
+    "nameRoman": "Phra That Su Ba",
+    "lat": 18.4484566,
+    "lng": 98.9227122,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/805124885",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-khwang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านขว้าง",
+    "nameRoman": "Wat Ban Khwang",
+    "lat": 18.522876,
+    "lng": 98.9767175,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/256576425",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-kong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านกัอง",
+    "nameRoman": "Wat Ban Kong",
+    "lat": 18.5381831,
+    "lng": 98.9335857,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2159983082",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-lao-pra-jao-ta-keo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านเหล่าพระเจ้าตาขียว",
+    "nameRoman": "Wat Ban Lao Pra Jao Ta Keo",
+    "lat": 18.5125805,
+    "lng": 98.8946829,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2012095478",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-luai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านหลวย",
+    "nameRoman": "Wat Ban Luai",
+    "lat": 18.5713463,
+    "lng": 99.0078334,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628246",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-luk",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านหลุก",
+    "nameRoman": "Wat Ban Luk",
+    "lat": 18.6294343,
+    "lng": 99.012331,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247146951",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-ma",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Ban Ma",
+    "nameRoman": "Wat Ban Ma",
+    "lat": 18.5491936,
+    "lng": 99.068141,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/12254133766",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-mai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านใหม่",
+    "nameRoman": "Wat Ban Mai",
+    "lat": 18.532903,
+    "lng": 98.9989244,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2496074985",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-pa-pao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านป่าเป้า",
+    "nameRoman": "Wat Ban Pa Pao",
+    "lat": 18.5939912,
+    "lng": 99.0807883,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1462558650",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-pang-khruba-si-wichai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านปาง (ครูบาศรีวิชัย)",
+    "nameRoman": "Wat Ban Pang (Khruba Si Wichai)",
+    "lat": 18.1097467,
+    "lng": 98.8869094,
+    "geoPrecision": "block",
+    "address": "Li",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Li",
+      "subdistrict": "Li"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/183381368",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-thi-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านธิหลวง",
+    "nameRoman": "Wat Ban Thi Luang",
+    "lat": 18.645102,
+    "lng": 99.1307608,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/561262763",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-tong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านตอง",
+    "nameRoman": "Wat Ban Tong",
+    "lat": 18.5688934,
+    "lng": 99.0169511,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/253279792",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-bo-chong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ่อโจง",
+    "nameRoman": "Wat Bo Chong",
+    "lat": 18.5185901,
+    "lng": 98.9796411,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/156919744",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buabok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบัวบก",
+    "nameRoman": "Wat Buabok",
+    "lat": 18.6564974,
+    "lng": 99.1159765,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251577906",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-cha-na",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยชนะ",
+    "nameRoman": "Wat Chai Cha Na",
+    "lat": 18.6344842,
+    "lng": 98.9788638,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1256472591",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-mong-don",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยมงดล",
+    "nameRoman": "Wat Chai Mong Don",
+    "lat": 18.6283165,
+    "lng": 98.9759259,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/257719421",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-cham-thewi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจามเทว๊",
+    "nameRoman": "Wat Cham Thewi",
+    "lat": 18.5815059,
+    "lng": 98.9962571,
+    "geoPrecision": "exact",
+    "address": "Chamadevi Rd Nai Mueang,",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "Nai Mueang,",
+      "street": "Chamadevi Rd"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628260",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chammathewi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจามเทวี",
+    "nameRoman": "Wat Chammathewi",
+    "lat": 18.5815609,
+    "lng": 98.9963456,
+    "geoPrecision": "block",
+    "address": "Chamadevi Rd, Nai Mueang,",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "Nai Mueang,",
+      "street": "Chamadevi Rd,"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/205183273",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-phian",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช่างเพี่ยน",
+    "nameRoman": "Wat Chang Phian",
+    "lat": 18.672032,
+    "lng": 99.0816868,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3732331531",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-rong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช้างรอง",
+    "nameRoman": "Wat Chang Rong",
+    "lat": 18.5796611,
+    "lng": 99.0089349,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628259",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-si",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช้างสี",
+    "nameRoman": "Wat Chang Si",
+    "lat": 18.5816731,
+    "lng": 99.0078037,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2606380475",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chet-wan-thamma-ram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตวันธรรมาราม",
+    "nameRoman": "Wat Chet Wan Thamma Ram",
+    "lat": 18.4685971,
+    "lng": 98.9734336,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/253282714",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-gat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยกาส",
+    "nameRoman": "Wat Doi Gat",
+    "lat": 18.4588081,
+    "lng": 99.0531931,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2552503357",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-khamo-bo-nam-thip",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยขะม้อ (บ่อน้ำทิพย์)",
+    "nameRoman": "Wat Doi Khamo (Bo Nam Thip)",
+    "lat": 18.5740283,
+    "lng": 99.1274868,
+    "geoPrecision": "block",
+    "address": "259 มะเขือแจ้",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "มะเขือแจ้",
+      "street": "259"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/461652531",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-khum-ngoen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยขุมเงิน",
+    "nameRoman": "Wat Doi Khum Ngoen",
+    "lat": 18.590449,
+    "lng": 99.1025508,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1618854968",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-kyson",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยกุศล",
+    "nameRoman": "Wat Doi Kyson",
+    "lat": 18.446069,
+    "lng": 98.9592144,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/253284455",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-ti",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยติ",
+    "nameRoman": "Wat Doi Ti",
+    "lat": 18.5474647,
+    "lng": 99.0530317,
+    "geoPrecision": "block",
+    "address": "Pa Sak",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/WadDoiTi/",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "Pa Sak"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/242427345",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-tong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนตอง",
+    "nameRoman": "Wat Don Tong",
+    "lat": 18.4969482,
+    "lng": 98.898637,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2012104555",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dong-ruesi-lamphun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดงฤาษี (ลำพูน)",
+    "nameRoman": "Wat Dong Ruesi (Lamphun)",
+    "lat": 18.3402038,
+    "lng": 98.7940756,
+    "geoPrecision": "exact",
+    "address": "Ban Hong",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Ban Hong",
+      "subdistrict": "Ban Hong"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13305519636",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hong-hiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหองเหียง",
+    "nameRoman": "Wat Hong Hiang",
+    "lat": 18.4917744,
+    "lng": 98.9932335,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/540865639",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-fai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวฝาย",
+    "nameRoman": "Wat Hua Fai",
+    "lat": 18.6705028,
+    "lng": 99.0128057,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1251480335",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huai-ai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยไฃ",
+    "nameRoman": "Wat Huai Ai",
+    "lat": 18.6868125,
+    "lng": 99.1541043,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/106986663",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huai-bong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยบง",
+    "nameRoman": "Wat Huai Bong",
+    "lat": 18.079126,
+    "lng": 98.8929218,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3424225564",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huai-ma-kong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยม้าโก้ง",
+    "nameRoman": "Wat Huai Ma Kong",
+    "lat": 18.5021002,
+    "lng": 99.0095773,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/253280369",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huai-yap",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยยาบ",
+    "nameRoman": "Wat Huai Yap",
+    "lat": 18.6680809,
+    "lng": 99.1515374,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/106986662",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-jao-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจ้าชัย",
+    "nameRoman": "Wat Jao Chai",
+    "lat": 18.5209507,
+    "lng": 99.0228788,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/315712979",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khilek",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดขี้เหล็ก",
+    "nameRoman": "Wat Khilek",
+    "lat": 18.5830781,
+    "lng": 99.061964,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/256582800",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khoi-khun-tan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยขุนตาน",
+    "nameRoman": "Wat Khoi Khun Tan",
+    "lat": 18.4997326,
+    "lng": 99.2659934,
+    "geoPrecision": "exact",
+    "address": "Tha Pla Duk",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mae Tha",
+      "subdistrict": "Tha Pla Duk"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13413193235",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kio-muen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกิ่วมื่น",
+    "nameRoman": "Wat Kio Muen",
+    "lat": 18.619039,
+    "lng": 99.1162173,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/561258428",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ko-kha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกอค่า",
+    "nameRoman": "Wat Ko Kha",
+    "lat": 18.480575,
+    "lng": 98.8589705,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2013168715",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ko-khoi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกอข่อย",
+    "nameRoman": "Wat Ko Khoi",
+    "lat": 18.5141874,
+    "lng": 98.9929724,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/802086971",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ko-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกาะกลาง",
+    "nameRoman": "Wat Ko Klang",
+    "lat": 18.5159532,
+    "lng": 98.8942168,
+    "geoPrecision": "exact",
+    "address": "Ban Ruean",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Pa Sang",
+      "subdistrict": "Ban Ruean"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2012076289",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่เรือง",
+    "nameRoman": "Wat Ku Rueang",
+    "lat": 18.4889196,
+    "lng": 98.9798136,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/570846287",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-long",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดล้อง",
+    "nameRoman": "Wat Long",
+    "lat": 18.5231248,
+    "lng": 98.9245996,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2539805404",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-long-duea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดล้องเดื่อ",
+    "nameRoman": "Wat Long Duea",
+    "lat": 18.638001,
+    "lng": 98.9951463,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/544559174",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-long-ku-kam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดลองกูคำ",
+    "nameRoman": "Wat Long Ku Kam",
+    "lat": 18.5441206,
+    "lng": 98.9358442,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2523801247",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-hat-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่หาดหลวง",
+    "nameRoman": "Wat Mae Hat Luang",
+    "lat": 18.6620984,
+    "lng": 99.1420483,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/96715474",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-rong-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ร่องน้อย",
+    "nameRoman": "Wat Mae Rong Noi",
+    "lat": 18.6340561,
+    "lng": 99.0534745,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2574318278",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-samae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่แสม",
+    "nameRoman": "Wat Mae Samae",
+    "lat": 18.0550901,
+    "lng": 99.0377381,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/498271311",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-san-ban-luk",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่สารบ้านหลุก",
+    "nameRoman": "Wat Mae San Ban Luk",
+    "lat": 18.5535342,
+    "lng": 99.0347871,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/373219468",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-tuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ตืน",
+    "nameRoman": "Wat Mae Tuen",
+    "lat": 18.0107162,
+    "lng": 98.879474,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1529320709",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-yak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ยาก",
+    "nameRoman": "Wat Mae Yak",
+    "lat": 18.5788331,
+    "lng": 99.0579537,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2622323872",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mahathat-chedi-si-wiang-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระมหาธาตุเจดีย์ศรีเวียงชัย",
+    "nameRoman": "Wat Mahathat Chedi Si Wiang Chai",
+    "lat": 17.73557,
+    "lng": 98.9467887,
+    "geoPrecision": "exact",
+    "address": "Na Sai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Li",
+      "subdistrict": "Na Sai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2611477587",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mahawan-wanaram-phra-rod",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมหาวันวนาราม (พระรอด)",
+    "nameRoman": "Wat Mahawan Wanaram (Phra Rod)",
+    "lat": 18.5788975,
+    "lng": 99.0033321,
+    "geoPrecision": "exact",
+    "address": "52 Chamadevi Rd Mueang Nga",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "Mueang Nga",
+      "street": "52 Chamadevi Rd"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628258",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mon-chom-tham",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Mon Chom Tham",
+    "nameRoman": "Wat Mon Chom Tham",
+    "lat": 18.4247781,
+    "lng": 98.9089926,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/764486062",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mon-luang-sa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมณหลวงษา",
+    "nameRoman": "Wat Mon Luang Sa",
+    "lat": 17.7700717,
+    "lng": 98.9594539,
+    "geoPrecision": "block",
+    "address": "Li",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Li",
+      "subdistrict": "Li"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1020435076",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mu-poeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมูเปิ้ง",
+    "nameRoman": "Wat Mu Poeng",
+    "lat": 18.4521719,
+    "lng": 98.9557567,
+    "geoPrecision": "exact",
+    "address": "Mueang Chi",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "Mueang Chi"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2159983065",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-ton",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่วงโตน",
+    "nameRoman": "Wat Muang Ton",
+    "lat": 18.3445184,
+    "lng": 98.7961175,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/315302213",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-chi-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเหมืองจี้หลวง",
+    "nameRoman": "Wat Mueang Chi Luang",
+    "lat": 18.4930097,
+    "lng": 98.9582994,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2159983072",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-kwak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเหมืองกวัก",
+    "nameRoman": "Wat Mueang Kwak",
+    "lat": 18.6134383,
+    "lng": 99.0898165,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1462497154",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mueang-nga",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเหมืองง่า",
+    "nameRoman": "Wat Mueang Nga",
+    "lat": 18.6067789,
+    "lng": 99.0238639,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628596",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-khong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนำโค้ง",
+    "nameRoman": "Wat Nam Khong",
+    "lat": 18.6434605,
+    "lng": 99.0064402,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/542564062",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-chang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองจาง",
+    "nameRoman": "Wat Nong Chang",
+    "lat": 18.4868132,
+    "lng": 98.9657446,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/570846286",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-chang-khuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองช้างคืน",
+    "nameRoman": "Wat Nong Chang Khuen",
+    "lat": 18.6526687,
+    "lng": 99.0173078,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/532204498",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-chio",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองชิว",
+    "nameRoman": "Wat Nong Chio",
+    "lat": 18.5381145,
+    "lng": 99.0019465,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/256569481",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-chong",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Nong Chong",
+    "nameRoman": "Wat Nong Chong",
+    "lat": 18.3925365,
+    "lng": 98.8869298,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/483135765",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-du",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองดู่",
+    "nameRoman": "Wat Nong Du",
+    "lat": 18.5207094,
+    "lng": 98.8953346,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/454860179",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-hoi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองหอย",
+    "nameRoman": "Wat Nong Hoi",
+    "lat": 18.5900268,
+    "lng": 99.1575036,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/765164892",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-koet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองเกิด",
+    "nameRoman": "Wat Nong Koet",
+    "lat": 18.4780423,
+    "lng": 98.8731394,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2012308637",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-nam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองหนาม",
+    "nameRoman": "Wat Nong Nam",
+    "lat": 18.5047722,
+    "lng": 98.9749791,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/801958306",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-ngueak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองเงือก",
+    "nameRoman": "Wat Nong Ngueak",
+    "lat": 18.4842016,
+    "lng": 98.908223,
+    "geoPrecision": "block",
+    "address": "Mae Raeng",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Pa Sang",
+      "subdistrict": "Mae Raeng"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/253286282",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-pham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองผำ",
+    "nameRoman": "Wat Nong Pham",
+    "lat": 18.5351971,
+    "lng": 98.9190751,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1629379366",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-sai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองไซ",
+    "nameRoman": "Wat Nong Sai",
+    "lat": 18.5205356,
+    "lng": 99.0356434,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2495988245",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-seng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองเส้ง",
+    "nameRoman": "Wat Nong Seng",
+    "lat": 18.5942853,
+    "lng": 99.0152847,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628302",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-not-ri-bua-ban",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนศรีบัวบาน",
+    "nameRoman": "Wat Not Ri Bua Ban",
+    "lat": 18.5273895,
+    "lng": 99.0934376,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247579238",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ong-ko-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอ้องกอม่วง",
+    "nameRoman": "Wat Ong Ko Muang",
+    "lat": 18.6065499,
+    "lng": 99.0568919,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/483649126",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-daet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแดด",
+    "nameRoman": "Wat Pa Daet",
+    "lat": 18.5679663,
+    "lng": 99.02682,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1029605267",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-heo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเห็ว",
+    "nameRoman": "Wat Pa Heo",
+    "lat": 18.6535332,
+    "lng": 99.039569,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3274045650",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-heo-1055652331",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเห็ว",
+    "nameRoman": "Wat Pa Heo",
+    "lat": 18.652513,
+    "lng": 99.0386846,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1055652331",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-hiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเหียง",
+    "nameRoman": "Wat Pa Hiang",
+    "lat": 18.5114398,
+    "lng": 98.9117787,
+    "geoPrecision": "block",
+    "address": "Mae Raeng",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Pa Sang",
+      "subdistrict": "Mae Raeng"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/305653782",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-kam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าขาม",
+    "nameRoman": "Wat Pa Kam",
+    "lat": 18.6358887,
+    "lng": 99.0181358,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251152891",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-sang-ngam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าซางงาม",
+    "nameRoman": "Wat Pa Sang Ngam",
+    "lat": 18.5208701,
+    "lng": 98.9399077,
+    "geoPrecision": "exact",
+    "address": "459",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Pa Sang",
+      "street": "459"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1629379357",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-tan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปาตาล",
+    "nameRoman": "Wat Pa Tan",
+    "lat": 18.6491621,
+    "lng": 99.1088935,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1462489200",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-tueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าตึง",
+    "nameRoman": "Wat Pa Tueng",
+    "lat": 18.475025,
+    "lng": 98.9721957,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/253280985",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-tueng-475224422",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าตึง",
+    "nameRoman": "Wat Pa Tueng",
+    "lat": 18.6987911,
+    "lng": 99.140158,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/475224422",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-tung-ngan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วาดป่าตึงงาน",
+    "nameRoman": "Wat Pa Tung Ngan",
+    "lat": 18.5347931,
+    "lng": 99.0579973,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/554578989",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-yang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่ายาง",
+    "nameRoman": "Wat Pa Yang",
+    "lat": 18.5844541,
+    "lng": 98.9644262,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/245134840",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pak-kong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปากกอง",
+    "nameRoman": "Wat Pak Kong",
+    "lat": 18.6421528,
+    "lng": 99.1358112,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/765378323",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pak-long",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปากล้อง",
+    "nameRoman": "Wat Pak Long",
+    "lat": 18.4823937,
+    "lng": 98.8352248,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/305655414",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pamai-daeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าไม้แดง",
+    "nameRoman": "Wat Pamai Daeng",
+    "lat": 18.6098426,
+    "lng": 99.0299235,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2606810440",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pasak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าสัก",
+    "nameRoman": "Wat Pasak",
+    "lat": 18.6533463,
+    "lng": 99.1209341,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3765331159",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-payang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่ายาง",
+    "nameRoman": "Wat Payang",
+    "lat": 18.6687749,
+    "lng": 99.1357242,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/547918298",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-mao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผามาว",
+    "nameRoman": "Wat Pha Mao",
+    "lat": 18.6067611,
+    "lng": 99.0785517,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1462558642",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pham-na-tuayang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพัมนาตัวอย่าง",
+    "nameRoman": "Wat Pham Na Tuayang",
+    "lat": 18.5783797,
+    "lng": 99.0795196,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/148812138",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phanta-koen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพันตาเกิน",
+    "nameRoman": "Wat Phanta Koen",
+    "lat": 18.5433895,
+    "lng": 98.9604318,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2159983086",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phatan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าตาล",
+    "nameRoman": "Wat Phatan",
+    "lat": 18.4826564,
+    "lng": 98.936402,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2579542598",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-chao-ton-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าตนหลวง",
+    "nameRoman": "Wat Phra Chao Ton Luang",
+    "lat": 18.3671015,
+    "lng": 98.7745537,
+    "geoPrecision": "block",
+    "address": "Si Tia",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Ban Hong",
+      "subdistrict": "Si Tia"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/315297897",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-chedi-khao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจดีย์ขาว",
+    "nameRoman": "Wat Phra Chedi Khao",
+    "lat": 18.6012796,
+    "lng": 98.9811432,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1462702003",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-khong-ruesi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระคงฤาษี",
+    "nameRoman": "Wat Phra Khong Ruesi",
+    "lat": 18.5837451,
+    "lng": 99.0082096,
+    "geoPrecision": "block",
+    "address": "62 Charoen Rat Rd Mueang Nga",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "Mueang Nga",
+      "street": "62 Charoen Rat Rd"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/140496904",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-phuttabat-phanam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทผาหนาม",
+    "nameRoman": "Wat Phra Phuttabat Phanam",
+    "lat": 17.8375309,
+    "lng": 98.9277697,
+    "geoPrecision": "exact",
+    "address": "Pa Phai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Li",
+      "subdistrict": "Pa Phai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4583772692",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-phuttabat-phanam-362338858",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทผาหนาม",
+    "nameRoman": "Wat Phra Phuttabat Phanam",
+    "lat": 17.8375306,
+    "lng": 98.9277694,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/362338858",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-phutthabat-pha-nam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทผาหนาม",
+    "nameRoman": "Wat Phra Phutthabat Pha Nam",
+    "lat": 17.8358361,
+    "lng": 98.9249908,
+    "geoPrecision": "block",
+    "address": "Pa Phai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Li",
+      "subdistrict": "Pa Phai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1418592028",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-phutthabat-tak-pha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทตากผ้า",
+    "nameRoman": "Wat Phra Phutthabat Tak Pha",
+    "lat": 18.4549772,
+    "lng": 98.922084,
+    "geoPrecision": "exact",
+    "address": "279 Makok",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.phrabat.net/",
+      "province": "Lamphun",
+      "district": "Pa Sang",
+      "subdistrict": "Makok",
+      "street": "279"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/805139030",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยเวียง",
+    "nameRoman": "Wat Phra That Doi Wiang",
+    "lat": 18.6116903,
+    "lng": 99.1716785,
+    "geoPrecision": "exact",
+    "address": "Ban Thi",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Ban Thi",
+      "subdistrict": "Ban Thi"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1540463031",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-ha-duang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุห้าดวง",
+    "nameRoman": "Wat Phra That Ha Duang",
+    "lat": 17.7822098,
+    "lng": 98.9585225,
+    "geoPrecision": "block",
+    "address": "1 ลี้",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/WatPhraThatHaduang/",
+      "province": "Lamphun",
+      "district": "ลี้",
+      "subdistrict": "ลี้",
+      "street": "1"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1020436616",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-hariphunchai-woramahawihan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุหริภุญชัย วรมหาวิหาร",
+    "nameRoman": "Wat Phra That Hariphunchai Woramahawihan",
+    "lat": 18.5773729,
+    "lng": 99.0078197,
+    "geoPrecision": "block",
+    "address": "Thanon Rop Mueang Nai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/watpratadhariphunchai/",
+      "province": "Lamphun",
+      "street": "Thanon Rop Mueang Nai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/361393589",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-sa-li-bun-reung",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสะหลีบุญเรือง",
+    "nameRoman": "Wat Phra That Sa Li Bun Reung",
+    "lat": 17.729622,
+    "lng": 98.8453957,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/419895265",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-sai-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุทรายทอง",
+    "nameRoman": "Wat Phra That Sai Thong",
+    "lat": 18.4921551,
+    "lng": 99.0092025,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2517237143",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระยืน",
+    "nameRoman": "Wat Phra Yuen",
+    "lat": 18.5761684,
+    "lng": 99.0200098,
+    "geoPrecision": "exact",
+    "address": "Wiang Yong",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Mueang Lamphun",
+      "subdistrict": "Wiang Yong"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628252",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrabat-huai-tom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระบาทห้วยต้ม",
+    "nameRoman": "Wat Phrabat Huai Tom",
+    "lat": 17.7259144,
+    "lng": 98.9537314,
+    "geoPrecision": "block",
+    "address": "499 ซ.บ้านห้วยต้ม Na Sai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Li",
+      "subdistrict": "Na Sai",
+      "street": "499 ซ.บ้านห้วยต้ม"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/328283567",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrachao-saliam-wan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าสะเลียมหวาน",
+    "nameRoman": "Wat Phrachao Saliam Wan",
+    "lat": 18.3277084,
+    "lng": 98.7989935,
+    "geoPrecision": "exact",
+    "address": "Ban Hong",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Ban Hong",
+      "subdistrict": "Ban Hong"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13421333439",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phraphut-ban-tham-pa-phai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทถ้ำป่าไผ่",
+    "nameRoman": "Wat Phraphut Ban Tham Pa Phai",
+    "lat": 17.8759848,
+    "lng": 98.9165953,
+    "geoPrecision": "block",
+    "address": "Pa Phai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Li",
+      "subdistrict": "Pa Phai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1464349305",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrathat-doi-hang-bat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยห้างบาตร",
+    "nameRoman": "Wat Phrathat Doi Hang Bat",
+    "lat": 18.6783262,
+    "lng": 99.1535627,
+    "geoPrecision": "exact",
+    "address": "320 Huai Yap",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Ban Thi",
+      "subdistrict": "Huai Yap",
+      "street": "320"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13413197675",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrathat-sichai-wongsa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุศรีชัยวงศา",
+    "nameRoman": "Wat Phrathat Sichai Wongsa",
+    "lat": 17.8355675,
+    "lng": 98.9163649,
+    "geoPrecision": "block",
+    "address": "Pa Phai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Li",
+      "subdistrict": "Pa Phai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1418595604",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phratu-pa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดประตูป่า",
+    "nameRoman": "Wat Phratu Pa",
+    "lat": 18.6218645,
+    "lng": 99.0033997,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247146952",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pong-mae-lop",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปงแม่ลอบ",
+    "nameRoman": "Wat Pong Mae Lop",
+    "lat": 18.2643296,
+    "lng": 98.9383534,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3438395736",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pra-non-mon-chang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนอนม่อนช้าง",
+    "nameRoman": "Wat Pra Non Mon Chang",
+    "lat": 18.458687,
+    "lng": 98.9416884,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2159983068",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pra-tat-doi-tae",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Pra Tat Doi Tae",
+    "nameRoman": "Wat Pra Tat Doi Tae",
+    "lat": 18.4336195,
+    "lng": 98.9649506,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2579371571",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pu-loei",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปูเลย",
+    "nameRoman": "Wat Pu Loei",
+    "lat": 18.600018,
+    "lng": 99.0493279,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/101918714",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ri-ka-ran",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหริการาน",
+    "nameRoman": "Wat Ri Ka Ran",
+    "lat": 18.5677163,
+    "lng": 98.9463308,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251574378",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-sao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร่งส้าว",
+    "nameRoman": "Wat Rong Sao",
+    "lat": 18.5663214,
+    "lng": 99.0580394,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2010200915",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sa-laeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสะแล่ง",
+    "nameRoman": "Wat Sa Laeng",
+    "lat": 18.5774158,
+    "lng": 99.0929044,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/106852178",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-samakkhi-thamma-ram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสามัคคีธรรมาราม",
+    "nameRoman": "Wat Samakkhi Thamma Ram",
+    "lat": 18.6421158,
+    "lng": 99.0162049,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2574300553",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-kam-phang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันกำแพง",
+    "nameRoman": "Wat San Kam Phang",
+    "lat": 18.4755931,
+    "lng": 98.9140316,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/253286080",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-kha-yom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันคะยอม",
+    "nameRoman": "Wat San Kha Yom",
+    "lat": 18.5929597,
+    "lng": 99.0861332,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/106852175",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-kha-yom-554579008",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันคะยอม",
+    "nameRoman": "Wat San Kha Yom",
+    "lat": 18.5373331,
+    "lng": 99.0474449,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/554579008",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-ma-krut",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันมะกรูด",
+    "nameRoman": "Wat San Ma Krut",
+    "lat": 18.530121,
+    "lng": 98.9492606,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/386492931",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-sak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าสัก",
+    "nameRoman": "Wat San Pa Sak",
+    "lat": 17.9636738,
+    "lng": 98.8921592,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1263323715",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-yang-luang-khruba-inthon-phra-khru-panya-tham-wat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่ายางหลวง (ครูบาอินทร พระครูปัญญาธรรมวัฒน์)",
+    "nameRoman": "Wat San Pa Yang Luang (Khruba Inthon Phra Khru Panya Tham Wat))",
+    "lat": 18.5854038,
+    "lng": 99.0117519,
+    "geoPrecision": "exact",
+    "address": "113 ถนนสันป่ายาง ซ.10 ในเมือง",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "เมืองลำพูน",
+      "subdistrict": "ในเมือง",
+      "street": "113 ถนนสันป่ายาง ซ.10"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628265",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-yang-nom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่ายางหน่อม",
+    "nameRoman": "Wat San Pa Yang Nom",
+    "lat": 18.5994857,
+    "lng": 99.0176664,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2606544257",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-rim-ping",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat San Rim Ping",
+    "nameRoman": "Wat San Rim Ping",
+    "lat": 18.6009652,
+    "lng": 98.9736733,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1462702007",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-sai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันทราย",
+    "nameRoman": "Wat San Sai",
+    "lat": 18.658832,
+    "lng": 99.1023407,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/249320061",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-ton-ka",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันต้นค่า",
+    "nameRoman": "Wat San Ton Ka",
+    "lat": 18.661864,
+    "lng": 99.1100602,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3765331572",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-ton-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat San Ton Muang",
+    "nameRoman": "Wat San Ton Muang",
+    "lat": 18.6909926,
+    "lng": 99.1315365,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/249320063",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sao-hin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเสาหิน",
+    "nameRoman": "Wat Sao Hin",
+    "lat": 18.5417103,
+    "lng": 99.061988,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1154898914",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bang-wan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบังวัน",
+    "nameRoman": "Wat Si Bang Wan",
+    "lat": 18.6066219,
+    "lng": 98.9904535,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/499117011",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bun-chu-wang-hai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสรีบุญชูวังไฮ",
+    "nameRoman": "Wat Si Bun Chu Wang Hai",
+    "lat": 18.5546633,
+    "lng": 98.9952454,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628242",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bun-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสรีบุญยืน",
+    "nameRoman": "Wat Si Bun Yuen",
+    "lat": 18.5998319,
+    "lng": 99.029835,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251577070",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-chai-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสรีชัยชุม",
+    "nameRoman": "Wat Si Chai Chum",
+    "lat": 18.6965425,
+    "lng": 99.1620459,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/465931086",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสรีชุม",
+    "nameRoman": "Wat Si Chum",
+    "lat": 18.5132052,
+    "lng": 98.8727693,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2592394227",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-chun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีชุน",
+    "nameRoman": "Wat Si Chun",
+    "lat": 18.5648366,
+    "lng": 99.0846821,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/121989537",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-don-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศีรดอนชัย",
+    "nameRoman": "Wat Si Don Chai",
+    "lat": 18.6592252,
+    "lng": 99.1582894,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/106899433",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-don-chai-386326099",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนซัย",
+    "nameRoman": "Wat Si Don Chai",
+    "lat": 18.6524114,
+    "lng": 99.0658211,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/386326099",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-ping-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีปิงชัย",
+    "nameRoman": "Wat Si Ping Chai",
+    "lat": 18.6145741,
+    "lng": 98.9665526,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/544559180",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-sai-mun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีทรายมูล",
+    "nameRoman": "Wat Si Sai Mun",
+    "lat": 18.6527533,
+    "lng": 99.0110119,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/106358433",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-song-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสองเมือง",
+    "nameRoman": "Wat Si Song Mueang",
+    "lat": 18.6018179,
+    "lng": 99.0204662,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2606544259",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-suphan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสุพรรณ",
+    "nameRoman": "Wat Si Suphan",
+    "lat": 18.6200398,
+    "lng": 98.9844902,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/542537235",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-su-wan-na-ram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสุวรรณาราม",
+    "nameRoman": "Wat Su Wan Na Ram",
+    "lat": 18.6487302,
+    "lng": 99.0392458,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/562969430",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suan-dok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสวนดอก",
+    "nameRoman": "Wat Suan Dok",
+    "lat": 18.586125,
+    "lng": 99.0096492,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1628628267",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-doi-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Tha Doi Klang",
+    "nameRoman": "Wat Tha Doi Klang",
+    "lat": 18.424703,
+    "lng": 98.9749669,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2554108072",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-don-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทาดอนแก้ว",
+    "nameRoman": "Wat Tha Don Kaeo",
+    "lat": 18.4627749,
+    "lng": 99.1613749,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1346819802",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-khum-ngoen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทาขุมเงิน",
+    "nameRoman": "Wat Tha Khum Ngoen",
+    "lat": 18.4271495,
+    "lng": 98.9579637,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2159983060",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-suan-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทาสวนหลวง",
+    "nameRoman": "Wat Tha Suan Luang",
+    "lat": 18.4091034,
+    "lng": 98.9764519,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2579400007",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-thung-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทาทุ่งหลวง",
+    "nameRoman": "Wat Tha Thung Luang",
+    "lat": 18.4221639,
+    "lng": 99.0126885,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3437221735",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-ton-ngio",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าต้นงิ้ว",
+    "nameRoman": "Wat Tha Ton Ngio",
+    "lat": 18.5308589,
+    "lng": 98.9118194,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247038490",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thammasangwet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธรรมสังเวช",
+    "nameRoman": "Wat Thammasangwet",
+    "lat": 18.5250894,
+    "lng": 98.9032474,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/318501989",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thong-satcha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธงสัจจะ",
+    "nameRoman": "Wat Thong Satcha",
+    "lat": 18.5729772,
+    "lng": 99.0076521,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2606335558",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thung-yao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งยาว",
+    "nameRoman": "Wat Thung Yao",
+    "lat": 18.5017695,
+    "lng": 99.0714379,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3436977544",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tin-doi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดตีนดอย",
+    "nameRoman": "Wat Tin Doi",
+    "lat": 18.4611744,
+    "lng": 98.9397441,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2579532006",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-toi-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Toi Noi",
+    "nameRoman": "Wat Toi Noi",
+    "lat": 18.6488958,
+    "lng": 99.1566398,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "relation/19899892",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-pan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นปัน",
+    "nameRoman": "Wat Ton Pan",
+    "lat": 18.5026674,
+    "lng": 98.9909183,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3770170059",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-phueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นผึ้ง",
+    "nameRoman": "Wat Ton Phueng",
+    "lat": 18.6231406,
+    "lng": 99.034647,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2094249782",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-phueng-4686755596",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นผึ้ง",
+    "nameRoman": "Wat Ton Phueng",
+    "lat": 18.4066436,
+    "lng": 98.7300856,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4686755596",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-umong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุโมงค์",
+    "nameRoman": "Wat Umong",
+    "lat": 18.665856,
+    "lng": 99.0342256,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/625237426",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wang-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวังหลวง",
+    "nameRoman": "Wat Wang Luang",
+    "lat": 18.1991747,
+    "lng": 98.8436155,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251444814",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wang-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวังทอง",
+    "nameRoman": "Wat Wang Thong",
+    "lat": 18.593854,
+    "lng": 99.023931,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/251577063",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "way-ko-mong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกอม่อง",
+    "nameRoman": "Way Ko Mong",
+    "lat": 18.6553614,
+    "lng": 99.0339579,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2540835323",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wihan-luang-pho-than-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วิหารหลวงพ่อทันใจ",
+    "nameRoman": "Wihan Luang Pho Than Chai",
+    "lat": 18.6758123,
+    "lng": 99.1530048,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5189290417",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  }
+]

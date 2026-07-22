@@ -1,0 +1,2011 @@
+[
+  {
+    "id": "wat-ammat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอำมาตย์",
+    "nameRoman": "Wat Ammat",
+    "lat": 19.685277777,
+    "lng": 100.196111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004419",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-analayo-thiphayaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอนาลโยทิพยาราม",
+    "nameRoman": "Wat Analayo Thiphayaram",
+    "lat": 19.177223,
+    "lng": 99.81261,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004401",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-ban-thung",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านทุ่ง",
+    "nameRoman": "Wat Ban Thung",
+    "lat": 19.165555555,
+    "lng": 100.0025,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56580157",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chaloem-phra-kiat-phrachomklao-rachanusorn",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเฉลิมพระเกียรติพระจอมเกล้าราชานุสรณ์",
+    "nameRoman": "Wat Chaloem Phra Kiat Phrachomklao Rachanusorn",
+    "lat": 18.7466,
+    "lng": 99.532080555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110497808",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-champa-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจำปาหลวง",
+    "nameRoman": "Wat Champa Luang",
+    "lat": 19.139722222,
+    "lng": 100.018611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56598914",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-charoen-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจริญเมือง",
+    "nameRoman": "Wat Charoen Mueang",
+    "lat": 19.606666666,
+    "lng": 99.759444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108514512",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chedi-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์หลวง",
+    "nameRoman": "Wat Chedi Luang",
+    "lat": 19.570025468,
+    "lng": 99.490605026,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q117312163",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chong-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจองคำ",
+    "nameRoman": "Wat Chong Kham",
+    "lat": 18.667997,
+    "lng": 99.925243,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020650",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-don-lek",
+    "lens": [
+      "wat"
+    ],
+    "name": "ดดอนเหล็ก",
+    "nameRoman": "Wat Don Lek",
+    "lat": 19.169722222,
+    "lng": 99.988888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56580291",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-ket-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกตุแก้ว",
+    "nameRoman": "Wat Ket Kaeo",
+    "lat": 19.543055555,
+    "lng": 99.739444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020897",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-khantha-phrueksa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดคันธาพฤกษา",
+    "nameRoman": "Wat Khantha Phrueksa",
+    "lat": 18.866666666,
+    "lng": 99.354166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109942021",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-khao-kaeo-dap-phai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเขาแก้วดับภัย",
+    "nameRoman": "Wat Khao Kaeo Dap Phai",
+    "lat": 19.796666666,
+    "lng": 99.902777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108486001",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-ku-kai-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่ไก่แก้ว",
+    "nameRoman": "Wat Ku Kai Kaeo",
+    "lat": 19.329904,
+    "lng": 100.116601,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020642",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-ku-phang-lang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่ผางลาง",
+    "nameRoman": "Wat Ku Phang Lang",
+    "lat": 19.345277777,
+    "lng": 100.1125,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020637",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-li",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดลี",
+    "nameRoman": "Wat Li",
+    "lat": 19.166280649,
+    "lng": 99.915724258,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110724141",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-luang-ratsanthan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลวงราชสัณฐาน",
+    "nameRoman": "Wat Luang Ratsanthan",
+    "lat": 19.168414512,
+    "lng": 99.900008901,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111917309",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-lai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ลาย",
+    "nameRoman": "Wat Mae Lai",
+    "lat": 18.880836847,
+    "lng": 99.350380224,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q136330847",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-o",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่อ้อ",
+    "nameRoman": "Wat Mae O",
+    "lat": 19.685,
+    "lng": 99.861388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108514594",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mon-sai-non",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่อนทรายนอน",
+    "nameRoman": "Wat Mon Sai Non",
+    "lat": 18.729722222,
+    "lng": 99.993055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109985108",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-muang-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองชุม",
+    "nameRoman": "Wat Muang Chum",
+    "lat": 19.157369052,
+    "lng": 99.914659557,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q137195791",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-nan-taram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนันตาราม",
+    "nameRoman": "Wat Nan Taram",
+    "lat": 19.528333333,
+    "lng": 100.302777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020703",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-daeng-bun-nak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแดงบุญนาค",
+    "nameRoman": "Wat Pa Daeng Bun Nak",
+    "lat": 19.181944444,
+    "lng": 99.905,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107185147",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าฝาง",
+    "nameRoman": "Wat Pa Fang",
+    "lat": 19.288611111,
+    "lng": 99.976944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110923176",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-ngae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแงะ",
+    "nameRoman": "Wat Pa Ngae",
+    "lat": 19.213888888,
+    "lng": 99.506666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004333",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-sak-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าสักคำ",
+    "nameRoman": "Wat Pa Sak Kham",
+    "lat": 19.179444444,
+    "lng": 99.936666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109654086",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pang-sang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปางซาง",
+    "nameRoman": "Wat Pang Sang",
+    "lat": 19.606016111,
+    "lng": 99.571373055,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "founded": "1955"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18822192",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-photharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโพธาราม",
+    "nameRoman": "Wat Photharam",
+    "lat": 19.353206343,
+    "lng": 99.808493619,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115168253",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-chao-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าหลวง",
+    "nameRoman": "Wat Phra Chao Luang",
+    "lat": 19.207777777,
+    "lng": 99.500555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113585958",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-hin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระหิน",
+    "nameRoman": "Wat Phra Hin",
+    "lat": 19.495833333,
+    "lng": 99.738611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108899664",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระแก้ว",
+    "nameRoman": "Wat Phra Kaeo",
+    "lat": 19.504833333,
+    "lng": 100.322083333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112604678",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-nang-din",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนั่งดิน",
+    "nameRoman": "Wat Phra Nang Din",
+    "lat": 19.498333333,
+    "lng": 100.324444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020759",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-nat-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนาคแก้ว",
+    "nameRoman": "Wat Phra Nat Kaeo",
+    "lat": 19.686111111,
+    "lng": 100.194166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020761",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-chaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมแจ้ง",
+    "nameRoman": "Wat Phra That Chom Chaeng",
+    "lat": 19.474218055,
+    "lng": 99.71442,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q23540784",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-cho",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมจ้อ",
+    "nameRoman": "Wat Phra That Chom Cho",
+    "lat": 19.684444444,
+    "lng": 100.183611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004211",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-khiri",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมคีรี",
+    "nameRoman": "Wat Phra That Chom Khiri",
+    "lat": 19.510916111,
+    "lng": 99.998301944,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16305083",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-rung",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมรุ่ง",
+    "nameRoman": "Wat Phra That Chom Rung",
+    "lat": 19.576944444,
+    "lng": 99.945,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004340",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-rung-q137857402",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมรุ่ง",
+    "nameRoman": "Wat Phra That Chom Rung",
+    "lat": 19.577288109,
+    "lng": 99.945143913,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q137857402",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมทอง",
+    "nameRoman": "Wat Phra That Chom Thong",
+    "lat": 19.184032,
+    "lng": 99.888458,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020744",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-thong-q16004338",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมทอง",
+    "nameRoman": "Wat Phra That Chom Thong",
+    "lat": 19.653055555,
+    "lng": 100.087777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004338",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-wae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมแว่",
+    "nameRoman": "Wat Phra That Chom Wae",
+    "lat": 19.568811,
+    "lng": 99.741597,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004341",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chomsin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมศีล",
+    "nameRoman": "Wat Phra That Chomsin",
+    "lat": 19.083678065,
+    "lng": 100.073113179,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q121264776",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chon-chaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมแจ้ง",
+    "nameRoman": "Wat Phra That Chon Chaeng",
+    "lat": 19.660108055,
+    "lng": 99.541556111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16267259",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-doi-yuak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยหยวก",
+    "nameRoman": "Wat Phra That Doi Yuak",
+    "lat": 19.138055555,
+    "lng": 100.262777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004213",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-khing-kaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุขิงแกง",
+    "nameRoman": "Wat Phra That Khing Kaeng",
+    "lat": 19.29,
+    "lng": 100.19,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered archaeological site in Finland"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q117047681",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-sam-duang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสามดวง",
+    "nameRoman": "Wat Phra That Sam Duang",
+    "lat": 19.56901,
+    "lng": 99.696305,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108899557",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-soi-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสร้อยทอง",
+    "nameRoman": "Wat Phra That Soi Thong",
+    "lat": 19.701830886,
+    "lng": 99.921749152,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108704657",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-ton-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุต้นฝาง",
+    "nameRoman": "Wat Phra That Ton Fang",
+    "lat": 19.144837876,
+    "lng": 100.391259597,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116103340",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phrathat-sop-waen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสบแวน",
+    "nameRoman": "Wat Phrathat Sop Waen",
+    "lat": 19.536796622,
+    "lng": 100.291713513,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q127427375",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-ratcha-khrue",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดราชคฤห์",
+    "nameRoman": "Wat Ratcha Khrue",
+    "lat": 19.16693,
+    "lng": 99.903239,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56598965",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-saen-mueang-ma",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนเมืองมา",
+    "nameRoman": "Wat Saen Mueang Ma",
+    "lat": 19.521944444,
+    "lng": 100.301944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004390",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-saeng-kaeo-phothiyan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสงแก้วโพธิญาณ",
+    "nameRoman": "Wat Saeng Kaeo Phothiyan",
+    "lat": 19.602436482,
+    "lng": 99.526620892,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111109035",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-san-ku",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันกู่",
+    "nameRoman": "Wat San Ku",
+    "lat": 19.498611111,
+    "lng": 99.972222222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020924",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sao-hin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเสาหิน",
+    "nameRoman": "Wat Sao Hin",
+    "lat": 19.6771,
+    "lng": 100.2025,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004177",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-chom-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีจอมเรือง",
+    "nameRoman": "Wat Si Chom Rueang",
+    "lat": 19.162223635,
+    "lng": 99.914291082,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116745723",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีชุม",
+    "nameRoman": "Wat Si Chum",
+    "lat": 19.173888888,
+    "lng": 99.986666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56580406",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-kham-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีคำเวียง",
+    "nameRoman": "Wat Si Kham Wiang",
+    "lat": 19.362728916,
+    "lng": 99.504793097,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q129756296",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-khom-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีโคมคำ",
+    "nameRoman": "Wat Si Khom Kham",
+    "lat": 19.176666666,
+    "lng": 99.889722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020844",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-rattana-mongkon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีรัตนมงคล",
+    "nameRoman": "Wat Si Rattana Mongkon",
+    "lat": 19.469722222,
+    "lng": 99.485277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108506972",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-suphan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสุพรรณ",
+    "nameRoman": "Wat Si Suphan",
+    "lat": 19.345833333,
+    "lng": 99.815555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110735527",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-sutthawat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสุทธาวาส",
+    "nameRoman": "Wat Si Sutthawat",
+    "lat": 19.366111111,
+    "lng": 99.506666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113399805",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-umong-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีอุโมงค์คำ",
+    "nameRoman": "Wat Si Umong Kham",
+    "lat": 19.165277777,
+    "lng": 99.900833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56598951",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-soi-si",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสร้อยศรี",
+    "nameRoman": "Wat Soi Si",
+    "lat": 19.343055555,
+    "lng": 100.17,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q60041976",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sop-li",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสบลี",
+    "nameRoman": "Wat Sop Li",
+    "lat": 18.783551724,
+    "lng": 99.519744495,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q121675641",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tha-fai-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าฟ้าใต้",
+    "nameRoman": "Wat Tha Fai Tai",
+    "lat": 19.001666666,
+    "lng": 100.281111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020694",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tha-ma-o",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่ามะโอ",
+    "nameRoman": "Wat Tha Ma-O",
+    "lat": 19.76253798,
+    "lng": 99.686817761,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109321349",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-thammikaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธรรมมิการาม",
+    "nameRoman": "Wat Thammikaram",
+    "lat": 19.159088751,
+    "lng": 100.356084284,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q131763216",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-thung-kluai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งกล้วย",
+    "nameRoman": "Wat Thung Kluai",
+    "lat": 19.59,
+    "lng": 100.375833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q60497828",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tilok-aram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดติโลกอาราม",
+    "nameRoman": "Wat Tilok Aram",
+    "lat": 19.158475,
+    "lng": 99.899795,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004173",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tom-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต๋อมกลาง",
+    "nameRoman": "Wat Tom Klang",
+    "lat": 19.198474142,
+    "lng": 99.837953519,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q136526913",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-wang-khem",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวังเค็ม",
+    "nameRoman": "Wat Wang Khem",
+    "lat": 19.529166666,
+    "lng": 100.317222222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q64932433",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-yuan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหย่วน",
+    "nameRoman": "Wat Yuan",
+    "lat": 19.526415157,
+    "lng": 100.29917528,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q128997553",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  }
+]

@@ -1,0 +1,442 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Wats of Chiang Mai · Mueang Map</title>
+<style>__MAPLIBRE_CSS__</style>
+<style>
+/* High-readability dark chrome. The map imagery is the richness; chrome stays flat.
+   Base type is deliberately large (17px) and contrast is high for low-vision use. */
+:root{
+  --bg:#12151a; --panel:#181c23; --panel2:#1f242d; --line:#2c333e;
+  --ink:#f2efe8; --ink-dim:#b6bcc6; --ink-faint:#8a919c;
+  --gold:#eab945; --gold-ink:#3a2c07;   /* heritage-registered */
+  --orange:#e08a4a;                       /* ordinary wat */
+  --teal:#4fbdb4;                         /* sacred site, not a wat */
+  --focus:#7fd1ff;
+  --r:14px;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{
+  background:var(--bg); color:var(--ink);
+  font:17px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans Thai",sans-serif;
+  overflow:hidden;
+}
+#app{display:grid;grid-template-columns:380px 1fr;height:100%}
+@media (max-width:820px){
+  #app{grid-template-columns:1fr;grid-template-rows:auto 1fr}
+  #panel{max-height:46vh}
+}
+
+/* ---- side panel ---- */
+#panel{background:var(--panel);border-right:1px solid var(--line);display:flex;flex-direction:column;min-height:0;z-index:2}
+header.hdr{padding:16px 18px 12px;border-bottom:1px solid var(--line)}
+header.hdr h1{margin:0;font-size:22px;font-weight:700;letter-spacing:.2px}
+header.hdr .th{color:var(--ink-dim);font-size:16px;margin-top:2px}
+.stats{margin-top:10px;font-size:15px;color:var(--ink-dim)}
+.stats b{color:var(--ink)}
+.stats .dot{color:var(--gold)}
+
+.controls{padding:12px 14px;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:10px}
+.search{display:flex;align-items:center;gap:8px;background:var(--panel2);border:1.5px solid var(--line);border-radius:12px;padding:0 12px}
+.search input{flex:1;background:none;border:0;color:var(--ink);font-size:17px;padding:12px 0;outline:none}
+.search input::placeholder{color:var(--ink-faint)}
+.search .mag{color:var(--ink-faint);font-size:18px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{
+  appearance:none;border:1.5px solid var(--line);background:var(--panel2);color:var(--ink);
+  min-height:40px;padding:6px 14px;border-radius:999px;font-size:15px;font-weight:600;cursor:pointer;
+  display:inline-flex;align-items:center;gap:7px;
+}
+.chip .n{color:var(--ink-faint);font-weight:600}
+.chip[aria-pressed="true"]{background:var(--ink);color:#14171c;border-color:var(--ink)}
+.chip[aria-pressed="true"] .n{color:#5a6069}
+.chip.heritage[aria-pressed="true"]{background:var(--gold);color:var(--gold-ink);border-color:var(--gold)}
+.chip.heritage[aria-pressed="true"] .n{color:#7a5c12}
+.chip:focus-visible,.search:focus-within,.row:focus-visible,.close:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+
+.count{padding:8px 18px;font-size:14px;color:var(--ink-faint);border-bottom:1px solid var(--line)}
+.list{flex:1;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch}
+.row{
+  display:flex;gap:12px;align-items:baseline;width:100%;text-align:left;
+  background:none;border:0;border-bottom:1px solid var(--line);color:inherit;
+  padding:13px 18px;cursor:pointer;font:inherit;
+}
+.row:hover{background:var(--panel2)}
+.row[aria-current="true"]{background:#242b35;box-shadow:inset 4px 0 0 var(--focus)}
+.row .mk{flex:none;width:16px;text-align:center;font-size:15px;line-height:1.4}
+.row .mk.h{color:var(--gold)}
+.row .mk.o{color:var(--orange)}
+.row .body{min-width:0;flex:1;display:block}
+.row .rm{display:block;font-size:17px;font-weight:600;color:var(--ink)}
+.row .thn{display:block;font-size:15px;color:var(--ink-dim);margin-top:1px}
+.row .meta{font-size:13px;color:var(--ink-faint);margin-top:3px;display:flex;gap:8px;flex-wrap:wrap}
+.badge-h{color:var(--gold-ink);background:var(--gold);border-radius:6px;padding:1px 7px;font-weight:700;font-size:12px}
+.dirtag{border:1px solid var(--line);border-radius:6px;padding:1px 7px}
+.empty{padding:28px 18px;color:var(--ink-faint);text-align:center}
+
+/* ---- map ---- */
+#map{position:relative;height:100%}
+.legend{
+  position:absolute;left:12px;bottom:12px;z-index:3;background:rgba(20,23,28,.92);
+  border:1px solid var(--line);border-radius:12px;padding:11px 13px;font-size:14px;max-width:230px;
+  backdrop-filter:blur(4px)}
+.legend h2{margin:0 0 7px;font-size:13px;text-transform:uppercase;letter-spacing:.6px;color:var(--ink-faint);font-weight:700}
+.legend .lg{display:flex;align-items:center;gap:9px;margin:5px 0}
+.legend .sw{flex:none;border-radius:50%}
+.legend .sw.h{width:17px;height:17px;background:var(--gold);border:2px solid #fff}
+.legend .sw.o{width:11px;height:11px;background:var(--orange);border:1.5px solid #12151a}
+.legend .sw.s{width:12px;height:12px;background:var(--teal);border:1.5px solid #fff;border-radius:3px}
+.row .mk.s{color:var(--teal)}
+.tag.teal{background:var(--teal);color:#04211f;border-color:var(--teal)}
+
+/* ---- detail card ---- */
+#card{
+  position:absolute;right:12px;top:12px;width:min(360px,calc(100% - 24px));z-index:4;
+  background:var(--panel);border:1px solid var(--line);border-radius:var(--r);
+  box-shadow:0 18px 50px rgba(0,0,0,.55);overflow:hidden}
+#card[hidden]{display:none}
+.card-hd{padding:16px 46px 14px 18px;position:relative;border-bottom:1px solid var(--line)}
+.card-hd.h{background:linear-gradient(180deg,rgba(234,185,69,.16),transparent)}
+.card-hd .rm{font-size:21px;font-weight:700;line-height:1.25}
+.card-hd .thn{font-size:17px;color:var(--ink-dim);margin-top:2px}
+.card-hd .tags{margin-top:10px;display:flex;gap:7px;flex-wrap:wrap}
+.tag{font-size:13px;font-weight:600;border-radius:7px;padding:3px 9px;border:1px solid var(--line);color:var(--ink-dim)}
+.tag.gold{background:var(--gold);color:var(--gold-ink);border-color:var(--gold)}
+.close{position:absolute;top:10px;right:10px;width:34px;height:34px;border-radius:9px;border:1px solid var(--line);
+  background:var(--panel2);color:var(--ink);font-size:20px;cursor:pointer;line-height:1}
+.card-bd{padding:14px 18px 18px}
+dl{margin:0;display:grid;grid-template-columns:104px 1fr;gap:8px 12px}
+dt{color:var(--ink-faint);font-size:14px}
+dd{margin:0;font-size:15px;color:var(--ink)}
+.src{margin-top:14px;padding-top:12px;border-top:1px solid var(--line);font-size:13px;color:var(--ink-faint)}
+.src a{color:var(--focus)}
+/* ---- photos: freely-licensed Commons imagery. Every photo carries its
+   author + licence next to it — attribution is part of the picture, not
+   buried in a footer. ---- */
+.photo{display:block;width:100%;background:#0d1014}
+.photo img{display:block;width:100%;height:190px;object-fit:cover}
+.photo-credit{font-size:11.5px;line-height:1.35;color:var(--ink-faint);padding:6px 18px 8px}
+.photo-credit a{color:var(--ink-dim)}
+.strip{display:flex;gap:6px;overflow-x:auto;padding:0 18px 12px}
+.strip button{flex:none;width:62px;height:48px;padding:0;border:1.5px solid var(--line);border-radius:7px;overflow:hidden;background:none;cursor:pointer}
+.strip button[aria-current="true"]{border-color:var(--focus);box-shadow:0 0 0 1px var(--focus)}
+.strip img{width:100%;height:100%;object-fit:cover;display:block}
+.strip button:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+.row .cam{color:var(--ink-faint);font-size:12px}
+.maplibregl-ctrl-attrib{font-size:11px}
+.skip{position:absolute;left:-999px}
+.skip:focus{left:8px;top:8px;z-index:20;background:var(--ink);color:#14171c;padding:8px 12px;border-radius:8px}
+</style>
+</head>
+<body>
+<a class="skip" href="#list">Skip to temple list</a>
+<div id="app">
+  <section id="panel">
+    <header class="hdr">
+      <h1>Wats of Chiang Mai</h1>
+      <div class="th">วัดในเชียงใหม่และรอบเมือง</div>
+      <div class="stats" id="stats"></div>
+    </header>
+    <div class="controls">
+      <label class="search">
+        <span class="mag" aria-hidden="true">⌕</span>
+        <input id="q" type="search" placeholder="Search temple name (Thai or roman)…" aria-label="Search temples" autocomplete="off">
+      </label>
+      <div class="chips" id="chips" role="group" aria-label="Filter temples"></div>
+    </div>
+    <div class="count" id="count" aria-live="polite"></div>
+    <div class="list" id="list" role="list" tabindex="-1"></div>
+  </section>
+  <div id="map">
+    <div class="legend">
+      <h2>Markers</h2>
+      <div class="lg"><span class="sw h"></span><span>Heritage-registered<br>historic temple</span></div>
+      <div class="lg"><span class="sw o"></span><span>Wat (crawled, unvisited)</span></div>
+      <div class="lg"><span class="sw s"></span><span>Sacred site (not a wat)</span></div>
+    </div>
+    <section id="card" hidden role="dialog" aria-modal="false" aria-labelledby="card-name"></section>
+  </div>
+</div>
+
+<script type="application/json" id="wats-data">__WATS_DATA__</script>
+<script type="application/json" id="wats-meta">__META__</script>
+<script>__MAPLIBRE_JS__</script>
+<script>
+const DATA = JSON.parse(document.getElementById('wats-data').textContent)
+const META = JSON.parse(document.getElementById('wats-meta').textContent)
+const feats = DATA.features
+const byId = new Map(feats.map(f => [f.properties.id, f]))
+
+// ---------- stats ----------
+const heritageN = feats.filter(f => f.properties._heritage).length
+const photoN = feats.filter(f => f.properties._photos).length
+document.getElementById('stats').innerHTML =
+  `<b>${META.count||feats.length}</b> temples · <span class="dot">★</span> <b>${heritageN}</b> heritage-registered`+
+  (META.sacred?` · <b>${META.sacred}</b> sacred sites`:'')+
+  (META.images?` · <b>${META.images}</b> photos`:'')
+
+// ---------- filter state ----------
+const DIRS = [['all','All'],['heritage','★ Heritage'],['sacred','Sacred sites'],['photos','Photos'],['C','Central'],['N','North'],['E','East'],['S','South'],['W','West']]
+let filter = 'all', query = ''
+const chipsEl = document.getElementById('chips')
+for (const [key,label] of DIRS){
+  const n = key==='all' ? feats.length
+    : key==='heritage' ? heritageN
+    : key==='sacred' ? feats.filter(f=>f.properties._kind==='sacred').length
+    : key==='photos' ? photoN
+    : feats.filter(f=>f.properties._dir===key).length
+  if (n===0) continue
+  const b = document.createElement('button')
+  b.className = 'chip' + (key==='heritage'?' heritage':'')
+  b.type='button'; b.dataset.key=key
+  b.setAttribute('aria-pressed', key==='all')
+  b.innerHTML = `${label} <span class="n">${n}</span>`
+  b.onclick = () => { filter=key; syncChips(); render() }
+  chipsEl.appendChild(b)
+}
+function syncChips(){ for (const b of chipsEl.children) b.setAttribute('aria-pressed', b.dataset.key===filter) }
+
+document.getElementById('q').addEventListener('input', e => { query = e.target.value.trim().toLowerCase(); render() })
+
+function visible(){
+  return feats.filter(f=>{
+    const p=f.properties
+    if (filter==='heritage' && !p._heritage) return false
+    if (filter==='sacred' && p._kind!=='sacred') return false
+    if (filter==='photos' && !p._photos) return false
+    if (['C','N','E','S','W'].includes(filter) && p._dir!==filter) return false
+    if (query && !p._search.includes(query)) return false
+    return true
+  })
+}
+
+// ---------- map ----------
+const map = new maplibregl.Map({
+  container:'map',
+  style:{version:8,
+    glyphs:'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',
+    sources:{osm:{type:'raster',tiles:['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],tileSize:256,
+      attribution:'© OpenStreetMap contributors (ODbL) · Wikidata (CC0) · photos via Wikimedia Commons (CC, credited per image) · MapLibre'}},
+    layers:[{id:'bg',type:'background',paint:{'background-color':'#12151a'}},
+      {id:'osm',type:'raster',source:'osm',paint:{'raster-saturation':-0.35,'raster-brightness-max':0.92}}]},
+  center:[98.987,18.788], zoom:11.6, attributionControl:true
+})
+map.addControl(new maplibregl.NavigationControl({showCompass:false}),'bottom-right')
+window.addEventListener('resize', () => map.resize())
+
+let layersReady = false
+function initLayers(){
+  // Attempted, not gated on isStyleLoaded(): that flag stays false while tiles
+  // are outstanding, which offline or on a filtered network is indefinitely —
+  // and the markers would then never appear even though the style parsed. The
+  // calls throw until the style is ready, so we try, swallow, and let the poll
+  // retry; each step is guarded so a partial run completes next tick.
+  if (layersReady) return
+  try {
+    if (!map.getSource('wats')) map.addSource('wats', {type:'geojson', data:DATA})
+  // ordinary wats — drawn first (under)
+  if(!map.getLayer('wat-normal'))map.addLayer({id:'wat-normal',type:'circle',source:'wats',
+    filter:['all',['!',['get','_heritage']],['!=',['get','_kind'],'sacred']],
+    paint:{
+      'circle-radius':['interpolate',['linear'],['zoom'],10,3.2,13,5,16,8],
+      'circle-color':'#e08a4a','circle-stroke-color':'#12151a','circle-stroke-width':1.4,'circle-opacity':0.92}})
+  // heritage — drawn on top, bigger, gold, white halo (size+stroke+colour: 3 signals)
+  if(!map.getLayer('wat-heritage'))map.addLayer({id:'wat-heritage',type:'circle',source:'wats',
+    filter:['all',['get','_heritage'],['!=',['get','_kind'],'sacred']],
+    paint:{
+      'circle-radius':['interpolate',['linear'],['zoom'],10,5,13,8,16,13],
+      'circle-color':'#eab945','circle-stroke-color':'#ffffff','circle-stroke-width':2.2}})
+  // sacred sites — a distinct third class, never counted among the wats
+  if(!map.getLayer('wat-sacred'))map.addLayer({id:'wat-sacred',type:'circle',source:'wats',
+    filter:['==',['get','_kind'],'sacred'],
+    paint:{
+      'circle-radius':['interpolate',['linear'],['zoom'],10,4.5,13,7,16,11],
+      'circle-color':'#4fbdb4','circle-stroke-color':'#ffffff','circle-stroke-width':2}})
+  // selection ring
+  if(!map.getLayer('wat-sel'))map.addLayer({id:'wat-sel',type:'circle',source:'wats',filter:['==',['get','id'],'__none__'],
+    paint:{'circle-radius':['interpolate',['linear'],['zoom'],10,9,13,14,16,20],
+      'circle-color':'rgba(0,0,0,0)','circle-stroke-color':'#7fd1ff','circle-stroke-width':3}})
+  // labels for heritage temples when zoomed in
+  if(!map.getLayer('wat-label'))map.addLayer({id:'wat-label',type:'symbol',source:'wats',filter:['get','_heritage'],minzoom:13.2,
+    layout:{'text-field':['get','_label'],'text-size':13,'text-offset':[0,1.3],'text-anchor':'top',
+      'text-font':['Open Sans Regular'],'text-max-width':9},
+    paint:{'text-color':'#f2efe8','text-halo-color':'#12151a','text-halo-width':1.6}})
+
+  } catch (e) { return }   // style not parsed yet — the poll comes back
+  layersReady = true
+  for (const id of ['wat-normal','wat-heritage','wat-sacred']){
+    map.on('click', id, e => select(e.features[0].properties.id, false))
+    map.on('mouseenter', id, ()=> map.getCanvas().style.cursor='pointer')
+    map.on('mouseleave', id, ()=> map.getCanvas().style.cursor='')
+  }
+  map.resize()
+  render()
+}
+// The map basemap may lag behind (tiles), so never gate on 'load' — add layers
+// as soon as the style is parsed, from whichever event wins the race.
+map.on('style.load', initLayers)
+map.on('load', () => { initLayers(); map.resize() })
+map.on('idle', () => map.resize())
+// Belt-and-braces: some embedded environments don't deliver the style/load
+// events to late-attached handlers, so poll until the style is parsed.
+const _poll = setInterval(() => {
+  initLayers()
+  if (layersReady) {
+    clearInterval(_poll)
+    // Some throttled/headless webviews park the render loop until an interaction;
+    // force a resize + a couple of repaints so markers paint without a nudge.
+    map.resize()
+    let n = 0
+    const _kick = setInterval(() => {
+      map.resize()
+      // a sub-pixel camera jog kicks a parked render loop; imperceptible, and a
+      // harmless no-op in a normal browser (which paints on load regardless).
+      map.panBy([0.5, 0.5], { duration: 0 }); map.panBy([-0.5, -0.5], { duration: 0 })
+      if (++n > 6) clearInterval(_kick)
+    }, 250)
+  }
+}, 120)
+
+function applyMapFilter(ids){
+  const set = ['in',['get','id'],['literal',ids]]
+  const norm = ['all',['!',['get','_heritage']],['!=',['get','_kind'],'sacred'],set]
+  const her  = ['all',['get','_heritage'],['!=',['get','_kind'],'sacred'],set]
+  const sac  = ['all',['==',['get','_kind'],'sacred'],set]
+  map.getLayer('wat-sacred') && map.setFilter('wat-sacred',sac)
+  map.getLayer('wat-normal') && map.setFilter('wat-normal',norm)
+  map.getLayer('wat-heritage') && map.setFilter('wat-heritage',her)
+  map.getLayer('wat-label') && map.setFilter('wat-label',her)
+}
+
+// ---------- list + render ----------
+const listEl = document.getElementById('list')
+const countEl = document.getElementById('count')
+let current = null
+
+function render(){
+  const vis = visible()
+  const ids = vis.map(f=>f.properties.id)
+  if (layersReady) applyMapFilter(ids)
+  countEl.textContent = `${vis.length} shown` + (query?` for “${query}”`:'') + (filter!=='all'&&filter!=='heritage'?` · ${dirName(filter)}`:'')
+  vis.sort((a,b)=>{
+    if (a.properties._heritage!==b.properties._heritage) return a.properties._heritage?-1:1
+    return (a.properties._label).localeCompare(b.properties._label)
+  })
+  listEl.innerHTML = ''
+  if (!vis.length){ listEl.innerHTML='<div class="empty">No temples match.</div>'; return }
+  const frag=document.createDocumentFragment()
+  for (const f of vis){
+    const p=f.properties
+    const b=document.createElement('button')
+    b.className='row'; b.type='button'; b.setAttribute('role','listitem'); b.dataset.id=p.id
+    if (p.id===current) b.setAttribute('aria-current','true')
+    b.innerHTML =
+      `<span class="mk ${p._kind==='sacred'?'s':(p._heritage?'h':'o')}" aria-hidden="true">${p._kind==='sacred'?'◆':(p._heritage?'★':'●')}</span>`+
+      `<span class="body"><span class="rm">${esc(p._label)}</span>`+
+      (p.name && p.name!==p._label ? `<span class="thn">${esc(p.name)}</span>`:'')+
+      `<span class="meta">`+
+      (p._heritage?`<span class="badge-h">Heritage</span>`:'')+
+      (p._kind==='sacred'&&p._siteType?`<span class="dirtag">${esc(p._siteType.split(';')[0])}</span>`:'')+
+      `<span class="dirtag">${dirName(p._dir)}</span>`+
+      (p._photos?`<span class="cam">▣ ${p._photos}</span>`:'')+
+      `</span></span>`
+    b.onclick=()=>select(p.id,true)
+    frag.appendChild(b)
+  }
+  listEl.appendChild(frag)
+}
+
+function select(id, fromList){
+  current=id
+  const f=byId.get(id); if(!f) return
+  map.getLayer('wat-sel') && map.setFilter('wat-sel',['==',['get','id'],id])
+  for (const r of listEl.children) r.setAttribute && r.setAttribute('aria-current', r.dataset.id===id?'true':'false')
+  if (fromList){
+    map.flyTo({center:f.geometry.coordinates, zoom:Math.max(map.getZoom(),15), speed:1.3})
+    const r=listEl.querySelector(`[data-id="${cssq(id)}"]`)
+  } else {
+    const r=listEl.querySelector(`[data-id="${cssq(id)}"]`)
+    if (r) r.scrollIntoView({block:'nearest'})
+  }
+  showCard(f)
+}
+
+function showCard(f){
+  const p=f.properties, a=p.attrs||{}
+  const rows=[]
+  const heritageTxt = a.heritage ? cap(a.heritage) : null
+  if (a.founded) rows.push(['Founded', esc(a.founded)])
+  if (a.sect && a.sect!=='unknown') rows.push(['Order', cap(a.sect)])
+  if (a.chediStyle) rows.push(['Chedi', esc(a.chediStyle)])
+  if (a.status) rows.push(['Status', cap(a.status)])
+  rows.push(['Area', dirName(p._dir)])
+  rows.push(['Coords', f.geometry.coordinates.map(n=>n.toFixed(4)).reverse().join(', ')])
+  const srcTxt = (p.sources||[]).map(s=>{
+    if (s.type==='osm' && s.ref) return `<a href="https://www.openstreetmap.org/${esc(s.ref)}" target="_blank" rel="noopener">OpenStreetMap</a>`
+    if (s.type==='wikidata') return s.ref?`<a href="https://www.wikidata.org/wiki/${esc(s.ref)}" target="_blank" rel="noopener">Wikidata</a>`:'Wikidata'
+    return esc(s.type)
+  })
+  const uniqSrc=[...new Set(srcTxt)]
+  const pics=(p.media||[]).filter(m=>m.type==='image'&&m.thumb)
+  const card=document.getElementById('card')
+  card.innerHTML =
+    `<div class="card-hd ${p._heritage?'h':''}">`+
+      `<button class="close" aria-label="Close">×</button>`+
+      `<div class="rm" id="card-name">${esc(p._label)}</div>`+
+      (p.name && p.name!==p._label?`<div class="thn">${esc(p.name)}</div>`:'')+
+      `<div class="tags">`+
+        (p._kind==='sacred'?`<span class="tag teal">◆ ${esc(p._siteType||'sacred site')}</span>`:'')+
+        (p._heritage?`<span class="tag gold">★ ${esc(heritageTxt||'Heritage-registered')}</span>`:'')+
+        `<span class="tag">${p.confidence==='verified'?'field-verified':'crawled · unvisited'}</span>`+
+      `</div>`+
+    `</div>`+
+    (pics.length?`<div id="photo-slot"></div>`:'')+
+    `<div class="card-bd"><dl>`+
+      rows.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join('')+
+    `</dl><div class="src">Source: ${uniqSrc.join(' · ')} · last updated ${esc(p.updatedAt||META.builtAt)}</div></div>`
+  if (pics.length) showPhoto(pics,0)
+  card.hidden=false
+  card.querySelector('.close').onclick=()=>{card.hidden=true; current=null; map.setFilter('wat-sel',['==',['get','id'],'__none__']); for(const r of listEl.children) r.setAttribute&&r.setAttribute('aria-current','false')}
+}
+
+document.addEventListener('keydown',e=>{ if(e.key==='Escape'){const c=document.getElementById('card'); if(!c.hidden) c.querySelector('.close').click()} })
+
+// Render photo `i` of `pics` into the open card. Author + licence sit directly
+// under the image and link back to the Commons file page — these are other
+// people's photographs under CC terms, so the credit travels with the picture.
+function showPhoto(pics,i){
+  const slot=document.getElementById('photo-slot'); if(!slot) return
+  const m=pics[i]
+  const lic = m.licenseUrl
+    ? `<a href="${esc(m.licenseUrl)}" target="_blank" rel="noopener">${esc(m.license)}</a>`
+    : esc(m.license)
+  slot.innerHTML =
+    `<a class="photo" href="${esc(m.source)}" target="_blank" rel="noopener" title="View on Wikimedia Commons">`+
+      `<img src="${esc(m.thumb)}" alt="${esc(m.description||('Photograph of '+ (pics.title||'')))}" loading="lazy">`+
+    `</a>`+
+    `<div class="photo-credit">${esc(m.author)} · ${lic} · `+
+      `<a href="${esc(m.source)}" target="_blank" rel="noopener">Wikimedia Commons</a>`+
+      (m.capturedAt?` · ${esc(m.capturedAt)}`:'')+
+    `</div>`+
+    (pics.length>1
+      ? `<div class="strip">`+pics.map((q,j)=>
+          `<button type="button" data-i="${j}" aria-current="${j===i}" aria-label="Photo ${j+1} of ${pics.length}">`+
+          `<img src="${esc(q.thumb)}" alt="" loading="lazy"></button>`).join('')+`</div>`
+      : '')
+  for (const b of slot.querySelectorAll('.strip button')) b.onclick=()=>showPhoto(pics,+b.dataset.i)
+}
+
+// ---------- helpers ----------
+function dirName(d){return {C:'Central',N:'North',E:'East',S:'South',W:'West'}[d]||d}
+function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function cssq(s){return String(s).replace(/["\\]/g,'\\$&')}
+function cap(s){s=String(s);return s.charAt(0).toUpperCase()+s.slice(1)}
+
+// The list is independent of the basemap — render it immediately.
+render()
+</script>
+</body>
+</html>

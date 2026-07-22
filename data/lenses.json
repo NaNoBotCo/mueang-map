@@ -1,0 +1,354 @@
+{
+  "_comment": "Lens registry — lenses are data, not code. Adding a lens = adding an entry here. shape+color+icon are all distinct per lens (color is never the sole signal). attrs declares the lens-specific payload schema; facets lists which attrs become filter controls in the viewer.",
+  "lenses": [
+    {
+      "id": "spirit-house",
+      "name": {
+        "th": "ศาลพระภูมิ/ศาลเจ้าที่",
+        "en": "Spirit houses"
+      },
+      "icon": "⛩",
+      "color": "#e0a63c",
+      "shape": "pin",
+      "seedPolicy": "field-primary — crawls cannot build this lens",
+      "attrs": {
+        "style": {
+          "type": "enum",
+          "options": [
+            "san-phra-phum",
+            "san-chao-thi",
+            "chao-thi-boran",
+            "unsure"
+          ]
+        },
+        "material": {
+          "type": "enum",
+          "options": [
+            "concrete",
+            "wood",
+            "spirit-house-city",
+            "other"
+          ]
+        },
+        "condition": {
+          "type": "enum",
+          "options": [
+            "tended",
+            "neglected",
+            "retired-cluster"
+          ]
+        },
+        "offerings": {
+          "type": "text"
+        }
+      },
+      "facets": [
+        "style",
+        "condition"
+      ]
+    },
+    {
+      "id": "wat",
+      "name": {
+        "th": "วัด",
+        "en": "Wats"
+      },
+      "icon": "🛕",
+      "color": "#c76d3b",
+      "shape": "triangle",
+      "seedPolicy": "OSM + Wikidata + Wikipedia",
+      "attrs": {
+        "sect": {
+          "type": "enum",
+          "options": [
+            "mahanikai",
+            "thammayut",
+            "unknown"
+          ]
+        },
+        "founded": {
+          "type": "text"
+        },
+        "chediStyle": {
+          "type": "text"
+        },
+        "status": {
+          "type": "enum",
+          "options": [
+            "active",
+            "ruin"
+          ]
+        },
+        "ubosotAccess": {
+          "type": "text"
+        },
+        "heritage": {
+          "type": "text"
+        }
+      },
+      "facets": [
+        "status",
+        "sect"
+      ]
+    },
+    {
+      "id": "sacred",
+      "name": {
+        "th": "สถานที่ศักดิ์สิทธิ์",
+        "en": "Sacred sites"
+      },
+      "icon": "🗿",
+      "color": "#3d8f8a",
+      "shape": "diamond",
+      "seedPolicy": "Wikidata (notable, non-wat) + Commons imagery",
+      "attrs": {
+        "siteType": {
+          "type": "text"
+        },
+        "heritage": {
+          "type": "text"
+        }
+      },
+      "facets": [
+        "siteType"
+      ]
+    },
+    {
+      "id": "view",
+      "name": {
+        "th": "จุดชมวิว",
+        "en": "Views"
+      },
+      "icon": "🌄",
+      "color": "#5b9dc4",
+      "shape": "diamond",
+      "seedPolicy": "field + heuristic (mark heuristic until visited)",
+      "attrs": {
+        "direction": {
+          "type": "text"
+        },
+        "subject": {
+          "type": "enum",
+          "options": [
+            "doi-suthep",
+            "city",
+            "river",
+            "rice-fields",
+            "other"
+          ]
+        },
+        "bestHour": {
+          "type": "text"
+        },
+        "access": {
+          "type": "enum",
+          "options": [
+            "free",
+            "paid",
+            "consumption"
+          ]
+        }
+      },
+      "facets": [
+        "subject",
+        "access"
+      ]
+    },
+    {
+      "id": "tattoo",
+      "name": {
+        "th": "ร้านสัก",
+        "en": "Tattoo"
+      },
+      "icon": "🪡",
+      "color": "#a06fc9",
+      "shape": "square",
+      "seedPolicy": "OSM shop points only; style/artist attrs from field input ONLY — never crawled text, never model memory",
+      "attrs": {
+        "style": {
+          "type": "enum",
+          "options": [
+            "sak-yant",
+            "machine",
+            "both"
+          ]
+        },
+        "artist": {
+          "type": "text",
+          "fieldOnly": true
+        }
+      },
+      "facets": [
+        "style"
+      ]
+    },
+    {
+      "id": "library",
+      "name": {
+        "th": "ห้องสมุด",
+        "en": "Libraries"
+      },
+      "icon": "📚",
+      "color": "#58b97e",
+      "shape": "hex",
+      "seedPolicy": "OSM + field",
+      "attrs": {
+        "type": {
+          "type": "enum",
+          "options": [
+            "public",
+            "university",
+            "cafe-library",
+            "little-free"
+          ]
+        },
+        "hours": {
+          "type": "text"
+        },
+        "wifi": {
+          "type": "enum",
+          "options": [
+            "yes",
+            "no",
+            "unknown"
+          ]
+        },
+        "farangUsable": {
+          "type": "enum",
+          "options": [
+            "yes",
+            "membership",
+            "no",
+            "unknown"
+          ]
+        }
+      },
+      "facets": [
+        "type",
+        "farangUsable"
+      ]
+    },
+    {
+      "id": "art-studio",
+      "name": {
+        "th": "สตูดิโอศิลปะ",
+        "en": "Art studios"
+      },
+      "icon": "🎨",
+      "color": "#d95f92",
+      "shape": "star",
+      "seedPolicy": "OSM + gallery listing crawls",
+      "attrs": {
+        "discipline": {
+          "type": "text"
+        },
+        "openToVisitors": {
+          "type": "enum",
+          "options": [
+            "yes",
+            "by-appointment",
+            "no",
+            "unknown"
+          ]
+        },
+        "classes": {
+          "type": "enum",
+          "options": [
+            "yes",
+            "no",
+            "unknown"
+          ]
+        }
+      },
+      "facets": [
+        "openToVisitors",
+        "classes"
+      ]
+    },
+    {
+      "id": "pad-krapow",
+      "name": {
+        "th": "ผัดกะเพรา",
+        "en": "Pad krapow"
+      },
+      "icon": "🌶",
+      "color": "#e5484d",
+      "shape": "circle",
+      "seedPolicy": "OSM restaurant candidates + field; ratings are FIELD-ONLY (crawled review scores never imported)",
+      "attrs": {
+        "proteins": {
+          "type": "text"
+        },
+        "khaiDao": {
+          "type": "enum",
+          "options": [
+            "crispy-edge",
+            "standard",
+            "sad",
+            "unknown"
+          ]
+        },
+        "priceBaht": {
+          "type": "text"
+        },
+        "heatHonesty": {
+          "type": "enum",
+          "options": [
+            "phet-means-phet",
+            "farang-calibrated",
+            "unknown"
+          ]
+        },
+        "rating": {
+          "type": "enum",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "fieldOnly": true
+        }
+      },
+      "facets": [
+        "khaiDao",
+        "heatHonesty"
+      ]
+    },
+    {
+      "id": "auspicious",
+      "name": {
+        "th": "มงคล/อัปมงคล",
+        "en": "Auspiciousness"
+      },
+      "icon": "☸",
+      "color": "#e7e1d5",
+      "shape": "cross",
+      "seedPolicy": "structural points computed from cited basis (data/canonical/auspicious-basis.md) as heuristic; declared readings from field only — never machine-generated",
+      "attrs": {
+        "basis": {
+          "type": "text"
+        },
+        "polarity": {
+          "type": "enum",
+          "options": [
+            "auspicious",
+            "inauspicious",
+            "ambivalent"
+          ]
+        },
+        "strength": {
+          "type": "enum",
+          "options": [
+            "major",
+            "minor"
+          ]
+        }
+      },
+      "facets": [
+        "polarity"
+      ]
+    }
+  ]
+}

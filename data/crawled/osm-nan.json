@@ -1,0 +1,2113 @@
+[
+  {
+    "id": "ban-huai-sataeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "Ban Huai Sataeng",
+    "nameRoman": "Ban Huai Sataeng",
+    "lat": 19.5347602,
+    "lng": 100.8690476,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4143986878",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chao-luang-phukha-palace",
+    "lens": [
+      "wat"
+    ],
+    "name": "ตำหนักเจ้าหลวงภูคา",
+    "nameRoman": "Chao Luang Phukha Palace",
+    "lat": 19.1824459,
+    "lng": 101.1004684,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2545276264",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chedi",
+    "lens": [
+      "wat"
+    ],
+    "name": "Chedi",
+    "nameRoman": "Chedi",
+    "lat": 18.7696183,
+    "lng": 100.7506225,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1089032278",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chedi-1464956028",
+    "lens": [
+      "wat"
+    ],
+    "name": "Chedi",
+    "nameRoman": "Chedi",
+    "lat": 18.8056732,
+    "lng": 100.7987245,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1464956028",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "drum-tower",
+    "lens": [
+      "wat"
+    ],
+    "name": "Drum tower",
+    "nameRoman": "Drum tower",
+    "lat": 18.7695168,
+    "lng": 100.7502868,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1089037561",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "nam-pi-pracharam-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "สำนักสงฆ์น้ำปี้ประชาราม",
+    "nameRoman": "Nam Pi Pracharam temple",
+    "lat": 18.4536196,
+    "lng": 100.9562475,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4835844712",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-11382323042",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าหัด",
+    "nameRoman": "วัดป่าหัด",
+    "lat": 18.7650199,
+    "lng": 100.7692092,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11382323042",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-2223270566",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดก้อ",
+    "nameRoman": null,
+    "lat": 18.7958596,
+    "lng": 101.0300727,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2223270566",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-6937697178",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนมูล",
+    "nameRoman": null,
+    "lat": 18.7566549,
+    "lng": 100.7617697,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697178",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-6937697182",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแช่พลาง",
+    "nameRoman": null,
+    "lat": 18.7442195,
+    "lng": 100.7767137,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697182",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-6937697388",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องตอง",
+    "nameRoman": null,
+    "lat": 18.7549461,
+    "lng": 100.7723573,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697388",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-8164436145",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเหนือฝาย",
+    "nameRoman": null,
+    "lat": 18.5722858,
+    "lng": 100.6853915,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/8164436145",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-1425516146",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาปัง",
+    "nameRoman": null,
+    "lat": 18.7131182,
+    "lng": 100.7752174,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1425516146",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-246663044",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพัฒนาตัวอย่าง",
+    "nameRoman": null,
+    "lat": 18.7738139,
+    "lng": 100.7743926,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246663044",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-246668573",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่คำ",
+    "nameRoman": null,
+    "lat": 18.7757384,
+    "lng": 100.7746658,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246668573",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-246808697",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไผ่เทลือง",
+    "nameRoman": null,
+    "lat": 18.7764041,
+    "lng": 100.7690459,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246808697",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-247183244",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอภัย",
+    "nameRoman": null,
+    "lat": 18.7740137,
+    "lng": 100.7643244,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247183244",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-566941221",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวังตาว",
+    "nameRoman": null,
+    "lat": 18.8362615,
+    "lng": 100.6929413,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/566941221",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-568040639",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าศรีถาวรวังตาว",
+    "nameRoman": null,
+    "lat": 18.8396676,
+    "lng": 100.6859697,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/568040639",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "phrathat-chom-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระธาตุจอมทอง",
+    "nameRoman": "Phrathat Chom Thong",
+    "lat": 19.2072491,
+    "lng": 100.9509011,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2231612834",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "sapan-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสะปัน",
+    "nameRoman": "Sapan Temple",
+    "lat": 19.1886131,
+    "lng": 101.1997488,
+    "geoPrecision": "exact",
+    "address": "Dong Phaya",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Bo Kluea",
+      "subdistrict": "Dong Phaya"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11411142323",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "toongmeng-templa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งเม็ง",
+    "nameRoman": "Toongmeng Templa",
+    "lat": 18.8588379,
+    "lng": 100.8175536,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1217240728",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "viharn",
+    "lens": [
+      "wat"
+    ],
+    "name": "Viharn",
+    "nameRoman": "Viharn",
+    "lat": 18.7695314,
+    "lng": 100.7507884,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1089037554",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-bun-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุญยืน",
+    "nameRoman": "Wat Bun Yuen",
+    "lat": 18.5712633,
+    "lng": 100.7522016,
+    "geoPrecision": "exact",
+    "address": "Klang Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/ja.wiangsa",
+      "province": "Nan",
+      "district": "Wiang Sa",
+      "subdistrict": "Klang Wiang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13658247934",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buppharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุปผาราม",
+    "nameRoman": "Wat Buppharam",
+    "lat": 18.7814904,
+    "lng": 100.7883767,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742861115",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chaiyaphum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไชยภูมิ",
+    "nameRoman": "Wat Chaiyaphum",
+    "lat": 18.8058454,
+    "lng": 100.7985828,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1464956027",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์",
+    "nameRoman": "Wat Chedi",
+    "lat": 18.7597252,
+    "lng": 100.7642862,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697176",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chetawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตวัน",
+    "nameRoman": "Wat Chetawan",
+    "lat": 18.2646742,
+    "lng": 100.5849874,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13649877248",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dhammachai-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธรรมชัย",
+    "nameRoman": "Wat Dhammachai temple",
+    "lat": 18.7922012,
+    "lng": 100.7518818,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3229403531",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-chai-pon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนชัยปอน",
+    "nameRoman": "Wat Don Chai Pon",
+    "lat": 19.5223842,
+    "lng": 100.924878,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6912797485",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนแก้ว",
+    "nameRoman": "Wat Don Kaeo",
+    "lat": 18.7829117,
+    "lng": 100.7840189,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6935557087",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-du-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดู่ใต้",
+    "nameRoman": "Wat Du Tai",
+    "lat": 18.7279222,
+    "lng": 100.7570341,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/352074580",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hat-khet-lang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหาดเค็ดล่าง",
+    "nameRoman": "Wat Hat Khet Lang",
+    "lat": 18.8880079,
+    "lng": 100.8348048,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4879545574",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hat-rai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหาดไร่",
+    "nameRoman": "Wat Hat Rai",
+    "lat": 18.5616734,
+    "lng": 100.9275228,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/206023887",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-khuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วข่วง",
+    "nameRoman": "Wat Hua Khuang",
+    "lat": 18.777172,
+    "lng": 100.7713289,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246808696",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-mueang-nuea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวเวียงเหนือ",
+    "nameRoman": "Wat Hua Mueang Nuea",
+    "lat": 18.8058678,
+    "lng": 100.7932219,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697412",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-weang-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวเวัยงไต้",
+    "nameRoman": "Wat Hua Weang Tai",
+    "lat": 18.7799331,
+    "lng": 100.7761523,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246829460",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกอก",
+    "nameRoman": "Wat Kok",
+    "lat": 18.7459283,
+    "lng": 100.7721952,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697181",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mahapon",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Mahapon",
+    "nameRoman": "Wat Mahapon",
+    "lat": 18.8027765,
+    "lng": 100.7869521,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11382323166",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ming-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมิ่งเมือง",
+    "nameRoman": "Wat Ming Muang",
+    "lat": 18.7748272,
+    "lng": 100.7691207,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246657160",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mongkol",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมงคล",
+    "nameRoman": "Wat Mongkol",
+    "lat": 18.7799794,
+    "lng": 100.7704142,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1217648219",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-montien",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมณเฑียนร",
+    "nameRoman": "Wat Montien",
+    "lat": 18.7781887,
+    "lng": 100.7676974,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247184493",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-chang-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Muang Chang Tai",
+    "nameRoman": "Wat Muang Chang Tai",
+    "lat": 18.8574629,
+    "lng": 100.8119684,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1217240730",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-len",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองเล็น",
+    "nameRoman": "Wat Muang Len",
+    "lat": 18.7863042,
+    "lng": 100.7875487,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6935532383",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-tuet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่วงตึ๊ด",
+    "nameRoman": "Wat Muang Tuet",
+    "lat": 18.7632872,
+    "lng": 100.7725179,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742861131",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-ka",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำคา",
+    "nameRoman": "Wat Nam Ka",
+    "lat": 19.2763357,
+    "lng": 100.8760752,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/7293803689",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-sai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำใส",
+    "nameRoman": "Wat Nam Sai",
+    "lat": 18.8156199,
+    "lng": 100.8591425,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1894224200",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-bua",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองบัว",
+    "nameRoman": "Wat Nong Bua",
+    "lat": 19.0887183,
+    "lng": 100.7859653,
+    "geoPrecision": "exact",
+    "address": "Pa Kha",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Tha Wang Pha",
+      "subdistrict": "Pa Kha"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4662468789",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-khao-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเขาน้อย",
+    "nameRoman": "Wat Pa Khao Noi",
+    "lat": 18.7708343,
+    "lng": 100.7490974,
+    "geoPrecision": "exact",
+    "address": "Du Tai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Du Tai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13638552011",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pang-san",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Pang San",
+    "nameRoman": "Wat Pang San",
+    "lat": 19.4313984,
+    "lng": 100.6044136,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1478717273",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-kwang",
+    "lens": [
+      "wat"
+    ],
+    "name": "บ้านผาขวาง",
+    "nameRoman": "Wat Pha Kwang",
+    "lat": 19.008862,
+    "lng": 100.7850424,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3735429891",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-koet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเกิด",
+    "nameRoman": "Wat Phra Koet",
+    "lat": 18.7906058,
+    "lng": 100.7870337,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6935532381",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-net",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเนตร",
+    "nameRoman": "Wat Phra Net",
+    "lat": 18.792051,
+    "lng": 100.7891244,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742861130",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-beng-sakat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุเบ็งสกัด",
+    "nameRoman": "Wat Phra That Beng Sakat",
+    "lat": 19.1784121,
+    "lng": 100.9180044,
+    "geoPrecision": "exact",
+    "address": "Pua",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Pua",
+      "subdistrict": "Pua"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13652450582",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chae-haeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุแช่แห้ง",
+    "nameRoman": "Wat Phra That Chae Haeng",
+    "lat": 18.758591,
+    "lng": 100.7915756,
+    "geoPrecision": "block",
+    "address": "89 Muang Tuet",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Phu Phiang",
+      "subdistrict": "Muang Tuet",
+      "street": "89"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/545986811",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chang-kam-worawiharn",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุช้างค้ำวรวิหาร",
+    "nameRoman": "Wat Phra That Chang Kam Worawiharn",
+    "lat": 18.7764322,
+    "lng": 100.7720523,
+    "geoPrecision": "block",
+    "address": "Nai Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Nai Wiang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246814232",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-khao-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุเขาน้อย",
+    "nameRoman": "Wat Phra That Khao Noi",
+    "lat": 18.7695359,
+    "lng": 100.7506496,
+    "geoPrecision": "block",
+    "address": "Du Tai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Du Tai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1089031375",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrachao-tanjai-moo-7-ban-huai-hat-village-uan-subdistri",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าทันใจ, หมู่ที่ 7, หมู่บ้าน บ้านห้วยหาด, ตำบล อวน, อำเภอปัว",
+    "nameRoman": "Wat Phrachao Tanjai, Moo 7, Ban Huai Hat Village, Uan Subdistrict, Pua District",
+    "lat": 18.987584,
+    "lng": 101.0656467,
+    "geoPrecision": "exact",
+    "address": "หมู่ที่ 7,",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "street": "หมู่ที่ 7,"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/10945287305",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phu-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูเวียง",
+    "nameRoman": "Wat Phu Wiang",
+    "lat": 18.95043,
+    "lng": 100.73994,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3518242189",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phu-yaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูแยง",
+    "nameRoman": "Wat Phu Yaeng",
+    "lat": 18.9211667,
+    "lng": 100.9233909,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2723015533",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phumin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูมินทร์",
+    "nameRoman": "Wat Phumin",
+    "lat": 18.7743106,
+    "lng": 100.7715808,
+    "geoPrecision": "block",
+    "address": "ผากอง Nai Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Nai Wiang",
+      "street": "ผากอง"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246657153",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-ngae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องแง",
+    "nameRoman": "Wat Rong Ngae",
+    "lat": 19.1756982,
+    "lng": 100.9357646,
+    "geoPrecision": "block",
+    "address": "Wora Nakhon",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Pua",
+      "subdistrict": "Wora Nakhon"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/739002155",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saeng-dao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสงดาว",
+    "nameRoman": "Wat Saeng Dao",
+    "lat": 18.7714053,
+    "lng": 100.7846368,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697399",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-samun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสมุน",
+    "nameRoman": "Wat Samun",
+    "lat": 18.7532774,
+    "lng": 100.7570327,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697180",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bunruang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบุญเรือง",
+    "nameRoman": "Wat Si Bunruang",
+    "lat": 18.765859,
+    "lng": 100.7722516,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697394",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-mongkon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีมงคล",
+    "nameRoman": "Wat Si Mongkon",
+    "lat": 19.0822572,
+    "lng": 100.8880494,
+    "geoPrecision": "block",
+    "address": "59 Yom",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Tha Wang Pha",
+      "subdistrict": "Yom",
+      "street": "59"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/582196602",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-panton",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีพันต้น",
+    "nameRoman": "Wat Si Panton",
+    "lat": 18.776155,
+    "lng": 100.7656266,
+    "geoPrecision": "block",
+    "address": "Chao Fa Rd Nai Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Nai Wiang",
+      "street": "Chao Fa Rd"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247183242",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suan-hom",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Suan Hom",
+    "nameRoman": "Wat Suan Hom",
+    "lat": 18.7832248,
+    "lng": 100.7694273,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/248646197",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suantan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสวนตาล",
+    "nameRoman": "Wat Suantan",
+    "lat": 18.784393,
+    "lng": 100.7737987,
+    "geoPrecision": "block",
+    "address": "Thanon Mahayot Nai Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/people/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5/100063561848007/",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Nai Wiang",
+      "street": "Thanon Mahayot"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247050757",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-chang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าช้าง",
+    "nameRoman": "Wat Tha Chang",
+    "lat": 18.7887521,
+    "lng": 100.7879564,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6935532382",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-lo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าล้อ",
+    "nameRoman": "Wat Tha Lo",
+    "lat": 18.7766566,
+    "lng": 100.7841691,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742861112",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-nao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าน้าว",
+    "nameRoman": "Wat Tha Nao",
+    "lat": 18.7368499,
+    "lng": 100.7686566,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697385",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tham-chetawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถ้ำเชตวัน",
+    "nameRoman": "Wat Tham Chetawan",
+    "lat": 18.272767,
+    "lng": 100.5781267,
+    "geoPrecision": "block",
+    "address": "San Tha",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://watchetawan.org/",
+      "openingHours": "Mo-Su 07:00-17:00",
+      "province": "Nan",
+      "district": "Na Noi",
+      "subdistrict": "San Tha"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1489131358",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "what-pughet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูเก็ต",
+    "nameRoman": "What Pughet",
+    "lat": 19.1652742,
+    "lng": 100.9340438,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/652761555",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  }
+]

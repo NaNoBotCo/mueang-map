@@ -1,0 +1,2818 @@
+[
+  {
+    "id": "ban-mae-nga-monks-residence",
+    "lens": [
+      "wat"
+    ],
+    "name": "สำนักสงฆ์บ้านแม่งะ",
+    "nameRoman": "Ban Mae Nga Monks Residence",
+    "lat": 18.3817372,
+    "lng": 98.0322681,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2240086155",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "bouddhist-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัด",
+    "nameRoman": "Bouddhist temple",
+    "lat": 19.3647436,
+    "lng": 98.4323319,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5038795824",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "golden-stupa",
+    "lens": [
+      "wat"
+    ],
+    "name": "Golden Stupa",
+    "nameRoman": "Golden Stupa",
+    "lat": 19.531107,
+    "lng": 98.0813784,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1367067681",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "luang-pho-to",
+    "lens": [
+      "wat"
+    ],
+    "name": "หลวงพ่อโต",
+    "nameRoman": "Luang Pho To",
+    "lat": 18.1514961,
+    "lng": 97.9444404,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1735496016",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-node-11382445837",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจอมแจ้ง",
+    "nameRoman": null,
+    "lat": 18.1602369,
+    "lng": 97.9428156,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11382445837",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-node-3881565709",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านแม่เกาะ",
+    "nameRoman": null,
+    "lat": 17.992446,
+    "lng": 97.9229721,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3881565709",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-way-546985893",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจองกลาง วัดจองคำ",
+    "nameRoman": null,
+    "lat": 19.2980775,
+    "lng": 97.9677411,
+    "geoPrecision": "block",
+    "address": "Chong Kham",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "district": "Mueang Mae Hong Son",
+      "subdistrict": "Chong Kham",
+      "founded": "1827",
+      "description": "Buddhist temple in Mae Hong Son province, Thailand",
+      "descriptionTh": "วัดในจังหวัดแม่ฮ่องสอน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดจองคำ (จังหวัดแม่ฮ่องสอน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดจองคำ เป็นพระอารามหลวงชั้นตรีชนิดสามัญ ในตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน เปรียบเสมือนเป็นวัดแฝดกับวัดจองกลางเนื่องจากตั้งอยู่ภายในเขตกำแพงแก้วเดียวกัน กระทรวงศึกษาธิการประกาศรวมเป็นวัดเดียวกันตั้งแต่วันที่ 14 ตุลาคม พ.ศ. 2517 พื้นที่ด้านหน้าของวัดซึ่งเป็นสวนสาธารณะหนองจองคำ ยังใช้เป็นสถานที่ประกอบพิธีตามประเพณีต่าง ๆ ในรอบปีอีกด้วย",
+        "sections": [
+          {
+            "heading": "วัดจองคำ",
+            "kind": null,
+            "text": "วัดจองคำสร้างเมื่อ พ.ศ. 2370 โดยพระยาสิหนาทราชาหรือเจ้าเมืองคนแรกของแม่ฮ่องสอน ใช้ช่างฝีมือชาวไทใหญ่เป็นศิลปะแบบไทใหญ่ ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 2 กันยายน พ.ศ. 2518 และได้รับพระราชทานยกขึ้นเป็นพระอารามหลวงชั้นตรีชนิดสามัญเมื่อวันที่ 27 กุมภาพันธ์ พ.ศ. 2527\nอาคารเสนาสนะได้แก่ เจดีย์ หรือชาวไทใหญ่เรียกว่า กองมู มีลักษณะคล้ายมณีทบ รูปทรงจุฬามณี ความสูง 32 ศอก ฐานสี่เหลี่ยมมีมุข 4 ด้าน พร้อมสิงห์ด้านละหนึ่งตัว ประดิษฐานพระพุทธรูปนั่งด้านละหนึ่งองค์ และเริ่มสร้างเมื่อเดือนมีนาคม พ.ศ. 2456 สร้างแล้วเสร็จในเดือนมกราคม พ.ศ. 2458 โดยศรัทธาขุนเพียร (พ่อเลี้ยงจองนุ) พิรุญกิจและแม่จองเฮือนคหบดี ชาวแม่ฮ่องสอนและในองค์พระเจดีย์ได้บรรจุพระบรมสารีริกธาตุไว้ \nอุโบสถเป็นอาคารรูปทรงมณฑปรูปสี่เหลี่ยมผืนผ้า กว้าง 6 เมตร ยาว 12 แมตร หลังคาเป็นคอนกรีตเสริมเหล็กรูป พระเจดีย์ 5 ยอด ภายในเขียนภาพพุทธประวัติบนฝาผนัง บานประตู หน้าต่างทำด้วยไม้แกะสลัก ภายในอุโบสถประดิษฐานพระประธาน ทางวัดได้ทำพิธีเททองหล่อขึ้น เมื่อวันที่ 9 มีนาคม พ.ศ. 2522 เบิกพระเนตรเมื่อวันที่ 15 มีนาคม พ.ศ. 2523 วิหารหลวงพ่อโตภายในเป็นที่ประดิษฐานพระประธาน คือ หลวงพ่อโต สร้างเมื่อปี พ.ศ. 2496 โดยช่างชาวพม่าเป็นพระพุทธรูปขนาดใหญ่ มีขนาดหน้าตักกว้าง 4.85 เมตร จำลองมาจากพระศรีศากยมุนี (หลวงพ่อโต) ที่วัดสุทัศน์เทพวราราม วิหารมีความผสมผสานระหว่างสถาปัตยกรรมไทใหญ่ผสมตะวันตก อาคารมีผังเป็นรูปตัวแอล ผนังก่ออิฐถือปูน ประตู หน้าต่างตอนบนโค้ง ประดับลวดลายแบบสถาปัตยกรรมตะวันตก หลังคามุงสังกะสี เชิงชายมีลูกไม้ฉลุแบบขนมปังขิง"
+          },
+          {
+            "heading": "วัดจองกลาง",
+            "kind": null,
+            "text": "วัดจองกลาง เรียกเช่นนี้เพราะตั้งอยู่ระหว่างวัดจองคำ และวัดจองใหม่ (โรงเรียนพระปริยัติธรรม) เดิมเป็นศาลาที่พักคนมาจำศีลในวันพระ เมื่อเจ้าอาวาสวัดจองใหม่รูปสุดท้ายได้มรณภาพไป มีพระภิกษุจากเมืองหมอกใหม่มาร่วมงานศพเจ้าอาวาสวัดจองใหม่ และเข้ามาพักอาศัยในศาลาเย็นดังกล่าว คณะศรัทธาเคารพนับถือพระภิกษุองค์นี้เป็นอย่างมาก จึงพร้อมใจกันนิมนต์ท่านมาประจำศาลาต่อไป จนเมื่อ พ.ศ. 2410 ลุงจองจายหล่อ, ลุงพหะจ่า, ลุงจองตุ๊ก, พ่อเลี้ยงจางนุ (ขุนเพียร) และลุงจองจ่อ ได้ร่วมกันสร้างวัด หลังคามุงด้วยสังกะสีฉลุลวดลายแบบสถาปัตยกรรม โดยช่างฝีมือชาวไทใหญ่ โดยเฉพาะห้องทางด้านหลังทิศตะวันออก ตามฝาผนังประดับภาพรวม 180 ภาพ โดยมีช่างฝีมือช่างพม่า เมื่อสร้างเสร็จเรียกว่า \"วัดจองกลาง\" ปีต่อมาพ่อเลี้ยงจางนุ (ขุนเพียร) แม่จองเฮือน มีจิตศรัทธาสร้างพระธาตุเจดีย์ ฐานสี่เหลี่ยม มุขสี่ด้าน แต่ละด้านสร้างสิงห์ไว้ 1 ตัว พร้อมกับสร้างศาลาวิปัสสนาติดองค์พระธาตุเจดีย์ ทิศตะวันออกหลังคาทรงปราสาททำด้วยสังกะสีฉลุลวดลาย เริ่มสร้างเมื่อปี พ.ศ. 2456\nต่อมากระทรวงศึกษาธิการได้ประกาศรวมวัดจองกลางกับวัดจองคำเป็นวัดเดียวกันตั้งแต่วันที่ 14 ตุลาคม พ.ศ. 2517 มีนามว่า \"วัดจองคำ\"\nอาคารเสนาสนะของวัดจองกลาง ได้แก่ เจดีย์วิหารเล็กด้านหน้าศาลาการเปรียญติดหนองจอง สันนิษฐานว่าสร้างพร้อมกับการสร้างวัดจองกลาง เจดีย์วิหารมีหลังคาเรือนยอดทรงปราสาทซ้อนถึงห้าชั้น ส่วนยอดของหลังคาที่สูงที่สุดประดับด้วยฉัตรทองสามชั้น หลังคามุงสังกะสี มีโลหะฉลุลายตกแต่งตามส่วนต่าง ๆ ของหลังคาและเชิงชาย วิหารใหญ่เป็นอาคารอเนกประสงค์ คือเป็นที่ประดิษฐานพระพุทธรูป ใช้ประกอบพิธีกรรมงานบุญประเพณี จัดแสดงพิพิธภัณฑ์ รวมทั้งเป็นหอฉันและกุฏิของเจ้าอาวาส"
+          }
+        ],
+        "chars": 3272
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดจองคำ (จังหวัดแม่ฮ่องสอน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดจองคำ เป็นพระอารามหลวงชั้นตรีชนิดสามัญ ในตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน เปรียบเสมือนเป็นวัดแฝดกับวัดจองกลางเนื่องจากตั้งอยู่ภายในเขตกำแพงแก้วเดียวกัน กระทรวงศึกษาธิการประกาศรวมเป็นวัดเดียวกันตั้งแต่วันที่ 14 ตุลาคม พ.ศ. 2517 พื้นที่ด้านหน้าของวัดซึ่งเป็นสวนสาธารณะหนองจองคำ ยังใช้เป็นสถานที่ประกอบพิธีตามประเพณีต่าง ๆ ในรอบปีอีกด้วย",
+          "sections": [
+            {
+              "heading": "วัดจองคำ",
+              "kind": null,
+              "text": "วัดจองคำสร้างเมื่อ พ.ศ. 2370 โดยพระยาสิหนาทราชาหรือเจ้าเมืองคนแรกของแม่ฮ่องสอน ใช้ช่างฝีมือชาวไทใหญ่เป็นศิลปะแบบไทใหญ่ ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 2 กันยายน พ.ศ. 2518 และได้รับพระราชทานยกขึ้นเป็นพระอารามหลวงชั้นตรีชนิดสามัญเมื่อวันที่ 27 กุมภาพันธ์ พ.ศ. 2527\nอาคารเสนาสนะได้แก่ เจดีย์ หรือชาวไทใหญ่เรียกว่า กองมู มีลักษณะคล้ายมณีทบ รูปทรงจุฬามณี ความสูง 32 ศอก ฐานสี่เหลี่ยมมีมุข 4 ด้าน พร้อมสิงห์ด้านละหนึ่งตัว ประดิษฐานพระพุทธรูปนั่งด้านละหนึ่งองค์ และเริ่มสร้างเมื่อเดือนมีนาคม พ.ศ. 2456 สร้างแล้วเสร็จในเดือนมกราคม พ.ศ. 2458 โดยศรัทธาขุนเพียร (พ่อเลี้ยงจองนุ) พิรุญกิจและแม่จองเฮือนคหบดี ชาวแม่ฮ่องสอนและในองค์พระเจดีย์ได้บรรจุพระบรมสารีริกธาตุไว้ \nอุโบสถเป็นอาคารรูปทรงมณฑปรูปสี่เหลี่ยมผืนผ้า กว้าง 6 เมตร ยาว 12 แมตร หลังคาเป็นคอนกรีตเสริมเหล็กรูป พระเจดีย์ 5 ยอด ภายในเขียนภาพพุทธประวัติบนฝาผนัง บานประตู หน้าต่างทำด้วยไม้แกะสลัก ภายในอุโบสถประดิษฐานพระประธาน ทางวัดได้ทำพิธีเททองหล่อขึ้น เมื่อวันที่ 9 มีนาคม พ.ศ. 2522 เบิกพระเนตรเมื่อวันที่ 15 มีนาคม พ.ศ. 2523 วิหารหลวงพ่อโตภายในเป็นที่ประดิษฐานพระประธาน คือ หลวงพ่อโต สร้างเมื่อปี พ.ศ. 2496 โดยช่างชาวพม่าเป็นพระพุทธรูปขนาดใหญ่ มีขนาดหน้าตักกว้าง 4.85 เมตร จำลองมาจากพระศรีศากยมุนี (หลวงพ่อโต) ที่วัดสุทัศน์เทพวราราม วิหารมีความผสมผสานระหว่างสถาปัตยกรรมไทใหญ่ผสมตะวันตก อาคารมีผังเป็นรูปตัวแอล ผนังก่ออิฐถือปูน ประตู หน้าต่างตอนบนโค้ง ประดับลวดลายแบบสถาปัตยกรรมตะวันตก หลังคามุงสังกะสี เชิงชายมีลูกไม้ฉลุแบบขนมปังขิง"
+            },
+            {
+              "heading": "วัดจองกลาง",
+              "kind": null,
+              "text": "วัดจองกลาง เรียกเช่นนี้เพราะตั้งอยู่ระหว่างวัดจองคำ และวัดจองใหม่ (โรงเรียนพระปริยัติธรรม) เดิมเป็นศาลาที่พักคนมาจำศีลในวันพระ เมื่อเจ้าอาวาสวัดจองใหม่รูปสุดท้ายได้มรณภาพไป มีพระภิกษุจากเมืองหมอกใหม่มาร่วมงานศพเจ้าอาวาสวัดจองใหม่ และเข้ามาพักอาศัยในศาลาเย็นดังกล่าว คณะศรัทธาเคารพนับถือพระภิกษุองค์นี้เป็นอย่างมาก จึงพร้อมใจกันนิมนต์ท่านมาประจำศาลาต่อไป จนเมื่อ พ.ศ. 2410 ลุงจองจายหล่อ, ลุงพหะจ่า, ลุงจองตุ๊ก, พ่อเลี้ยงจางนุ (ขุนเพียร) และลุงจองจ่อ ได้ร่วมกันสร้างวัด หลังคามุงด้วยสังกะสีฉลุลวดลายแบบสถาปัตยกรรม โดยช่างฝีมือชาวไทใหญ่ โดยเฉพาะห้องทางด้านหลังทิศตะวันออก ตามฝาผนังประดับภาพรวม 180 ภาพ โดยมีช่างฝีมือช่างพม่า เมื่อสร้างเสร็จเรียกว่า \"วัดจองกลาง\" ปีต่อมาพ่อเลี้ยงจางนุ (ขุนเพียร) แม่จองเฮือน มีจิตศรัทธาสร้างพระธาตุเจดีย์ ฐานสี่เหลี่ยม มุขสี่ด้าน แต่ละด้านสร้างสิงห์ไว้ 1 ตัว พร้อมกับสร้างศาลาวิปัสสนาติดองค์พระธาตุเจดีย์ ทิศตะวันออกหลังคาทรงปราสาททำด้วยสังกะสีฉลุลวดลาย เริ่มสร้างเมื่อปี พ.ศ. 2456\nต่อมากระทรวงศึกษาธิการได้ประกาศรวมวัดจองกลางกับวัดจองคำเป็นวัดเดียวกันตั้งแต่วันที่ 14 ตุลาคม พ.ศ. 2517 มีนามว่า \"วัดจองคำ\"\nอาคารเสนาสนะของวัดจองกลาง ได้แก่ เจดีย์วิหารเล็กด้านหน้าศาลาการเปรียญติดหนองจอง สันนิษฐานว่าสร้างพร้อมกับการสร้างวัดจองกลาง เจดีย์วิหารมีหลังคาเรือนยอดทรงปราสาทซ้อนถึงห้าชั้น ส่วนยอดของหลังคาที่สูงที่สุดประดับด้วยฉัตรทองสามชั้น หลังคามุงสังกะสี มีโลหะฉลุลายตกแต่งตามส่วนต่าง ๆ ของหลังคาและเชิงชาย วิหารใหญ่เป็นอาคารอเนกประสงค์ คือเป็นที่ประดิษฐานพระพุทธรูป ใช้ประกอบพิธีกรรมงานบุญประเพณี จัดแสดงพิพิธภัณฑ์ รวมทั้งเป็นหอฉันและกุฏิของเจ้าอาวาส"
+            }
+          ],
+          "chars": 3272
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดจองกลางL1000990.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87L1000990.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87L1000990.jpg/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87L1000990.jpg",
+        "width": 800,
+        "author": "Cat2you",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2011-04-28",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87L1000990.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Cat2you, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chong Klang and Chong Kham Temple.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Chong_Klang_and_Chong_Kham_Temple.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Chong_Klang_and_Chong_Kham_Temple.jpg/960px-Chong_Klang_and_Chong_Kham_Temple.jpg",
+        "width": 800,
+        "author": "Mr.Peerapong Prasutr",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "-Jong Klarng and Jong Kham Temples are just like twin temples. They are located in the same area situated at the center of Mae Hong Sorn City. They are considered as a cultural identity of Shan culture of this city. In addition to their magnificent art both of them are the centers of cultural activities of Mae Hong Sorn people. - Jong Kham Temple was built in B.E. 2370 (1287). It is an ancient temple that was built in the art style of Shan. The prominent architectural point of this temple is the 9-layer roof in the castle style. An important religious place in this temple is Vihara Lung Por Tho. Luang Por Tho is the largest Buddha statue in Mae Hong Sorn and was built by Myanmar craftsmen. At Jong Klarng Temple there is a prominent sermon hall in a monastery in the mixed styles of Myanmar and Shan architectures. It is a wooden building. Inside the building there are 200 vistas of Murals that are painted in color on the glass. It is the story about Buddhist History. In addition in this temple there is a pagoda (Kong Mu) which is considered as the most beautiful shaped pagoda in the Myanmar style.",
+        "capturedAt": "2006-11-11",
+        "source": "https://commons.wikimedia.org/wiki/File:Chong_Klang_and_Chong_Kham_Temple.jpg",
+        "credit": "-Jong Klarng and Jong Kham Temples are just like twin temples. They are located in the same area situated at the center of Mae Hong Sorn City. They are considered as a cultural identity of Shan culture of this city. In addition to their magnificent art both of them are the centers of cultural activities of Mae Hong Sorn people. - Jong Kham Temple was built in B.E. 2370 (1287). It is an ancient temple that was built in the art style of Shan. The prominent architectural point of this temple is the 9-layer roof in the castle style. An important religious place in this temple is Vihara Lung Por Tho. Luang Por Tho is the largest Buddha statue in Mae Hong Sorn and was built by Myanmar craftsmen. At Jong Klarng Temple there is a prominent sermon hall in a monastery in the mixed styles of Myanmar and Shan architectures. It is a wooden building. Inside the building there are 200 vistas of Murals that are painted in color on the glass. It is the story about Buddhist History. In addition in this temple there is a pagoda (Kong Mu) which is considered as the most beautiful shaped pagoda in the Myanmar style. — Mr.Peerapong Prasutr, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chong Klang and Chong Kham Temple banner.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Chong_Klang_and_Chong_Kham_Temple_banner.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Chong_Klang_and_Chong_Kham_Temple_banner.jpg/960px-Chong_Klang_and_Chong_Kham_Temple_banner.jpg",
+        "width": 800,
+        "author": "Mr.Peerapong Prasutr , cropped by User:FredTC",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wikivoyage pagebanner voor de stad Mae Hong Son",
+        "capturedAt": "2016-12-22",
+        "source": "https://commons.wikimedia.org/wiki/File:Chong_Klang_and_Chong_Kham_Temple_banner.jpg",
+        "credit": "Wikivoyage pagebanner voor de stad Mae Hong Son — Mr.Peerapong Prasutr , cropped by User:FredTC, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chong Kham Lake 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chong_Kham_Lake_1.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Chong_Kham_Lake_1.jpg/960px-Chong_Kham_Lake_1.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Chong Klang and Wat Chong Kham across the Chong Kham Lake in Mae Hong Son.",
+        "capturedAt": "2018-09-01",
+        "source": "https://commons.wikimedia.org/wiki/File:Chong_Kham_Lake_1.jpg",
+        "credit": "Wat Chong Klang and Wat Chong Kham across the Chong Kham Lake in Mae Hong Son. — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/546985893",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q56447615",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-way-592341840",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระธาตุวัดคอนผึ้ง",
+    "nameRoman": null,
+    "lat": 18.0496942,
+    "lng": 97.9362494,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/592341840",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "phra-that-ban-rai",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระธาตุบ้านไร่",
+    "nameRoman": "Phra That Ban Rai",
+    "lat": 18.1232563,
+    "lng": 97.9417336,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/593598080",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "phrathat-mueang-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "Phrathat Mueang Noi",
+    "nameRoman": "Phrathat Mueang Noi",
+    "lat": 19.509425,
+    "lng": 98.5056914,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/8465547806",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "phrathat-pha-pha",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระธาตุผาผ่า",
+    "nameRoman": "Phrathat Pha Pha",
+    "lat": 18.0351891,
+    "lng": 97.932058,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/592341834",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "sathan-pathiputtham-pong-sila",
+    "lens": [
+      "wat"
+    ],
+    "name": "สถานปฏิบัติธรรมโป่งศิลา(ปู่ฤาษีไพรดำ)",
+    "nameRoman": "Sathan Pathiputtham Pong Sila",
+    "lat": 18.8426551,
+    "lng": 97.9449547,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13333126518",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "stupa-591728521",
+    "lens": [
+      "wat"
+    ],
+    "name": "Stupa",
+    "nameRoman": "Stupa",
+    "lat": 17.9772008,
+    "lng": 97.740644,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/591728521",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "stupa-mae-hong-son",
+    "lens": [
+      "wat"
+    ],
+    "name": "Stupa",
+    "nameRoman": "Stupa",
+    "lat": 17.9823414,
+    "lng": 97.9149172,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/584098147",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-ban-rai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านไร่",
+    "nameRoman": "Wat Ban Rai",
+    "lat": 18.1258109,
+    "lng": 97.939187,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11382445719",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chai-lap",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดขัยลาภ",
+    "nameRoman": "Wat Chai Lap",
+    "lat": 18.1744897,
+    "lng": 97.9302031,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4693550169",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chong-kham-mae-hong-son",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจองคำ",
+    "nameRoman": "Wat Chong Kham",
+    "lat": 19.2979455,
+    "lng": 97.967964,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/761317482",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chong-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจองกลาง",
+    "nameRoman": "Wat Chong Klang",
+    "lat": 19.2980671,
+    "lng": 97.9673882,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "description": "Buddhist temple in Mae Hong Son province, Thailand"
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดจองกลางL1000508.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87L1000508.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87L1000508.jpg/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87L1000508.jpg",
+        "width": 800,
+        "author": "Cat2you",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2011-04-27",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87L1000508.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Cat2you, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:@@@ Wat Chong Klang (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/%40%40%40_Wat_Chong_Klang_%281%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%40%40%40_Wat_Chong_Klang_%281%29.jpg/960px-%40%40%40_Wat_Chong_Klang_%281%29.jpg",
+        "width": 800,
+        "author": "Chaiyathat",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2010-10-28",
+        "source": "https://commons.wikimedia.org/wiki/File:@@@_Wat_Chong_Klang_(1).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Chaiyathat, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:@@@ Wat Chong Klang (2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/%40%40%40_Wat_Chong_Klang_%282%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/%40%40%40_Wat_Chong_Klang_%282%29.jpg/960px-%40%40%40_Wat_Chong_Klang_%282%29.jpg",
+        "width": 800,
+        "author": "Chaiyathat",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2010-10-28",
+        "source": "https://commons.wikimedia.org/wiki/File:@@@_Wat_Chong_Klang_(2).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Chaiyathat, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chong Kham Lake 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chong_Kham_Lake_1.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Chong_Kham_Lake_1.jpg/960px-Chong_Kham_Lake_1.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Chong Klang and Wat Chong Kham across the Chong Kham Lake in Mae Hong Son.",
+        "capturedAt": "2018-09-01",
+        "source": "https://commons.wikimedia.org/wiki/File:Chong_Kham_Lake_1.jpg",
+        "credit": "Wat Chong Klang and Wat Chong Kham across the Chong Kham Lake in Mae Hong Son. — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/761317483",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q66477520",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-don-chedi-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนเจดีย์",
+    "nameRoman": "Wat Don Chedi temple",
+    "lat": 19.3067996,
+    "lng": 97.9612899,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2777281195",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-hua-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวเวียง",
+    "nameRoman": "Wat Hua Wiang",
+    "lat": 19.3025873,
+    "lng": 97.9658687,
+    "geoPrecision": "block",
+    "address": "Chong Kham",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "district": "Mueang Mae Hong Son",
+      "subdistrict": "Chong Kham",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Mae Hong Son province, Thailand",
+      "descriptionTh": "วัดในจังหวัดแม่ฮ่องสอน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดหัวเวียง (จังหวัดแม่ฮ่องสอน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดหัวเวียง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน มีที่ดินตั้งวัดเนื้อที่ 5 ไร่ 3 งาน 95 ตารางวา\nวัดหัวเวียงสร้างขึ้นเมื่อ พ.ศ. 2406 ตามประวัติวัดระบุว่า หัวเวียง ก็คือ หัวเมือง สร้างขึ้นเมื่อ พ.ศ. 2390 จากนั้นจึงสร้างวัดขึ้น ไม่ทราบนามผู้สร้างวัด ทราบแต่ว่าเป็นวัดแห่งที่สองของเมืองแม่ฮ่องสอน ชาวเมืองแม่ฮ่องสอนเรียกอีกชื่อหนึ่งว่า วัดกลางเวียง วัดได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 16 มีนาคม พ.ศ. 2519 เขตวิสุงคามสีมากว้าง 40 เมตร ยาว 80 เมตร\nเสนาสนะที่สำคัญ คือ วิหารพระเจ้าพาราละแข่ง เป็นวิหารไม้ ศิลปกรรมแบบศิลปะไทใหญ่ เป็นอาคารไม้ที่แบ่งพื้นที่ของอาคารออกเป็น 2 ส่วน มีส่วนยอด ที่ทำเป็นหลังคาซ้อนชั้นเหมือนปราสาทจำนวน 2 ยอด…",
+        "sections": [],
+        "chars": 1533
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดหัวเวียง (จังหวัดแม่ฮ่องสอน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดหัวเวียง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน มีที่ดินตั้งวัดเนื้อที่ 5 ไร่ 3 งาน 95 ตารางวา\nวัดหัวเวียงสร้างขึ้นเมื่อ พ.ศ. 2406 ตามประวัติวัดระบุว่า หัวเวียง ก็คือ หัวเมือง สร้างขึ้นเมื่อ พ.ศ. 2390 จากนั้นจึงสร้างวัดขึ้น ไม่ทราบนามผู้สร้างวัด ทราบแต่ว่าเป็นวัดแห่งที่สองของเมืองแม่ฮ่องสอน ชาวเมืองแม่ฮ่องสอนเรียกอีกชื่อหนึ่งว่า วัดกลางเวียง วัดได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 16 มีนาคม พ.ศ. 2519 เขตวิสุงคามสีมากว้าง 40 เมตร ยาว 80 เมตร\nเสนาสนะที่สำคัญ คือ วิหารพระเจ้าพาราละแข่ง เป็นวิหารไม้ ศิลปกรรมแบบศิลปะไทใหญ่ เป็นอาคารไม้ที่แบ่งพื้นที่ของอาคารออกเป็น 2 ส่วน มีส่วนยอด ที่ทำเป็นหลังคาซ้อนชั้นเหมือนปราสาทจำนวน 2 ยอด…",
+          "sections": [],
+          "chars": 1533
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดหัวเวียง - panoramio.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_-_panoramio.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_-_panoramio.jpg/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_-_panoramio.jpg",
+        "width": 800,
+        "author": "::::=UT=::::",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "วัดหัวเวียง",
+        "capturedAt": "Taken on 2",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_-_panoramio.jpg",
+        "credit": "วัดหัวเวียง — ::::=UT=::::, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Singha.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Singha.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Singha.jpg/960px-Singha.jpg",
+        "width": 800,
+        "author": "sashaguide",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Hua Viang Temple : Maehongson Thailand",
+        "capturedAt": "11 January",
+        "source": "https://commons.wikimedia.org/wiki/File:Singha.jpg",
+        "credit": "Hua Viang Temple : Maehongson Thailand — sashaguide, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:วัดหัวเวียง - panoramio - ----=UT=----.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_-_panoramio_-_----%3DUT%3D----.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_-_panoramio_-_----%3DUT%3D----.jpg/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_-_panoramio_-_----%3DUT%3D----.jpg",
+        "width": 800,
+        "author": "::::=UT=::::",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "วัดหัวเวียง",
+        "capturedAt": "Taken on 2",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87_-_panoramio_-_----%3DUT%3D----.jpg",
+        "credit": "วัดหัวเวียง — ::::=UT=::::, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/641195581",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q66477704",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-huai-po",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Huai Po",
+    "nameRoman": "Wat Huai Po",
+    "lat": 18.0331999,
+    "lng": 97.9011934,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6401764887",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-huai-pong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยโป่ง",
+    "nameRoman": "Wat Huai Pong",
+    "lat": 19.0261921,
+    "lng": 97.9831182,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2528713038",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-huai-sing",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยสิงห์",
+    "nameRoman": "Wat Huai Sing",
+    "lat": 18.0590411,
+    "lng": 97.9172549,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11382445621",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-hung-laeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหุ่งแล้ง",
+    "nameRoman": "Wat Hung Laeng",
+    "lat": 18.1631297,
+    "lng": 97.9216053,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/384801337",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-jong-soong",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Jong Soong",
+    "nameRoman": "Wat Jong Soong",
+    "lat": 18.1605619,
+    "lng": 97.9307584,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/734708986",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-kam-ko",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Kam Ko",
+    "nameRoman": "Wat Kam Ko",
+    "lat": 19.2978258,
+    "lng": 97.9637862,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Mae Hong Son province, Thailand",
+      "descriptionTh": "วัดในจังหวัดแม่ฮ่องสอน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดก้ำก่อ",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B9%89%E0%B8%B3%E0%B8%81%E0%B9%88%E0%B8%AD",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดก้ำก่อ เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน",
+        "sections": [
+          {
+            "heading": "ประวัติ",
+            "kind": "history",
+            "text": "วัดก้ำก่อ ภาษาไต แปลว่า \"ดอกบุนนาค\" สร้างเมื่อ 22 มกราคม พ.ศ. 2433 โดยเจ้าอาวาสรูปแรกของวัด นามว่า \"ครูบาเฒ่า\" หรือชาวบ้านเรียกว่า \"ตุ๊เจ้าเจียงตอง\" หมายถึงพระที่มาจากเมืองเชียงของ ท่านเป็นชาวไทใหญ่ที่อพยพมาจากเมืองเชียงทอง เริ่มแรกท่านได้เดินทางเข้ามาพบที่ว่างราวครึ่งสนามฟุตบอลอยู่ท่ามกลางป่าไม้ล้อมรอบ จึงได้ชักชวนชาวบ้านมาดูและตัดสินใจสร้างวัดขึ้นโดยชาวบ้านเป็นผู้หาวัสดุก่อสร้างและลงแรงกันเอง วัดได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2519"
+          },
+          {
+            "heading": "อาคารเสนาสนะและปูชนียวัตถุ",
+            "kind": "interest",
+            "text": "สถาปัตยกรรมของวัดมีลักษณะไทใหญ่ สร้างโดยฝีมือของช่างชาวไทใหญ่ มีส่างหว่าง หรือซุ้มประตูทางเข้าศาลาการเปรียญอันเป็นเอกลักษณ์ของสถาปัตยกรรมไทใหญ่ ส่างหว่างสร้างขึ้นในปี พ.ศ. 2484 โดยนายส่วยจิ่ง นางยุ้น ตรีทอง อุโบสถสร้างขึ้นเมื่อ 8 มกราคม พ.ศ. 2533 ศาลาปฏิบัติวิปัสสนากัมมัฏฐาน ขนาดบรรจุ ผู้ปฏิบัติธรรมได้ไม่น้อยกว่าครั้งละ 100 คน สร้างเมื่อ 10 มีนาคม พ.ศ. 2519 ศาลาสุวรรณสมบูรณ์ สร้างขึ้นเมื่อ 5 ธันวาคม พ.ศ. 2516 กุฏิรับรองหลังใหญ่ ใช้บรรจุผู้มาเยือน และพักอาศัยได้ครั้งละไม่น้อยกว่า 50 คน กุฏิรับรองหลังเล็ก ใช้บรรจุผู้มาเยือน และพักอาศัย กุฏิพระครูปัญญาวราภรณ์ ลักษณะเป็นตึกแถว มีห้องนอนห้องน้ำห้องส้วมเป็นสัดเป็นส่วน สร้างเมื่อ 17 สิงหาคม พ.ศ. 2531\nปูชนียวัตถุที่สำคัญ ได้แก่ พระประธานปางมารวิชัยของวัด ขนาดหน้าตัก 60 นิ้ว พระมัณฑะเลย์ ย้ายมาจากอุโบสถหลังวิหารวัดพระนอน จเรหม่องเจ้าศรัทธาและได้นำมาประดิษฐ์ไว้ที่วัดก้ำก่อเมื่อ ขึ้น 13 ค่ำ เดือน 8 พ.ศ. 2509 โดยมีหลวงพ่อกุงหม่า (กมล) กุสโลภิกขุและพระมหารักษ์ สุภิญโญ ได้อัญเชิญนำมาประดิษฐ์ไว้ พระหินอ่อนทรงเครื่อง ศรัทธา คุณบุญชู คุณปริศนา ตรีทอง นำมาจากประเทศพม่า เพื่อถวายให้ประดิษฐ์อยู่ที่วัดก้ำก่อเมื่อวันที่ 7 เมษายน พ.ศ. 2533 ธรรมาสน์เก่าแก่ ศรัทธาพ่อเฒ่าจองติยะ นางโหย่ง ถวายเมื่อเริ่มสร้างวัด"
+          }
+        ],
+        "chars": 1772
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดก้ำก่อ",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B9%89%E0%B8%B3%E0%B8%81%E0%B9%88%E0%B8%AD",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดก้ำก่อ เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน",
+          "sections": [
+            {
+              "heading": "ประวัติ",
+              "kind": "history",
+              "text": "วัดก้ำก่อ ภาษาไต แปลว่า \"ดอกบุนนาค\" สร้างเมื่อ 22 มกราคม พ.ศ. 2433 โดยเจ้าอาวาสรูปแรกของวัด นามว่า \"ครูบาเฒ่า\" หรือชาวบ้านเรียกว่า \"ตุ๊เจ้าเจียงตอง\" หมายถึงพระที่มาจากเมืองเชียงของ ท่านเป็นชาวไทใหญ่ที่อพยพมาจากเมืองเชียงทอง เริ่มแรกท่านได้เดินทางเข้ามาพบที่ว่างราวครึ่งสนามฟุตบอลอยู่ท่ามกลางป่าไม้ล้อมรอบ จึงได้ชักชวนชาวบ้านมาดูและตัดสินใจสร้างวัดขึ้นโดยชาวบ้านเป็นผู้หาวัสดุก่อสร้างและลงแรงกันเอง วัดได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2519"
+            },
+            {
+              "heading": "อาคารเสนาสนะและปูชนียวัตถุ",
+              "kind": "interest",
+              "text": "สถาปัตยกรรมของวัดมีลักษณะไทใหญ่ สร้างโดยฝีมือของช่างชาวไทใหญ่ มีส่างหว่าง หรือซุ้มประตูทางเข้าศาลาการเปรียญอันเป็นเอกลักษณ์ของสถาปัตยกรรมไทใหญ่ ส่างหว่างสร้างขึ้นในปี พ.ศ. 2484 โดยนายส่วยจิ่ง นางยุ้น ตรีทอง อุโบสถสร้างขึ้นเมื่อ 8 มกราคม พ.ศ. 2533 ศาลาปฏิบัติวิปัสสนากัมมัฏฐาน ขนาดบรรจุ ผู้ปฏิบัติธรรมได้ไม่น้อยกว่าครั้งละ 100 คน สร้างเมื่อ 10 มีนาคม พ.ศ. 2519 ศาลาสุวรรณสมบูรณ์ สร้างขึ้นเมื่อ 5 ธันวาคม พ.ศ. 2516 กุฏิรับรองหลังใหญ่ ใช้บรรจุผู้มาเยือน และพักอาศัยได้ครั้งละไม่น้อยกว่า 50 คน กุฏิรับรองหลังเล็ก ใช้บรรจุผู้มาเยือน และพักอาศัย กุฏิพระครูปัญญาวราภรณ์ ลักษณะเป็นตึกแถว มีห้องนอนห้องน้ำห้องส้วมเป็นสัดเป็นส่วน สร้างเมื่อ 17 สิงหาคม พ.ศ. 2531\nปูชนียวัตถุที่สำคัญ ได้แก่ พระประธานปางมารวิชัยของวัด ขนาดหน้าตัก 60 นิ้ว พระมัณฑะเลย์ ย้ายมาจากอุโบสถหลังวิหารวัดพระนอน จเรหม่องเจ้าศรัทธาและได้นำมาประดิษฐ์ไว้ที่วัดก้ำก่อเมื่อ ขึ้น 13 ค่ำ เดือน 8 พ.ศ. 2509 โดยมีหลวงพ่อกุงหม่า (กมล) กุสโลภิกขุและพระมหารักษ์ สุภิญโญ ได้อัญเชิญนำมาประดิษฐ์ไว้ พระหินอ่อนทรงเครื่อง ศรัทธา คุณบุญชู คุณปริศนา ตรีทอง นำมาจากประเทศพม่า เพื่อถวายให้ประดิษฐ์อยู่ที่วัดก้ำก่อเมื่อวันที่ 7 เมษายน พ.ศ. 2533 ธรรมาสน์เก่าแก่ ศรัทธาพ่อเฒ่าจองติยะ นางโหย่ง ถวายเมื่อเริ่มสร้างวัด"
+            }
+          ],
+          "chars": 1772
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Kum Ko.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Wat_Kum_Ko.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wat_Kum_Ko.jpg/960px-Wat_Kum_Ko.jpg",
+        "width": 800,
+        "author": "Khunmoohan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2010-04-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Kum_Ko.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Khunmoohan, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/490728520",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q101439305",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-kam-ko-1104620422",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดก้ำก่อ",
+    "nameRoman": "Wat Kam Ko",
+    "lat": 19.2975904,
+    "lng": 97.9639791,
+    "geoPrecision": "block",
+    "address": "Chong Kham",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/watkamko/",
+      "province": "Mae Hong Son",
+      "district": "Mueang Mae Hong Son",
+      "subdistrict": "Chong Kham"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1104620422",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-khon-phueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดคอนผึ้ง",
+    "nameRoman": "Wat Khon Phueng",
+    "lat": 18.0485596,
+    "lng": 97.9343255,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/234738680",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-klang-mae-hong-son",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกลาง",
+    "nameRoman": "Wat Klang",
+    "lat": 19.3601471,
+    "lng": 98.4428336,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "description": "Buddhist temple in Mae Hong Son province, Thailand",
+      "descriptionTh": "วัดในจังหวัดแม่ฮ่องสอน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดกลาง (จังหวัดแม่ฮ่องสอน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดกลาง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน ที่ดินตั้งวัดมีเนื้อที่ 5 ไร่ 35 ตารางวา\nวัดกลางสร้างเมื่อ พ.ศ. 2335 ตามประวัติวัดแจ้งว่าสร้างเมื่อ พ.ศ. 2394 เดิมเป็นวัดร้าง ต่อมามีพระธุดงค์นามว่า สุนันทา มาจากเมืองปู ได้ธุดงค์มาถึงที่นี่ แลเห็นว่าที่เหล่านี้เป็นวัดเดิมเพราะมีสีมาปรากฏ จึงได้อธิษฐานที่จะจำพรรษาและได้ซ่อมแซมเสนาสนะพออยู่อาศัยได้ จากอีกแหล่งข้อมูลระบุว่า ชาวไทใหญ่ได้สร้างวัดขึ้นมาใหม่โดยมีการรื้อถอนและปลูกสร้างมาหลายครั้ง จนกระทั่งครั้งหลังสุดได้สร้างใหม่ในช่วงเวลาประมาณ พ.ศ. 2469 วัดได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 10 มีนาคม พ.ศ. 2515 เขตวิสุงคามสีมากว้าง 30 เมตร ยาว 40 เมตร\nวัดกลางมีเจดีย์องค์ใหญ่ ศิลปะไทใหญ่…",
+        "sections": [],
+        "chars": 844
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดกลาง (จังหวัดแม่ฮ่องสอน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดกลาง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน ที่ดินตั้งวัดมีเนื้อที่ 5 ไร่ 35 ตารางวา\nวัดกลางสร้างเมื่อ พ.ศ. 2335 ตามประวัติวัดแจ้งว่าสร้างเมื่อ พ.ศ. 2394 เดิมเป็นวัดร้าง ต่อมามีพระธุดงค์นามว่า สุนันทา มาจากเมืองปู ได้ธุดงค์มาถึงที่นี่ แลเห็นว่าที่เหล่านี้เป็นวัดเดิมเพราะมีสีมาปรากฏ จึงได้อธิษฐานที่จะจำพรรษาและได้ซ่อมแซมเสนาสนะพออยู่อาศัยได้ จากอีกแหล่งข้อมูลระบุว่า ชาวไทใหญ่ได้สร้างวัดขึ้นมาใหม่โดยมีการรื้อถอนและปลูกสร้างมาหลายครั้ง จนกระทั่งครั้งหลังสุดได้สร้างใหม่ในช่วงเวลาประมาณ พ.ศ. 2469 วัดได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 10 มีนาคม พ.ศ. 2515 เขตวิสุงคามสีมากว้าง 30 เมตร ยาว 40 เมตร\nวัดกลางมีเจดีย์องค์ใหญ่ ศิลปะไทใหญ่…",
+          "sections": [],
+          "chars": 844
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Klang Pai 4.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Wat_Klang_Pai_4.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wat_Klang_Pai_4.jpg/960px-Wat_Klang_Pai_4.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Klang in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Klang_Pai_4.jpg",
+        "credit": "Wat Klang in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Klang Pai 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Wat_Klang_Pai_1.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wat_Klang_Pai_1.jpg/960px-Wat_Klang_Pai_1.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Klang in Pai (Thailand).",
+        "capturedAt": "2018-08-30",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Klang_Pai_1.jpg",
+        "credit": "Wat Klang in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Klang Pai 3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wat_Klang_Pai_3.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wat_Klang_Pai_3.jpg/960px-Wat_Klang_Pai_3.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Klang in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Klang_Pai_3.jpg",
+        "credit": "Wat Klang in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Klang Pai 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Wat_Klang_Pai_2.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wat_Klang_Pai_2.jpg/960px-Wat_Klang_Pai_2.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Klang in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Klang_Pai_2.jpg",
+        "credit": "Wat Klang in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/389705076",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q105846598",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-kung-kaeng-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Kung Kaeng",
+    "nameRoman": "Wat Kung Kaeng temple",
+    "lat": 19.343683,
+    "lng": 98.4353685,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5317413621",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-luang-mae-hong-son",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลวง",
+    "nameRoman": "Wat Luang",
+    "lat": 19.3599056,
+    "lng": 98.4386591,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "description": "Buddhist temple in Mae Hong Son province, Thailand",
+      "descriptionTh": "วัดในจังหวัดแม่ฮ่องสอน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดหลวง (จังหวัดแม่ฮ่องสอน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดหลวง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน ที่ดินตั้งวัดมีเนื้อที่ 7 ไร่ 3 งาน 59 ตารางวา\nวัดหลวงสร้างเมื่อ พ.ศ. 2346 เดิมเป็นวัดร้างมาก่อน มีพระพุทธรูปใหญ่ก่อด้วยอิฐถือปูนได้ทรุดโทรมไป ต่อมาเมื่อ พ.ศ. 2442 พระยาดำรงพ่อเมืองปายได้ถึงแก่พิราลัยไป บุตรของพระยาดำรง คือ พระยาราช มาปกครองแทน แล้วได้นำราษฎรในอำเภอปายสร้างเจดีย์วัดหลวงก่อน สร้างครอบองค์พระพุทธรูป ใช้เวลา 3 ปี จึงแล้วเสร็จ พระยาราชเสมาใส่ยอดเมื่อ พ.ศ. 2444 โดยมีพระออเป็นเจ้าอาวาสและเป็นทั้งเจ้าคณะอำเภอปกครองคณะสงฆ์ ในสมัยนี้วัดเจริญรุ่งเรืองมาก ต่อมาเมื่อ พ.ศ. 2450 ต่อมาพระออได้ถึงแก่มรณะภาพไป มีพระหลู่หรือพระเชียงตองเป็นเจ้าอาวาสแทน ต่อมาไม่นานพระเชียงตองกลับไปเมืองพม่า…",
+        "sections": [],
+        "chars": 1185
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดหลวง (จังหวัดแม่ฮ่องสอน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดหลวง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน ที่ดินตั้งวัดมีเนื้อที่ 7 ไร่ 3 งาน 59 ตารางวา\nวัดหลวงสร้างเมื่อ พ.ศ. 2346 เดิมเป็นวัดร้างมาก่อน มีพระพุทธรูปใหญ่ก่อด้วยอิฐถือปูนได้ทรุดโทรมไป ต่อมาเมื่อ พ.ศ. 2442 พระยาดำรงพ่อเมืองปายได้ถึงแก่พิราลัยไป บุตรของพระยาดำรง คือ พระยาราช มาปกครองแทน แล้วได้นำราษฎรในอำเภอปายสร้างเจดีย์วัดหลวงก่อน สร้างครอบองค์พระพุทธรูป ใช้เวลา 3 ปี จึงแล้วเสร็จ พระยาราชเสมาใส่ยอดเมื่อ พ.ศ. 2444 โดยมีพระออเป็นเจ้าอาวาสและเป็นทั้งเจ้าคณะอำเภอปกครองคณะสงฆ์ ในสมัยนี้วัดเจริญรุ่งเรืองมาก ต่อมาเมื่อ พ.ศ. 2450 ต่อมาพระออได้ถึงแก่มรณะภาพไป มีพระหลู่หรือพระเชียงตองเป็นเจ้าอาวาสแทน ต่อมาไม่นานพระเชียงตองกลับไปเมืองพม่า…",
+          "sections": [],
+          "chars": 1185
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Luang Pai 5.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Wat_Luang_Pai_5.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wat_Luang_Pai_5.jpg/960px-Wat_Luang_Pai_5.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Luang in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Luang_Pai_5.jpg",
+        "credit": "Wat Luang in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Luang Pai 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Wat_Luang_Pai_2.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wat_Luang_Pai_2.jpg/960px-Wat_Luang_Pai_2.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Luang in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Luang_Pai_2.jpg",
+        "credit": "Wat Luang in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Luang Pai 3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Wat_Luang_Pai_3.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wat_Luang_Pai_3.jpg/960px-Wat_Luang_Pai_3.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Luang in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Luang_Pai_3.jpg",
+        "credit": "Wat Luang in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Luang Pai 4.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Wat_Luang_Pai_4.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wat_Luang_Pai_4.jpg/960px-Wat_Luang_Pai_4.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Luang in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Luang_Pai_4.jpg",
+        "credit": "Wat Luang in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/314114131",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q105846794",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-hi-wat-si-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ฮี้ (วัดศรีชุม)",
+    "nameRoman": "Wat Mae HI (Wat Si Chum)",
+    "lat": 19.3445058,
+    "lng": 98.4519119,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/761817660",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-lana",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ละนา",
+    "nameRoman": "Wat Mae Lana",
+    "lat": 19.5915462,
+    "lng": 98.2157119,
+    "geoPrecision": "exact",
+    "address": "Pang Mapha",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "district": "Pang Mapha",
+      "subdistrict": "Pang Mapha"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5375073271",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-pang",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Mae Pang",
+    "nameRoman": "Wat Mae Pang",
+    "lat": 18.4708621,
+    "lng": 97.9586802,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1735495857",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-su-ya-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่สุยะ",
+    "nameRoman": "Wat Mae Su Ya temple",
+    "lat": 19.5212787,
+    "lng": 98.0937003,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/7993826386",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-surin-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่สุริน",
+    "nameRoman": "Wat Mae Surin temple",
+    "lat": 18.9138065,
+    "lng": 97.9449326,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/8023299085",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mantale",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Mantale",
+    "nameRoman": "Wat Mantale",
+    "lat": 18.1587503,
+    "lng": 97.9311264,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/734712851",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mok-cham-pae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมอกจำแป่",
+    "nameRoman": "Wat Mok Cham Pae",
+    "lat": 19.4318289,
+    "lng": 97.9646147,
+    "geoPrecision": "block",
+    "address": "Mok Cham Pae",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "district": "Mueang Mae Hong Son",
+      "subdistrict": "Mok Cham Pae"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1418459645",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-muay-tor",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่วยต่อ",
+    "nameRoman": "Wat Muay Tor",
+    "lat": 18.8292129,
+    "lng": 97.9335361,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1111507851",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-nam-hoo",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Nam Hoo",
+    "nameRoman": "Wat Nam Hoo",
+    "lat": 19.3648794,
+    "lng": 98.4130702,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "summary": {
+        "lang": "th",
+        "title": "วัดน้ำฮู",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AE%E0%B8%B9",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดน้ำฮู เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน \nชื่อของวัดน้ำฮู มาจากการที่มีน้ำไหลออกมาจากฮู (รู) ตั้งวัดเมื่อ พ.ศ. 2468 ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 27 ตุลาคม พ.ศ. 2538 เชื่อกันว่าเป็นวัดที่สร้างโดยสมเด็จพระนเรศวรมหาราช เพื่อบรรจุพระอัฐิของพระสุพรรณกัลยา ซึ่งได้เสด็จไปเป็นตัวประกันที่พม่าแทนพระองค์ แต่ต่อมาได้ถูกปลงพระชนม์ที่พม่า โดยเมื่อ พ.ศ. 2474 ครูบาศรีวิชัยได้นำคณะศิษยานุศิษย์ธุดงค์มายังอำเภอปาย เมื่อได้เห็นวัดมีสภาพทรุดโทรมและได้พบพระพุทธรูป พร้อมสถูปเจดีย์ ซึ่งอยู่หลังวิหารรกร้าง จึงได้สร้างวิหารสำหรับประดิษฐานพระพุทธรูป พร้อมกับสร้างเจดีย์ขึ้นด้านหลังวิหาร 1 องค์ ภายหลังได้ตั้งชื่อพระพุทธรูปเมื่อ พ.ศ. 2517 ว่า…",
+        "sections": [],
+        "chars": 1173
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดน้ำฮู",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AE%E0%B8%B9",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดน้ำฮู เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน \nชื่อของวัดน้ำฮู มาจากการที่มีน้ำไหลออกมาจากฮู (รู) ตั้งวัดเมื่อ พ.ศ. 2468 ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 27 ตุลาคม พ.ศ. 2538 เชื่อกันว่าเป็นวัดที่สร้างโดยสมเด็จพระนเรศวรมหาราช เพื่อบรรจุพระอัฐิของพระสุพรรณกัลยา ซึ่งได้เสด็จไปเป็นตัวประกันที่พม่าแทนพระองค์ แต่ต่อมาได้ถูกปลงพระชนม์ที่พม่า โดยเมื่อ พ.ศ. 2474 ครูบาศรีวิชัยได้นำคณะศิษยานุศิษย์ธุดงค์มายังอำเภอปาย เมื่อได้เห็นวัดมีสภาพทรุดโทรมและได้พบพระพุทธรูป พร้อมสถูปเจดีย์ ซึ่งอยู่หลังวิหารรกร้าง จึงได้สร้างวิหารสำหรับประดิษฐานพระพุทธรูป พร้อมกับสร้างเจดีย์ขึ้นด้านหลังวิหาร 1 องค์ ภายหลังได้ตั้งชื่อพระพุทธรูปเมื่อ พ.ศ. 2517 ว่า…",
+          "sections": [],
+          "chars": 1173
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/248474245",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q110083461",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-nam-kat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำกัด",
+    "nameRoman": "Wat Nam Kat",
+    "lat": 19.5062081,
+    "lng": 98.0760377,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4451475689",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-dhammanimit",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Pa Dhammanimit",
+    "nameRoman": "Wat Pa Dhammanimit",
+    "lat": 18.1676206,
+    "lng": 98.0754142,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2253170437",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-huai-duea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าห้วยเดื่อ",
+    "nameRoman": "Wat Pa Huai Duea",
+    "lat": 19.1522617,
+    "lng": 98.5392635,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/12271443690",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Pa Kham",
+    "nameRoman": "Wat Pa Kham",
+    "lat": 19.3591878,
+    "lng": 98.4439679,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "description": "Buddhist temple in Mae Hong Son province, Thailand",
+      "descriptionTh": "วัดในจังหวัดแม่ฮ่องสอน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดป่าขาม (จังหวัดแม่ฮ่องสอน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A1_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดป่าขาม เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน ที่ดินที่ตั้งวัดมีเนื้อที่ 3 ไร่ 1 งาน\nวัดป่าขามเริ่มสร้างราว พ.ศ. 2412 มีพระแคะ ไม่ทราบฉายา นำคณะศรัทธาสร้างขึ้น โดยมีพ่อเฒ่าบุก อุดทาเรือน พ่อเฒ่าติ๊บ มาตา พ่อเฒ่าจองแสน ศรีปาวิน พ่อเฒ่าจองซอย พ่อลุงสิงห์แก้ว พ่อเฒ่าน้อยทุน อุดทาเรือน พ่อเฒ่าดวงแก้ว มานันตา พ่อเฒ่าแสน มะริด มีนายเรือง อุดทาเรือน ร่วมกับชาวบ้านร่วมกันปลูกสร้างวัด เมื่อพระแคะมรณะภาพไป พระปัญญา ไม่ทราบฉายา เป็นเจ้าอาวาสสืบต่อมา พระปัญญามรณะภาพไป พระพรหม พรหมสาร เป็นเจ้าอาวาสแทนสืบต่อมา อยู่ได้ 3 พรรษาสมัยนั้น พระพรหม พรหมสาร ได้ชักชวนคณะศรัทธาสร้างกุฏิถาวรขึ้น เมื่อ พ.ศ. 2462 สร้างแบบทรงไทใหญ่ รวมกุฏิที่สร้างใหม่นี้ จำนวน 6…",
+        "sections": [],
+        "chars": 906
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดป่าขาม (จังหวัดแม่ฮ่องสอน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A1_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดป่าขาม เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน ที่ดินที่ตั้งวัดมีเนื้อที่ 3 ไร่ 1 งาน\nวัดป่าขามเริ่มสร้างราว พ.ศ. 2412 มีพระแคะ ไม่ทราบฉายา นำคณะศรัทธาสร้างขึ้น โดยมีพ่อเฒ่าบุก อุดทาเรือน พ่อเฒ่าติ๊บ มาตา พ่อเฒ่าจองแสน ศรีปาวิน พ่อเฒ่าจองซอย พ่อลุงสิงห์แก้ว พ่อเฒ่าน้อยทุน อุดทาเรือน พ่อเฒ่าดวงแก้ว มานันตา พ่อเฒ่าแสน มะริด มีนายเรือง อุดทาเรือน ร่วมกับชาวบ้านร่วมกันปลูกสร้างวัด เมื่อพระแคะมรณะภาพไป พระปัญญา ไม่ทราบฉายา เป็นเจ้าอาวาสสืบต่อมา พระปัญญามรณะภาพไป พระพรหม พรหมสาร เป็นเจ้าอาวาสแทนสืบต่อมา อยู่ได้ 3 พรรษาสมัยนั้น พระพรหม พรหมสาร ได้ชักชวนคณะศรัทธาสร้างกุฏิถาวรขึ้น เมื่อ พ.ศ. 2462 สร้างแบบทรงไทใหญ่ รวมกุฏิที่สร้างใหม่นี้ จำนวน 6…",
+          "sections": [],
+          "chars": 906
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Pa Kham Pai 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wat_Pa_Kham_Pai_2.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Wat_Pa_Kham_Pai_2.jpg/960px-Wat_Pa_Kham_Pai_2.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Pa Kham in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Pa_Kham_Pai_2.jpg",
+        "credit": "Wat Pa Kham in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Pa Kham Pai 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Wat_Pa_Kham_Pai_1.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wat_Pa_Kham_Pai_1.jpg/960px-Wat_Pa_Kham_Pai_1.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Pa Kham in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Pa_Kham_Pai_1.jpg",
+        "credit": "Wat Pa Kham in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Pa Kham Pai 3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wat_Pa_Kham_Pai_3.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Wat_Pa_Kham_Pai_3.jpg/960px-Wat_Pa_Kham_Pai_3.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Pa Kham in Pai (Thailand).",
+        "capturedAt": "2018-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Pa_Kham_Pai_3.jpg",
+        "credit": "Wat Pa Kham in Pai (Thailand). — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:View of Wat Pa Kham.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/View_of_Wat_Pa_Kham.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/View_of_Wat_Pa_Kham.jpg/960px-View_of_Wat_Pa_Kham.jpg",
+        "width": 800,
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "View of Wat Pa Kham in Pai from the Big Buddha of Wat Phra That Mae Yen.",
+        "capturedAt": "2018-08-30",
+        "source": "https://commons.wikimedia.org/wiki/File:View_of_Wat_Pa_Kham.jpg",
+        "credit": "View of Wat Pa Kham in Pai from the Big Buddha of Wat Phra That Mae Yen. — Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/389705035",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q105846832",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-ming-muang-boddhisompon-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่ามิ่งเมืองโพธิสมพร(ธ)",
+    "nameRoman": "Wat Pa Ming Muang Boddhisompon temple",
+    "lat": 19.5170035,
+    "lng": 98.248063,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/7991003186",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-pae",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Pa Pae",
+    "nameRoman": "Wat Pa Pae",
+    "lat": 18.2836827,
+    "lng": 98.0532003,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2130202393",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-rak-thai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่ารักไทย",
+    "nameRoman": "Wat Pa Rak Thai",
+    "lat": 19.5828266,
+    "lng": 97.9446062,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13660340218",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pha-pha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผาผ่า",
+    "nameRoman": "Wat Pha Pha",
+    "lat": 18.0342872,
+    "lng": 97.9295083,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/234771128",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phatthasamphan",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Phatthasamphan",
+    "nameRoman": "Wat Phatthasamphan",
+    "lat": 18.8289231,
+    "lng": 97.9333558,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1111507841",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-non-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนอน",
+    "nameRoman": "Wat Phra Non temple",
+    "lat": 19.2985491,
+    "lng": 97.9630391,
+    "geoPrecision": "block",
+    "address": "Chong Kham",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "district": "Mueang Mae Hong Son",
+      "subdistrict": "Chong Kham",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระนอน (จังหวัดแม่ฮ่องสอน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%99_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระนอน ตั้งอยู่ในเขต ตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน ตั้งอยู่ทางทิศตะวันตกของตัวเมืองแม่ฮ่องสอน ติดบริเวณเชิงเขาทางขึ้นวัดพระธาตุดอยกองมู ชื่อวัดพระนอน ได้ตั้งชื่อให้เหมาะสมกับการที่มีองค์พระนอนที่ใหญ่ที่สุดของจังหวัดแม่ฮ่องสอน ได้ประดิษฐานอยู่ในศาลาการเปรียญ (วิหาร) ของวัดพระนอน\nวัดนี้มีมาอยู่ก่อนแล้ว เดิมทีสถานที่ตั้งของวัดนี้เป็นป่าเขา และเป็นที่อาศัยของสัตว์ป่านานาชนิด ต่อมาเมื่อเมืองขยายขึ้นก็กลายเป็นวัดในเมือง วัดพระนอนเป็นวัดที่สำคัญเป็นที่ประดิษฐานองค์พระนอนองค์ใหญ่ ศิลปะแบบไทใหญ่ ขนาดยาว 11 เมตร 99 เซนติเมตร สร้างโดยศรัทธา \"พญาสิงหนาทราชา\" เจ้าเมืององค์แรกของเมืองแม่ฮ่องสอน เมื่อวันพฤหัสบดีที่ 17 มีนาคม พ.ศ. 2418 ได้รับพระราชทานวิสุงคามสีมา พุทธศักราช 2469…",
+        "sections": [],
+        "chars": 1442
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระนอน (จังหวัดแม่ฮ่องสอน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%99_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระนอน ตั้งอยู่ในเขต ตำบลจองคำ อำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน ตั้งอยู่ทางทิศตะวันตกของตัวเมืองแม่ฮ่องสอน ติดบริเวณเชิงเขาทางขึ้นวัดพระธาตุดอยกองมู ชื่อวัดพระนอน ได้ตั้งชื่อให้เหมาะสมกับการที่มีองค์พระนอนที่ใหญ่ที่สุดของจังหวัดแม่ฮ่องสอน ได้ประดิษฐานอยู่ในศาลาการเปรียญ (วิหาร) ของวัดพระนอน\nวัดนี้มีมาอยู่ก่อนแล้ว เดิมทีสถานที่ตั้งของวัดนี้เป็นป่าเขา และเป็นที่อาศัยของสัตว์ป่านานาชนิด ต่อมาเมื่อเมืองขยายขึ้นก็กลายเป็นวัดในเมือง วัดพระนอนเป็นวัดที่สำคัญเป็นที่ประดิษฐานองค์พระนอนองค์ใหญ่ ศิลปะแบบไทใหญ่ ขนาดยาว 11 เมตร 99 เซนติเมตร สร้างโดยศรัทธา \"พญาสิงหนาทราชา\" เจ้าเมืององค์แรกของเมืองแม่ฮ่องสอน เมื่อวันพฤหัสบดีที่ 17 มีนาคม พ.ศ. 2418 ได้รับพระราชทานวิสุงคามสีมา พุทธศักราช 2469…",
+          "sections": [],
+          "chars": 1442
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/490728519",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q101439228",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-doi-kong-mu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยกองมู",
+    "nameRoman": "Wat Phra That Doi Kong Mu",
+    "lat": 19.3000402,
+    "lng": 97.9603302,
+    "geoPrecision": "block",
+    "address": "Chong Kham",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/kongmu.temple/",
+      "openingHours": "Mo-Su 06:00-21:00",
+      "province": "Mae Hong Son",
+      "district": "Mueang Mae Hong Son",
+      "subdistrict": "Chong Kham",
+      "description": "Buddhist temple in Mae Hong Son province, Thailand",
+      "descriptionTh": "วัดในจังหวัดแม่ฮ่องสอน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุดอยกองมู",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B9",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุดอยกองมู เดิมชื่อ วัดปลายดอย ตั้งอยู่ที่ดอยกองมู ทางทิศตะวันตกของอำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน ถือเป็นวัดและพระธาตุประจำจังหวัด\nพระธาตุดอยกองมู เป็นปูชนียสถาน ประกอบด้วย พระธาตุเจดีย์ ศิลปะไทใหญ่-พม่า จำนวน 2 องค์ \n\nพ.ศ. 2403 คหบดีชื่อ จองต่องสู่ ได้สร้างพระเจดีย์องค์ใหญ่ ซึ่งบรรจุพระธาตุของพระโมคคัลลานะ พระอัครสาวกเบื้องซ้าย ซึ่งนำมาจากเมืองมะละแหม่ง ประเทศพม่า\nพ.ศ. 2417 พญาสิงหนาทราชา เจ้าผู้ครองแม่ฮ่องสอนคนแรก ได้สร้างพระธาตุเจดีย์องค์เล็ก บรรจุพระธาตุของพระสารีบุตร พระอัครสาวกเบื้องขวา ซึ่งนำจากเมืองมัณฑะเลย์ ประเทศพม่า\nโดยคำว่า \"กองมู\" เป็นภาษาไทใหญ่แปลว่า \"พระเจดีย์\"",
+        "sections": [],
+        "chars": 802
+      },
+      "summaryEn": {
+        "lang": "en",
+        "title": "Wat Phrathat Doi Kong Mu",
+        "url": "https://en.wikipedia.org/wiki/Wat_Phrathat_Doi_Kong_Mu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "Wat Phrathat Doi Kong Mu (Thai: วัดพระธาตุดอยกองมู) is an ancient Thai Buddhist temple in Mae Hong Son province, northern Thailand, considered as a provincial temple.\nFormerly known as Wat Plai Doi (วัดปลายดอย, \"temple on mountaintop\"), because it is located on Doi Kong Mu hill 1,300 m (4,265 ft) above sea level, southern west of Amphoe Mueang Mae Hong Son. While the hill name Kong Mu is Shan language means \"the stūpa\". The monastery was built with Tai Yai architecture style mixed with Burmese style.\nThe most striking of the temple are two large whitewashed stūpas. The largest stūpa was built in 1860 by wealthy Tai Yai merchant named Chong Tong Su, it enshrines the relics of Maudgalyāyana,…",
+        "sections": [],
+        "chars": 1287
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุดอยกองมู",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B9",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุดอยกองมู เดิมชื่อ วัดปลายดอย ตั้งอยู่ที่ดอยกองมู ทางทิศตะวันตกของอำเภอเมืองแม่ฮ่องสอน จังหวัดแม่ฮ่องสอน ถือเป็นวัดและพระธาตุประจำจังหวัด\nพระธาตุดอยกองมู เป็นปูชนียสถาน ประกอบด้วย พระธาตุเจดีย์ ศิลปะไทใหญ่-พม่า จำนวน 2 องค์ \n\nพ.ศ. 2403 คหบดีชื่อ จองต่องสู่ ได้สร้างพระเจดีย์องค์ใหญ่ ซึ่งบรรจุพระธาตุของพระโมคคัลลานะ พระอัครสาวกเบื้องซ้าย ซึ่งนำมาจากเมืองมะละแหม่ง ประเทศพม่า\nพ.ศ. 2417 พญาสิงหนาทราชา เจ้าผู้ครองแม่ฮ่องสอนคนแรก ได้สร้างพระธาตุเจดีย์องค์เล็ก บรรจุพระธาตุของพระสารีบุตร พระอัครสาวกเบื้องขวา ซึ่งนำจากเมืองมัณฑะเลย์ ประเทศพม่า\nโดยคำว่า \"กองมู\" เป็นภาษาไทใหญ่แปลว่า \"พระเจดีย์\"",
+          "sections": [],
+          "chars": 802
+        },
+        "en": {
+          "lang": "en",
+          "title": "Wat Phrathat Doi Kong Mu",
+          "url": "https://en.wikipedia.org/wiki/Wat_Phrathat_Doi_Kong_Mu",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "Wat Phrathat Doi Kong Mu (Thai: วัดพระธาตุดอยกองมู) is an ancient Thai Buddhist temple in Mae Hong Son province, northern Thailand, considered as a provincial temple.\nFormerly known as Wat Plai Doi (วัดปลายดอย, \"temple on mountaintop\"), because it is located on Doi Kong Mu hill 1,300 m (4,265 ft) above sea level, southern west of Amphoe Mueang Mae Hong Son. While the hill name Kong Mu is Shan language means \"the stūpa\". The monastery was built with Tai Yai architecture style mixed with Burmese style.\nThe most striking of the temple are two large whitewashed stūpas. The largest stūpa was built in 1860 by wealthy Tai Yai merchant named Chong Tong Su, it enshrines the relics of Maudgalyāyana,…",
+          "sections": [],
+          "chars": 1287
+        }
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:ยามโพล้เพล้ที่วัดพระธาตุดอยกองมู.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B9.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B9.jpg/960px-%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B9.jpg",
+        "width": 800,
+        "author": "Thanes Piamnamai",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2013-08-28",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B9%89%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B9.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Thanes Piamnamai, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Doi Kongmu Jetiya - panoramio.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Doi_Kongmu_Jetiya_-_panoramio.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Doi_Kongmu_Jetiya_-_panoramio.jpg",
+        "width": 800,
+        "author": "lopsura",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Doi Kongmu Jetiya",
+        "capturedAt": "Taken on 2",
+        "source": "https://commons.wikimedia.org/wiki/File:Doi_Kongmu_Jetiya_-_panoramio.jpg",
+        "credit": "Doi Kongmu Jetiya — lopsura, CC BY 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chong Kham, Mueang Mae Hong Son District, Mae Hong Son 58000, Thailand - panoramio.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Chong_Kham%2C_Mueang_Mae_Hong_Son_District%2C_Mae_Hong_Son_58000%2C_Thailand_-_panoramio.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Chong_Kham%2C_Mueang_Mae_Hong_Son_District%2C_Mae_Hong_Son_58000%2C_Thailand_-_panoramio.jpg/960px-Chong_Kham%2C_Mueang_Mae_Hong_Son_District%2C_Mae_Hong_Son_58000%2C_Thailand_-_panoramio.jpg",
+        "width": 800,
+        "author": "::::=UT=::::",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Chong Kham, Mueang Mae Hong Son District, Mae Hong Son 58000, Thailand",
+        "capturedAt": "Taken on 1",
+        "source": "https://commons.wikimedia.org/wiki/File:Chong_Kham,_Mueang_Mae_Hong_Son_District,_Mae_Hong_Son_58000,_Thailand_-_panoramio.jpg",
+        "credit": "Chong Kham, Mueang Mae Hong Son District, Mae Hong Son 58000, Thailand — ::::=UT=::::, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chong Kham, Mueang Mae Hong Son District, Mae Hong Son 58000, Thailand - panoramio (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Chong_Kham%2C_Mueang_Mae_Hong_Son_District%2C_Mae_Hong_Son_58000%2C_Thailand_-_panoramio_%281%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Chong_Kham%2C_Mueang_Mae_Hong_Son_District%2C_Mae_Hong_Son_58000%2C_Thailand_-_panoramio_%281%29.jpg/960px-Chong_Kham%2C_Mueang_Mae_Hong_Son_District%2C_Mae_Hong_Son_58000%2C_Thailand_-_panoramio_%281%29.jpg",
+        "width": 800,
+        "author": "::::=UT=::::",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Chong Kham, Mueang Mae Hong Son District, Mae Hong Son 58000, Thailand",
+        "capturedAt": "Taken on 1",
+        "source": "https://commons.wikimedia.org/wiki/File:Chong_Kham,_Mueang_Mae_Hong_Son_District,_Mae_Hong_Son_58000,_Thailand_-_panoramio_(1).jpg",
+        "credit": "Chong Kham, Mueang Mae Hong Son District, Mae Hong Son 58000, Thailand — ::::=UT=::::, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/547006036",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q13020754",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-mae-yen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุแม่เย็น",
+    "nameRoman": "Wat Phra That Mae Yen",
+    "lat": 19.3499354,
+    "lng": 98.454344,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/389705040",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-potaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Potaram",
+    "nameRoman": "Wat Potaram",
+    "lat": 18.816826,
+    "lng": 97.9365729,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/245627397",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pra-that-chom-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมทอง",
+    "nameRoman": "Wat Pra That Chom Thong",
+    "lat": 18.1500247,
+    "lng": 97.9438768,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5293763621",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-prathadjomjaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Prathadjomjaeng",
+    "nameRoman": "Wat Prathadjomjaeng",
+    "lat": 19.3128971,
+    "lng": 98.4464464,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2310956959",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-saen-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนทอง",
+    "nameRoman": "Wat Saen Thong",
+    "lat": 18.1545326,
+    "lng": 97.9333179,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/734714036",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sai-khao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทรายขาว",
+    "nameRoman": "Wat Sai Khao",
+    "lat": 19.3396332,
+    "lng": 98.4447339,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5922111138",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-see-la-pa-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีลาภา",
+    "nameRoman": "Wat See La Pa temple",
+    "lat": 18.533003,
+    "lng": 97.9336062,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1378768991",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sob-pong-meena-nantanaram-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสบป่อง(วัดมีนะนันทนาราม)",
+    "nameRoman": "Wat Sob Pong(Meena Nantanaram temple)",
+    "lat": 19.5178268,
+    "lng": 98.2618291,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "summary": {
+        "lang": "th",
+        "title": "วัดสบป่อง (อำเภอปางมะผ้า)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%9A%E0%B8%9B%E0%B9%88%E0%B8%AD%E0%B8%87_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9B%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B0%E0%B8%9C%E0%B9%89%E0%B8%B2)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดสบป่อง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลสบป่อง อำเภอปางมะผ้า จังหวัดแม่ฮ่องสอน ที่ดินตั้งวัดมีเนื้อที่ 7 ไร่ 3 งาน 2 ตารางวา \nวัดสบป่อง (มีนะนัน) เดิมชื่อ วัดปางมะผ้า สร้างเมื่อ พ.ศ. 2479 โดยคณะตำรวจสถานีตำรวจภูธรปางมะผ้า ต่อมาเมื่อ พ.ศ. 2487 ทางราชการได้ย้ายสถานีตำรวจภูธรและได้ปรับที่ดินสร้างบ้านพักตำรวจใหม่ พร้อมกับสร้างวัดใหม่ขึ้น และได้นิมนต์พระมูหลิ่งจากวัดแม่ละนามาจำพรรษาอยู่ ครั้นเมื่อ พ.ศ. 2512 ทางราชการได้ย้ายสถานีตำรวจภูธรปางมะผ้าไปสร้างที่บ้านสบป่อง เนื่องจากมีน้ำท่วมบ่อยทุกปี ได้รื้อถอนเสนาสนะของวัดวัดปางมะผ้ามาสร้างวัดสบป่อง โดยร้อยตำรวจตรีผิน นาคน้อย บริจาคที่ดิน 1 แปลง ได้เปลี่ยนชื่อเป็น \"วัดสบป่อง (มีนะนัน)\"\nอาคารเสนาสนะที่สำคัญ ได้แก่ วิหาร…",
+        "sections": [
+          {
+            "heading": "รายนามเจ้าอาวาส",
+            "kind": null,
+            "text": "พระจิ่ง พ.ศ. 2512–2519\nพระอุปละ พ.ศ. 2519–2523\nพระอ้าย พ.ศ. 2523–2524\nพระมี พ.ศ. 2524–2525\nพระจ่ายี่ พ.ศ. 2525–2526\nพระสุจิน ยติโก พ.ศ. 2526–2527 ๒๕๒\nพระกมล พ.ศ. 2527–2528\nพระบุญเย็น พ.ศ. 2528–2529\nพระบุญเลิศ พ.ศ. 2529–2530\nพระสุจินตา ยติโก พ.ศ. 2530–2532-\nพระนิโรจน์ สุทธิญาโณ รักษาราชการแทนตั้งแต่ พ.ศ. 2533\nพระบุญมี พ.ศ. 2537–2539\nพระครูอนุรักษ์บุญเขต"
+          }
+        ],
+        "chars": 1167
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดสบป่อง (อำเภอปางมะผ้า)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%9A%E0%B8%9B%E0%B9%88%E0%B8%AD%E0%B8%87_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9B%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B0%E0%B8%9C%E0%B9%89%E0%B8%B2)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดสบป่อง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลสบป่อง อำเภอปางมะผ้า จังหวัดแม่ฮ่องสอน ที่ดินตั้งวัดมีเนื้อที่ 7 ไร่ 3 งาน 2 ตารางวา \nวัดสบป่อง (มีนะนัน) เดิมชื่อ วัดปางมะผ้า สร้างเมื่อ พ.ศ. 2479 โดยคณะตำรวจสถานีตำรวจภูธรปางมะผ้า ต่อมาเมื่อ พ.ศ. 2487 ทางราชการได้ย้ายสถานีตำรวจภูธรและได้ปรับที่ดินสร้างบ้านพักตำรวจใหม่ พร้อมกับสร้างวัดใหม่ขึ้น และได้นิมนต์พระมูหลิ่งจากวัดแม่ละนามาจำพรรษาอยู่ ครั้นเมื่อ พ.ศ. 2512 ทางราชการได้ย้ายสถานีตำรวจภูธรปางมะผ้าไปสร้างที่บ้านสบป่อง เนื่องจากมีน้ำท่วมบ่อยทุกปี ได้รื้อถอนเสนาสนะของวัดวัดปางมะผ้ามาสร้างวัดสบป่อง โดยร้อยตำรวจตรีผิน นาคน้อย บริจาคที่ดิน 1 แปลง ได้เปลี่ยนชื่อเป็น \"วัดสบป่อง (มีนะนัน)\"\nอาคารเสนาสนะที่สำคัญ ได้แก่ วิหาร…",
+          "sections": [
+            {
+              "heading": "รายนามเจ้าอาวาส",
+              "kind": null,
+              "text": "พระจิ่ง พ.ศ. 2512–2519\nพระอุปละ พ.ศ. 2519–2523\nพระอ้าย พ.ศ. 2523–2524\nพระมี พ.ศ. 2524–2525\nพระจ่ายี่ พ.ศ. 2525–2526\nพระสุจิน ยติโก พ.ศ. 2526–2527 ๒๕๒\nพระกมล พ.ศ. 2527–2528\nพระบุญเย็น พ.ศ. 2528–2529\nพระบุญเลิศ พ.ศ. 2529–2530\nพระสุจินตา ยติโก พ.ศ. 2530–2532-\nพระนิโรจน์ สุทธิญาโณ รักษาราชการแทนตั้งแต่ พ.ศ. 2533\nพระบุญมี พ.ศ. 2537–2539\nพระครูอนุรักษ์บุญเขต"
+            }
+          ],
+          "chars": 1167
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4270970984",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q109180853",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sri-don-chai-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนชัย",
+    "nameRoman": "Wat Sri Don Chai temple",
+    "lat": 19.379464,
+    "lng": 98.447531,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "summary": {
+        "lang": "th",
+        "title": "วัดศรีดอนชัย (จังหวัดแม่ฮ่องสอน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดศรีดอนชัย เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงเหนือ อำเภอปาย จังหวัดแม่ฮ่องสอน มีเนื้อที่ 11 ไร่ 2 งาน 40 ตารางวา",
+        "sections": [
+          {
+            "heading": "ประวัติ",
+            "kind": "history",
+            "text": "ตามประวัติพงศาวดารกล่าวว่าเป็นวัดแรกของเมืองปาย (อำเภอปาย) โดยสร้างขึ้นเมื่อ พ.ศ. 1855 โดยพะก่าหม่องซอได้นำทัพพม่ามาตั้งที่บ้านดอนแห่งนี้ และได้สร้างวัดขึ้นในชื่อว่า วัดดอนจองใหม่ (หรือวัดใหญ่) โดยการสร้างครั้งแรกนั้นได้สร้างกุฎิ (หรือจองแบบไทใหญ่) ให้เป็นที่บำเพ็ญกุศลของเหล่าทัพและประชาชนในสมัยนั้น โดยได้นิมนต์พระพม่า ไทใหญ่ จากแสนหวี หนองฮี เมื่องปั่น ลางเคอ เมืองนาย มาจำพรรษาอบรมชาวบ้านและกองทัพในสมัยนั้น\nต่อมา พ.ศ. 2020 พระเจ้าติโลกราชมีพระราชบัญชาให้เจ้ามหาศรีไจยาหรือเจ้าศรีไจย์ ซึ่งเป็นราชบุตรของพระเจ้าเสนะภู นำช้างพลายเผือก 2 เชือก ชื่อช้างพลายเผือกเฒ่ามงคล และช้างพลายแก้วมงคล พร้อมเหล่าเสนาทหารยกทัพมา เพื่อมาตีเมืองแห่งนี้จากพะก่ากั่นนะและพะก่าส่างกงและได้รับชัยชนะจากการรบในครั้งนั้น และได้สั่งให้เผาวัดวาจนมอดไหม้ไปสิ้น\nพระเจ้าติโลกราช ได้สถาปนาพระนามใหม่ให้เจ้าศรีใจยาว่า เจ้าชัยสงคราม ให้ดูแลปกครองเมืองปายสืบต่อไป และได้สร้างวัดโดยการสร้างขึ้นใหม่ เมื่อ พ.ศ. 2021 โดยได้ก่อสร้างวิหาร กำแพง กุฏิ และเสนาสนะอื่น ๆ และขุดสร้างกำแพงเมือง ประตูเมือง และอัญเชิญอาราธนาพระพุทธสิหิงค์ (พระสิงห์ปาย) จากเมืองนพบุรีศรีนครพิงค์เชียงใหม่มาประดิษฐาน รวมทั้งได้อาราธนาพระวชิรปัญญามหาเถร วัดมหาโพธาราม (เจ็ดยอด) จังหวัดเชียงใหม่ และพระภิกษุมหาเถระจากเมืองพะเยา จังหวัดเชียงราย อีก 5 รูป จำพรรษาอบรมศีลธรรมให้กับชาวบ้าน โดยได้ตั้งชื่อวัดใหม่ว่า วัดศรีดอนไชย (ต่อมาเขียนเป็น \"วัดศรีดอนชัย\" ตามสมัยใหม่)\nในปี พ.ศ. 2124 สมเด็จพระนเรศวรมหาราช เสด็จมาฝึกคุมทหารที่เมืองปาย และเสด็จมานมัสการพระพุทธสิหิงค์ (พระสิงห์ปาย) ประทับแรมที่ปราสาทหอคำเจ้าฟ้าคุ้มเจ้าหลวงเมืองปายแห่งนี้ด้วย เมื่อ พ.ศ. 2158 เจ้าแม่สุนันทาได้เข้ามาปกครองเมือปาย และได้บูรณะซ่อมแซมวัดศรีดอนชัยและปราสาทหอคำที่เจ้าฟ้าที่ถูกพม่าเผาบาง ยังได้อาราธนาพระภิกษุจากเวียงเชียงใหม่จำพรรษา\nจากข้อมูลของกรมการศาสนาระบุว่าตั้งวัดเมื่อ พ.ศ. 2392 ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 2 กันยายน พ.ศ. 2480"
+          }
+        ],
+        "chars": 1932
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดศรีดอนชัย (จังหวัดแม่ฮ่องสอน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดศรีดอนชัย เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเวียงเหนือ อำเภอปาย จังหวัดแม่ฮ่องสอน มีเนื้อที่ 11 ไร่ 2 งาน 40 ตารางวา",
+          "sections": [
+            {
+              "heading": "ประวัติ",
+              "kind": "history",
+              "text": "ตามประวัติพงศาวดารกล่าวว่าเป็นวัดแรกของเมืองปาย (อำเภอปาย) โดยสร้างขึ้นเมื่อ พ.ศ. 1855 โดยพะก่าหม่องซอได้นำทัพพม่ามาตั้งที่บ้านดอนแห่งนี้ และได้สร้างวัดขึ้นในชื่อว่า วัดดอนจองใหม่ (หรือวัดใหญ่) โดยการสร้างครั้งแรกนั้นได้สร้างกุฎิ (หรือจองแบบไทใหญ่) ให้เป็นที่บำเพ็ญกุศลของเหล่าทัพและประชาชนในสมัยนั้น โดยได้นิมนต์พระพม่า ไทใหญ่ จากแสนหวี หนองฮี เมื่องปั่น ลางเคอ เมืองนาย มาจำพรรษาอบรมชาวบ้านและกองทัพในสมัยนั้น\nต่อมา พ.ศ. 2020 พระเจ้าติโลกราชมีพระราชบัญชาให้เจ้ามหาศรีไจยาหรือเจ้าศรีไจย์ ซึ่งเป็นราชบุตรของพระเจ้าเสนะภู นำช้างพลายเผือก 2 เชือก ชื่อช้างพลายเผือกเฒ่ามงคล และช้างพลายแก้วมงคล พร้อมเหล่าเสนาทหารยกทัพมา เพื่อมาตีเมืองแห่งนี้จากพะก่ากั่นนะและพะก่าส่างกงและได้รับชัยชนะจากการรบในครั้งนั้น และได้สั่งให้เผาวัดวาจนมอดไหม้ไปสิ้น\nพระเจ้าติโลกราช ได้สถาปนาพระนามใหม่ให้เจ้าศรีใจยาว่า เจ้าชัยสงคราม ให้ดูแลปกครองเมืองปายสืบต่อไป และได้สร้างวัดโดยการสร้างขึ้นใหม่ เมื่อ พ.ศ. 2021 โดยได้ก่อสร้างวิหาร กำแพง กุฏิ และเสนาสนะอื่น ๆ และขุดสร้างกำแพงเมือง ประตูเมือง และอัญเชิญอาราธนาพระพุทธสิหิงค์ (พระสิงห์ปาย) จากเมืองนพบุรีศรีนครพิงค์เชียงใหม่มาประดิษฐาน รวมทั้งได้อาราธนาพระวชิรปัญญามหาเถร วัดมหาโพธาราม (เจ็ดยอด) จังหวัดเชียงใหม่ และพระภิกษุมหาเถระจากเมืองพะเยา จังหวัดเชียงราย อีก 5 รูป จำพรรษาอบรมศีลธรรมให้กับชาวบ้าน โดยได้ตั้งชื่อวัดใหม่ว่า วัดศรีดอนไชย (ต่อมาเขียนเป็น \"วัดศรีดอนชัย\" ตามสมัยใหม่)\nในปี พ.ศ. 2124 สมเด็จพระนเรศวรมหาราช เสด็จมาฝึกคุมทหารที่เมืองปาย และเสด็จมานมัสการพระพุทธสิหิงค์ (พระสิงห์ปาย) ประทับแรมที่ปราสาทหอคำเจ้าฟ้าคุ้มเจ้าหลวงเมืองปายแห่งนี้ด้วย เมื่อ พ.ศ. 2158 เจ้าแม่สุนันทาได้เข้ามาปกครองเมือปาย และได้บูรณะซ่อมแซมวัดศรีดอนชัยและปราสาทหอคำที่เจ้าฟ้าที่ถูกพม่าเผาบาง ยังได้อาราธนาพระภิกษุจากเวียงเชียงใหม่จำพรรษา\nจากข้อมูลของกรมการศาสนาระบุว่าตั้งวัดเมื่อ พ.ศ. 2392 ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 2 กันยายน พ.ศ. 2480"
+            }
+          ],
+          "chars": 1932
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2802654150",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q105882131",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q105882211",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-suphan-rang-hi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสุพรรณรังฮี",
+    "nameRoman": "Wat Suphan Rang Hi",
+    "lat": 18.1573104,
+    "lng": 97.9276739,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3311208062",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tam-wua-forest-monastery",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัคป่าถ้าวัว",
+    "nameRoman": "Wat Tam Wua Forest Monastery",
+    "lat": 19.5287478,
+    "lng": 98.0817108,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.wattamwua.com/",
+      "openingHours": "Mo-Su 05:00-22:00",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4032812665",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tan-chet-ton-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดตาลเจ็ดต้น",
+    "nameRoman": "Wat Tan Chet Ton temple",
+    "lat": 19.3996289,
+    "lng": 98.4486484,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4829174240",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tha-pai",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Tha Pai",
+    "nameRoman": "Wat Tha Pai",
+    "lat": 19.2990885,
+    "lng": 98.4672163,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1481691985",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tham-phra-boran",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถ้ำพระโบราณ",
+    "nameRoman": "Wat Tham Phra Boran",
+    "lat": 18.2075193,
+    "lng": 97.942488,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/238945129",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-thung-pong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งโป่ง",
+    "nameRoman": "Wat Thung Pong",
+    "lat": 19.3349662,
+    "lng": 98.4433552,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5922126457",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-thung-pong-639562424",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งโป่ง",
+    "nameRoman": "Wat Thung Pong",
+    "lat": 19.3347295,
+    "lng": 98.4434049,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "summary": {
+        "lang": "th",
+        "title": "วัดทุ่งโป่ง (จังหวัดแม่ฮ่องสอน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%88%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดทุ่งโป่ง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลทุ่งยาว อำเภอปาย จังหวัดแม่ฮ่องสอน\nวัดทุ่งโป่งตั้งวัดเมื่อพ.ศ. 2419 บริเวณที่ตั้งวัดแต่เดิมเป็นหมู่บ้านของชาวไทใหญ่ที่อพยพมาจากรัฐฉาน ประเทศพม่า ชาวไทใหญ่ได้ร่วกันสร้างวัด โดยในยุคแรกในสร้างเสนาสนะอย่างง่าย ใช้ใบตองตึงมุงหลังคากันแดดกันฝน จนภายหลังชาวบ้านช่วยกันบูรณะเรื่อยมา แรกเริ่มพระสงฆ์ที่จำพรรษา เป็นพระสงฆ์ที่นิมนต์มาจากไทใหญ่ ประเทศพม่า\nปูชนียวัตถุในวัด คือ พระพุทธสัพพัญญูประสิทธิมงคล สร้างเมื่อวันศุกร์ที่ 20 กุมภาพันธ์ พ.ศ. 2547 เกิดจากความตั้งใจของท่านเจ้าอาวาสที่อยากจะอนุรักษ์ศิลปะแบบไทใหญ่ไว้ มีศิลปะแบบไทยใหญ่ จำลองแบบมาจากพระมหามัยมุนีแห่งเมืองมัณฑะเลย์ ประเทศพม่า เป็นพระพุทธรูป ก่ออิฐถือปูน ลงรักปิดทอง…",
+        "sections": [
+          {
+            "heading": "รายนามเจ้าอาวาส",
+            "kind": null,
+            "text": "พระปั่นจิกต๊ะ ปณฺฑิโต\nพระครูบายง ปญฺญาวโร\nพระสุจิ่งต่า สุจิตฺโต\nพระแดง อินฺทปญฺโญ\nพระเต่ยะ เตชวโร\nพระครูบาต๋าคำ นนฺทิโย\nพระกุตตะระ อุตฺตโร\nพระคำ กตปุญฺโญ\nพระก่าหวิ่ง กาวิโล\nพระสม สํวโร\nพระอธิการสาม ชิตมาโร\nพระปลัด อภิวัฒน์ อินฺทวณฺโณ"
+          }
+        ],
+        "chars": 1074
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดทุ่งโป่ง (จังหวัดแม่ฮ่องสอน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%88%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดทุ่งโป่ง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลทุ่งยาว อำเภอปาย จังหวัดแม่ฮ่องสอน\nวัดทุ่งโป่งตั้งวัดเมื่อพ.ศ. 2419 บริเวณที่ตั้งวัดแต่เดิมเป็นหมู่บ้านของชาวไทใหญ่ที่อพยพมาจากรัฐฉาน ประเทศพม่า ชาวไทใหญ่ได้ร่วกันสร้างวัด โดยในยุคแรกในสร้างเสนาสนะอย่างง่าย ใช้ใบตองตึงมุงหลังคากันแดดกันฝน จนภายหลังชาวบ้านช่วยกันบูรณะเรื่อยมา แรกเริ่มพระสงฆ์ที่จำพรรษา เป็นพระสงฆ์ที่นิมนต์มาจากไทใหญ่ ประเทศพม่า\nปูชนียวัตถุในวัด คือ พระพุทธสัพพัญญูประสิทธิมงคล สร้างเมื่อวันศุกร์ที่ 20 กุมภาพันธ์ พ.ศ. 2547 เกิดจากความตั้งใจของท่านเจ้าอาวาสที่อยากจะอนุรักษ์ศิลปะแบบไทใหญ่ไว้ มีศิลปะแบบไทยใหญ่ จำลองแบบมาจากพระมหามัยมุนีแห่งเมืองมัณฑะเลย์ ประเทศพม่า เป็นพระพุทธรูป ก่ออิฐถือปูน ลงรักปิดทอง…",
+          "sections": [
+            {
+              "heading": "รายนามเจ้าอาวาส",
+              "kind": null,
+              "text": "พระปั่นจิกต๊ะ ปณฺฑิโต\nพระครูบายง ปญฺญาวโร\nพระสุจิ่งต่า สุจิตฺโต\nพระแดง อินฺทปญฺโญ\nพระเต่ยะ เตชวโร\nพระครูบาต๋าคำ นนฺทิโย\nพระกุตตะระ อุตฺตโร\nพระคำ กตปุญฺโญ\nพระก่าหวิ่ง กาวิโล\nพระสม สํวโร\nพระอธิการสาม ชิตมาโร\nพระปลัด อภิวัฒน์ อินฺทวณฺโณ"
+            }
+          ],
+          "chars": 1074
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/639562424",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q110441103",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-thung-yao-mae-hong-son",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งยาว",
+    "nameRoman": "Wat Thung Yao",
+    "lat": 19.3210161,
+    "lng": 98.4479356,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6720584491",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "white-buddha",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระพุทธโลกุตระมหามุนี",
+    "nameRoman": "White Buddha",
+    "lat": 19.3501265,
+    "lng": 98.4561495,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "openingHours": "Mo-Su 08:00-18:00",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6140845486",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  }
+]

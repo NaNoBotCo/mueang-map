@@ -1,0 +1,6822 @@
+[
+  {
+    "id": "wat-ban-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านหลวง",
+    "nameRoman": "Wat Ban Luang",
+    "lat": 18.148611111,
+    "lng": 99.524722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108865074",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-luk",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านหลุก",
+    "nameRoman": "Wat Ban Luk",
+    "lat": 18.628333333,
+    "lng": 99.013333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108408963",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-luk-q108409018",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านหลุก",
+    "nameRoman": "Wat Ban Luk",
+    "lat": 18.130833333,
+    "lng": 99.530833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108409018",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-mai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านใหม่",
+    "nameRoman": "Wat Ban Mai",
+    "lat": 18.45705429,
+    "lng": 98.887746062,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110693612",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-mai-q110693643",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านใหม่",
+    "nameRoman": "Wat Ban Mai",
+    "lat": 17.861944444,
+    "lng": 99.046388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110693643",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-bo-sang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ่อสร้าง",
+    "nameRoman": "Wat Bo Sang",
+    "lat": 18.771678542,
+    "lng": 99.085948913,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q136674510",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buak-krok-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบวกครกหลวง",
+    "nameRoman": "Wat Buak Krok Luang",
+    "lat": 18.779551,
+    "lng": 99.038041,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004191",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-bun-wat-wihan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุญวาทย์วิหาร",
+    "nameRoman": "Wat Bun Wat Wihan",
+    "lat": 18.29,
+    "lng": 99.501388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004321",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buppharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุพพาราม",
+    "nameRoman": "Wat Buppharam",
+    "lat": 18.78795,
+    "lng": 98.998208333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1167874",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-mongkhon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยมงคล",
+    "nameRoman": "Wat Chai Mongkhon",
+    "lat": 18.137645282,
+    "lng": 100.149815911,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q122750516",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-mongkhon-q56274188",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยมงคล",
+    "nameRoman": "Wat Chai Mongkhon",
+    "lat": 18.78068,
+    "lng": 99.004392,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56274188",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chai-prakiat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยพระเกียรติ",
+    "nameRoman": "Wat Chai Prakiat",
+    "lat": 18.788741,
+    "lng": 98.985894,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20097857",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chaisi-phum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยศรีภูมิ",
+    "nameRoman": "Wat Chaisi Phum",
+    "lat": 18.794502777,
+    "lng": 98.994136111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18663985",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chaiyasit",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชัยสิทธิ์",
+    "nameRoman": "Wat Chaiyasit",
+    "lat": 17.988055555,
+    "lng": 99.652777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q59590655",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chaloem-phra-kiat-phrachomklao-rachanusorn",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเฉลิมพระเกียรติพระจอมเกล้าราชานุสรณ์",
+    "nameRoman": "Wat Chaloem Phra Kiat Phrachomklao Rachanusorn",
+    "lat": 18.7466,
+    "lng": 99.532080555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110497808",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chamadevi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจามเทวี",
+    "nameRoman": "Wat Chamadevi",
+    "lat": 18.581458333,
+    "lng": 98.996161111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1799983",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช้างค้ำ",
+    "nameRoman": "Wat Chang Kham",
+    "lat": 18.748072222,
+    "lng": 99.001952777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q17637232",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-khao-noi-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฉางข้าวน้อยใต้",
+    "nameRoman": "Wat Chang Khao Noi Tai",
+    "lat": 18.501761583,
+    "lng": 98.941833884,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116059239",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-khong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช่างฆ้อง",
+    "nameRoman": "Wat Chang Khong",
+    "lat": 18.78492896,
+    "lng": 98.998183836,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109553727",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-si",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช้างสี",
+    "nameRoman": "Wat Chang Si",
+    "lat": 18.581388888,
+    "lng": 99.008055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110589840",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chang-taem",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดช่างแต้ม",
+    "nameRoman": "Wat Chang Taem",
+    "lat": 18.785144444,
+    "lng": 98.988094444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20643666",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi-khiri-wihan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์คีรีวิหาร",
+    "nameRoman": "Wat Chedi Khiri Wihan",
+    "lat": 17.673055555,
+    "lng": 100.033611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020903",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi-liam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์เหลี่ยม",
+    "nameRoman": "Wat Chedi Liam",
+    "lat": 18.753999,
+    "lng": 98.995665,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q6630520",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์หลวงวรวิหาร",
+    "nameRoman": "Wat Chedi Luang",
+    "lat": 18.786944444,
+    "lng": 98.986388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1454288",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chet-lin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจ็ดลิน",
+    "nameRoman": "Wat Chet Lin",
+    "lat": 18.78375,
+    "lng": 98.988261111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004163",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chet-wan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตวัน",
+    "nameRoman": "Wat Chet Wan",
+    "lat": 18.291388888,
+    "lng": 99.506111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q31350575",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chet-yot",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโพธารามมหาวิหาร",
+    "nameRoman": "Wat Chet Yot",
+    "lat": 18.809083333,
+    "lng": 98.97165,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q2552284",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chetawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตวัน",
+    "nameRoman": "Wat Chetawan",
+    "lat": 18.788560299,
+    "lng": 98.99561316,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109851654",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chetuphon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตุพน",
+    "nameRoman": "Wat Chetuphon",
+    "lat": 18.797913678,
+    "lng": 99.003589945,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115516734",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-chom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงโฉม",
+    "nameRoman": "Wat Chiang Chom",
+    "lat": 18.808090688,
+    "lng": 98.981953188,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113469431",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-man",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงมั่น",
+    "nameRoman": "Wat Chiang Man",
+    "lat": 18.79379,
+    "lng": 98.9894,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1515582",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-rai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงราย",
+    "nameRoman": "Wat Chiang Rai",
+    "lat": 18.291062121,
+    "lng": 99.4920963,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116815377",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-saen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงแสน",
+    "nameRoman": "Wat Chiang Saen",
+    "lat": 18.719843369,
+    "lng": 99.227763504,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112650035",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-saen-q112650190",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงแสน",
+    "nameRoman": "Wat Chiang Saen",
+    "lat": 18.7475,
+    "lng": 99.026666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112650190",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงยืน",
+    "nameRoman": "Wat Chiang Yuen",
+    "lat": 18.796316666,
+    "lng": 98.988558333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1699542",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chom-sawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจอมสวรรค์",
+    "nameRoman": "Wat Chom Sawan",
+    "lat": 18.150632,
+    "lng": 100.15103,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18330870",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chomphu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดชมพู",
+    "nameRoman": "Wat Chomphu",
+    "lat": 18.791308333,
+    "lng": 98.994630555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18680596",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chong-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจองคำ",
+    "nameRoman": "Wat Chong Kham",
+    "lat": 18.667997,
+    "lng": 99.925243,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020650",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dap-phai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดับภัย",
+    "nameRoman": "Wat Dap Phai",
+    "lat": 18.792957553,
+    "lng": 98.981649682,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109985094",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-thaen-phra-pha-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยแท่นพระผาหลวง",
+    "nameRoman": "Wat Doi Thaen Phra Pha Luang",
+    "lat": 18.945076721,
+    "lng": 99.070421496,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112764340",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-ti",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยติ",
+    "nameRoman": "Wat Doi Ti",
+    "lat": 18.547848428,
+    "lng": 99.052798753,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q131311703",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dok-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอกคำ",
+    "nameRoman": "Wat Dok Kham",
+    "lat": 18.789205611,
+    "lng": 98.99308221,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111281783",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dok-ueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอกเอื้อง",
+    "nameRoman": "Wat Dok Ueang",
+    "lat": 18.790213216,
+    "lng": 98.992437308,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112257643",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-chan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนจั่น",
+    "nameRoman": "Wat Don Chan",
+    "lat": 18.760277777,
+    "lng": 99.0325,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q75365927",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนแก้ว",
+    "nameRoman": "Wat Don Kaeo",
+    "lat": 18.87976,
+    "lng": 98.971978,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q31351238",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-tong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนตอง",
+    "nameRoman": "Wat Don Tong",
+    "lat": 18.496959671,
+    "lng": 98.898755293,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q127427229",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dong-rue-si",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดงฤๅษี",
+    "nameRoman": "Wat Dong Rue Si",
+    "lat": 18.340237797,
+    "lng": 98.794063111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q125500236",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-duang-di",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดวงดี",
+    "nameRoman": "Wat Duang Di",
+    "lat": 18.789472,
+    "lng": 98.988466,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18046080",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-fa-ham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฟ้าฮ่าม",
+    "nameRoman": "Wat Fa Ham",
+    "lat": 18.804166666,
+    "lng": 99.004722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113469564",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-fai-hin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฝายหิน",
+    "nameRoman": "Wat Fai Hin",
+    "lat": 18.79873,
+    "lng": 98.94668,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020747",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-fon-soi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฟ่อนสร้อย",
+    "nameRoman": "Wat Fon Soi",
+    "lat": 18.782699256,
+    "lng": 98.988628357,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109349836",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hai-soi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไฮสร้อย",
+    "nameRoman": "Wat Hai Soi",
+    "lat": 18.037905817,
+    "lng": 99.784903068,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115267475",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hang-dong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหางดง",
+    "nameRoman": "Wat Hang Dong",
+    "lat": 18.696111111,
+    "lng": 98.916666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105945908",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-fai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวฝาย",
+    "nameRoman": "Wat Hua Fai",
+    "lat": 18.773482005,
+    "lng": 98.993545395,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112764416",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-khua",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวขัว",
+    "nameRoman": "Wat Hua Khua",
+    "lat": 18.579355114,
+    "lng": 99.011106893,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107487676",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-khuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวข่วง",
+    "nameRoman": "Wat Hua Khuang",
+    "lat": 18.3,
+    "lng": 99.51,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116011581",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-khuang-q102291045",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวข่วง",
+    "nameRoman": "Wat Hua Khuang",
+    "lat": 18.148055555,
+    "lng": 100.141111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q102291045",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-khuang-q111446577",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวข่วง",
+    "nameRoman": "Wat Hua Khuang",
+    "lat": 18.494444444,
+    "lng": 98.842777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111446577",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-inthakin-sadue-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอินทขิลสะดือเมือง",
+    "nameRoman": "Wat Inthakin Sadue Muang",
+    "lat": 18.789636111,
+    "lng": 98.986833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18920949",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kamphaeng-ngam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกำแพงงาม",
+    "nameRoman": "Wat Kamphaeng Ngam",
+    "lat": 18.686944444,
+    "lng": 98.921388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q41570799",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ket-karam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกตการาม",
+    "nameRoman": "Wat Ket Karam",
+    "lat": 18.79245,
+    "lng": 99.00289,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020896",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kha-chao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดขะจาว",
+    "nameRoman": "Wat Kha Chao",
+    "lat": 18.815,
+    "lng": 99.003333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111739262",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khantha-phrueksa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดคันธาพฤกษา",
+    "nameRoman": "Wat Khantha Phrueksa",
+    "lat": 18.866666666,
+    "lng": 99.354166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109942021",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khong-khao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโขงขาว",
+    "nameRoman": "Wat Khong Khao",
+    "lat": 18.708608317,
+    "lng": 98.920790968,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111051762",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khuan-khama",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดควรค่าม้า",
+    "nameRoman": "Wat Khuan Khama",
+    "lat": 18.795222222,
+    "lng": 98.983716666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q19462364",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khun-khong-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดขุนคง",
+    "nameRoman": "Wat Khun Khong Luang",
+    "lat": 18.668657,
+    "lng": 98.950724,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18342388",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ko-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกาะกลาง",
+    "nameRoman": "Wat Ko Klang",
+    "lat": 18.515277777,
+    "lng": 98.893888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108527378",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ko-walukaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกาะวาลุการาม",
+    "nameRoman": "Wat Ko Walukaram",
+    "lat": 18.291752381,
+    "lng": 99.497537382,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116980592",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-daeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่แดง",
+    "nameRoman": "Wat Ku Daeng",
+    "lat": 18.686944444,
+    "lng": 99.010833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q131869963",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-din-khao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่ดินขาว",
+    "nameRoman": "Wat Ku Din Khao",
+    "lat": 18.807319,
+    "lng": 98.945584,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020633",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-pa-lan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่ป่าลาน",
+    "nameRoman": "Wat Ku Pa Lan",
+    "lat": 18.65139,
+    "lng": 99.078325,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q19360885",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-tao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่เต้า",
+    "nameRoman": "Wat Ku Tao",
+    "lat": 18.802366666,
+    "lng": 98.988744444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q28405190",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-lamchang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดล่ามช้าง",
+    "nameRoman": "Wat Lamchang",
+    "lat": 18.793069444,
+    "lng": 98.990630555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18608494",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-loi-khro",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดลอยเคราะห์",
+    "nameRoman": "Wat Loi Khro",
+    "lat": 18.784608274,
+    "lng": 98.996837887,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112764388",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-lok-moli",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโลกโมฬี",
+    "nameRoman": "Wat Lok Moli",
+    "lat": 18.796238888,
+    "lng": 98.982638888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q843027",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลวง",
+    "nameRoman": "Wat Luang",
+    "lat": 18.144444444,
+    "lng": 100.136666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q102290954",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-luang-wiang-ta-mon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลวงเวียงต้ามอน",
+    "nameRoman": "Wat Luang Wiang Ta Mon",
+    "lat": 18.262222222,
+    "lng": 100.000833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111232834",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-lai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ลาย",
+    "nameRoman": "Wat Mae Lai",
+    "lat": 18.880836847,
+    "lng": 99.350380224,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q136330847",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-pa-doi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ปะดอย",
+    "nameRoman": "Wat Mae Pa Doi",
+    "lat": 17.648551996,
+    "lng": 99.255221177,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116691879",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-yang-kwao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ยางกวาว",
+    "nameRoman": "Wat Mae Yang Kwao",
+    "lat": 18.291666666,
+    "lng": 100.246944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004361",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mahawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมหาวัน",
+    "nameRoman": "Wat Mahawan",
+    "lat": 18.579166666,
+    "lng": 99.003333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108337637",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mahawan-q110313689",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมหาวัน",
+    "nameRoman": "Wat Mahawan",
+    "lat": 18.787872256,
+    "lng": 98.995718724,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110313689",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-methang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมธัง",
+    "nameRoman": "Wat Methang",
+    "lat": 18.785529613,
+    "lng": 98.978802884,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q130644306",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-methang-krawat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมธังกราวาส",
+    "nameRoman": "Wat Methang Krawat",
+    "lat": 18.142777777,
+    "lng": 100.143055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112176547",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mo-kham-tuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหม้อคำตวง",
+    "nameRoman": "Wat Mo Kham Tuang",
+    "lat": 18.795044444,
+    "lng": 98.985369444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q19364176",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mon-phaya-chae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่อนพระยาแช่",
+    "nameRoman": "Wat Mon Phaya Chae",
+    "lat": 18.282803,
+    "lng": 99.560206,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q25544714",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mon-puyak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่อนปู่ยักษ์",
+    "nameRoman": "Wat Mon Puyak",
+    "lat": 18.283828,
+    "lng": 99.514186,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020803",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mon-sai-non",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่อนทรายนอน",
+    "nameRoman": "Wat Mon Sai Non",
+    "lat": 18.729722222,
+    "lng": 99.993055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109985108",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mongkhon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมงคล",
+    "nameRoman": "Wat Mongkhon",
+    "lat": 18.573055555,
+    "lng": 98.920277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q89598915",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mongkhon-q100359280",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมงคล",
+    "nameRoman": "Wat Mongkhon",
+    "lat": 18.5325,
+    "lng": 98.858333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q100359280",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-len",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองเล็น",
+    "nameRoman": "Wat Muang Len",
+    "lat": 18.869133954,
+    "lng": 99.072926906,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q124022132",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-mang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองมาง",
+    "nameRoman": "Wat Muang Mang",
+    "lat": 18.780272307,
+    "lng": 98.99149701,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108099954",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-ton",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่วงโตน",
+    "nameRoman": "Wat Muang Ton",
+    "lat": 18.344444444,
+    "lng": 98.796388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004359",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-lan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นล้าน",
+    "nameRoman": "Wat Muen Lan",
+    "lat": 18.788116666,
+    "lng": 98.99215,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20051690",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-ngoen-kong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นเงินกอง",
+    "nameRoman": "Wat Muen Ngoen Kong",
+    "lat": 18.78544792,
+    "lng": 98.981357453,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q130644087",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-prik",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นพริก",
+    "nameRoman": "Wat Muen Prik",
+    "lat": 18.386104,
+    "lng": 98.686173,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q43852236",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-san",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นสาร",
+    "nameRoman": "Wat Muen San",
+    "lat": 18.776666666,
+    "lng": 98.984166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109942081",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-tum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นตูม",
+    "nameRoman": "Wat Muen Tum",
+    "lat": 18.78425,
+    "lng": 98.988888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18694668",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-na-khot-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาคตหลวง",
+    "nameRoman": "Wat Na Khot Luang",
+    "lat": 18.122777777,
+    "lng": 99.490555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110394683",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-na-ton-chan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาต้นจั่น",
+    "nameRoman": "Wat Na Ton Chan",
+    "lat": 17.6203705,
+    "lng": 99.8275723,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q139964464",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nang-liao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนางเหลียว",
+    "nameRoman": "Wat Nang Liao",
+    "lat": 18.249166666,
+    "lng": 99.387222222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56119210",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nang-liao-q56119314",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนางเหลียว",
+    "nameRoman": "Wat Nang Liao",
+    "lat": 18.830833333,
+    "lng": 99.021944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56119314",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nantharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนันทาราม",
+    "nameRoman": "Wat Nantharam",
+    "lat": 18.775148157,
+    "lng": 98.986373846,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115866836",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-ngueak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองเงือก",
+    "nameRoman": "Wat Nong Ngueak",
+    "lat": 18.484444444,
+    "lng": 98.908055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107315409",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-pla-kho",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองปลาขอ",
+    "nameRoman": "Wat Nong Pla Kho",
+    "lat": 18.55,
+    "lng": 99.024722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004417",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองตอง",
+    "nameRoman": "Wat Nong Thong",
+    "lat": 18.621722222,
+    "lng": 98.942083333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q57267260",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-on-luai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดออนหลวย",
+    "nameRoman": "Wat On Luai",
+    "lat": 18.78877076,
+    "lng": 99.257735666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q130728950",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-chedi-liam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเจดีย์เหลี่ยม",
+    "nameRoman": "Wat Pa Chedi Liam",
+    "lat": 18.523333333,
+    "lng": 98.889722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q100358451",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-chi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าชี",
+    "nameRoman": "Wat Pa Chi",
+    "lat": 18.74565472,
+    "lng": 98.936558761,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q126136218",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-daeng-maha-wihan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแดงมหาวิหาร",
+    "nameRoman": "Wat Pa Daeng Maha Wihan",
+    "lat": 18.788336,
+    "lng": 98.949775,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q25538913",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-daet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแดด",
+    "nameRoman": "Wat Pa Daet",
+    "lat": 18.75199345,
+    "lng": 98.986038855,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q114656069",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าฝาง",
+    "nameRoman": "Wat Pa Fang",
+    "lat": 18.284878743,
+    "lng": 99.505694553,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110923170",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-hiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเหียง",
+    "nameRoman": "Wat Pa Hiang",
+    "lat": 18.630555555,
+    "lng": 99.103888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108427710",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-pao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเป้า",
+    "nameRoman": "Wat Pa Pao",
+    "lat": 18.79611142,
+    "lng": 98.992105091,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "founded": "1886"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108550882",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-phrao-nai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าพร้าวใน",
+    "nameRoman": "Wat Pa Phrao Nai",
+    "lat": 18.793288888,
+    "lng": 98.980491666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20088955",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-phut-photchanaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าพุทธพจนาราม",
+    "nameRoman": "Wat Pa Phut Photchanaram",
+    "lat": 18.730014386,
+    "lng": 98.88057877,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16305949",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-poe",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเปอะ",
+    "nameRoman": "Wat Pa Poe",
+    "lat": 18.749362228,
+    "lng": 98.99160361,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108861204",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-puai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าป๋วย",
+    "nameRoman": "Wat Pa Puai",
+    "lat": 18.304930999,
+    "lng": 98.811944397,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116692081",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-samran-niwat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าสำราญนิวาส",
+    "nameRoman": "Wat Pa Samran Niwat",
+    "lat": 18.186666666,
+    "lng": 99.414166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108527418",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-sang-ngam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าซางงาม",
+    "nameRoman": "Wat Pa Sang Ngam",
+    "lat": 18.521163122,
+    "lng": 98.940018555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q114086705",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-yang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่ายาง",
+    "nameRoman": "Wat Pa Yang",
+    "lat": 18.668333333,
+    "lng": 99.135555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105886534",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pak-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปากเหมือง",
+    "nameRoman": "Wat Pak Mueang",
+    "lat": 18.680833333,
+    "lng": 98.992777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108900443",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pan-sao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปันเสา",
+    "nameRoman": "Wat Pan Sao",
+    "lat": 18.79,
+    "lng": 98.98,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20155173",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-panping",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป้านปิง",
+    "nameRoman": "Wat Panping",
+    "lat": 18.789736111,
+    "lng": 98.990744444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18579164",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-bong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผาบ่อง",
+    "nameRoman": "Wat Pha Bong",
+    "lat": 18.789619694,
+    "lng": 98.982340305,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q19969214",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-lat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผาลาด",
+    "nameRoman": "Wat Pha Lat",
+    "lat": 18.800822222,
+    "lng": 98.934022222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20642064",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phailom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไผ่ล้อม",
+    "nameRoman": "Wat Phailom",
+    "lat": 18.071666666,
+    "lng": 99.801388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004335",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phak-rak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผักราก",
+    "nameRoman": "Wat Phak Rak",
+    "lat": 17.703055555,
+    "lng": 100.024722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q66230827",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phan-on",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพันอ้น",
+    "nameRoman": "Wat Phan On",
+    "lat": 18.787655555,
+    "lng": 98.991030555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18702273",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phan-tao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพันเตา",
+    "nameRoman": "Wat Phan Tao",
+    "lat": 18.787672222,
+    "lng": 98.98755,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20475796",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phan-waen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพันแหวน",
+    "nameRoman": "Wat Phan Waen",
+    "lat": 18.783126688,
+    "lng": 98.985439859,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109985214",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phichai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพิชัย",
+    "nameRoman": "Wat Phichai",
+    "lat": 18.30323687,
+    "lng": 99.514499123,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q114059859",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phong-sunan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพงษ์สุนันท์",
+    "nameRoman": "Wat Phong Sunan",
+    "lat": 18.143876944,
+    "lng": 100.13656,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21334597",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-bat-ming-mueang-worawihan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระบาทมิ่งเมืองวรวิหาร",
+    "nameRoman": "Wat Phra Bat Ming Mueang Worawihan",
+    "lat": 18.143804,
+    "lng": 100.140671,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020762",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-chao-mengrai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าเม็งราย",
+    "nameRoman": "Wat Phra Chao Mengrai",
+    "lat": 18.785080502,
+    "lng": 98.984290325,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110820898",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-chedi-chao-lang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจดีย์ซาวหลัง",
+    "nameRoman": "Wat Phra Chedi Chao Lang",
+    "lat": 18.322222222,
+    "lng": 99.514722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004209",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-kaeo-don-tao-suchadaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระแก้วดอนเต้าสุชาดาราม",
+    "nameRoman": "Wat Phra Kaeo Don Tao Suchadaram",
+    "lat": 18.301388888,
+    "lng": 99.51,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004337",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-khong-rue-si",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระคงฤๅษี",
+    "nameRoman": "Wat Phra Khong Rue Si",
+    "lat": 18.583849071,
+    "lng": 99.008219988,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q131192895",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-luang-that-moeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระหลวงธาตุเนิ้ง",
+    "nameRoman": "Wat Phra Luang That Moeng",
+    "lat": 18.063888888,
+    "lng": 100.111666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004350",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-nom-khon-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนอนขอนม่วง",
+    "nameRoman": "Wat Phra Nom Khon Muang",
+    "lat": 18.8454,
+    "lng": 98.9777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020758",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-non",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนอน",
+    "nameRoman": "Wat Phra Non",
+    "lat": 18.144016944,
+    "lng": 100.134836944,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21192967",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-non-nong-phueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนอนหนองผึ้ง",
+    "nameRoman": "Wat Phra Non Nong Phueng",
+    "lat": 18.738611111,
+    "lng": 99.011944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108775565",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-phutthabat-huai-tom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทห้วยต้ม",
+    "nameRoman": "Wat Phra Phutthabat Huai Tom",
+    "lat": 17.725833333,
+    "lng": 98.954444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "founded": "1991"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107731777",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-phutthabat-pha-nam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทผาหนาม",
+    "nameRoman": "Wat Phra Phutthabat Pha Nam",
+    "lat": 17.835727427,
+    "lng": 98.925037838,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q127376389",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-phutthabat-tak-pha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทตากผ้า",
+    "nameRoman": "Wat Phra Phutthabat Tak Pha",
+    "lat": 18.455555555,
+    "lng": 98.921388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004229",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-cho-hae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุช่อแฮ",
+    "nameRoman": "Wat Phra That Cho Hae",
+    "lat": 18.086278055,
+    "lng": 100.204138888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q4926259",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-chaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมแจ้ง",
+    "nameRoman": "Wat Phra That Chom Chaeng",
+    "lat": 18.076388888,
+    "lng": 100.1925,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004221",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-ping",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมปิง",
+    "nameRoman": "Wat Phra That Chom Ping",
+    "lat": 18.096148251,
+    "lng": 99.340387193,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q132770176",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-hang-bat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยห้างบาตร",
+    "nameRoman": "Wat Phra That Doi Hang Bat",
+    "lat": 18.68,
+    "lng": 99.15,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004224",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยคำ",
+    "nameRoman": "Wat Phra That Doi Kham",
+    "lat": 18.759483333,
+    "lng": 98.918819444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020753",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-leng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยเล็ง",
+    "nameRoman": "Wat Phra That Doi Leng",
+    "lat": 18.071666666,
+    "lng": 100.215277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q102288512",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยน้อย",
+    "nameRoman": "Wat Phra That Doi Noi",
+    "lat": 18.465555555,
+    "lng": 98.803888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109653798",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-saket",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยสะเก็ด",
+    "nameRoman": "Wat Phra That Doi Saket",
+    "lat": 18.872327,
+    "lng": 99.140073,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q43845478",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยเวียง",
+    "nameRoman": "Wat Phra That Doi Wiang",
+    "lat": 18.612777777,
+    "lng": 99.171944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004223",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-duang-diao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดวงเดียว",
+    "nameRoman": "Wat Phra That Duang Diao",
+    "lat": 17.782144972,
+    "lng": 98.954328313,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q126597816",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-ha-duang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุห้าดวง",
+    "nameRoman": "Wat Phra That Ha Duang",
+    "lat": 17.782222222,
+    "lng": 98.958611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107561173",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-hariphunchai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุหริภุญชัยวรมหาวิหาร",
+    "nameRoman": "Wat Phra That Hariphunchai",
+    "lat": 18.577430555,
+    "lng": 99.008188888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "founded": "1044",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q2552374",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-lampang-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุลำปางหลวง",
+    "nameRoman": "Wat Phra That Lampang Luang",
+    "lat": 18.217219444,
+    "lng": 99.388888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q571319",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-puchae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุปูแจ",
+    "nameRoman": "Wat Phra That Puchae",
+    "lat": 18.203611111,
+    "lng": 100.292777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004207",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-sadet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุเสด็จ",
+    "nameRoman": "Wat Phra That Sadet",
+    "lat": 18.389722222,
+    "lng": 99.593611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004226",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-si-chomthong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุศรีจอมทองวรวิหาร",
+    "nameRoman": "Wat Phra That Si Chomthong",
+    "lat": 18.420138888,
+    "lng": 98.67875,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q2681283",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-suthon-mongkhon-khiri-samakkhi-tham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสุโทนมงคลคีรีสามัคคีธรรม",
+    "nameRoman": "Wat Phra That Suthon Mongkhon Khiri Samakkhi Tham",
+    "lat": 17.975431,
+    "lng": 100.015295,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020756",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระยืน",
+    "nameRoman": "Wat Phra Yuen",
+    "lat": 18.576138888,
+    "lng": 99.019883333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q2552369",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrathat-doi-suthep",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยสุเทพราชวรวิหาร",
+    "nameRoman": "Wat Phrathat Doi Suthep",
+    "lat": 18.8052,
+    "lng": 98.9216,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1517698",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phuak-hong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพวกหงษ์",
+    "nameRoman": "Wat Phuak Hong",
+    "lat": 18.783115,
+    "lng": 98.981163888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20155454",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phuak-pia",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพวกเปีย",
+    "nameRoman": "Wat Phuak Pia",
+    "lat": 18.779538588,
+    "lng": 98.980778642,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q124785580",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phuak-taem",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพวกแต้ม",
+    "nameRoman": "Wat Phuak Taem",
+    "lat": 18.782403888,
+    "lng": 98.983145305,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20155404",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pong-yang-khok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปงยางคก",
+    "nameRoman": "Wat Pong Yang Khok",
+    "lat": 18.280833333,
+    "lng": 99.384166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56119495",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pongsanuk-nuea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปงสนุกเหนือ",
+    "nameRoman": "Wat Pongsanuk Nuea",
+    "lat": 18.29550349,
+    "lng": 99.497289056,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116816624",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pongsanuk-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปงสนุกใต้",
+    "nameRoman": "Wat Pongsanuk Tai",
+    "lat": 18.295,
+    "lng": 99.496666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56119992",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-prasat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปราสาท",
+    "nameRoman": "Wat Prasat",
+    "lat": 18.789837,
+    "lng": 98.981088611,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20155393",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pratu-pa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดประตูป่า",
+    "nameRoman": "Wat Pratu Pa",
+    "lat": 18.620277777,
+    "lng": 99.004722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107492517",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ram-poeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร่ำเปิง",
+    "nameRoman": "Wat Ram Poeng",
+    "lat": 18.775012694,
+    "lng": 98.948659194,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020681",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ratcha-monthian",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดราชมณเฑียร",
+    "nameRoman": "Wat Ratcha Monthian",
+    "lat": 18.795213888,
+    "lng": 98.982616666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q19473270",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-romani-yaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดรมณียาราม",
+    "nameRoman": "Wat Romani Yaram",
+    "lat": 18.55,
+    "lng": 98.98,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004236",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-chang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร่องช้าง",
+    "nameRoman": "Wat Rong Chang",
+    "lat": 18.469166666,
+    "lng": 98.893055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110609708",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-tham-samakkhi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโรงธรรมสามัคคี",
+    "nameRoman": "Wat Rong Tham Samakkhi",
+    "lat": 18.741363,
+    "lng": 99.122718,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004237",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-wua-daeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องวัวแดง",
+    "nameRoman": "Wat Rong Wua Daeng",
+    "lat": 18.743888888,
+    "lng": 99.170833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109321109",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saen-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนฝาง",
+    "nameRoman": "Wat Saen Fang",
+    "lat": 18.789194,
+    "lng": 98.998632,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q28405193",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saen-mueang-ma-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนเมืองมา",
+    "nameRoman": "Wat Saen Mueang Ma Luang",
+    "lat": 18.794003,
+    "lng": 98.986527,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q19159898",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sai-mun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทรายมูล",
+    "nameRoman": "Wat Sai Mun",
+    "lat": 18.681666666,
+    "lng": 98.920277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108740208",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sai-mun-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทรายมูลเมือง",
+    "nameRoman": "Wat Sai Mun Mueang",
+    "lat": 18.782586111,
+    "lng": 98.992455555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20682368",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sai-mun-myanmar",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทรายมูลพม่า",
+    "nameRoman": "Wat Sai Mun Myanmar",
+    "lat": 18.781977777,
+    "lng": 98.991338888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20680041",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-salaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสะแล่ง",
+    "nameRoman": "Wat Salaeng",
+    "lat": 18.094166666,
+    "lng": 99.832777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020859",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-samphao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสำเภา",
+    "nameRoman": "Wat Samphao",
+    "lat": 18.788241666,
+    "lng": 98.990619444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18709228",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-samphao-q114229506",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสำเภา",
+    "nameRoman": "Wat Samphao",
+    "lat": 18.144326487,
+    "lng": 100.179606382,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q114229506",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-kamphaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันกำแพง",
+    "nameRoman": "Wat San Kamphaeng",
+    "lat": 18.475833333,
+    "lng": 98.914166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108419211",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-kawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันกาวาฬ",
+    "nameRoman": "Wat San Kawan",
+    "lat": 18.535555555,
+    "lng": 98.875555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q100370401",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-khue",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันคือ",
+    "nameRoman": "Wat San Khue",
+    "lat": 18.744833098,
+    "lng": 99.019885151,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q124681329",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-sak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าสัก",
+    "nameRoman": "Wat San Pa Sak",
+    "lat": 18.538333333,
+    "lng": 99.038055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q61897523",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าตอง",
+    "nameRoman": "Wat San Pa Thong",
+    "lat": 18.625555555,
+    "lng": 98.889166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q100370021",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pu-loei-sa-si-wiang-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันปูเลยสะหลีเวียงแก้ว",
+    "nameRoman": "Wat San Pu Loei Sa Si Wiang Kaeo",
+    "lat": 18.831361,
+    "lng": 99.079352,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020865",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-rim-ping",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันริมปิง",
+    "nameRoman": "Wat San Rim Ping",
+    "lat": 18.601111111,
+    "lng": 98.973333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105886721",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-sai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันทราย",
+    "nameRoman": "Wat San Sai",
+    "lat": 18.309722222,
+    "lng": 99.353888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56119527",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sang-kharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสังฆาราม",
+    "nameRoman": "Wat Sang Kharam",
+    "lat": 18.571807017,
+    "lng": 99.005653128,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q137800806",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-santitham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันติธรรม",
+    "nameRoman": "Wat Santitham",
+    "lat": 18.799790686,
+    "lng": 98.979419245,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112686704",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sao-hin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเสาหิน",
+    "nameRoman": "Wat Sao Hin",
+    "lat": 18.753738748,
+    "lng": 99.002899323,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109553813",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sawang-bantoeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสว่างบรรเทิง",
+    "nameRoman": "Wat Sawang Bantoeng",
+    "lat": 18.892567329,
+    "lng": 98.952727778,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110503127",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sela-rattana-papphataram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเสลารัตนปัพพะตาราม",
+    "nameRoman": "Wat Sela Rattana Papphataram",
+    "lat": 18.213055555,
+    "lng": 99.338611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004411",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bun-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบุญเรือง",
+    "nameRoman": "Wat Si Bun Rueang",
+    "lat": 18.753626,
+    "lng": 98.999766,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q43851521",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bun-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบุญยืน",
+    "nameRoman": "Wat Si Bun Yuen",
+    "lat": 18.599444444,
+    "lng": 99.030277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020834",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีชุม",
+    "nameRoman": "Wat Si Chum",
+    "lat": 18.28416667,
+    "lng": 99.49972222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56119431",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-chum-q21193036",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีชุม",
+    "nameRoman": "Wat Si Chum",
+    "lat": 18.146289,
+    "lng": 100.138736,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21193036",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-don-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนชัย",
+    "nameRoman": "Wat Si Don Chai",
+    "lat": 18.658888888,
+    "lng": 99.158888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105882251",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-don-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนแก้ว",
+    "nameRoman": "Wat Si Don Kaeo",
+    "lat": 18.109722222,
+    "lng": 99.789166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q61736486",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-don-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนคำ",
+    "nameRoman": "Wat Si Don Kham",
+    "lat": 18.075664615,
+    "lng": 99.829437685,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q114432888",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-koet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีเกิด",
+    "nameRoman": "Wat Si Koet",
+    "lat": 18.613888888,
+    "lng": 98.879722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109334571",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-koet-q113585943",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีเกิด",
+    "nameRoman": "Wat Si Koet",
+    "lat": 18.290555555,
+    "lng": 99.504722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113585943",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-koet-q20051158",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีเกิด",
+    "nameRoman": "Wat Si Koet",
+    "lat": 18.788158333,
+    "lng": 98.984044444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20051158",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-ping-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีปิงเมือง",
+    "nameRoman": "Wat Si Ping Muang",
+    "lat": 18.771709503,
+    "lng": 98.982605111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q124786412",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-rong-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีรองเมือง",
+    "nameRoman": "Wat Si Rong Mueang",
+    "lat": 18.290555555,
+    "lng": 99.480555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56119468",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-soda",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีโสดา",
+    "nameRoman": "Wat Si Soda",
+    "lat": 18.814249,
+    "lng": 98.945654,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020847",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-suphan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสุพรรณ",
+    "nameRoman": "Wat Si Suphan",
+    "lat": 18.778636944,
+    "lng": 98.983401944,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q59641379",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sop-li",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสบลี",
+    "nameRoman": "Wat Sop Li",
+    "lat": 18.783551724,
+    "lng": 99.519744495,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q121675641",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suan-dok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสวนดอก",
+    "nameRoman": "Wat Suan Dok",
+    "lat": 18.788219444,
+    "lng": 98.967697222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q2552404",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sung-men",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสูงเม่น",
+    "nameRoman": "Wat Sung Men",
+    "lat": 18.05,
+    "lng": 100.12,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116787833",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suphan-rangsi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสุพรรณรังษี",
+    "nameRoman": "Wat Suphan Rangsi",
+    "lat": 18.576666666,
+    "lng": 99.008611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110589851",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tamnak-suankhwan-sirimangkalachan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดตำหนักสวนขวัญสิริมังคลาจารย์",
+    "nameRoman": "Wat Tamnak Suankhwan Sirimangkalachan",
+    "lat": 18.747913888,
+    "lng": 98.956622222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107378808",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-ma-o",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่ามะโอ",
+    "nameRoman": "Wat Tha Ma-O",
+    "lat": 18.294444444,
+    "lng": 99.51,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109321191",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-makwen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่ามะเกว๋น",
+    "nameRoman": "Wat Tha Makwen",
+    "lat": 17.680611,
+    "lng": 99.311922,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q17196934",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-nong-yang-khlai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทาหนองยางไคล",
+    "nameRoman": "Wat Tha Nong Yang Khlai",
+    "lat": 18.426733,
+    "lng": 99.044844,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004299",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-rong-ruea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทาร้องเรือ",
+    "nameRoman": "Wat Tha Rong Ruea",
+    "lat": 18.445555555,
+    "lng": 99.114444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110246436",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thao-bun-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท้าวบุญเรือง",
+    "nameRoman": "Wat Thao Bun Rueang",
+    "lat": 18.704224352,
+    "lng": 98.935202755,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q118541064",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thao-kham-wang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท้าวคำวัง",
+    "nameRoman": "Wat Thao Kham Wang",
+    "lat": 18.701388888,
+    "lng": 98.920277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108865066",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-that-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธาตุคำ",
+    "nameRoman": "Wat That Kham",
+    "lat": 18.777486415,
+    "lng": 98.988828505,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q124788543",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thep-prasit",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเทพประสิทธิ์",
+    "nameRoman": "Wat Thep Prasit",
+    "lat": 18.693565477,
+    "lng": 98.951887483,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115783602",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thong-laplae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท้องลับแล",
+    "nameRoman": "Wat Thong Laplae",
+    "lat": 17.670833333,
+    "lng": 100.028055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q66214664",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thung-muen-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งหมื่นน้อย",
+    "nameRoman": "Wat Thung Muen Noi",
+    "lat": 18.889967,
+    "lng": 99.002383,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020689",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thung-o",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งอ้อ",
+    "nameRoman": "Wat Thung O",
+    "lat": 18.642777777,
+    "lng": 98.920277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108865014",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-kok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นกอก",
+    "nameRoman": "Wat Ton Kok",
+    "lat": 18.554166666,
+    "lng": 98.875,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q100371077",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-kwen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นเกว๋น",
+    "nameRoman": "Wat Ton Kwen",
+    "lat": 18.722222222,
+    "lng": 98.925,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q73152458",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นธง",
+    "nameRoman": "Wat Ton Thong",
+    "lat": 18.138265008,
+    "lng": 100.147429797,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q117357078",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tung-yu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งยู",
+    "nameRoman": "Wat Tung Yu",
+    "lat": 18.788705555,
+    "lng": 98.984119444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20088938",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-u-sai-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอู่ทรายคำ",
+    "nameRoman": "Wat U Sai Kham",
+    "lat": 18.789801549,
+    "lng": 98.994504637,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115819255",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-umong-maha-therachan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุโมงค์มหาเถรจันทร์",
+    "nameRoman": "Wat Umong Maha Therachan",
+    "lat": 18.789655555,
+    "lng": 98.989872222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18713202",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-umong-suan-phutthatham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุโมงค์สวนพุทธธรรม",
+    "nameRoman": "Wat Umong Suan Phutthatham",
+    "lat": 18.78366667,
+    "lng": 98.95338889,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1369391",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-up-khut",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอุปคุต",
+    "nameRoman": "Wat Up Khut",
+    "lat": 18.787311111,
+    "lng": 99.001283333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20743611",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wiang-dong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเวียงด้ง",
+    "nameRoman": "Wat Wiang Dong",
+    "lat": 18.716441,
+    "lng": 98.909603,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q30083110",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wut-mongkhon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวุฒิมงคล",
+    "nameRoman": "Wat Wut Mongkhon",
+    "lat": 18.058888888,
+    "lng": 100.123055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q55395448",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-yang-kuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดยางกวง",
+    "nameRoman": "Wat Yang Kuang",
+    "lat": 18.775999,
+    "lng": 98.989065,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lampang",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20155141",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  }
+]

@@ -1,0 +1,3905 @@
+[
+  {
+    "id": "wat-ammat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอำมาตย์",
+    "nameRoman": "Wat Ammat",
+    "lat": 19.685277777,
+    "lng": 100.196111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004419",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-analayo-thiphayaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอนาลโยทิพยาราม",
+    "nameRoman": "Wat Analayo Thiphayaram",
+    "lat": 19.177223,
+    "lng": 99.81261,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004401",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-thung",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านทุ่ง",
+    "nameRoman": "Wat Ban Thung",
+    "lat": 19.165555555,
+    "lng": 100.0025,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56580157",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ban-thung-q108463043",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านทุ่ง",
+    "nameRoman": "Wat Ban Thung",
+    "lat": 20.295833333,
+    "lng": 100.223888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108463043",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-boran-wiang-doem",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโบราณเวียงเดิม",
+    "nameRoman": "Wat Boran Wiang Doem",
+    "lat": 19.935621805,
+    "lng": 99.943992039,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q131376578",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-champa-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจำปาหลวง",
+    "nameRoman": "Wat Champa Luang",
+    "lat": 19.139722222,
+    "lng": 100.018611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56598914",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-charoen-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจริญเมือง",
+    "nameRoman": "Wat Charoen Mueang",
+    "lat": 19.606666666,
+    "lng": 99.759444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108514512",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi-chet-yot",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์เจ็ดยอด",
+    "nameRoman": "Wat Chedi Chet Yot",
+    "lat": 20.24425,
+    "lng": 100.105918,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q59784657",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์หลวง",
+    "nameRoman": "Wat Chedi Luang",
+    "lat": 19.570025468,
+    "lng": 99.490605026,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q117312163",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi-ngam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์งาม",
+    "nameRoman": "Wat Chedi Ngam",
+    "lat": 19.91896788,
+    "lng": 99.212229919,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108940642",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chet-wan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตวัน",
+    "nameRoman": "Wat Chet Wan",
+    "lat": 19.906111111,
+    "lng": 99.843333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109803633",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chet-yot",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจ็ดยอด",
+    "nameRoman": "Wat Chet Yot",
+    "lat": 19.903347222,
+    "lng": 99.831258333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21486222",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chetuphon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตุพน",
+    "nameRoman": "Wat Chetuphon",
+    "lat": 19.902416666,
+    "lng": 99.818436111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21583221",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chiang-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงยืน",
+    "nameRoman": "Wat Chiang Yuen",
+    "lat": 19.89935,
+    "lng": 99.826336111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21525146",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chom-chang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจอมช้าง",
+    "nameRoman": "Wat Chom Chang",
+    "lat": 20.28631,
+    "lng": 100.07527,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q14754196",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-ngam-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยงำเมือง",
+    "nameRoman": "Wat Doi Ngam Mueang",
+    "lat": 19.912516666,
+    "lng": 99.825055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q23039023",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-doi-phrabat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอยพระบาท",
+    "nameRoman": "Wat Doi Phrabat",
+    "lat": 19.884547222,
+    "lng": 99.824638888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21281957",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-lek",
+    "lens": [
+      "wat"
+    ],
+    "name": "ดดอนเหล็ก",
+    "nameRoman": "Wat Don Lek",
+    "lat": 19.169722222,
+    "lng": 99.988888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56580291",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-thi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนที่",
+    "nameRoman": "Wat Don Thi",
+    "lat": 20.388781001,
+    "lng": 100.25930328,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123937830",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dong-nong-pet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดงหนองเป็ด",
+    "nameRoman": "Wat Dong Nong Pet",
+    "lat": 19.891111111,
+    "lng": 99.835,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108916211",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hiranyawat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหิรัญญาวาส",
+    "nameRoman": "Wat Hiranyawat",
+    "lat": 20.428611111,
+    "lng": 99.943333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108861197",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huai-hom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยห้อม",
+    "nameRoman": "Wat Huai Hom",
+    "lat": 19.812222222,
+    "lng": 99.131666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q64869363",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huai-luek",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยลึก",
+    "nameRoman": "Wat Huai Luek",
+    "lat": 20.158194076,
+    "lng": 100.542097738,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123173901",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-huai-pla-kang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยปลากั้ง",
+    "nameRoman": "Wat Huai Pla Kang",
+    "lat": 19.949525635,
+    "lng": 99.806352688,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108486107",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-jom-khao-manilat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจอมเขามณีรัตน์",
+    "nameRoman": "Wat Jom Khao Manilat",
+    "lat": 20.277250493,
+    "lng": 100.413001396,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q6630297",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ket-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกตุแก้ว",
+    "nameRoman": "Wat Ket Kaeo",
+    "lat": 19.543055555,
+    "lng": 99.739444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020897",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khao-kaeo-dap-phai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเขาแก้วดับภัย",
+    "nameRoman": "Wat Khao Kaeo Dap Phai",
+    "lat": 19.796666666,
+    "lng": 99.902777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108486001",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khiri-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดคีรีชัย",
+    "nameRoman": "Wat Khiri Chai",
+    "lat": 19.901542545,
+    "lng": 99.864382313,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110224111",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-khua-khrae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดขัวแคร่",
+    "nameRoman": "Wat Khua Khrae",
+    "lat": 19.9551892,
+    "lng": 99.8504532,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q134966419",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-klang-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกลางเวียง",
+    "nameRoman": "Wat Klang Wiang",
+    "lat": 19.910766666,
+    "lng": 99.832405555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21014619",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ko-pha-dam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเกาะผาคำ",
+    "nameRoman": "Wat Ko Pha Dam",
+    "lat": 20.236666666,
+    "lng": 100.164166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109283844",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-kai-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่ไก่แก้ว",
+    "nameRoman": "Wat Ku Kai Kaeo",
+    "lat": 19.329904,
+    "lng": 100.116601,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020642",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-phang-lang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่ผางลาง",
+    "nameRoman": "Wat Ku Phang Lang",
+    "lat": 19.345277777,
+    "lng": 100.1125,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020637",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-li",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดลี",
+    "nameRoman": "Wat Li",
+    "lat": 19.166280649,
+    "lng": 99.915724258,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110724141",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-luang-ratsanthan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลวงราชสัณฐาน",
+    "nameRoman": "Wat Luang Ratsanthan",
+    "lat": 19.168414512,
+    "lng": 99.900008901,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111917309",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-ai-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่อายหลวง",
+    "nameRoman": "Wat Mae Ai Luang",
+    "lat": 20.031706021,
+    "lng": 99.295667539,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116192771",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-o",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่อ้อ",
+    "nameRoman": "Wat Mae O",
+    "lat": 19.685,
+    "lng": 99.861388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108514594",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mengrai-maharat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเม็งรายมหาราช",
+    "nameRoman": "Wat Mengrai Maharat",
+    "lat": 19.908730555,
+    "lng": 99.801155555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q22062215",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ming-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมิ่งเมือง",
+    "nameRoman": "Wat Ming Mueang",
+    "lat": 19.9075,
+    "lng": 99.828055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004360",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองชุม",
+    "nameRoman": "Wat Muang Chum",
+    "lat": 19.157369052,
+    "lng": 99.914659557,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q137195791",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muen-phuttha-metta-khunaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหมื่นพุทธเมตตาคุณาราม",
+    "nameRoman": "Wat Muen Phuttha Metta Khunaram",
+    "lat": 20.164008055,
+    "lng": 99.995486944,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020889",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mung-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมุงเมือง",
+    "nameRoman": "Wat Mung Mueang",
+    "lat": 19.909702777,
+    "lng": 99.828852777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20856249",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-lat-wang-sang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำลัดวังซาง",
+    "nameRoman": "Wat Nam Lat Wang Sang",
+    "lat": 19.929411111,
+    "lng": 99.816680555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q24802308",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nan-taram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนันตาราม",
+    "nameRoman": "Wat Nan Taram",
+    "lat": 19.528333333,
+    "lng": 100.302777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020703",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-aranyawiwake",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าอรัญญวิเวก",
+    "nameRoman": "Wat Pa Aranyawiwake",
+    "lat": 20.076388888,
+    "lng": 100.063611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109522233",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-daeng-bun-nak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแดงบุญนาค",
+    "nameRoman": "Wat Pa Daeng Bun Nak",
+    "lat": 19.181944444,
+    "lng": 99.905,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107185147",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าฝาง",
+    "nameRoman": "Wat Pa Fang",
+    "lat": 19.288611111,
+    "lng": 99.976944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110923176",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-mak-mo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าหมากหน่อ",
+    "nameRoman": "Wat Pa Mak Mo",
+    "lat": 20.228194444,
+    "lng": 100.016333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q82974554",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-ngae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแงะ",
+    "nameRoman": "Wat Pa Ngae",
+    "lat": 19.213888888,
+    "lng": 99.506666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004333",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-o-bun-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าอ้อบุญเรือง",
+    "nameRoman": "Wat Pa O Bun Rueang",
+    "lat": 20.012025,
+    "lng": 100.328818,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q57694251",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-sak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าสัก",
+    "nameRoman": "Wat Pa Sak",
+    "lat": 20.273022,
+    "lng": 100.077564,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13452399",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-sak-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าสักคำ",
+    "nameRoman": "Wat Pa Sak Kham",
+    "lat": 19.179444444,
+    "lng": 99.936666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109654086",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pang-ha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปางห้า",
+    "nameRoman": "Wat Pang Ha",
+    "lat": 20.40718,
+    "lng": 99.997047,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004204",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pang-mo-puang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปางหมอปวง",
+    "nameRoman": "Wat Pang Mo Puang",
+    "lat": 20.28071814,
+    "lng": 100.015240929,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q130426881",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pang-sang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปางซาง",
+    "nameRoman": "Wat Pang Sang",
+    "lat": 19.606016111,
+    "lng": 99.571373055,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "founded": "1955"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q18822192",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pang-tonduea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปางต้นเดื่อ",
+    "nameRoman": "Wat Pang Tonduea",
+    "lat": 20.094659141,
+    "lng": 99.280158896,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116192888",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-khaopan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผ้าขาวป้าน",
+    "nameRoman": "Wat Pha Khaopan",
+    "lat": 20.27766,
+    "lng": 100.087907,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q59614398",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-photharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโพธาราม",
+    "nameRoman": "Wat Photharam",
+    "lat": 19.353206343,
+    "lng": 99.808493619,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115168253",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-buat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระบวช",
+    "nameRoman": "Wat Phra Buat",
+    "lat": 20.273786053,
+    "lng": 100.082131387,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108936953",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-chao-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าหลวง",
+    "nameRoman": "Wat Phra Chao Luang",
+    "lat": 19.207777777,
+    "lng": 99.500555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113585958",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-hin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระหิน",
+    "nameRoman": "Wat Phra Hin",
+    "lat": 19.495833333,
+    "lng": 99.738611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108899664",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระแก้ว",
+    "nameRoman": "Wat Phra Kaeo",
+    "lat": 19.9118,
+    "lng": 99.8279,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q842276",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-kaeo-q109341365",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระแก้ว",
+    "nameRoman": "Wat Phra Kaeo",
+    "lat": 20.265555555,
+    "lng": 100.406666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109341365",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-kaeo-q112604678",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระแก้ว",
+    "nameRoman": "Wat Phra Kaeo",
+    "lat": 19.504833333,
+    "lng": 100.322083333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112604678",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-mahachin-that-chao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระมหาชินธาตุเจ้า",
+    "nameRoman": "Wat Phra Mahachin That Chao",
+    "lat": 20.32443,
+    "lng": 99.83285,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020770",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-nang-din",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนั่งดิน",
+    "nameRoman": "Wat Phra Nang Din",
+    "lat": 19.498333333,
+    "lng": 100.324444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020759",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-nat-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนาคแก้ว",
+    "nameRoman": "Wat Phra Nat Kaeo",
+    "lat": 19.686111111,
+    "lng": 100.194166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020761",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-sing",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระสิงห์",
+    "nameRoman": "Wat Phra Sing",
+    "lat": 19.9109,
+    "lng": 99.8314,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q6630425",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chedi-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุเจดีย์หลวง",
+    "nameRoman": "Wat Phra That Chedi Luang",
+    "lat": 20.27317,
+    "lng": 100.08031,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "founded": "1290",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q14754199",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-chaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมแจ้ง",
+    "nameRoman": "Wat Phra That Chom Chaeng",
+    "lat": 19.474218055,
+    "lng": 99.71442,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q23540784",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-cho",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมจ้อ",
+    "nameRoman": "Wat Phra That Chom Cho",
+    "lat": 19.684444444,
+    "lng": 100.183611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004211",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-khiri",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมคีรี",
+    "nameRoman": "Wat Phra That Chom Khiri",
+    "lat": 19.510916111,
+    "lng": 99.998301944,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16305083",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-kitti",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมกิตติ",
+    "nameRoman": "Wat Phra That Chom Kitti",
+    "lat": 20.28615,
+    "lng": 100.07422,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020749",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-mok-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมหมอกแก้ว",
+    "nameRoman": "Wat Phra That Chom Mok Kaeo",
+    "lat": 19.766476,
+    "lng": 99.672677,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004343",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-rung",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมรุ่ง",
+    "nameRoman": "Wat Phra That Chom Rung",
+    "lat": 19.577288109,
+    "lng": 99.945143913,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q137857402",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-rung-q16004340",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมรุ่ง",
+    "nameRoman": "Wat Phra That Chom Rung",
+    "lat": 19.576944444,
+    "lng": 99.945,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004340",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-sak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมสัก",
+    "nameRoman": "Wat Phra That Chom Sak",
+    "lat": 19.953888888,
+    "lng": 99.830277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004342",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมทอง",
+    "nameRoman": "Wat Phra That Chom Thong",
+    "lat": 19.184032,
+    "lng": 99.888458,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020744",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-thong-q16004338",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมทอง",
+    "nameRoman": "Wat Phra That Chom Thong",
+    "lat": 19.653055555,
+    "lng": 100.087777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004338",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-wae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมแว่",
+    "nameRoman": "Wat Phra That Chom Wae",
+    "lat": 19.568811,
+    "lng": 99.741597,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004341",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chon-chaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมแจ้ง",
+    "nameRoman": "Wat Phra That Chon Chaeng",
+    "lat": 19.660108055,
+    "lng": 99.541556111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16267259",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-chom-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยจอมทอง",
+    "nameRoman": "Wat Phra That Doi Chom Thong",
+    "lat": 19.91583333,
+    "lng": 99.82305556,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q475254",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-khao-khwai-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยเขาควายแก้ว",
+    "nameRoman": "Wat Phra That Doi Khao Khwai Kaeo",
+    "lat": 19.881331,
+    "lng": 99.809702,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004344",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-ku-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยกู่แก้ว",
+    "nameRoman": "Wat Phra That Doi Ku Kaeo",
+    "lat": 20.209498,
+    "lng": 99.966658,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q59784972",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-pu-khao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยปูเข้า",
+    "nameRoman": "Wat Phra That Doi Pu Khao",
+    "lat": 20.35268,
+    "lng": 100.08179,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q14754203",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-wao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยเวา",
+    "nameRoman": "Wat Phra That Doi Wao",
+    "lat": 20.442836,
+    "lng": 99.877997,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q4026688",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-khing-kaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุขิงแกง",
+    "nameRoman": "Wat Phra That Khing Kaeng",
+    "lat": 19.29,
+    "lng": 100.19,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered archaeological site in Finland"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q117047681",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-khun-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุขุนทอง",
+    "nameRoman": "Wat Phra That Khun Thong",
+    "lat": 19.750833333,
+    "lng": 100.238888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004210",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-pha-ngao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุผาเงา",
+    "nameRoman": "Wat Phra That Pha Ngao",
+    "lat": 20.24383,
+    "lng": 100.10912,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q14754202",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-sam-duang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสามดวง",
+    "nameRoman": "Wat Phra That Sam Duang",
+    "lat": 19.56901,
+    "lng": 99.696305,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108899557",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-soi-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสร้อยทอง",
+    "nameRoman": "Wat Phra That Soi Thong",
+    "lat": 19.701830886,
+    "lng": 99.921749152,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108704657",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-song-phi-nong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสองพี่น้อง",
+    "nameRoman": "Wat Phra That Song Phi Nong",
+    "lat": 20.246111111,
+    "lng": 100.118333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99735930",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-sop-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสบฝาง",
+    "nameRoman": "Wat Phra That Sop Fang",
+    "lat": 20.044819362,
+    "lng": 99.400091436,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q121997042",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrachao-lan-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าล้านทอง",
+    "nameRoman": "Wat Phrachao Lan Thong",
+    "lat": 20.27476,
+    "lng": 100.08404,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "founded": "1489",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q14754198",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrathat-phu-sang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุภูซาง",
+    "nameRoman": "Wat Phrathat Phu Sang",
+    "lat": 19.651783567,
+    "lng": 100.378244853,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123631162",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrathat-sop-waen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสบแวน",
+    "nameRoman": "Wat Phrathat Sop Waen",
+    "lat": 19.536796622,
+    "lng": 100.291713513,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q127427375",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrom-wihan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพรหมวิหาร",
+    "nameRoman": "Wat Phrom Wihan",
+    "lat": 20.426388888,
+    "lng": 99.88,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110678112",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pong-khong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปงของ",
+    "nameRoman": "Wat Pong Khong",
+    "lat": 20.307777777,
+    "lng": 100.210555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108509824",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pong-sali",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโป่งสลี",
+    "nameRoman": "Wat Pong Sali",
+    "lat": 19.838877777,
+    "lng": 99.793313888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21281830",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pong-sanuk",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปงสนุก",
+    "nameRoman": "Wat Pong Sanuk",
+    "lat": 20.271385257,
+    "lng": 100.087631038,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108542947",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ratcha-khrue",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดราชคฤห์",
+    "nameRoman": "Wat Ratcha Khrue",
+    "lat": 19.16693,
+    "lng": 99.903239,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56598965",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-khun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร่องขุ่น",
+    "nameRoman": "Wat Rong Khun",
+    "lat": 19.82424,
+    "lng": 99.76329,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q496543",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-suea-ten",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร่องเสือเต้น",
+    "nameRoman": "Wat Rong Suea Ten",
+    "lat": 19.923366944,
+    "lng": 99.841733055,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q81648240",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saen-mueang-ma",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนเมืองมา",
+    "nameRoman": "Wat Saen Mueang Ma",
+    "lat": 19.521944444,
+    "lng": 100.301944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004390",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saeng-kaeo-phothiyan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสงแก้วโพธิญาณ",
+    "nameRoman": "Wat Saeng Kaeo Phothiyan",
+    "lat": 19.602436482,
+    "lng": 99.526620892,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111109035",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-ku",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันกู่",
+    "nameRoman": "Wat San Ku",
+    "lat": 19.498611111,
+    "lng": 99.972222222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020924",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-mana",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันมะนะ",
+    "nameRoman": "Wat San Mana",
+    "lat": 19.857777777,
+    "lng": 99.776944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004384",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-san-pa-ko",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าก่อ",
+    "nameRoman": "Wat San Pa Ko",
+    "lat": 19.887891666,
+    "lng": 99.829030555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21296138",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-santikhiri-yansang-wararam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันติคีรีญาณสังวราราม",
+    "nameRoman": "Wat Santikhiri Yansang Wararam",
+    "lat": 20.169932666,
+    "lng": 99.622442927,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116449230",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sao-hin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเสาหิน",
+    "nameRoman": "Wat Sao Hin",
+    "lat": 19.6771,
+    "lng": 100.2025,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004177",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bun-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบุญเรือง",
+    "nameRoman": "Wat Si Bun Rueang",
+    "lat": 19.911541666,
+    "lng": 99.837883333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21074433",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bun-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบุญยืน",
+    "nameRoman": "Wat Si Bun Yuen",
+    "lat": 20.303055555,
+    "lng": 99.972222222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108486263",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-chom-rueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีจอมเรือง",
+    "nameRoman": "Wat Si Chom Rueang",
+    "lat": 19.162223635,
+    "lng": 99.914291082,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116745723",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีชุม",
+    "nameRoman": "Wat Si Chum",
+    "lat": 19.173888888,
+    "lng": 99.986666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56580406",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-kham-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีคำเวียง",
+    "nameRoman": "Wat Si Kham Wiang",
+    "lat": 19.362728916,
+    "lng": 99.504793097,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q129756296",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-khom-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีโคมคำ",
+    "nameRoman": "Wat Si Khom Kham",
+    "lat": 19.176666666,
+    "lng": 99.889722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020844",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-koet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีเกิด",
+    "nameRoman": "Wat Si Koet",
+    "lat": 19.906844444,
+    "lng": 99.839411111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21156251",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-ming-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีมิ่งแก้ว",
+    "nameRoman": "Wat Si Ming Kaeo",
+    "lat": 19.880833333,
+    "lng": 99.794722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q114835670",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-rattana-mongkon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีรัตนมงคล",
+    "nameRoman": "Wat Si Rattana Mongkon",
+    "lat": 19.469722222,
+    "lng": 99.485277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108506972",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-sai-mun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีทรายมูล",
+    "nameRoman": "Wat Si Sai Mun",
+    "lat": 19.897630555,
+    "lng": 99.840083333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q21185853",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-suphan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสุพรรณ",
+    "nameRoman": "Wat Si Suphan",
+    "lat": 19.345833333,
+    "lng": 99.815555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110735527",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-sutthawat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสุทธาวาส",
+    "nameRoman": "Wat Si Sutthawat",
+    "lat": 19.366111111,
+    "lng": 99.506666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113399805",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-umong-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีอุโมงค์คำ",
+    "nameRoman": "Wat Si Umong Kham",
+    "lat": 19.165277777,
+    "lng": 99.900833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56598951",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-soi-si",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสร้อยศรี",
+    "nameRoman": "Wat Soi Si",
+    "lat": 19.343055555,
+    "lng": 100.17,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q60041976",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-ma-o",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่ามะโอ",
+    "nameRoman": "Wat Tha Ma-O",
+    "lat": 19.76253798,
+    "lng": 99.686817761,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109321349",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tham-pha-chom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถ้ำผาจม",
+    "nameRoman": "Wat Tham Pha Chom",
+    "lat": 20.44181,
+    "lng": 99.87333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q14754204",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tham-phra",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถ้ำพระ",
+    "nameRoman": "Wat Tham Phra",
+    "lat": 19.917441666,
+    "lng": 99.788941666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q24067592",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tham-pla",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถ้ำปลา",
+    "nameRoman": "Wat Tham Pla",
+    "lat": 20.329722222,
+    "lng": 99.864166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q55258857",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thaton",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าตอน",
+    "nameRoman": "Wat Thaton",
+    "lat": 20.064666666,
+    "lng": 99.351888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q63617065",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thung-kluai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งกล้วย",
+    "nameRoman": "Wat Thung Kluai",
+    "lat": 19.59,
+    "lng": 100.375833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q60497828",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tilok-aram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดติโลกอาราม",
+    "nameRoman": "Wat Tilok Aram",
+    "lat": 19.158475,
+    "lng": 99.899795,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004173",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tom-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต๋อมกลาง",
+    "nameRoman": "Wat Tom Klang",
+    "lat": 19.198474142,
+    "lng": 99.837953519,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q136526913",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-kok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นกอก",
+    "nameRoman": "Wat Ton Kok",
+    "lat": 19.365,
+    "lng": 99.223055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q100371145",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wang-khem",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวังเค็ม",
+    "nameRoman": "Wat Wang Khem",
+    "lat": 19.529166666,
+    "lng": 100.317222222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q64932433",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-wiang-chai-prakan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเวียงไชยปราการ",
+    "nameRoman": "Wat Wiang Chai Prakan",
+    "lat": 19.752159791,
+    "lng": 99.16657438,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q134607159",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-yai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดยาย",
+    "nameRoman": "Wat Yai",
+    "lat": 20.112671483,
+    "lng": 100.520817271,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123173842",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-yai-nong-pla-khao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดใหญ่หนองปลาขาว",
+    "nameRoman": "Wat Yai Nong Pla Khao",
+    "lat": 19.745283,
+    "lng": 100.18836,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004167",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-yuan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหย่วน",
+    "nameRoman": "Wat Yuan",
+    "lat": 19.526415157,
+    "lng": 100.29917528,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Chiang Rai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q128997553",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  }
+]

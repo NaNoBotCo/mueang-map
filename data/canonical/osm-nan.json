@@ -1,0 +1,3437 @@
+[
+  {
+    "id": "ban-huai-sataeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "Ban Huai Sataeng",
+    "nameRoman": "Ban Huai Sataeng",
+    "lat": 19.5347602,
+    "lng": 100.8690476,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4143986878",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chao-luang-phukha-palace",
+    "lens": [
+      "wat"
+    ],
+    "name": "ตำหนักเจ้าหลวงภูคา",
+    "nameRoman": "Chao Luang Phukha Palace",
+    "lat": 19.1824459,
+    "lng": 101.1004684,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2545276264",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chedi-1464956028",
+    "lens": [
+      "wat"
+    ],
+    "name": "Chedi",
+    "nameRoman": "Chedi",
+    "lat": 18.8056732,
+    "lng": 100.7987245,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1464956028",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "chedi-nan",
+    "lens": [
+      "wat"
+    ],
+    "name": "Chedi",
+    "nameRoman": "Chedi",
+    "lat": 18.7696183,
+    "lng": 100.7506225,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1089032278",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "drum-tower",
+    "lens": [
+      "wat"
+    ],
+    "name": "Drum tower",
+    "nameRoman": "Drum tower",
+    "lat": 18.7695168,
+    "lng": 100.7502868,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1089037561",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "nam-pi-pracharam-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "สำนักสงฆ์น้ำปี้ประชาราม",
+    "nameRoman": "Nam Pi Pracharam temple",
+    "lat": 18.4536196,
+    "lng": 100.9562475,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4835844712",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-11382323042",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าหัด",
+    "nameRoman": "วัดป่าหัด",
+    "lat": 18.7650199,
+    "lng": 100.7692092,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11382323042",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-2223270566",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดก้อ",
+    "nameRoman": null,
+    "lat": 18.7958596,
+    "lng": 101.0300727,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "summary": {
+        "lang": "th",
+        "title": "วัดก้อ",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B9%89%E0%B8%AD",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดก้อ เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลแม่จริม อำเภอแม่จริม จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 2 ไร่ 2 ตารางวา\nวัดก้อตั้งวัดเมื่อ พ.ศ. 2226 ตามตำนานบอกว่าชาวบ้านก้อเป็นคนที่หนีสงครามข้าศึกมาจากแคว้นสิบสองปันนา สิบสองจุไทยและมาจากเชียงใหม่ ซึ่งบางส่วนมาตั้งรกรากบริเวณนี้เพราะเห็นว่าพื้นที่อุดมสมบูรณ์ ไปด้วยพืชพันธุ์หลาย ๆ อย่าง และพอจะเป็นที่ปลอดภัยจาก ข้าศึกสงคราม บริเวณนั้นมีลำห้วยเล็ก ๆ และมีต้นไม้ชนิดหนึ่ง ชื่อต้นก้อขึ้นอยู่พื้นที่แห่งนี้มากมาย จึงตั้งชื่อหมู่บ้านว่าบ้านก้อ ต่อมาชาวบ้านได้สร้างกระท่อมโบสถ์ กระท่อมกุฏิ พอที่จะเป็นที่พักอาศัยของพระสงฆ์ จน พ.ศ. 2431 มีนายก๋า ก้อชนะ ได้ถูกคัดขึ้นมาเป็นผู้นำหมู่บ้าน เรียกว่านายบ้านหรือแสนบ้าน ได้ร่วมกับพระอธิการพุทธะ…",
+        "sections": [],
+        "chars": 1368
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดก้อ",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B9%89%E0%B8%AD",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดก้อ เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลแม่จริม อำเภอแม่จริม จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 2 ไร่ 2 ตารางวา\nวัดก้อตั้งวัดเมื่อ พ.ศ. 2226 ตามตำนานบอกว่าชาวบ้านก้อเป็นคนที่หนีสงครามข้าศึกมาจากแคว้นสิบสองปันนา สิบสองจุไทยและมาจากเชียงใหม่ ซึ่งบางส่วนมาตั้งรกรากบริเวณนี้เพราะเห็นว่าพื้นที่อุดมสมบูรณ์ ไปด้วยพืชพันธุ์หลาย ๆ อย่าง และพอจะเป็นที่ปลอดภัยจาก ข้าศึกสงคราม บริเวณนั้นมีลำห้วยเล็ก ๆ และมีต้นไม้ชนิดหนึ่ง ชื่อต้นก้อขึ้นอยู่พื้นที่แห่งนี้มากมาย จึงตั้งชื่อหมู่บ้านว่าบ้านก้อ ต่อมาชาวบ้านได้สร้างกระท่อมโบสถ์ กระท่อมกุฏิ พอที่จะเป็นที่พักอาศัยของพระสงฆ์ จน พ.ศ. 2431 มีนายก๋า ก้อชนะ ได้ถูกคัดขึ้นมาเป็นผู้นำหมู่บ้าน เรียกว่านายบ้านหรือแสนบ้าน ได้ร่วมกับพระอธิการพุทธะ…",
+          "sections": [],
+          "chars": 1368
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2223270566",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q123114864",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-6937697178",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนมูล",
+    "nameRoman": null,
+    "lat": 18.7566549,
+    "lng": 100.7617697,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697178",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-6937697182",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแช่พลาง",
+    "nameRoman": null,
+    "lat": 18.7442195,
+    "lng": 100.7767137,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697182",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-6937697388",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องตอง",
+    "nameRoman": null,
+    "lat": 18.7549461,
+    "lng": 100.7723573,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697388",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-node-8164436145",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเหนือฝาย",
+    "nameRoman": null,
+    "lat": 18.5722858,
+    "lng": 100.6853915,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/8164436145",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-1425516146",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาปัง",
+    "nameRoman": null,
+    "lat": 18.7131182,
+    "lng": 100.7752174,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดนาปัง",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%87",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดนาปัง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลนาปัง อำเภอภูเพียง จังหวัดน่าน ที่ดินของวัดมีเนื้อที่ 4 ไร่ 3 งาน 49 ตารางวา \nวัดนาปังสร้างมาตั้งแต่สมัยสุโขทัย จากหลักฐานทางโบราณคดี ประวัติศาสตร์ศิลปะเมืองน่านกล่าวถึงพระยาสารผาสุม (พระยางั่วผาสุม) ได้โปรดให้สร้างพระพุทธรูป 5 องค์ขึ้นในเมืองน่านราว พ.ศ. 1969–1970 พระพุทธรูปปางลีลาวัดนาปังได้สร้างขึ้นภายหลังไม่นาน จึงสันนิษฐานได้ว่าวัดนาปังน่าจะสร้างก่อน พ.ศ. 1970 ได้รับประกาศตั้งวัดเมื่อ พ.ศ. 2310 โดยมีครูบาพรหมเสน เป็นเจ้าอาวาสองค์แรก พงศาวดารเมืองน่าน จารึกว่า เจ้าอนันตวรฤทธิเดช เจ้าผู้ครองนครน่านองค์ที่ 61 ได้สร้างวิหารวัดนาปัง เป็นลำดับที่ 4 ในจำนวน \n22 วัด คือ วัดพระธาตุช้างค้ำวรวิหาร วัดกู่คำ วัดมิ่งเมือง และวัดนาปัง…",
+        "sections": [],
+        "chars": 1313
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดนาปัง",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%87",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดนาปัง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลนาปัง อำเภอภูเพียง จังหวัดน่าน ที่ดินของวัดมีเนื้อที่ 4 ไร่ 3 งาน 49 ตารางวา \nวัดนาปังสร้างมาตั้งแต่สมัยสุโขทัย จากหลักฐานทางโบราณคดี ประวัติศาสตร์ศิลปะเมืองน่านกล่าวถึงพระยาสารผาสุม (พระยางั่วผาสุม) ได้โปรดให้สร้างพระพุทธรูป 5 องค์ขึ้นในเมืองน่านราว พ.ศ. 1969–1970 พระพุทธรูปปางลีลาวัดนาปังได้สร้างขึ้นภายหลังไม่นาน จึงสันนิษฐานได้ว่าวัดนาปังน่าจะสร้างก่อน พ.ศ. 1970 ได้รับประกาศตั้งวัดเมื่อ พ.ศ. 2310 โดยมีครูบาพรหมเสน เป็นเจ้าอาวาสองค์แรก พงศาวดารเมืองน่าน จารึกว่า เจ้าอนันตวรฤทธิเดช เจ้าผู้ครองนครน่านองค์ที่ 61 ได้สร้างวิหารวัดนาปัง เป็นลำดับที่ 4 ในจำนวน \n22 วัด คือ วัดพระธาตุช้างค้ำวรวิหาร วัดกู่คำ วัดมิ่งเมือง และวัดนาปัง…",
+          "sections": [],
+          "chars": 1313
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1425516146",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q123123267",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-246663044",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพัฒนาตัวอย่าง",
+    "nameRoman": null,
+    "lat": 18.7738139,
+    "lng": 100.7743926,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246663044",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-246668573",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่คำ",
+    "nameRoman": null,
+    "lat": 18.7757384,
+    "lng": 100.7746658,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดกู่คำ (จังหวัดน่าน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B9%E0%B9%88%E0%B8%84%E0%B8%B3_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดกู่คำ เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 1 ไร่ 3 งาน 9.7 ตารางวา\nวัดกู่คำ ไม่มีประวัติเกี่ยวกับการสร้างที่แน่ชัด แต่พื้นเมืองน่าน ฉบับวัดพระเกิด ได้กล่าวถึง พระธาตุกู่คำ ว่ามีการบูรณปฏิสังขรณ์ เมื่อ พ.ศ. 2172 อย่างไรก็ดีสำนักงานพระพุทธศาสนาแห่งชาติระบุว่าตั้งวัดเมื่อ พ.ศ. 1883 และได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 26 สิงหาคม พ.ศ. 2500 เขตวิสุงคามสีมา กล้าง 15 เมตร ยาว 30 เมตร ขณะที่ประวัติจากทางวัดระบุว่าสร้างเมื่อ พ.ศ. 2464 \nในคัมภีร์ใบลานตำนานพระธาตุวัดกู่คำว่า ครั้งอดีตกาลเมื่อพระพุทธเจ้าได้เสด็จมาทรงน้ำที่ห้วยไคร้ ได้ทรงสรงน้ำแล้วได้ไห้พระสาวกนำผ้าอาบน้ำ ไปตากที่ก้อนหินใหญ่ริมแม่น้ำ…",
+        "sections": [],
+        "chars": 1591
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดกู่คำ (จังหวัดน่าน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B9%E0%B9%88%E0%B8%84%E0%B8%B3_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดกู่คำ เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 1 ไร่ 3 งาน 9.7 ตารางวา\nวัดกู่คำ ไม่มีประวัติเกี่ยวกับการสร้างที่แน่ชัด แต่พื้นเมืองน่าน ฉบับวัดพระเกิด ได้กล่าวถึง พระธาตุกู่คำ ว่ามีการบูรณปฏิสังขรณ์ เมื่อ พ.ศ. 2172 อย่างไรก็ดีสำนักงานพระพุทธศาสนาแห่งชาติระบุว่าตั้งวัดเมื่อ พ.ศ. 1883 และได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 26 สิงหาคม พ.ศ. 2500 เขตวิสุงคามสีมา กล้าง 15 เมตร ยาว 30 เมตร ขณะที่ประวัติจากทางวัดระบุว่าสร้างเมื่อ พ.ศ. 2464 \nในคัมภีร์ใบลานตำนานพระธาตุวัดกู่คำว่า ครั้งอดีตกาลเมื่อพระพุทธเจ้าได้เสด็จมาทรงน้ำที่ห้วยไคร้ ได้ทรงสรงน้ำแล้วได้ไห้พระสาวกนำผ้าอาบน้ำ ไปตากที่ก้อนหินใหญ่ริมแม่น้ำ…",
+          "sections": [],
+          "chars": 1591
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246668573",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q123134161",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-246808697",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไผ่เทลือง",
+    "nameRoman": null,
+    "lat": 18.7764041,
+    "lng": 100.7690459,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246808697",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-247183244",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอภัย",
+    "nameRoman": null,
+    "lat": 18.7740137,
+    "lng": 100.7643244,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247183244",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-566941221",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดวังตาว",
+    "nameRoman": null,
+    "lat": 18.8362615,
+    "lng": 100.6929413,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/566941221",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "osm-way-568040639",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าศรีถาวรวังตาว",
+    "nameRoman": null,
+    "lat": 18.8396676,
+    "lng": 100.6859697,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/568040639",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "phrathat-chom-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "พระธาตุจอมทอง",
+    "nameRoman": "Phrathat Chom Thong",
+    "lat": 19.2072491,
+    "lng": 100.9509011,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2231612834",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "sapan-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสะปัน",
+    "nameRoman": "Sapan Temple",
+    "lat": 19.1886131,
+    "lng": 101.1997488,
+    "geoPrecision": "exact",
+    "address": "Dong Phaya",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Bo Kluea",
+      "subdistrict": "Dong Phaya"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11411142323",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "toongmeng-templa",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งเม็ง",
+    "nameRoman": "Toongmeng Templa",
+    "lat": 18.8588379,
+    "lng": 100.8175536,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1217240728",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "viharn",
+    "lens": [
+      "wat"
+    ],
+    "name": "Viharn",
+    "nameRoman": "Viharn",
+    "lat": 18.7695314,
+    "lng": 100.7507884,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1089037554",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-bun-yuen-nan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุญยืน",
+    "nameRoman": "Wat Bun Yuen",
+    "lat": 18.5712633,
+    "lng": 100.7522016,
+    "geoPrecision": "exact",
+    "address": "Klang Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/ja.wiangsa",
+      "province": "Nan",
+      "district": "Wiang Sa",
+      "subdistrict": "Klang Wiang",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดบุญยืน (อำเภอเวียงสา)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%B2)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดบุญยืน เป็นพระอารามหลวงชั้นตรีชนิดสามัญ สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลกลางเวียง อำเภอเวียงสา จังหวัดน่าน ทุกปีในช่วงออกพรรษา วัดบุญยืนยังจัดให้มีการแข่งเรือยาวประเพณีตานก๋วยสลาก สมัยโบราณเจ้าผู้ครองนครน่าน ได้มีการประกอบพิธีถือน้ำพิพัฒน์สัตยาขึ้น ในพระวิหารต่อหน้าพระพุทธปฏิมาปางประทับยืน\nวัดบุญยืนสร้างเมื่อ พ.ศ. 2329 โดยพระยาเวียงป้อ โดยสร้างสำนักสงฆ์เล็ก ๆ ประทานนามว่า วัดบุญนะ (ปัจจุบันเป็นที่ตั้งของตลาดสดและอาคารพาณิชย์) ต่อมาในสมัยเจ้าฟ้าอัตถวรปัญโญได้เสด็จประพาสเวียงสา ทรงเห็นว่าวัดบุญนะคับแคบ ไม่สามารถขยายให้กว้างได้จึงได้ย้ายวัดมาทางด้านทิศเหนือบนฝั่งขวาของลำน้ำน่าน เมื่อวันที่ 6 กุมภาพันธ์ พ.ศ. 2329 อาคารเสนาสนะต่าง ๆ สร้างด้วยไม้สัก เช่น วิหาร…",
+        "sections": [],
+        "chars": 1662
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดบุญยืน (อำเภอเวียงสา)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%B2)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดบุญยืน เป็นพระอารามหลวงชั้นตรีชนิดสามัญ สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลกลางเวียง อำเภอเวียงสา จังหวัดน่าน ทุกปีในช่วงออกพรรษา วัดบุญยืนยังจัดให้มีการแข่งเรือยาวประเพณีตานก๋วยสลาก สมัยโบราณเจ้าผู้ครองนครน่าน ได้มีการประกอบพิธีถือน้ำพิพัฒน์สัตยาขึ้น ในพระวิหารต่อหน้าพระพุทธปฏิมาปางประทับยืน\nวัดบุญยืนสร้างเมื่อ พ.ศ. 2329 โดยพระยาเวียงป้อ โดยสร้างสำนักสงฆ์เล็ก ๆ ประทานนามว่า วัดบุญนะ (ปัจจุบันเป็นที่ตั้งของตลาดสดและอาคารพาณิชย์) ต่อมาในสมัยเจ้าฟ้าอัตถวรปัญโญได้เสด็จประพาสเวียงสา ทรงเห็นว่าวัดบุญนะคับแคบ ไม่สามารถขยายให้กว้างได้จึงได้ย้ายวัดมาทางด้านทิศเหนือบนฝั่งขวาของลำน้ำน่าน เมื่อวันที่ 6 กุมภาพันธ์ พ.ศ. 2329 อาคารเสนาสนะต่าง ๆ สร้างด้วยไม้สัก เช่น วิหาร…",
+          "sections": [],
+          "chars": 1662
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดบุญยืน.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99.JPG/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99.JPG",
+        "width": 800,
+        "author": "Mooham147",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2015-08-29",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99.JPG",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Mooham147, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:วัดบุญยืนด้านใน.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99.jpg/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99.jpg",
+        "width": 800,
+        "author": "Panuwat Tansui",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2017-12-14",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Panuwat Tansui, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13658247934",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q99641829",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-buppharam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุปผาราม",
+    "nameRoman": "Wat Buppharam",
+    "lat": 18.7814904,
+    "lng": 100.7883767,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742861115",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chaiyaphum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไชยภูมิ",
+    "nameRoman": "Wat Chaiyaphum",
+    "lat": 18.8058454,
+    "lng": 100.7985828,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1464956027",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chedi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์",
+    "nameRoman": "Wat Chedi",
+    "lat": 18.7597252,
+    "lng": 100.7642862,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697176",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chetawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชตวัน",
+    "nameRoman": "Wat Chetawan",
+    "lat": 18.2646742,
+    "lng": 100.5849874,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13649877248",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-dhammachai-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธรรมชัย",
+    "nameRoman": "Wat Dhammachai temple",
+    "lat": 18.7922012,
+    "lng": 100.7518818,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3229403531",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-chai-pon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนชัยปอน",
+    "nameRoman": "Wat Don Chai Pon",
+    "lat": 19.5223842,
+    "lng": 100.924878,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6912797485",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-kaeo-nan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนแก้ว",
+    "nameRoman": "Wat Don Kaeo",
+    "lat": 18.7829117,
+    "lng": 100.7840189,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6935557087",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-du-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดู่ใต้",
+    "nameRoman": "Wat Du Tai",
+    "lat": 18.7279222,
+    "lng": 100.7570341,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/352074580",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hat-khet-lang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหาดเค็ดล่าง",
+    "nameRoman": "Wat Hat Khet Lang",
+    "lat": 18.8880079,
+    "lng": 100.8348048,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4879545574",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hat-rai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหาดไร่",
+    "nameRoman": "Wat Hat Rai",
+    "lat": 18.5616734,
+    "lng": 100.9275228,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/206023887",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-khuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วข่วง",
+    "nameRoman": "Wat Hua Khuang",
+    "lat": 18.777172,
+    "lng": 100.7713289,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดหัวข่วง (จังหวัดน่าน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดหัวข่วง ตั้งอยู่บน ถนนมหาพรหม เลขที่ 77 ตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน สังกัดคณะสงฆ์มหานิกาย เป็นวัดที่มีความสำคัญในเขตหัวแหวนเมืองน่าน อยู่ติดหอคำหลวง หรือ พิพิธภัณฑสถานแห่งชาติ น่าน และคุ้มอดีตเจ้าเมืองน่าน ไม่ปรากฏว่าสร้างมาตั้งแต่สมัยใด สันนิษฐานว่าสร้างในสมัยล้านนาตอนปลาย พุทธศตวรรษที่ 20-22 มีจิตรกรรมฝาผนังที่สวยงามภายในพระวิหาร มีพระพุทธรูปปางมารวิชัย ลักษณะพุทธศิลป์แบบท้องถิ่นล้านนา สกุลช่างเมืองน่าน ฝีมือประณีตงดงาม โดยมีหลักฐานบันทึกเกี่ยวกับประวัติการบูรณะครั้งแรกเมื่อปี พ.ศ. 2425 โดย เจ้าอนันตวรฤทธิเดช เจ้าผู้ครองนครน่าน องค์ที่ 62 และต่อมาเมื่อปี พ.ศ. 2472 ในสมัยเจ้ามหาพรหมสุรธาดา เจ้าผู้ครองนครน่าน องค์ที่ 64 องค์สุดท้าย",
+        "sections": [
+          {
+            "heading": "เจดีย์วัดหัวข่วง",
+            "kind": null,
+            "text": "เจดีย์วัดหัวข่วง เป็นเจดีย์ทรงปราสาทหรือทรงเรือนธาตุ ได้รับอิทธิพลศิลปะล้านนา ประกอบด้วย ส่วนฐานสร้างเป็นสี่เหลี่ยมฐานปทม ประดับด้วยลูกแก้วสองชั้น มีฐานไม้ คั่นกลาง ฐานบัวลูกแก้วชั้นบนย่อมุม รับกับเรือนธาตุไปจรดชั้นบัวถลาใต้องค์ระฆัง ส่วนเรือนธาตุมีซุ้มจรนัมด้านละซุ้ม ประดิษฐานพระพุทธรูปปางมารวิชัยสำริด ประดับมุมด้วยรูปเทวดาทรงเครื่องยืนพนมมือ เรือนธาตุเป็นชั้นบัวถลาซ้อนกันสามชั้น ยอดขององค์เจดีย์เป็นทรงระฆังมีขนาดเล็กไม่มีบัลลังก์ สันนิษฐานว่าเป็นศิลปะที่ดัดแปลงตามแบบของช่างเมืองน่าน มีอายุระหว่างสมัยล้านนาตอนปลาย"
+          },
+          {
+            "heading": "หอธรรมวัดหัวข่วง",
+            "kind": null,
+            "text": "หอธรรมวัดหัวข่วงเป็นสถานที่เก็บพระไตรปิฏก และคำภีร์โบราณ ที่มีอายุหลายปี ตั้งแต่สมัยก่อสร้างวัด"
+          }
+        ],
+        "chars": 1322
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดหัวข่วง (จังหวัดน่าน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดหัวข่วง ตั้งอยู่บน ถนนมหาพรหม เลขที่ 77 ตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน สังกัดคณะสงฆ์มหานิกาย เป็นวัดที่มีความสำคัญในเขตหัวแหวนเมืองน่าน อยู่ติดหอคำหลวง หรือ พิพิธภัณฑสถานแห่งชาติ น่าน และคุ้มอดีตเจ้าเมืองน่าน ไม่ปรากฏว่าสร้างมาตั้งแต่สมัยใด สันนิษฐานว่าสร้างในสมัยล้านนาตอนปลาย พุทธศตวรรษที่ 20-22 มีจิตรกรรมฝาผนังที่สวยงามภายในพระวิหาร มีพระพุทธรูปปางมารวิชัย ลักษณะพุทธศิลป์แบบท้องถิ่นล้านนา สกุลช่างเมืองน่าน ฝีมือประณีตงดงาม โดยมีหลักฐานบันทึกเกี่ยวกับประวัติการบูรณะครั้งแรกเมื่อปี พ.ศ. 2425 โดย เจ้าอนันตวรฤทธิเดช เจ้าผู้ครองนครน่าน องค์ที่ 62 และต่อมาเมื่อปี พ.ศ. 2472 ในสมัยเจ้ามหาพรหมสุรธาดา เจ้าผู้ครองนครน่าน องค์ที่ 64 องค์สุดท้าย",
+          "sections": [
+            {
+              "heading": "เจดีย์วัดหัวข่วง",
+              "kind": null,
+              "text": "เจดีย์วัดหัวข่วง เป็นเจดีย์ทรงปราสาทหรือทรงเรือนธาตุ ได้รับอิทธิพลศิลปะล้านนา ประกอบด้วย ส่วนฐานสร้างเป็นสี่เหลี่ยมฐานปทม ประดับด้วยลูกแก้วสองชั้น มีฐานไม้ คั่นกลาง ฐานบัวลูกแก้วชั้นบนย่อมุม รับกับเรือนธาตุไปจรดชั้นบัวถลาใต้องค์ระฆัง ส่วนเรือนธาตุมีซุ้มจรนัมด้านละซุ้ม ประดิษฐานพระพุทธรูปปางมารวิชัยสำริด ประดับมุมด้วยรูปเทวดาทรงเครื่องยืนพนมมือ เรือนธาตุเป็นชั้นบัวถลาซ้อนกันสามชั้น ยอดขององค์เจดีย์เป็นทรงระฆังมีขนาดเล็กไม่มีบัลลังก์ สันนิษฐานว่าเป็นศิลปะที่ดัดแปลงตามแบบของช่างเมืองน่าน มีอายุระหว่างสมัยล้านนาตอนปลาย"
+            },
+            {
+              "heading": "หอธรรมวัดหัวข่วง",
+              "kind": null,
+              "text": "หอธรรมวัดหัวข่วงเป็นสถานที่เก็บพระไตรปิฏก และคำภีร์โบราณ ที่มีอายุหลายปี ตั้งแต่สมัยก่อสร้างวัด"
+            }
+          ],
+          "chars": 1322
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Chedi wat huakhuang.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Chedi_wat_huakhuang.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/05/Chedi_wat_huakhuang.jpg",
+        "width": 450,
+        "author": "Bts2009",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "description": "chedi wat hua khuang",
+        "capturedAt": null,
+        "source": "https://commons.wikimedia.org/wiki/File:Chedi_wat_huakhuang.jpg",
+        "credit": "chedi wat hua khuang — Bts2009, Public domain, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดหัวข่วง อ.เมือง จ.น่าน (2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%282%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%282%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%282%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-08",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(2).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดหัวข่วง อ.เมือง จ.น่าน (3).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%283%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%283%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%283%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-08",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(3).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดหัวข่วง อ.เมือง จ.น่าน (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-08",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%88%E0%B8%A7%E0%B8%87_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(1).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246808696",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q13020887",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-mueang-nuea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวเวียงเหนือ",
+    "nameRoman": "Wat Hua Mueang Nuea",
+    "lat": 18.8058678,
+    "lng": 100.7932219,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697412",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-weang-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวเวัยงไต้",
+    "nameRoman": "Wat Hua Weang Tai",
+    "lat": 18.7799331,
+    "lng": 100.7761523,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246829460",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-kok",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกอก",
+    "nameRoman": "Wat Kok",
+    "lat": 18.7459283,
+    "lng": 100.7721952,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697181",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mahapon",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Mahapon",
+    "nameRoman": "Wat Mahapon",
+    "lat": 18.8027765,
+    "lng": 100.7869521,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/11382323166",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ming-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมิ่งเมือง",
+    "nameRoman": "Wat Ming Muang",
+    "lat": 18.7748272,
+    "lng": 100.7691207,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "description": "Budhhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดมิ่งเมือง (จังหวัดน่าน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดมิ่งเมือง เป็นวัดราษฎร์ สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน และเป็นสถานที่ตั้งเสาหลักเมืองน่าน โดยปัจจุบันมี จร. พระสุนทรมุนี (เสน่ห์ ฐานสิริ) รองเจ้าคณะจังหวัดน่าน เป็นเจ้าอาวาส",
+        "sections": [
+          {
+            "heading": "ข้อมูลทั่วไป",
+            "kind": null,
+            "text": "ประวัติวัด\nวัดมิ่งเมือง เดิมเป็นวัดร้าง ไม่ปรากฏปีที่สร้าง แต่สันนิฐานว่าน่าจะสร้างก่อนที่พม่าจะเข้ามาปกครองเมืองน่าน (ก่อนปี พ.ศ. 2100) เพราะตามหลักฐานแผ่นทองพงศาวดารพม่าจารึกไว้ว่า เดิมชื่อ “วัดตะละแม่ศรี” ภายหลังถูกทิ้งร้าง จนกระทั่งเมื่อปี พ.ศ. 2400 ในรัชสมัยพระเจ้าอนันตวรฤทธิเดช เจ้าผู้ครองนครน่าน องค์ที่ 62 จึงทรงโปรดให้บูรณะปฏิสังขรวัดและสถาปนาวัดขึ้นใหม่ โดยโปรดตั้งนามวัดใหม่ว่า “วัดมิ่งเมือง” ตามที่เรียกเสาหลักเมืองว่า “เสามิ่งเมือง” ต่อมาในปี พ.ศ. 2524 ได้มีการรื้อถอนและสร้างอุโบสถหลังใหม่เป็นแบบล้านนาร่วมสมัยมาจนถึงปัจจุบัน วัดมิ่งเมือง และได้รับพระราชทานวิสุงคามสีมา เมื่อวันที่ 14 พฤศจิกายน พ.ศ. 2510"
+          },
+          {
+            "heading": "อาคารเสนาสนะ",
+            "kind": null,
+            "text": "อาคารเสนาสนะที่สำคัญ ได้แก่ พระวิหารหลังใหม่ ที่มีลักษณะเป็นลายปูนปั้นที่ผนังด้านนอก และทาด้วยสีขาวทั้งหมด ภายในพระวิหารได้ประดิษฐานพระพุทธรูปปูนปั้นสีทองศิลปะแบบเชียงแสน มีนามว่า “หลวงพ่อพระศรีมิ่งเมือง” ที่มีอายุกว่า 400 ปี นอกจากนี้ภายในพระวิหารยังมีภาพจิตรกรรมฝาผนังที่แสดงวิถีชีวิตของชาวเมืองน่าน และประวัติความเป็นมาของเมืองน่าน ตั้งแต่ในรัชสมัยของพญาภูคา เจ้าผู้ครองนครน่าน (องค์แรก) มาจนถึงในรัชสมัยเจ้ามหาพรหมสุรธาดา เจ้าผู้ครองนครน่าน (องค์สุดท้าย) ภาพจิตรกรรมฝาผนัง เขียนโดยจิตกรช่างท้องถิ่นพื้นเมืองน่าน และภายในวัดยังประดิษฐานเสาหลักเมืองอยู่ในศาลาทรงจัตุรมุข ตั้งอยู่ด้านหน้าพระอุโบสถ เสาหลักเมืองสูงประมาณ 3 เมตร ฐานประดับด้วยไม้แกะสลักลวดลาย ลงรักปิดทอง ยอดเสาแกะสลักเป็นรูปพรหมพักตร์มีชื่อ เมตตา กรุณา มุทิตา อุเบกขา"
+          },
+          {
+            "heading": "ประวัติเสาหลักเมืองน่าน",
+            "kind": "history",
+            "text": "เสาหลักเมืองน่าน จากหลักฐานที่มีการบันทึกไว้พบว่า ได้รับการสร้างขึ้นในรัชสมัย พระเจ้าอัตถวรปัญโญ เจ้าผู้ครองนครน่าน องค์ที่ 57 และองค์ที่ 7 แห่งราชวงศ์ติ๋นมหาวงศ์ (พ.ศ. 2329 - พ.ศ. 2353) ทรงโปรดให้ฝังเสาพระหลักเมืองน่าน (ต้นปัจจุบัน) เมื่อวันที่ 15 เมษายน พ.ศ. 2331 ณ สถานที่ที่ทรงเสี่ยงทาย นั้นก็คือที่ข้างวัดร้างเก่า โดยมีผู้สันนิษฐานว่า วัดร้างเก่า ก็คือ วัดห้วยไคร้ ซึ่งสร้างขึ้นในสมัยพญาผากอง กษัตริย์น่าน องค์ที่ 7 แห่งราชวงศ์ภูคา (พ.ศ. 1904 - พ.ศ. 1929) โดยเสาพระหลักเมืองแต่เดิมนั้นเป็นไม้สักทองขนาดใหญ่ มีเส้นผ่านศูนย์กลาง 60 เซนติเมตร สูง 3 เมตร มีลักษณะเป็นทรงกลม หัวเสาเกลาเป็นรูปของดอกบัวตูม ตัวเสาได้ฝังลงกับพื้นดินโดยไม่มีการทำศาลครอบไว้ จนถึงในปี พ.ศ. 2506 ได้เกิดอุทกภัยน้ำท่วมครั้งใหญ่ แม่น้ำน่านได้เปลี่ยนทิศทางในการไหล จึงเข้าท่วมตัวเมืองน่านและบริเวณที่ฝังเสาหลักเมือง จนทำให้เสาหลักเมืองโค่นล้มลง ด้วยฐานของเสาหลักเมืองนั้นได้มีการผุกร่อนเนื่องจากการฝังกับพื้นดินมานานกว่าร้อยปี จากคำบอกเล่าของคุณยายมอญ พุทธิมา อายุ 75 ปี ชาวบ้านบ้านมิ่งเมือง ได้พูดถึงเกี่ยวกับศาลหลักเมืองน่าน ไว้ว่า “ตั้งแต่เกิดมาก็เห็นเสาหลักเมืองตั้งอยู่ภายในบริเวณวัดอยู่แล้ว” แต่เนื่องจากสภาพของเสาหลักเมืองเก่าแก่มากจึงผุกร่อนไปตามกาลเวลา เจ้าอาวาสวัดมิ่งเมืองในขณะนั้นจึงได้เคลื่อนย้ายเสาหลักเมืองมาไว้บริเวณโฮงกลอง (หอกลอง) ภายในวัด ลักษณะของเสาหลักเมืองที่ได้ย้ายมาวางไว้บริเวณโฮงกลองในตอนนั้น มีลักษณะกลวงและมีอักษรล้านนาจารึกไว้ แต่เนื่องจากในสมัยนั้นตนเองยังเป็นเด็กจึงไม่สามารถอ่านจารึกนั้นได้\nต่อมาในปี พ.ศ. 2514 นายสุกิจ จุลละนันทน์ ผู้ว่าราชการจังหวัดน่าน คนที่ 27 ได้นำข้าราชการ และประชาชนชาวเมืองน่าน ร่วมกันสร้างเสาหลักเมืองน่านขึ้นใหม่ เพื่อเป็นสิริมงคลแก่บ้านเมือง และได้อาราธนาหลวงพ่อโง่น สารโย วัดพระพุทธบาทเขาลวก อำเภอตะพานหิน จังหวัดพิจิตร พร้อมด้วยคณะมาเป็นช่างดำเนินการสร้าง โดยได้นำเอาเสาหลักเมืองเดิมมาเกลาแต่งใหม่ และได้ทำการแกะสลักหัวเสาเป็นรูปพระพรหมสี่หน้า ต่อมาในปี พ.ศ. 2515 ในขณะที่เสาหลักเมืองกำลังอยู่ในระหว่างการดำเนินการก่อสร้าง สมเด็จพระศรีนครินทราบรมราชชนนี (สมเด็จย่า) ได้เสด็จมาบรรจุท้าวเวสสุวรรณ จำนวน 84,000 องค์ ลงในหลุมฐานเสาหลักเมือง และต่อมาในปี พ.ศ. 2516 พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร (รัชกาลที่ 9) ทรงพระกรุณาโปรดเกล้าฯ ให้ พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว เมื่อครั้งดำรงพระราชอิสริยยศเป็นสมเด็จพระบรมโอรสาธิราชฯ…"
+          },
+          {
+            "heading": "ประเพณีสักการะศาลหลักเมือง",
+            "kind": null,
+            "text": "จังหวัดน่าน ได้จัดประเพณีสักการะศาลหลักเมือง ขึ้นในวันที่ 15 เมษายน ของทุกปี โดยมีพิธีบวงสรวงเครื่องแก้มอารักษ์ศาลหลักเมืองตามแบบพื้นเมืองน่านโบราณ แบ่งตามทิศของเศียรพรหมสี่หน้า โดยมีเครื่องบวงสรวงเครื่องแก้มอารักษ์เช่น หมู ไก่ ปลา ข้าวต้มมัด ขนมหวาน ที่ได้รับการจัดแต่งอย่างประณีตงดงามตามแบบพื้นเมืองน่าน เพื่อให้เป็นสิริมงคลแก่บ้านเมือง และให้คนรุ่นต่อ ๆ ไปได้ตระหนักถึงความสำคัญของเสาหลักเมือง ที่เป็นหนึ่งในความเชื่อสำคัญในการสร้างบ้านแปงเมืองของบรรพบุรุษสืบต่อไป"
+          }
+        ],
+        "chars": 5500
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดมิ่งเมือง (จังหวัดน่าน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดมิ่งเมือง เป็นวัดราษฎร์ สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน และเป็นสถานที่ตั้งเสาหลักเมืองน่าน โดยปัจจุบันมี จร. พระสุนทรมุนี (เสน่ห์ ฐานสิริ) รองเจ้าคณะจังหวัดน่าน เป็นเจ้าอาวาส",
+          "sections": [
+            {
+              "heading": "ข้อมูลทั่วไป",
+              "kind": null,
+              "text": "ประวัติวัด\nวัดมิ่งเมือง เดิมเป็นวัดร้าง ไม่ปรากฏปีที่สร้าง แต่สันนิฐานว่าน่าจะสร้างก่อนที่พม่าจะเข้ามาปกครองเมืองน่าน (ก่อนปี พ.ศ. 2100) เพราะตามหลักฐานแผ่นทองพงศาวดารพม่าจารึกไว้ว่า เดิมชื่อ “วัดตะละแม่ศรี” ภายหลังถูกทิ้งร้าง จนกระทั่งเมื่อปี พ.ศ. 2400 ในรัชสมัยพระเจ้าอนันตวรฤทธิเดช เจ้าผู้ครองนครน่าน องค์ที่ 62 จึงทรงโปรดให้บูรณะปฏิสังขรวัดและสถาปนาวัดขึ้นใหม่ โดยโปรดตั้งนามวัดใหม่ว่า “วัดมิ่งเมือง” ตามที่เรียกเสาหลักเมืองว่า “เสามิ่งเมือง” ต่อมาในปี พ.ศ. 2524 ได้มีการรื้อถอนและสร้างอุโบสถหลังใหม่เป็นแบบล้านนาร่วมสมัยมาจนถึงปัจจุบัน วัดมิ่งเมือง และได้รับพระราชทานวิสุงคามสีมา เมื่อวันที่ 14 พฤศจิกายน พ.ศ. 2510"
+            },
+            {
+              "heading": "อาคารเสนาสนะ",
+              "kind": null,
+              "text": "อาคารเสนาสนะที่สำคัญ ได้แก่ พระวิหารหลังใหม่ ที่มีลักษณะเป็นลายปูนปั้นที่ผนังด้านนอก และทาด้วยสีขาวทั้งหมด ภายในพระวิหารได้ประดิษฐานพระพุทธรูปปูนปั้นสีทองศิลปะแบบเชียงแสน มีนามว่า “หลวงพ่อพระศรีมิ่งเมือง” ที่มีอายุกว่า 400 ปี นอกจากนี้ภายในพระวิหารยังมีภาพจิตรกรรมฝาผนังที่แสดงวิถีชีวิตของชาวเมืองน่าน และประวัติความเป็นมาของเมืองน่าน ตั้งแต่ในรัชสมัยของพญาภูคา เจ้าผู้ครองนครน่าน (องค์แรก) มาจนถึงในรัชสมัยเจ้ามหาพรหมสุรธาดา เจ้าผู้ครองนครน่าน (องค์สุดท้าย) ภาพจิตรกรรมฝาผนัง เขียนโดยจิตกรช่างท้องถิ่นพื้นเมืองน่าน และภายในวัดยังประดิษฐานเสาหลักเมืองอยู่ในศาลาทรงจัตุรมุข ตั้งอยู่ด้านหน้าพระอุโบสถ เสาหลักเมืองสูงประมาณ 3 เมตร ฐานประดับด้วยไม้แกะสลักลวดลาย ลงรักปิดทอง ยอดเสาแกะสลักเป็นรูปพรหมพักตร์มีชื่อ เมตตา กรุณา มุทิตา อุเบกขา"
+            },
+            {
+              "heading": "ประวัติเสาหลักเมืองน่าน",
+              "kind": "history",
+              "text": "เสาหลักเมืองน่าน จากหลักฐานที่มีการบันทึกไว้พบว่า ได้รับการสร้างขึ้นในรัชสมัย พระเจ้าอัตถวรปัญโญ เจ้าผู้ครองนครน่าน องค์ที่ 57 และองค์ที่ 7 แห่งราชวงศ์ติ๋นมหาวงศ์ (พ.ศ. 2329 - พ.ศ. 2353) ทรงโปรดให้ฝังเสาพระหลักเมืองน่าน (ต้นปัจจุบัน) เมื่อวันที่ 15 เมษายน พ.ศ. 2331 ณ สถานที่ที่ทรงเสี่ยงทาย นั้นก็คือที่ข้างวัดร้างเก่า โดยมีผู้สันนิษฐานว่า วัดร้างเก่า ก็คือ วัดห้วยไคร้ ซึ่งสร้างขึ้นในสมัยพญาผากอง กษัตริย์น่าน องค์ที่ 7 แห่งราชวงศ์ภูคา (พ.ศ. 1904 - พ.ศ. 1929) โดยเสาพระหลักเมืองแต่เดิมนั้นเป็นไม้สักทองขนาดใหญ่ มีเส้นผ่านศูนย์กลาง 60 เซนติเมตร สูง 3 เมตร มีลักษณะเป็นทรงกลม หัวเสาเกลาเป็นรูปของดอกบัวตูม ตัวเสาได้ฝังลงกับพื้นดินโดยไม่มีการทำศาลครอบไว้ จนถึงในปี พ.ศ. 2506 ได้เกิดอุทกภัยน้ำท่วมครั้งใหญ่ แม่น้ำน่านได้เปลี่ยนทิศทางในการไหล จึงเข้าท่วมตัวเมืองน่านและบริเวณที่ฝังเสาหลักเมือง จนทำให้เสาหลักเมืองโค่นล้มลง ด้วยฐานของเสาหลักเมืองนั้นได้มีการผุกร่อนเนื่องจากการฝังกับพื้นดินมานานกว่าร้อยปี จากคำบอกเล่าของคุณยายมอญ พุทธิมา อายุ 75 ปี ชาวบ้านบ้านมิ่งเมือง ได้พูดถึงเกี่ยวกับศาลหลักเมืองน่าน ไว้ว่า “ตั้งแต่เกิดมาก็เห็นเสาหลักเมืองตั้งอยู่ภายในบริเวณวัดอยู่แล้ว” แต่เนื่องจากสภาพของเสาหลักเมืองเก่าแก่มากจึงผุกร่อนไปตามกาลเวลา เจ้าอาวาสวัดมิ่งเมืองในขณะนั้นจึงได้เคลื่อนย้ายเสาหลักเมืองมาไว้บริเวณโฮงกลอง (หอกลอง) ภายในวัด ลักษณะของเสาหลักเมืองที่ได้ย้ายมาวางไว้บริเวณโฮงกลองในตอนนั้น มีลักษณะกลวงและมีอักษรล้านนาจารึกไว้ แต่เนื่องจากในสมัยนั้นตนเองยังเป็นเด็กจึงไม่สามารถอ่านจารึกนั้นได้\nต่อมาในปี พ.ศ. 2514 นายสุกิจ จุลละนันทน์ ผู้ว่าราชการจังหวัดน่าน คนที่ 27 ได้นำข้าราชการ และประชาชนชาวเมืองน่าน ร่วมกันสร้างเสาหลักเมืองน่านขึ้นใหม่ เพื่อเป็นสิริมงคลแก่บ้านเมือง และได้อาราธนาหลวงพ่อโง่น สารโย วัดพระพุทธบาทเขาลวก อำเภอตะพานหิน จังหวัดพิจิตร พร้อมด้วยคณะมาเป็นช่างดำเนินการสร้าง โดยได้นำเอาเสาหลักเมืองเดิมมาเกลาแต่งใหม่ และได้ทำการแกะสลักหัวเสาเป็นรูปพระพรหมสี่หน้า ต่อมาในปี พ.ศ. 2515 ในขณะที่เสาหลักเมืองกำลังอยู่ในระหว่างการดำเนินการก่อสร้าง สมเด็จพระศรีนครินทราบรมราชชนนี (สมเด็จย่า) ได้เสด็จมาบรรจุท้าวเวสสุวรรณ จำนวน 84,000 องค์ ลงในหลุมฐานเสาหลักเมือง และต่อมาในปี พ.ศ. 2516 พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร (รัชกาลที่ 9) ทรงพระกรุณาโปรดเกล้าฯ ให้ พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว เมื่อครั้งดำรงพระราชอิสริยยศเป็นสมเด็จพระบรมโอรสาธิราชฯ…"
+            },
+            {
+              "heading": "ประเพณีสักการะศาลหลักเมือง",
+              "kind": null,
+              "text": "จังหวัดน่าน ได้จัดประเพณีสักการะศาลหลักเมือง ขึ้นในวันที่ 15 เมษายน ของทุกปี โดยมีพิธีบวงสรวงเครื่องแก้มอารักษ์ศาลหลักเมืองตามแบบพื้นเมืองน่านโบราณ แบ่งตามทิศของเศียรพรหมสี่หน้า โดยมีเครื่องบวงสรวงเครื่องแก้มอารักษ์เช่น หมู ไก่ ปลา ข้าวต้มมัด ขนมหวาน ที่ได้รับการจัดแต่งอย่างประณีตงดงามตามแบบพื้นเมืองน่าน เพื่อให้เป็นสิริมงคลแก่บ้านเมือง และให้คนรุ่นต่อ ๆ ไปได้ตระหนักถึงความสำคัญของเสาหลักเมือง ที่เป็นหนึ่งในความเชื่อสำคัญในการสร้างบ้านแปงเมืองของบรรพบุรุษสืบต่อไป"
+            }
+          ],
+          "chars": 5500
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Ming Mueang Nan 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Wat_Ming_Mueang_Nan_01.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wat_Ming_Mueang_Nan_01.jpg/960px-Wat_Ming_Mueang_Nan_01.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Ming Mueang in Nan",
+        "capturedAt": "2013-12-11",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Ming_Mueang_Nan_01.jpg",
+        "credit": "Wat Ming Mueang in Nan — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Ming Mueang Nan 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Wat_Ming_Mueang_Nan_02.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wat_Ming_Mueang_Nan_02.jpg/960px-Wat_Ming_Mueang_Nan_02.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The pavilion of the city pillar of Nan at Wat Ming Mueang .",
+        "capturedAt": "2013-12-11",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Ming_Mueang_Nan_02.jpg",
+        "credit": "The pavilion of the city pillar of Nan at Wat Ming Mueang . — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Ming Mueang Nan 03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Wat_Ming_Mueang_Nan_03.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wat_Ming_Mueang_Nan_03.jpg/960px-Wat_Ming_Mueang_Nan_03.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The city pillar at Wat Ming Mueang in Nan.",
+        "capturedAt": "2013-12-11",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Ming_Mueang_Nan_03.jpg",
+        "credit": "The city pillar at Wat Ming Mueang in Nan. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246657160",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q99641655",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mongkol",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมงคล",
+    "nameRoman": "Wat Mongkol",
+    "lat": 18.7799794,
+    "lng": 100.7704142,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1217648219",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-montien",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมณเฑียนร",
+    "nameRoman": "Wat Montien",
+    "lat": 18.7781887,
+    "lng": 100.7676974,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247184493",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-chang-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Muang Chang Tai",
+    "nameRoman": "Wat Muang Chang Tai",
+    "lat": 18.8574629,
+    "lng": 100.8119684,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1217240730",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-len",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองเล็น",
+    "nameRoman": "Wat Muang Len",
+    "lat": 18.7863042,
+    "lng": 100.7875487,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6935532383",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-muang-tuet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่วงตึ๊ด",
+    "nameRoman": "Wat Muang Tuet",
+    "lat": 18.7632872,
+    "lng": 100.7725179,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742861131",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-ka",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำคา",
+    "nameRoman": "Wat Nam Ka",
+    "lat": 19.2763357,
+    "lng": 100.8760752,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/7293803689",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-sai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำใส",
+    "nameRoman": "Wat Nam Sai",
+    "lat": 18.8156199,
+    "lng": 100.8591425,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/1894224200",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-bua-nan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองบัว",
+    "nameRoman": "Wat Nong Bua",
+    "lat": 19.0887183,
+    "lng": 100.7859653,
+    "geoPrecision": "exact",
+    "address": "Pa Kha",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Tha Wang Pha",
+      "subdistrict": "Pa Kha",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Tha Wang Pha district, Nan province, Thailand",
+      "descriptionTh": "วัดในอำเภอท่าวังผา จังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดหนองบัว (อำเภอท่าวังผา)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B2)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดหนองบัว เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลป่าคา อำเภอท่าวังผา จังหวัดน่าน\nวัดหนองบัวตั้งวัดเมื่อ พ.ศ. 2215 ที่บ้านหนองบัว เป็นหมู่บ้านชาวไทลื้อกลุ่มใหญ่อาศัยมาช้านาน มีเรื่องเล่าว่าเป็นชาวไทลื้อจากเมืองล้า สิบสองปันนาที่อพยพเข้ามาอยู่ในเมืองน่าน เมื่อประมาณจุลศักราช 1184 (พ.ศ. 2365)\nวิหารเป็นรูปสี่เหลี่ยมผืนผ้า เรียบง่าย มีความโดดเด่นที่จิตรกรรมผาผนังแบบเดียวกับวัดภูมินทร์ วิหารวัดหนองบัว สร้างขึ้นเมื่อประมาณ พ.ศ. 2405 โดยการนำของครูบาหลวงสุนันต๊ะร่วมกับชาวบ้านหนองบัวช่วยกันสร้างขึ้น เป็นสถาปัตยกรรมรูปแบบไทลื้อ ภายในวิหารมีภาพจิตรกรรมที่แสดงเรื่องราวทางพุทธชาดก โดยช่างฝีมือสกุลไทลื้อที่ปัจจุบันเหลืออยู่เพียงสองแห่งคือที่วัดภูมินทร์กับที่วัดหนองบัว…",
+        "sections": [],
+        "chars": 1200
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดหนองบัว (อำเภอท่าวังผา)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B2)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดหนองบัว เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลป่าคา อำเภอท่าวังผา จังหวัดน่าน\nวัดหนองบัวตั้งวัดเมื่อ พ.ศ. 2215 ที่บ้านหนองบัว เป็นหมู่บ้านชาวไทลื้อกลุ่มใหญ่อาศัยมาช้านาน มีเรื่องเล่าว่าเป็นชาวไทลื้อจากเมืองล้า สิบสองปันนาที่อพยพเข้ามาอยู่ในเมืองน่าน เมื่อประมาณจุลศักราช 1184 (พ.ศ. 2365)\nวิหารเป็นรูปสี่เหลี่ยมผืนผ้า เรียบง่าย มีความโดดเด่นที่จิตรกรรมผาผนังแบบเดียวกับวัดภูมินทร์ วิหารวัดหนองบัว สร้างขึ้นเมื่อประมาณ พ.ศ. 2405 โดยการนำของครูบาหลวงสุนันต๊ะร่วมกับชาวบ้านหนองบัวช่วยกันสร้างขึ้น เป็นสถาปัตยกรรมรูปแบบไทลื้อ ภายในวิหารมีภาพจิตรกรรมที่แสดงเรื่องราวทางพุทธชาดก โดยช่างฝีมือสกุลไทลื้อที่ปัจจุบันเหลืออยู่เพียงสองแห่งคือที่วัดภูมินทร์กับที่วัดหนองบัว…",
+          "sections": [],
+          "chars": 1200
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Nan province wat nong bua exterior.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nan_province_wat_nong_bua_exterior.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nan_province_wat_nong_bua_exterior.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Nong Bua (Thai script:วัดหนองบัว), in the Tha Wang Pha district of Nan province, was built in the 19th century CE by Thai Lue craftsmen who had migrated from southern China.",
+        "capturedAt": "2006-03-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Nan_province_wat_nong_bua_exterior.jpg",
+        "credit": "Wat Nong Bua (Thai script:วัดหนองบัว), in the Tha Wang Pha district of Nan province, was built in the 19th century CE by Thai Lue craftsmen who had migrated from southern China. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Nan wat nong bua wihan 04.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Nan_wat_nong_bua_wihan_04.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nan_wat_nong_bua_wihan_04.JPG/960px-Nan_wat_nong_bua_wihan_04.JPG",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Nong Bua (Thai script:วัดหนองบัว) is located in Amphoe Tha Wang Pha in Nan Province, some 40 km north of the city of Nan, on the west bank of the Nan river. It was built and decorated in the Thai Lue style in the mid 19th century.",
+        "capturedAt": "2008-01-24",
+        "source": "https://commons.wikimedia.org/wiki/File:Nan_wat_nong_bua_wihan_04.JPG",
+        "credit": "Wat Nong Bua (Thai script:วัดหนองบัว) is located in Amphoe Tha Wang Pha in Nan Province, some 40 km north of the city of Nan, on the west bank of the Nan river. It was built and decorated in the Thai Lue style in the mid 19th century. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Nong Bua ubosot.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/2013_Wat_Nong_Bua_ubosot.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2013_Wat_Nong_Bua_ubosot.jpg/960px-2013_Wat_Nong_Bua_ubosot.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The ubosot of Wat Nong Bua in Nan Province",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Nong_Bua_ubosot.jpg",
+        "credit": "The ubosot of Wat Nong Bua in Nan Province — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Nong Bua Thai Lue Buddha.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2013_Wat_Nong_Bua_Thai_Lue_Buddha.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2013_Wat_Nong_Bua_Thai_Lue_Buddha.jpg/960px-2013_Wat_Nong_Bua_Thai_Lue_Buddha.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The small wooden Buddha statue inside Wat Nong Bua, in Nan Province, shows all the characteristics of how the Buddha is depicted by the Thai Lue (a.k.a. Dai in China) people.",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Nong_Bua_Thai_Lue_Buddha.jpg",
+        "credit": "The small wooden Buddha statue inside Wat Nong Bua, in Nan Province, shows all the characteristics of how the Buddha is depicted by the Thai Lue (a.k.a. Dai in China) people. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4662468789",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q99641196",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-khao-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าเขาน้อย",
+    "nameRoman": "Wat Pa Khao Noi",
+    "lat": 18.7708343,
+    "lng": 100.7490974,
+    "geoPrecision": "exact",
+    "address": "Du Tai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Du Tai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13638552011",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pang-san",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Pang San",
+    "nameRoman": "Wat Pang San",
+    "lat": 19.4313984,
+    "lng": 100.6044136,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1478717273",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pha-kwang",
+    "lens": [
+      "wat"
+    ],
+    "name": "บ้านผาขวาง",
+    "nameRoman": "Wat Pha Kwang",
+    "lat": 19.008862,
+    "lng": 100.7850424,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3735429891",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-koet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเกิด",
+    "nameRoman": "Wat Phra Koet",
+    "lat": 18.7906058,
+    "lng": 100.7870337,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระเกิด (จังหวัดน่าน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระเกิด เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน ที่ดินวัดมีเนื้อที่ 3 ไร่ 2 งาน 60 ตารางวา\nวัดพระเกิดตั้งวัดเมื่อ พ.ศ. 2370 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2381 ไม่ทราบนามผู้สร้าง แต่ปรากฏในหนังสือการอ่านศิลาจารึกของอาจารย์กล่ำ ทองคำวรรณ ว่า \"สำหรับวัดพระเกิดที่จังหวัดน่าน คนเมืองเทิงเป็นผู้สร้าง\" และในหลักศิลาจารึกหลักที่ 72 ที่จารึกเมื่อปี พ.ศ. 2043 บันทึกว่าพระมหาราชเทวีเจ้าได้ให้ฝังสีมาที่วัดพระเกิด ทั้งนี้มีการถวายนาและข้าพระแด่วัดด้วย มีตำนานเล่าว่า เมื่อตอนที่ ปรับสถานที่สร้างวัดนั้นได้พบพระแก้วแกะสีขาว ใสอยู่ในกล่องไม้สาน วางอยู่บนตอไม้ จึงตั้งชื่อว่า \"วัดพระเกิด\" ปัจจุบันยังมีการเก็บพระแก้วองค์นั้นไว้ที่วัด…",
+        "sections": [],
+        "chars": 1040
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระเกิด (จังหวัดน่าน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระเกิด เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน ที่ดินวัดมีเนื้อที่ 3 ไร่ 2 งาน 60 ตารางวา\nวัดพระเกิดตั้งวัดเมื่อ พ.ศ. 2370 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2381 ไม่ทราบนามผู้สร้าง แต่ปรากฏในหนังสือการอ่านศิลาจารึกของอาจารย์กล่ำ ทองคำวรรณ ว่า \"สำหรับวัดพระเกิดที่จังหวัดน่าน คนเมืองเทิงเป็นผู้สร้าง\" และในหลักศิลาจารึกหลักที่ 72 ที่จารึกเมื่อปี พ.ศ. 2043 บันทึกว่าพระมหาราชเทวีเจ้าได้ให้ฝังสีมาที่วัดพระเกิด ทั้งนี้มีการถวายนาและข้าพระแด่วัดด้วย มีตำนานเล่าว่า เมื่อตอนที่ ปรับสถานที่สร้างวัดนั้นได้พบพระแก้วแกะสีขาว ใสอยู่ในกล่องไม้สาน วางอยู่บนตอไม้ จึงตั้งชื่อว่า \"วัดพระเกิด\" ปัจจุบันยังมีการเก็บพระแก้วองค์นั้นไว้ที่วัด…",
+          "sections": [],
+          "chars": 1040
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6935532381",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q108011769",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-net",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเนตร",
+    "nameRoman": "Wat Phra Net",
+    "lat": 18.792051,
+    "lng": 100.7891244,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742861130",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-beng-sakat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุเบ็งสกัด",
+    "nameRoman": "Wat Phra That Beng Sakat",
+    "lat": 19.1784121,
+    "lng": 100.9180044,
+    "geoPrecision": "exact",
+    "address": "Pua",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Pua",
+      "subdistrict": "Pua",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุเบ็งสกัด",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%9A%E0%B9%87%E0%B8%87%E0%B8%AA%E0%B8%81%E0%B8%B1%E0%B8%94",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุเบ็งสกัด เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลวรนคร อำเภอปัว จังหวัดน่าน\nวัดพระธาตุเบ็งสกัด หรือ วัดเบ็งสกัด ตั้งวัดเมื่อ พ.ศ. 2410 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2496 องค์พระธาตุมีตำนานปรากฏอยู่ในสมุดข่อย กล่าวว่า เมื่อครั้งพญาภูคาต้องการจะสร้างเมืองขึ้นใหม่ให้แก่บุตรบุญธรรม จึงได้ให้ผู้คนไปหาชัยภูมิสร้างเมืองใหม่ ตั้งให้ขุนฟองเป็นผู้ครองเมือง มีชื่อว่า เมืองวรนคร พญาภูคาประสงค์สร้างเจดีย์ใกล้กับเมืองใหม่ ได้พบบริเวณที่ดินเป็นลานกว้างมีบ่อน้ำอยู่ตรงกลางกว้างประมาณ 1.5 เมตร เมื่อพระองค์เสด็จไปดูและนำไม้รวกแหย่ลงไปในบ่อนั้น ปรากฏว่าไม้ที่แหย่ลงไปขาดเป็นท่อน ๆ จึงได้สร้างเจดีย์ครอบบ่อน้ำนั้น ซึ่งสร้างขึ้นแบบธรรมดาขนาดกว้าง 7 เมตร สูง 20 เมตร…",
+        "sections": [],
+        "chars": 1509
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุเบ็งสกัด",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%9A%E0%B9%87%E0%B8%87%E0%B8%AA%E0%B8%81%E0%B8%B1%E0%B8%94",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุเบ็งสกัด เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลวรนคร อำเภอปัว จังหวัดน่าน\nวัดพระธาตุเบ็งสกัด หรือ วัดเบ็งสกัด ตั้งวัดเมื่อ พ.ศ. 2410 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2496 องค์พระธาตุมีตำนานปรากฏอยู่ในสมุดข่อย กล่าวว่า เมื่อครั้งพญาภูคาต้องการจะสร้างเมืองขึ้นใหม่ให้แก่บุตรบุญธรรม จึงได้ให้ผู้คนไปหาชัยภูมิสร้างเมืองใหม่ ตั้งให้ขุนฟองเป็นผู้ครองเมือง มีชื่อว่า เมืองวรนคร พญาภูคาประสงค์สร้างเจดีย์ใกล้กับเมืองใหม่ ได้พบบริเวณที่ดินเป็นลานกว้างมีบ่อน้ำอยู่ตรงกลางกว้างประมาณ 1.5 เมตร เมื่อพระองค์เสด็จไปดูและนำไม้รวกแหย่ลงไปในบ่อนั้น ปรากฏว่าไม้ที่แหย่ลงไปขาดเป็นท่อน ๆ จึงได้สร้างเจดีย์ครอบบ่อน้ำนั้น ซึ่งสร้างขึ้นแบบธรรมดาขนาดกว้าง 7 เมตร สูง 20 เมตร…",
+          "sections": [],
+          "chars": 1509
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Phra That Bueng Sakat 2014 b.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Wat_Phra_That_Bueng_Sakat_2014_b.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wat_Phra_That_Bueng_Sakat_2014_b.jpg/960px-Wat_Phra_That_Bueng_Sakat_2014_b.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Phra That Bueng Sakat, in Pua District, was in the last stage of being renovated when this photo was made in January 2014.",
+        "capturedAt": "2014-01-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Bueng_Sakat_2014_b.jpg",
+        "credit": "Wat Phra That Bueng Sakat, in Pua District, was in the last stage of being renovated when this photo was made in January 2014. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Phra That Bueng Sakat 2014 a.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Wat_Phra_That_Bueng_Sakat_2014_a.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Wat_Phra_That_Bueng_Sakat_2014_a.jpg/960px-Wat_Phra_That_Bueng_Sakat_2014_a.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Phra That Bueng Sakat, in Pua District, was in the last stage of being renovated when this photo was made in January 2014.",
+        "capturedAt": "2014-01-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Bueng_Sakat_2014_a.jpg",
+        "credit": "Wat Phra That Bueng Sakat, in Pua District, was in the last stage of being renovated when this photo was made in January 2014. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2014 11 Wat Phra That Bueng Sakat 1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/2014_11_Wat_Phra_That_Bueng_Sakat_1.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/2014_11_Wat_Phra_That_Bueng_Sakat_1.jpg/960px-2014_11_Wat_Phra_That_Bueng_Sakat_1.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "The wihan of Wat Phra That Bueng Sakat, in Pua District, in November 2014 after its renovation of earlier that year.",
+        "capturedAt": "2014-11-21",
+        "source": "https://commons.wikimedia.org/wiki/File:2014_11_Wat_Phra_That_Bueng_Sakat_1.jpg",
+        "credit": "The wihan of Wat Phra That Bueng Sakat, in Pua District, in November 2014 after its renovation of earlier that year. — Takeaway, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2014 11 Wat Phra That Bueng Sakat 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/2014_11_Wat_Phra_That_Bueng_Sakat_2.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2014_11_Wat_Phra_That_Bueng_Sakat_2.jpg/960px-2014_11_Wat_Phra_That_Bueng_Sakat_2.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "The wihan of Wat Phra That Bueng Sakat, in Pua District, in November 2014 after its renovation of earlier that year.",
+        "capturedAt": "2014-11-21",
+        "source": "https://commons.wikimedia.org/wiki/File:2014_11_Wat_Phra_That_Bueng_Sakat_2.jpg",
+        "credit": "The wihan of Wat Phra That Bueng Sakat, in Pua District, in November 2014 after its renovation of earlier that year. — Takeaway, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13652450582",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q99642038",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chae-haeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุแช่แห้ง",
+    "nameRoman": "Wat Phra That Chae Haeng",
+    "lat": 18.758591,
+    "lng": 100.7915756,
+    "geoPrecision": "block",
+    "address": "89 Muang Tuet",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Phu Phiang",
+      "subdistrict": "Muang Tuet",
+      "street": "89",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุแช่แห้ง",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุแช่แห้ง พระอารามหลวง (ไทยถิ่นเหนือ: ) เป็นพระอารามหลวง ชั้นตรี ชนิดสามัญ ตั้งอยู่ที่ บ้านหนองเต่า หมู่ 3 ตำบลม่วงตึ๊ด อำเภอภูเพียง จังหวัดน่าน อยู่ห่างจากตัวเมืองออกไปประมาณ 3 กิโลเมตร เดิมเป็นวัดราษฎร์ องค์พระธาตุตั้งอยู่บนเนินเขาลูกเตี้ย ๆ เป็นสีทองสุกปลั่ง สามารถมองเห็นได้แต่ไกล เนื่องจากสูงถึง 2 เส้น เป็นอนุสรณ์ของความรักและความสัมพันธ์ ระหว่างเมืองน่านกับเมืองสุโขทัยในอดีต",
+        "sections": [
+          {
+            "heading": "ความสำคัญ",
+            "kind": null,
+            "text": "ศาสนสถานสำคัญประจำจังหวัดน่าน\nพระธาตุแช่แห้ง ใช้เป็นสถานที่ประกอบพิธีน้ำอภิเษกน้ำบ่อแก้ว จังหวัดน่าน ใช้ทำน้ำอภิเษก\nพระธาตุแช่แห้ง เป็นพระธาตุประจำปีเกิด ของคนที่เกิดปีเถาะ (ปีนักษัตรกระต่าย)"
+          }
+        ],
+        "chars": 617
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุแช่แห้ง",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุแช่แห้ง พระอารามหลวง (ไทยถิ่นเหนือ: ) เป็นพระอารามหลวง ชั้นตรี ชนิดสามัญ ตั้งอยู่ที่ บ้านหนองเต่า หมู่ 3 ตำบลม่วงตึ๊ด อำเภอภูเพียง จังหวัดน่าน อยู่ห่างจากตัวเมืองออกไปประมาณ 3 กิโลเมตร เดิมเป็นวัดราษฎร์ องค์พระธาตุตั้งอยู่บนเนินเขาลูกเตี้ย ๆ เป็นสีทองสุกปลั่ง สามารถมองเห็นได้แต่ไกล เนื่องจากสูงถึง 2 เส้น เป็นอนุสรณ์ของความรักและความสัมพันธ์ ระหว่างเมืองน่านกับเมืองสุโขทัยในอดีต",
+          "sections": [
+            {
+              "heading": "ความสำคัญ",
+              "kind": null,
+              "text": "ศาสนสถานสำคัญประจำจังหวัดน่าน\nพระธาตุแช่แห้ง ใช้เป็นสถานที่ประกอบพิธีน้ำอภิเษกน้ำบ่อแก้ว จังหวัดน่าน ใช้ทำน้ำอภิเษก\nพระธาตุแช่แห้ง เป็นพระธาตุประจำปีเกิด ของคนที่เกิดปีเถาะ (ปีนักษัตรกระต่าย)"
+            }
+          ],
+          "chars": 617
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Phra That Chae Haeng.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Phra_That_Chae_Haeng.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/97/Phra_That_Chae_Haeng.jpg",
+        "width": 800,
+        "author": "No machine-readable author provided. Oatz assumed (based on copyright claims).",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "description": "Phra That Chae Haeng (วัดพระธาตูแช่แห้ง), Nan Province.",
+        "capturedAt": "13 January",
+        "source": "https://commons.wikimedia.org/wiki/File:Phra_That_Chae_Haeng.jpg",
+        "credit": "Phra That Chae Haeng (วัดพระธาตูแช่แห้ง), Nan Province. — No machine-readable author provided. Oatz assumed (based on copyright claims)., Public domain, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดพระธาตุแช่แห้ง อ.ภูเพียง จ.น่าน (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(1).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดพระธาตุแช่แห้ง อ.ภูเพียง จ.น่าน (10).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(10).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดพระธาตุแช่แห้ง อ.ภูเพียง จ.น่าน (11).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2811%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2811%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2811%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B9%81%E0%B8%AB%E0%B9%89%E0%B8%87_%E0%B8%AD.%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(11).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/545986811",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q6630393",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chang-kam-worawiharn",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุช้างค้ำวรวิหาร",
+    "nameRoman": "Wat Phra That Chang Kam Worawiharn",
+    "lat": 18.7764322,
+    "lng": 100.7720523,
+    "geoPrecision": "block",
+    "address": "Nai Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Nai Wiang",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุช้างค้ำวรวิหาร",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุช้างค้ำวรวิหาร อยู่ตรงข้ามพิพิธภัณฑสถานแห่งชาติน่าน เดิมชื่อ วัดหลวงกลางเวียง เจ้าผู้ครองนครน่าน พญาภูเข่ง เป็นผู้สร้างขึ้น เมื่อปี พ.ศ. 1949 พระวิหารหลวงวัดพระธาตุช้างค้ำวรวิหาร เป็นวิหารขนาดใหญ่ รูปทรง สร้างตามสถาปัตยกรรม ทางภาคเหนือ ลักษณะภายในโอ่โถง ด้านหน้ามีสิงห์คู่ ยืนตรงเชิงบันได ด้านละตัว มีทางเข้า 3 ทาง ประตูกลาง ทำเป็นประตูใหญ่ และประตูเล็ก อยู่ด้านซ้ายและด้านขวา มีทางขึ้นเป็นประตูเล็ก ๆ ตรงข้ามพระประธาน ด้านทิศตะวันออกและตะวันตกอีก 2 ข้าง ทำหลังคาซ้อนกัน 2 ชั้น มุขลดด้านหน้า และด้านหลัง หน้าบัน ตีด้วยแผ่นกระดานเรียงต่อกัน แล้วประดับที่ขอบเสา ด้านหน้าทุกต้น ตามลักษณะ สถาปัตยกรรมล้านนาไทย ภายในพระวิหารกว้างขวาง มีเสาปูนกลมขนาดใหญ่ ขนาด 2 คนโอบรอบ จำหลัก…",
+        "sections": [
+          {
+            "heading": "สิ่งสำคัญภายในวัด",
+            "kind": "interest",
+            "text": "สิ่งสำคัญภายในวัดพระธาตุช้างค้ำวรวิหาร พระอารามหลวง ได้แก่ \n\nพระธาตุช้างค้ำสร้างขึ้นเมื่อปี พ.ศ. 1949 โดย พญาภูเข่ง กษัตริย์น่าน องค์ที่ 11 แห่งราชวงศ์ภูคา (ครองราชย์ พ.ศ. 1950 - พ.ศ. 1960) ภายในองค์พระธาตุได้ประดิษฐานพระบรมสารีริกธาตุ นับเป็นปูชนียสถานสำคัญ รูปทรงเจดีย์ได้รับอิทธิพลจากศิลปะสุโขทัย คือ เจดีย์ทรงลังกา เช่นเดียวกับเจดีย์วัดช้างล้อม พระธาตุเจดีย์ สร้างด้วยอิฐถือปูน มีสัณฐานเป็นรูปสี่เหลื่ยมจัตุรัส ซ้อนกัน 3 ชั้น กว้างด้านละ 9 วา ฐานจากชั้นแรกสูงถึงชั้นสอง มีรูปช้างค้ำอยู่ในลักษณะ เหมือนฐานรองรับไว้ด้านละ 6 เชือก รวมทั้งหมด 24 เชือก ช้างแต่ละตัว โผล่แต่ส่วนหัว ลอยออกมาครึ่งตัว ขาหน้าทั้งคู่ ยื่นพ้นออกมาจากเหลี่ยมฐาน เหนือขึ้นไปเป็นฐานปัทม์ (ฐานบัว) ซ้อนกัน 3 ชั้น และเป็นองค์ระฆังแบบลังกา ต่อจากองค์ระฆัง ทำเป็นฐานเขียง รองรับมาลัยลูกแก้ว ลดหลั่นกันไป เป็นส่วนยอด ปัจจุบัน องค์พระธาตุเจดีย์ช้างค้ำ ได้รับการบูรณะปฏิสังขรณ์ใหม่ทั้งหมดเมื่อปี พ.ศ. 2455 ดังปรากฏบันทึกในหนังสือประวัติวัดพระธาตุช้างค้ำวรวิหาร ความว่า “พระธาตุช้างค้ำ ซึ่งขณะนั้นของเดิมได้หุ้มทองจังโกทั้งองค์มีบางส่วนขององค์พระธาตุชำรุดเพราะถูกน้ำกัดเซาะลงตามช่องที่หุ้มทองจังโก เจ้าอาวาสในขณะนั้น คือ พระครูนันทสมณาจารย์ ได้ร่วมกับคณะกรรมการโดยความเห็นชอบจาก พระเจ้าสุริยพงษ์ผริตเดชฯ พระเจ้าผู้ครองนครน่าน องค์ที่ 63 ได้ทำการรื้อเอาทองจังโกออกทั้งหมด แล้วทำการบูรณะปฏิสังขรณ์ใหม่ โดยมีหม่องโกละเป็นนายช่างทำการรื้อ“ นับแต่นั้นมาองค์พระธาตุช้างค้ำจึ่งก่ออิฐถือปูนทาสีขาวนวลมาเป็นเวลานาน กระทั้งมีการหุ้มทองจังโกให้เหมือนเช่นเดิมอีกครั้ง ดังปรากฎความงดงามมาถึงในปัจจุบัน\nพระวิหารหลวงสร้างขึ้นเมื่อปี พ.ศ. 1949 โดย พญาภูเข่ง กษัตริย์น่าน องค์ที่ 11 แห่งราชวงศ์ภูคา (ครองราชย์ พ.ศ. 1950 - พ.ศ. 1960) ได้รับการบูรณะปฏิสังขรณ์ใหม่เมื่อปี พ.ศ. 2455 ในรัชสมัย พระเจ้าสุริยพงษ์ผริตเดชฯ พระเจ้าผู้ครองนครน่าน องค์ที่ 63 โปรดให้ปฏิสังขรณ์พระวิหารใหญ่วัดพระธาตุช้างค้ำวรวิหาร 1 หลัง เปลี่ยนเครื่องบนไม้สัก แลต่อน่ามุขออก 1 ห้อง รวมเปน 8 ห้อง ทำตามรูปเดิม เปนแต่น่ามุขแลเปลี่ยนเครื่องบน หลังคามุงกระเบื้องดิน ประดับตกแต่งเสาในพระวิหาร แลเพดานกันน่าจั่วทั้ง 2 ข้าง ทำเปนลวดลายลงรักปิดทอง แลประดับแก้วสีต่าง ๆ กับซ่อมแซมฐานพระประธานแลธรรมาศน์ ลงรักปิดทอง กับปิดทองพระประธานในพระวิหารนี้ แลมีการทำบุญฉลองเปนการใหญ่โตครึกครื้นมาก สิ้นเงิน 12,419 บาท 85 สตางค์ พระสมุห์อินทร์ วัดหัวข่วง เปนสล่า…"
+          },
+          {
+            "heading": "งานประจำปี",
+            "kind": null,
+            "text": "ประเพณีถวายสลากภัต หรือ ประเพณีตานก๋วยสลาก จะจัดขึ้นในวันเพ็ญ ขึ้น 15 ค่ำ เดือน 12 เหนือ ซึ่งเป็นประเพณีเก่าแก่ของคนน่านควบคู่ไปกับประเพณีแข่งเรือ"
+          }
+        ],
+        "chars": 7417
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุช้างค้ำวรวิหาร",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุช้างค้ำวรวิหาร อยู่ตรงข้ามพิพิธภัณฑสถานแห่งชาติน่าน เดิมชื่อ วัดหลวงกลางเวียง เจ้าผู้ครองนครน่าน พญาภูเข่ง เป็นผู้สร้างขึ้น เมื่อปี พ.ศ. 1949 พระวิหารหลวงวัดพระธาตุช้างค้ำวรวิหาร เป็นวิหารขนาดใหญ่ รูปทรง สร้างตามสถาปัตยกรรม ทางภาคเหนือ ลักษณะภายในโอ่โถง ด้านหน้ามีสิงห์คู่ ยืนตรงเชิงบันได ด้านละตัว มีทางเข้า 3 ทาง ประตูกลาง ทำเป็นประตูใหญ่ และประตูเล็ก อยู่ด้านซ้ายและด้านขวา มีทางขึ้นเป็นประตูเล็ก ๆ ตรงข้ามพระประธาน ด้านทิศตะวันออกและตะวันตกอีก 2 ข้าง ทำหลังคาซ้อนกัน 2 ชั้น มุขลดด้านหน้า และด้านหลัง หน้าบัน ตีด้วยแผ่นกระดานเรียงต่อกัน แล้วประดับที่ขอบเสา ด้านหน้าทุกต้น ตามลักษณะ สถาปัตยกรรมล้านนาไทย ภายในพระวิหารกว้างขวาง มีเสาปูนกลมขนาดใหญ่ ขนาด 2 คนโอบรอบ จำหลัก…",
+          "sections": [
+            {
+              "heading": "สิ่งสำคัญภายในวัด",
+              "kind": "interest",
+              "text": "สิ่งสำคัญภายในวัดพระธาตุช้างค้ำวรวิหาร พระอารามหลวง ได้แก่ \n\nพระธาตุช้างค้ำสร้างขึ้นเมื่อปี พ.ศ. 1949 โดย พญาภูเข่ง กษัตริย์น่าน องค์ที่ 11 แห่งราชวงศ์ภูคา (ครองราชย์ พ.ศ. 1950 - พ.ศ. 1960) ภายในองค์พระธาตุได้ประดิษฐานพระบรมสารีริกธาตุ นับเป็นปูชนียสถานสำคัญ รูปทรงเจดีย์ได้รับอิทธิพลจากศิลปะสุโขทัย คือ เจดีย์ทรงลังกา เช่นเดียวกับเจดีย์วัดช้างล้อม พระธาตุเจดีย์ สร้างด้วยอิฐถือปูน มีสัณฐานเป็นรูปสี่เหลื่ยมจัตุรัส ซ้อนกัน 3 ชั้น กว้างด้านละ 9 วา ฐานจากชั้นแรกสูงถึงชั้นสอง มีรูปช้างค้ำอยู่ในลักษณะ เหมือนฐานรองรับไว้ด้านละ 6 เชือก รวมทั้งหมด 24 เชือก ช้างแต่ละตัว โผล่แต่ส่วนหัว ลอยออกมาครึ่งตัว ขาหน้าทั้งคู่ ยื่นพ้นออกมาจากเหลี่ยมฐาน เหนือขึ้นไปเป็นฐานปัทม์ (ฐานบัว) ซ้อนกัน 3 ชั้น และเป็นองค์ระฆังแบบลังกา ต่อจากองค์ระฆัง ทำเป็นฐานเขียง รองรับมาลัยลูกแก้ว ลดหลั่นกันไป เป็นส่วนยอด ปัจจุบัน องค์พระธาตุเจดีย์ช้างค้ำ ได้รับการบูรณะปฏิสังขรณ์ใหม่ทั้งหมดเมื่อปี พ.ศ. 2455 ดังปรากฏบันทึกในหนังสือประวัติวัดพระธาตุช้างค้ำวรวิหาร ความว่า “พระธาตุช้างค้ำ ซึ่งขณะนั้นของเดิมได้หุ้มทองจังโกทั้งองค์มีบางส่วนขององค์พระธาตุชำรุดเพราะถูกน้ำกัดเซาะลงตามช่องที่หุ้มทองจังโก เจ้าอาวาสในขณะนั้น คือ พระครูนันทสมณาจารย์ ได้ร่วมกับคณะกรรมการโดยความเห็นชอบจาก พระเจ้าสุริยพงษ์ผริตเดชฯ พระเจ้าผู้ครองนครน่าน องค์ที่ 63 ได้ทำการรื้อเอาทองจังโกออกทั้งหมด แล้วทำการบูรณะปฏิสังขรณ์ใหม่ โดยมีหม่องโกละเป็นนายช่างทำการรื้อ“ นับแต่นั้นมาองค์พระธาตุช้างค้ำจึ่งก่ออิฐถือปูนทาสีขาวนวลมาเป็นเวลานาน กระทั้งมีการหุ้มทองจังโกให้เหมือนเช่นเดิมอีกครั้ง ดังปรากฎความงดงามมาถึงในปัจจุบัน\nพระวิหารหลวงสร้างขึ้นเมื่อปี พ.ศ. 1949 โดย พญาภูเข่ง กษัตริย์น่าน องค์ที่ 11 แห่งราชวงศ์ภูคา (ครองราชย์ พ.ศ. 1950 - พ.ศ. 1960) ได้รับการบูรณะปฏิสังขรณ์ใหม่เมื่อปี พ.ศ. 2455 ในรัชสมัย พระเจ้าสุริยพงษ์ผริตเดชฯ พระเจ้าผู้ครองนครน่าน องค์ที่ 63 โปรดให้ปฏิสังขรณ์พระวิหารใหญ่วัดพระธาตุช้างค้ำวรวิหาร 1 หลัง เปลี่ยนเครื่องบนไม้สัก แลต่อน่ามุขออก 1 ห้อง รวมเปน 8 ห้อง ทำตามรูปเดิม เปนแต่น่ามุขแลเปลี่ยนเครื่องบน หลังคามุงกระเบื้องดิน ประดับตกแต่งเสาในพระวิหาร แลเพดานกันน่าจั่วทั้ง 2 ข้าง ทำเปนลวดลายลงรักปิดทอง แลประดับแก้วสีต่าง ๆ กับซ่อมแซมฐานพระประธานแลธรรมาศน์ ลงรักปิดทอง กับปิดทองพระประธานในพระวิหารนี้ แลมีการทำบุญฉลองเปนการใหญ่โตครึกครื้นมาก สิ้นเงิน 12,419 บาท 85 สตางค์ พระสมุห์อินทร์ วัดหัวข่วง เปนสล่า…"
+            },
+            {
+              "heading": "งานประจำปี",
+              "kind": null,
+              "text": "ประเพณีถวายสลากภัต หรือ ประเพณีตานก๋วยสลาก จะจัดขึ้นในวันเพ็ญ ขึ้น 15 ค่ำ เดือน 12 เหนือ ซึ่งเป็นประเพณีเก่าแก่ของคนน่านควบคู่ไปกับประเพณีแข่งเรือ"
+            }
+          ],
+          "chars": 7417
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Phra That Chang Kham, bôt, chedi et viharn, Nan.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Wat_Phra_That_Chang_Kham%2C_b%C3%B4t%2C_chedi_et_viharn%2C_Nan.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wat_Phra_That_Chang_Kham%2C_b%C3%B4t%2C_chedi_et_viharn%2C_Nan.jpg/960px-Wat_Phra_That_Chang_Kham%2C_b%C3%B4t%2C_chedi_et_viharn%2C_Nan.jpg",
+        "width": 800,
+        "author": "Ellnik",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "description": "Wat_Phra_That_Chang_Kham,_bôt,_chedi_et_viharn,_Nan.jpg",
+        "capturedAt": "2007-04-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Chang_Kham,_b%C3%B4t,_chedi_et_viharn,_Nan.jpg",
+        "credit": "Wat_Phra_That_Chang_Kham,_bôt,_chedi_et_viharn,_Nan.jpg — Ellnik, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดพระธาตุช้างค้ำวรวิหาร อ.เมือง จ.น่าน (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(1).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดพระธาตุช้างค้ำวรวิหาร อ.เมือง จ.น่าน (11).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2811%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2811%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2811%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(11).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดพระธาตุช้างค้ำวรวิหาร อ.เมือง จ.น่าน (10).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(10).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246814232",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q16004222",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-khao-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุเขาน้อย",
+    "nameRoman": "Wat Phra That Khao Noi",
+    "lat": 18.7695359,
+    "lng": 100.7506496,
+    "geoPrecision": "block",
+    "address": "Du Tai",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Du Tai",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple im Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุเขาน้อย",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุเขาน้อย ตำบลดู่ใต้ อำเภอเมืองน่าน จังหวัดน่าน เป็นวัดราษฎร์ องค์พระธาตุตั้งอยู่บนยอดดอยเขาน้อย ซึ่งอยู่ด้านตะวันตกของตัวเมืองน่าน สร้างในสมัยเจ้าปู่แข็ง เมื่อปี พ.ศ. 2030 องค์พระธาตุเป็นเจดีย์ก่ออิฐถือปูนทั้งองค์ เป็นศิลปะพม่าผสมล้านนา ภายในบรรจุพระเกศาธาตุขององค์สมเด็จพระสัมมาสัมพุทธเจ้าได้รับการบูรณปฏิสังขรณ์ครั้งใหญ่ในสมัยพระเจ้าสุริยพงษ์ผริตเดช ระหว่างปี พ.ศ. 2449-2454 โดยช่างชาวพม่า และวิหารสร้างในสมัยนี้เช่นกัน \nจากวัดพระธาตุเขาน้อย สามารถมองเห็นทิวทัศน์โดยรอบของตัวเมืองน่าน ปัจจุบันบริเวณลานชมทิวทัศน์ ประดิษฐานพระพุทธมหาอุดมมงคลนันทบุรีศรีน่าน ซึ่งเป็นพระพุทธรูปปางประทานพร บนฐานดอกบัวสูง 9 เมตร บนยอดพระเกศาทำจากทองคำหนัก 27 บาท…",
+        "sections": [],
+        "chars": 818
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุเขาน้อย",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุเขาน้อย ตำบลดู่ใต้ อำเภอเมืองน่าน จังหวัดน่าน เป็นวัดราษฎร์ องค์พระธาตุตั้งอยู่บนยอดดอยเขาน้อย ซึ่งอยู่ด้านตะวันตกของตัวเมืองน่าน สร้างในสมัยเจ้าปู่แข็ง เมื่อปี พ.ศ. 2030 องค์พระธาตุเป็นเจดีย์ก่ออิฐถือปูนทั้งองค์ เป็นศิลปะพม่าผสมล้านนา ภายในบรรจุพระเกศาธาตุขององค์สมเด็จพระสัมมาสัมพุทธเจ้าได้รับการบูรณปฏิสังขรณ์ครั้งใหญ่ในสมัยพระเจ้าสุริยพงษ์ผริตเดช ระหว่างปี พ.ศ. 2449-2454 โดยช่างชาวพม่า และวิหารสร้างในสมัยนี้เช่นกัน \nจากวัดพระธาตุเขาน้อย สามารถมองเห็นทิวทัศน์โดยรอบของตัวเมืองน่าน ปัจจุบันบริเวณลานชมทิวทัศน์ ประดิษฐานพระพุทธมหาอุดมมงคลนันทบุรีศรีน่าน ซึ่งเป็นพระพุทธรูปปางประทานพร บนฐานดอกบัวสูง 9 เมตร บนยอดพระเกศาทำจากทองคำหนัก 27 บาท…",
+          "sections": [],
+          "chars": 818
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดพระธาตุเขาน้อย เลขทะเบียน 5501-02-0005.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2_%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99_5501-02-0005.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2_%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99_5501-02-0005.JPG/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2_%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99_5501-02-0005.JPG",
+        "width": 800,
+        "author": "Sutthikiet Yodpakdee",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2013-09-08",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2_%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99_5501-02-0005.JPG",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Sutthikiet Yodpakdee, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Prathat khaonoi 03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Prathat_khaonoi_03.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Prathat_khaonoi_03.jpg/960px-Prathat_khaonoi_03.jpg",
+        "width": 800,
+        "author": "Khunkay",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2013-11-23",
+        "source": "https://commons.wikimedia.org/wiki/File:Prathat_khaonoi_03.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Khunkay, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Phra That Khao Noi 2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Wat_Phra_That_Khao_Noi_2.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wat_Phra_That_Khao_Noi_2.jpg/960px-Wat_Phra_That_Khao_Noi_2.jpg",
+        "width": 800,
+        "author": "Manoonp",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2016-05-23",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Khao_Noi_2.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Manoonp, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:KhaoNoi7.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/KhaoNoi7.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/KhaoNoi7.jpg/960px-KhaoNoi7.jpg",
+        "width": 800,
+        "author": "Peerawat.b",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2017-12-19",
+        "source": "https://commons.wikimedia.org/wiki/File:KhaoNoi7.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Peerawat.b, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1089031375",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q13017426",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrachao-tanjai-moo-7-ban-huai-hat-village-uan-subdistri",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเจ้าทันใจ, หมู่ที่ 7, หมู่บ้าน บ้านห้วยหาด, ตำบล อวน, อำเภอปัว",
+    "nameRoman": "Wat Phrachao Tanjai, Moo 7, Ban Huai Hat Village, Uan Subdistrict, Pua District",
+    "lat": 18.987584,
+    "lng": 101.0656467,
+    "geoPrecision": "exact",
+    "address": "หมู่ที่ 7,",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "street": "หมู่ที่ 7,"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/10945287305",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phu-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูเวียง",
+    "nameRoman": "Wat Phu Wiang",
+    "lat": 18.95043,
+    "lng": 100.73994,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3518242189",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phu-yaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูแยง",
+    "nameRoman": "Wat Phu Yaeng",
+    "lat": 18.9211667,
+    "lng": 100.9233909,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2723015533",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phumin-nan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูมินทร์",
+    "nameRoman": "Wat Phumin",
+    "lat": 18.7743106,
+    "lng": 100.7715808,
+    "geoPrecision": "block",
+    "address": "ผากอง Nai Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Nai Wiang",
+      "street": "ผากอง",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดภูมินทร์",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดภูมินทร์ ตั้งอยู่ ณ ถนนผากอง บ้านภูมินทร์ ตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน เป็นวัดราษฎร์ ฝ่ายมหานิกาย และเป็นสถานที่ท่องเที่ยวที่สำคัญและมีชื่อเสียงของจังหวัดน่าน ภาพของวัดเคยปรากฏบนธนบัตรไทย รุ่นที่ 2 ราคา 1 บาท",
+        "sections": [
+          {
+            "heading": "ประวัติวัด",
+            "kind": "history",
+            "text": "ประวัติความเป็นมา \n วัดภูมินทร์ สร้างขึ้นเมื่อราวปี พ.ศ. 2139 โดย เจ้าเจตบุตรพรหมินทร์ เจ้าผู้ครองนครน่าน องค์ที่ 40 (พ.ศ. 2134 - พ.ศ. 2146) เดิมมีชื่อว่า “วัดพรหมมินทร์” ซึ่งเป็นพระนามของเจ้าเจตบุตรพรหมินทร์ ผู้สร้างวัด สันนิษฐานว่าในภายหลังได้เรียกชื่อกันเพี้ยนมาเป็นวัดภูมินทร์จนถึงปัจจุบัน วัดภูมินทร์ และได้รับการบูรณปฏิสังขรณ์ครั้งใหญ่ เมื่อปี พ.ศ. 2410 ในรัชสมัยเจ้าอนันตวรฤทธิเดช เจ้าผู้ครองนครน่าน องค์ที่ 62 และองค์ที่ 12 แห่งราชวงศ์ติ๋นมหาวงศ์ (พ.ศ. 2395 - พ.ศ. 2435) โดยใช้เวลาในการบูรณปฏิสังขรณ์ถึง 8 ปี (พ.ศ. 2410 - พ.ศ. 2418) ซึ่งสันนิษฐานว่าในการบูรณะครั้งนี้เจ้าอนันตวรฤทธิเดช ได้ทรงมีรับสั่งให้วาดภาพจิตรกรรมฝาผนัง (คำเมือง: ฮูบแต้ม) ภายในพระอุโบสถจตุรมุข ซึ่งรวมทั้งภาพที่มีชื่อเสียง เช่น ปู่ม่านย่าม่าน หรือ กระซิบรักบันลือโลก ของ หนานบัวผัน ซึ่งตรงกับปลายรัชสมัยพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 4 ถึงต้นรัชสมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 5 แห่งราชวงศ์จักรี"
+          },
+          {
+            "heading": "สิ่งที่น่าสนใจภายในวัดภูมินทร์",
+            "kind": "interest",
+            "text": "สถาปัตยกรรมทรงคุณค่า สวยวิจิตร หนึ่งเดียวในไทย\n สิ่งสำคัญอย่างหนึ่งของวัดภูมินทร์ ก็คือ พระอุโบสถและพระวิหาร ซึ่งเป็นอาคารหลังเดียวกัน โดดเด่นในด้านสถาปัตยกรรม โดยพระอุโบสถและพระวิหารมีลักษณะเป็นอาคารทรงจตุรมุข มีผังเป็นรูปกากบาท อาคารหลังนี้สันนิษฐานว่าอาจได้รับอิทธิพลของสถาปัตยกรรมจากอานันทเจดีย์ที่เมืองพุกาม ประเทศพม่า กรมศิลปากรได้สันนิษฐานว่าสร้างขึ้นเป็นหลังแรกของประเทศไทย โดยประตูทั้ง 4 ด้านแกะสลักลวดลายงดงามอ่อนช้อย โดยฝีมือของช่างพื้นเมืองน่านในสมัยนั้น โครงสร้างของหลังคาถูกค้ำด้วยเสาไม้สัก 12 ต้น ลงรักปิดทองเคลือบเงาเป็นรูปดอกไม้และช้างสวยวิจิตรตระการตา\n โดยบริเวณประตูด้านหน้าพระอุโบสถทางด้านทิศเหนือ มีรูปปั้นพญานาคขนาบข้างบันไดทั้ง 2 ข้าง โดยมีลำตัวทอดยาวไปรับกับตัวพระอุโบสถและพระวิหาร คล้ายเอาหลังหนุนไว้ คนโบราณจะกล่าวว่า นาคสะดุ้ง แห่แหนพระอุโบสถเทินไว้บนกลางลำตัว ตามความเชื่อที่ว่า \"เมื่อพระพุทธเจ้าเสด็จลงจากสวรรค์ชั้นดาวดึงส์ พระองค์ได้เสด็จผ่านบันไดแก้วที่เทวดาเนรมิตขึ้นและมีพญานาค 2 ตัวหนุนหลังเอาไว้\" โดยส่วนกลางของบันไดนาคจะมีช่องทรงโค้งทั้ง 2 ด้าน ผู้เฒ่าผู้แก่จะบอกกันว่า หากคู่รักได้ลอดวนตามเข็มนาฬิกา 3 รอบ จะสมหวังดังตั้งใจ และยังเชื่ออีกว่าหากคนต่างถิ่นมาลอดจะได้กลับไปเยือนเมืองน่านอีกครั้ง\n\nพระประธานจตุรพักตร์ ศิลปะสุโขทัยน่าศรัทธา\n ใจกลางพระอุโบสถ ประดิษฐานพระประธานจตุรพักตร์ พระพุทธรูปศักดิ์สิทธิ์ที่ชาวน่านต่างให้ความเคารพศรัทธา เป็นพระพุทธรูปปางมารวิชัย ศิลปะสุโขทัย สีทองอร่าม 4 องค์ ซึ่งหันพระพักตร์ออกไปทางด้านประตูทั้งสี่ทิศ และหันเบื้องพระปฤษฏางค์ (หลัง) เข้าหากันตรงกลางของพระอุโบสถ ประทับนั่งบนฐานชุกชี ซึ่งพระกรรณ (หู) และพระนาสิก (จมูก) ของพระพุทธรูปได้รับอิทธิพลมาจากศิลปะลาว นักโบราณคดีบางส่วนสันนิษฐานว่าแสดงถึงพระพุทธเจ้าองค์ต่าง ๆ คือ พระกกุสันธพุทธเจ้า พระโกนาคมนพุทธเจ้า พระกัสสปพุทธเจ้า และพระโคตมพุทธเจ้า (พระพุทธเจ้าองค์ปัจจุบัน) ในขณะที่บางส่วนสันนิษฐานว่าสร้างขึ้นเลียนแบบลักษณะของพระพรหมสี่พักตร์ ซึ่งปรากฏในพระนามของผู้สร้างวัด คือ พระเจ้าเจตบุตรพรหมมินทร์ และกลุ่มสุดท้ายมองว่าสื่อถึงพรหมวิหาร 4 มีความเชื่อกันว่าหากจะขอพรควรเดินวนชมทั้ง 4 องค์ก่อน 1 รอบ หากรู้สึกว่าพระพุทธรูปองค์ไหนยิ้มหรือพระพักตร์เป็นมิตรไมตรีกับเรามากที่สุด ให้ขอพรกับองค์นั้น แล้วจะสมดังใจปรารถนา"
+          }
+        ],
+        "chars": 3428
+      },
+      "summaryEn": {
+        "lang": "en",
+        "title": "Wat Phumin",
+        "url": "https://en.wikipedia.org/wiki/Wat_Phumin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "The city of Nan's most famous wat is renowned for its cruciform ubosot which was constructed in 1596 and restored during the reign of Phra Chao Anantaworritthidet (Chao Nakhon Nan No.62nd) (1852–1892).",
+        "sections": [
+          {
+            "heading": "Exterior",
+            "kind": null,
+            "text": "It is the only temple which was built as if it were on the back of two immense snakes (or Nagas). \nEach of the four entrances is preceded by a small corridor topped by a finely decorated, point-shaped structure (underlining the royal origin of the temple) and is equipped with smoothly carved doors; with Chinese demon guards in the east, flowers in the north and forest life motives in the Lanna style in the west and south."
+          },
+          {
+            "heading": "Interior",
+            "kind": null,
+            "text": "The wat's interior is impressive. It is also a good example of Thai Lue architecture. The structure of the roof is supported by twelve teak pillars decorated with gold on black and red lacquer and elephants' motives. The ceiling is also finely decorated. The flowered altar resting in the center of the bôt supports four Buddhas of the Sukhothai style in the pose of Bhūmisparsa mudrā (\"Buddha Invoking Mother-Earth\", \"Bhumi to be His Witness\" or \"Buddha subduing Māra\" - the hand pointed down to the earth with the fingers touching the ground), facing the four directions. The shape of the ears and nose shows a Lao influence. Next to the altar one finds a splendid thammdat (a dhamma seat used by teaching monks)."
+          },
+          {
+            "heading": "Murals",
+            "kind": null,
+            "text": "Well preserved murals of great value illustrating the Khattana Kumara Jataka on the Northern wall and the Nimi Jatakas on the Western wall as well as scenes of the local life of the time when they were painted by Thai Lue artists during the restoration of the temple at the end of the 19th century. Europeans can even be noticed: a reference to the arrival of the French to whom the East of the Nan valley area was yielded in 1893. The style is rather distinctive and quite removed from the traditional style of temple paintings in Thailand. They somewhat resemble the style of the murals of Wat Phra Singh in Chiang Mai and are very much like the murals of Wat Nong Bua in Tha Wang Pha District, just north of the city of Nan. The setting of the murals at Wat Phumin however, is that of the culture and everyday life of the Thai Lue people. The two most famous scenes are of greater dimensions than the majority of the other paintings: a man whispering to the ear of a woman (on the Southern side of the Western door) and the portrait painted on the side of the Southern door, which could be king Phra Chao Anantaworritthidet. The large paintings on each side of the main entrance show a Chinese influence which can be explained by the origins of the Thai Lue people."
+          }
+        ],
+        "chars": 3553
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดภูมินทร์",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดภูมินทร์ ตั้งอยู่ ณ ถนนผากอง บ้านภูมินทร์ ตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน เป็นวัดราษฎร์ ฝ่ายมหานิกาย และเป็นสถานที่ท่องเที่ยวที่สำคัญและมีชื่อเสียงของจังหวัดน่าน ภาพของวัดเคยปรากฏบนธนบัตรไทย รุ่นที่ 2 ราคา 1 บาท",
+          "sections": [
+            {
+              "heading": "ประวัติวัด",
+              "kind": "history",
+              "text": "ประวัติความเป็นมา \n วัดภูมินทร์ สร้างขึ้นเมื่อราวปี พ.ศ. 2139 โดย เจ้าเจตบุตรพรหมินทร์ เจ้าผู้ครองนครน่าน องค์ที่ 40 (พ.ศ. 2134 - พ.ศ. 2146) เดิมมีชื่อว่า “วัดพรหมมินทร์” ซึ่งเป็นพระนามของเจ้าเจตบุตรพรหมินทร์ ผู้สร้างวัด สันนิษฐานว่าในภายหลังได้เรียกชื่อกันเพี้ยนมาเป็นวัดภูมินทร์จนถึงปัจจุบัน วัดภูมินทร์ และได้รับการบูรณปฏิสังขรณ์ครั้งใหญ่ เมื่อปี พ.ศ. 2410 ในรัชสมัยเจ้าอนันตวรฤทธิเดช เจ้าผู้ครองนครน่าน องค์ที่ 62 และองค์ที่ 12 แห่งราชวงศ์ติ๋นมหาวงศ์ (พ.ศ. 2395 - พ.ศ. 2435) โดยใช้เวลาในการบูรณปฏิสังขรณ์ถึง 8 ปี (พ.ศ. 2410 - พ.ศ. 2418) ซึ่งสันนิษฐานว่าในการบูรณะครั้งนี้เจ้าอนันตวรฤทธิเดช ได้ทรงมีรับสั่งให้วาดภาพจิตรกรรมฝาผนัง (คำเมือง: ฮูบแต้ม) ภายในพระอุโบสถจตุรมุข ซึ่งรวมทั้งภาพที่มีชื่อเสียง เช่น ปู่ม่านย่าม่าน หรือ กระซิบรักบันลือโลก ของ หนานบัวผัน ซึ่งตรงกับปลายรัชสมัยพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 4 ถึงต้นรัชสมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 5 แห่งราชวงศ์จักรี"
+            },
+            {
+              "heading": "สิ่งที่น่าสนใจภายในวัดภูมินทร์",
+              "kind": "interest",
+              "text": "สถาปัตยกรรมทรงคุณค่า สวยวิจิตร หนึ่งเดียวในไทย\n สิ่งสำคัญอย่างหนึ่งของวัดภูมินทร์ ก็คือ พระอุโบสถและพระวิหาร ซึ่งเป็นอาคารหลังเดียวกัน โดดเด่นในด้านสถาปัตยกรรม โดยพระอุโบสถและพระวิหารมีลักษณะเป็นอาคารทรงจตุรมุข มีผังเป็นรูปกากบาท อาคารหลังนี้สันนิษฐานว่าอาจได้รับอิทธิพลของสถาปัตยกรรมจากอานันทเจดีย์ที่เมืองพุกาม ประเทศพม่า กรมศิลปากรได้สันนิษฐานว่าสร้างขึ้นเป็นหลังแรกของประเทศไทย โดยประตูทั้ง 4 ด้านแกะสลักลวดลายงดงามอ่อนช้อย โดยฝีมือของช่างพื้นเมืองน่านในสมัยนั้น โครงสร้างของหลังคาถูกค้ำด้วยเสาไม้สัก 12 ต้น ลงรักปิดทองเคลือบเงาเป็นรูปดอกไม้และช้างสวยวิจิตรตระการตา\n โดยบริเวณประตูด้านหน้าพระอุโบสถทางด้านทิศเหนือ มีรูปปั้นพญานาคขนาบข้างบันไดทั้ง 2 ข้าง โดยมีลำตัวทอดยาวไปรับกับตัวพระอุโบสถและพระวิหาร คล้ายเอาหลังหนุนไว้ คนโบราณจะกล่าวว่า นาคสะดุ้ง แห่แหนพระอุโบสถเทินไว้บนกลางลำตัว ตามความเชื่อที่ว่า \"เมื่อพระพุทธเจ้าเสด็จลงจากสวรรค์ชั้นดาวดึงส์ พระองค์ได้เสด็จผ่านบันไดแก้วที่เทวดาเนรมิตขึ้นและมีพญานาค 2 ตัวหนุนหลังเอาไว้\" โดยส่วนกลางของบันไดนาคจะมีช่องทรงโค้งทั้ง 2 ด้าน ผู้เฒ่าผู้แก่จะบอกกันว่า หากคู่รักได้ลอดวนตามเข็มนาฬิกา 3 รอบ จะสมหวังดังตั้งใจ และยังเชื่ออีกว่าหากคนต่างถิ่นมาลอดจะได้กลับไปเยือนเมืองน่านอีกครั้ง\n\nพระประธานจตุรพักตร์ ศิลปะสุโขทัยน่าศรัทธา\n ใจกลางพระอุโบสถ ประดิษฐานพระประธานจตุรพักตร์ พระพุทธรูปศักดิ์สิทธิ์ที่ชาวน่านต่างให้ความเคารพศรัทธา เป็นพระพุทธรูปปางมารวิชัย ศิลปะสุโขทัย สีทองอร่าม 4 องค์ ซึ่งหันพระพักตร์ออกไปทางด้านประตูทั้งสี่ทิศ และหันเบื้องพระปฤษฏางค์ (หลัง) เข้าหากันตรงกลางของพระอุโบสถ ประทับนั่งบนฐานชุกชี ซึ่งพระกรรณ (หู) และพระนาสิก (จมูก) ของพระพุทธรูปได้รับอิทธิพลมาจากศิลปะลาว นักโบราณคดีบางส่วนสันนิษฐานว่าแสดงถึงพระพุทธเจ้าองค์ต่าง ๆ คือ พระกกุสันธพุทธเจ้า พระโกนาคมนพุทธเจ้า พระกัสสปพุทธเจ้า และพระโคตมพุทธเจ้า (พระพุทธเจ้าองค์ปัจจุบัน) ในขณะที่บางส่วนสันนิษฐานว่าสร้างขึ้นเลียนแบบลักษณะของพระพรหมสี่พักตร์ ซึ่งปรากฏในพระนามของผู้สร้างวัด คือ พระเจ้าเจตบุตรพรหมมินทร์ และกลุ่มสุดท้ายมองว่าสื่อถึงพรหมวิหาร 4 มีความเชื่อกันว่าหากจะขอพรควรเดินวนชมทั้ง 4 องค์ก่อน 1 รอบ หากรู้สึกว่าพระพุทธรูปองค์ไหนยิ้มหรือพระพักตร์เป็นมิตรไมตรีกับเรามากที่สุด ให้ขอพรกับองค์นั้น แล้วจะสมดังใจปรารถนา"
+            }
+          ],
+          "chars": 3428
+        },
+        "en": {
+          "lang": "en",
+          "title": "Wat Phumin",
+          "url": "https://en.wikipedia.org/wiki/Wat_Phumin",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "The city of Nan's most famous wat is renowned for its cruciform ubosot which was constructed in 1596 and restored during the reign of Phra Chao Anantaworritthidet (Chao Nakhon Nan No.62nd) (1852–1892).",
+          "sections": [
+            {
+              "heading": "Exterior",
+              "kind": null,
+              "text": "It is the only temple which was built as if it were on the back of two immense snakes (or Nagas). \nEach of the four entrances is preceded by a small corridor topped by a finely decorated, point-shaped structure (underlining the royal origin of the temple) and is equipped with smoothly carved doors; with Chinese demon guards in the east, flowers in the north and forest life motives in the Lanna style in the west and south."
+            },
+            {
+              "heading": "Interior",
+              "kind": null,
+              "text": "The wat's interior is impressive. It is also a good example of Thai Lue architecture. The structure of the roof is supported by twelve teak pillars decorated with gold on black and red lacquer and elephants' motives. The ceiling is also finely decorated. The flowered altar resting in the center of the bôt supports four Buddhas of the Sukhothai style in the pose of Bhūmisparsa mudrā (\"Buddha Invoking Mother-Earth\", \"Bhumi to be His Witness\" or \"Buddha subduing Māra\" - the hand pointed down to the earth with the fingers touching the ground), facing the four directions. The shape of the ears and nose shows a Lao influence. Next to the altar one finds a splendid thammdat (a dhamma seat used by teaching monks)."
+            },
+            {
+              "heading": "Murals",
+              "kind": null,
+              "text": "Well preserved murals of great value illustrating the Khattana Kumara Jataka on the Northern wall and the Nimi Jatakas on the Western wall as well as scenes of the local life of the time when they were painted by Thai Lue artists during the restoration of the temple at the end of the 19th century. Europeans can even be noticed: a reference to the arrival of the French to whom the East of the Nan valley area was yielded in 1893. The style is rather distinctive and quite removed from the traditional style of temple paintings in Thailand. They somewhat resemble the style of the murals of Wat Phra Singh in Chiang Mai and are very much like the murals of Wat Nong Bua in Tha Wang Pha District, just north of the city of Nan. The setting of the murals at Wat Phumin however, is that of the culture and everyday life of the Thai Lue people. The two most famous scenes are of greater dimensions than the majority of the other paintings: a man whispering to the ear of a woman (on the Southern side of the Western door) and the portrait painted on the side of the Southern door, which could be king Phra Chao Anantaworritthidet. The large paintings on each side of the main entrance show a Chinese influence which can be explained by the origins of the Thai Lue people."
+            }
+          ],
+          "chars": 3553
+        }
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Phumin devant, Nan.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wat_Phumin_devant%2C_Nan.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Wat_Phumin_devant%2C_Nan.jpg/960px-Wat_Phumin_devant%2C_Nan.jpg",
+        "width": 800,
+        "author": "(WT-fr) Ellnik at French Wikivoyage",
+        "license": "CC BY-SA 1.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+        "description": "Wat Phumin, Nan",
+        "capturedAt": "17 July 20",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Phumin_devant,_Nan.jpg",
+        "credit": "Wat Phumin, Nan — (WT-fr) Ellnik at French Wikivoyage, CC BY-SA 1.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดภูมินทร์ อ.เมือง จ.น่าน (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%281%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(1).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดภูมินทร์ อ.เมือง จ.น่าน (2).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%282%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%282%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%282%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(2).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:(2020) วัดภูมินทร์ อ.เมือง จ.น่าน (10).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg/960px-%282020%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_%2810%29.jpg",
+        "width": 800,
+        "author": "กสิณธร ราชโอรส",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2019-12-07",
+        "source": "https://commons.wikimedia.org/wiki/File:(2020)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99_(10).jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — กสิณธร ราชโอรส, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/246657153",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q588172",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-ngae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องแง",
+    "nameRoman": "Wat Rong Ngae",
+    "lat": 19.1756982,
+    "lng": 100.9357646,
+    "geoPrecision": "block",
+    "address": "Wora Nakhon",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Pua",
+      "subdistrict": "Wora Nakhon",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดร้องแง",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%87",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดร้องแง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลวรนคร อำเภอปัว จังหวัดน่าน\nวัดร้องแงสร้างเมื่อประมาณ พ.ศ. 2310 โดยการนำของเจ้าหลวงเทพพญาเลน เจ้าช้างเผือกงาเขียว เดิมปกครองอยู่ที่เมืองลิน ในเขตปกครองของแคว้นสิบสองปันนา ซึ่งได้ถอยร่นลงมาตั้งถิ่นฐานบริเวณใกล้กับลำน้ำล่องแง มาตั้งเป็นหมู่บ้านตามชื่อลำน้ำ ต่อมาการเรียกผิดเพี้ยนไป จึงกลายเป็นบ้านร้องแง และเมื่อสร้างวัดจึงได้ใช้ชื่อหมู่บ้านเป็นชื่อวัดไปด้วย วัดได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 10 มกราคม พ.ศ. 2470\nวิหารเก่าศิลปะไทลื้อ ยังคงรักษารูปลักษณ์เดิมไว้ ขนาดยาว 8 ห้อง กว้าง 3 ห้อง ด้านหน้ามีมุขโถง หลังคาเป็นทรงจั่ว ผืนหลังคามีสองตับ ทอดเอนลาดคลุมต่ำ มุงด้วยแป้นเก็ดหรือกระเบื้องไม้ เครื่องบนของวิหารเป็นแบบที่เรียกว่า โกม…",
+        "sections": [],
+        "chars": 1418
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดร้องแง",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%87",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดร้องแง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลวรนคร อำเภอปัว จังหวัดน่าน\nวัดร้องแงสร้างเมื่อประมาณ พ.ศ. 2310 โดยการนำของเจ้าหลวงเทพพญาเลน เจ้าช้างเผือกงาเขียว เดิมปกครองอยู่ที่เมืองลิน ในเขตปกครองของแคว้นสิบสองปันนา ซึ่งได้ถอยร่นลงมาตั้งถิ่นฐานบริเวณใกล้กับลำน้ำล่องแง มาตั้งเป็นหมู่บ้านตามชื่อลำน้ำ ต่อมาการเรียกผิดเพี้ยนไป จึงกลายเป็นบ้านร้องแง และเมื่อสร้างวัดจึงได้ใช้ชื่อหมู่บ้านเป็นชื่อวัดไปด้วย วัดได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 10 มกราคม พ.ศ. 2470\nวิหารเก่าศิลปะไทลื้อ ยังคงรักษารูปลักษณ์เดิมไว้ ขนาดยาว 8 ห้อง กว้าง 3 ห้อง ด้านหน้ามีมุขโถง หลังคาเป็นทรงจั่ว ผืนหลังคามีสองตับ ทอดเอนลาดคลุมต่ำ มุงด้วยแป้นเก็ดหรือกระเบื้องไม้ เครื่องบนของวิหารเป็นแบบที่เรียกว่า โกม…",
+          "sections": [],
+          "chars": 1418
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:2013 Wat Rong Ngae 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/2013_Wat_Rong_Ngae_01.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2013_Wat_Rong_Ngae_01.jpg/960px-2013_Wat_Rong_Ngae_01.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Rong Ngae , Nan Province",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Rong_Ngae_01.jpg",
+        "credit": "Wat Rong Ngae , Nan Province — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Rong Ngae 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/2013_Wat_Rong_Ngae_02.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013_Wat_Rong_Ngae_02.jpg/960px-2013_Wat_Rong_Ngae_02.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Rong Ngae , Nan Province: interior",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Rong_Ngae_02.jpg",
+        "credit": "Wat Rong Ngae , Nan Province: interior — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Rong Ngae 03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/2013_Wat_Rong_Ngae_03.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2013_Wat_Rong_Ngae_03.jpg/960px-2013_Wat_Rong_Ngae_03.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Rong Ngae , Nan Province: interior",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Rong_Ngae_03.jpg",
+        "credit": "Wat Rong Ngae , Nan Province: interior — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Rong Ngae 04.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2013_Wat_Rong_Ngae_04.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2013_Wat_Rong_Ngae_04.jpg/960px-2013_Wat_Rong_Ngae_04.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Rong Ngae , Nan Province: interior",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Rong_Ngae_04.jpg",
+        "credit": "Wat Rong Ngae , Nan Province: interior — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/739002155",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q99641869",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-saeng-dao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสงดาว",
+    "nameRoman": "Wat Saeng Dao",
+    "lat": 18.7714053,
+    "lng": 100.7846368,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697399",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-samun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสมุน",
+    "nameRoman": "Wat Samun",
+    "lat": 18.7532774,
+    "lng": 100.7570327,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697180",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-bunruang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีบุญเรือง",
+    "nameRoman": "Wat Si Bunruang",
+    "lat": 18.765859,
+    "lng": 100.7722516,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697394",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-mongkon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีมงคล",
+    "nameRoman": "Wat Si Mongkon",
+    "lat": 19.0822572,
+    "lng": 100.8880494,
+    "geoPrecision": "block",
+    "address": "59 Yom",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Tha Wang Pha",
+      "subdistrict": "Yom",
+      "street": "59"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/582196602",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-panton",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีพันต้น",
+    "nameRoman": "Wat Si Panton",
+    "lat": 18.776155,
+    "lng": 100.7656266,
+    "geoPrecision": "block",
+    "address": "Chao Fa Rd Nai Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Nai Wiang",
+      "street": "Chao Fa Rd",
+      "summary": {
+        "lang": "th",
+        "title": "วัดศรีพันต้น",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%99",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดศรีพันต้น เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน\nวัดศรีพันต้น สร้างโดยพญาพันต้น เจ้าผู้ครองนครน่าน แห่งราชวงศ์ภูคา (ครองนครน่าน ระหว่างปี พ.ศ. 1960–1969) จึงตั้งชื่อวัดตามนามผู้สร้างวัด บางสมัยเรียกว่า วัดสลีพันต้น เพราะมีต้นโพธิ์ใหญ่ (สลี) อยู่ด้านทิศเหนือและทิศใต้ของวัด ปัจจุบันถูกโค่นเพื่อตัดเป็นถนนแล้ว ตั้งเป็นวัดเมื่อ พ.ศ. 2400 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2478\nอาคารเสนาสนะภายในวัด ได้แก่ วิหารสีทอง ชื่อว่า วิหารกาญจนาภิเษก สร้างเพื่อเฉลิมฉลองการครองราชย์พระบาทสมเด็จพระมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร มีจิตรกรรมปูนปั้นเช่นพญานาคเจ็ดเศียร เฝ้าบันไดหน้าวิหารวัด ปั้นโดยช่างชาวน่านชื่อ นายอนุรักษ์ สมศักดิ์ หรือ \"สล่ารง\"…",
+        "sections": [],
+        "chars": 995
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดศรีพันต้น",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%99",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดศรีพันต้น เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน\nวัดศรีพันต้น สร้างโดยพญาพันต้น เจ้าผู้ครองนครน่าน แห่งราชวงศ์ภูคา (ครองนครน่าน ระหว่างปี พ.ศ. 1960–1969) จึงตั้งชื่อวัดตามนามผู้สร้างวัด บางสมัยเรียกว่า วัดสลีพันต้น เพราะมีต้นโพธิ์ใหญ่ (สลี) อยู่ด้านทิศเหนือและทิศใต้ของวัด ปัจจุบันถูกโค่นเพื่อตัดเป็นถนนแล้ว ตั้งเป็นวัดเมื่อ พ.ศ. 2400 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2478\nอาคารเสนาสนะภายในวัด ได้แก่ วิหารสีทอง ชื่อว่า วิหารกาญจนาภิเษก สร้างเพื่อเฉลิมฉลองการครองราชย์พระบาทสมเด็จพระมหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร มีจิตรกรรมปูนปั้นเช่นพญานาคเจ็ดเศียร เฝ้าบันไดหน้าวิหารวัด ปั้นโดยช่างชาวน่านชื่อ นายอนุรักษ์ สมศักดิ์ หรือ \"สล่ารง\"…",
+          "sections": [],
+          "chars": 995
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247183242",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q116244142",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suan-hom",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Suan Hom",
+    "nameRoman": "Wat Suan Hom",
+    "lat": 18.7832248,
+    "lng": 100.7694273,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/248646197",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suantan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสวนตาล",
+    "nameRoman": "Wat Suantan",
+    "lat": 18.784393,
+    "lng": 100.7737987,
+    "geoPrecision": "block",
+    "address": "Thanon Mahayot Nai Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/people/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5/100063561848007/",
+      "province": "Nan",
+      "district": "Mueang Nan",
+      "subdistrict": "Nai Wiang",
+      "street": "Thanon Mahayot",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดสวนตาล (จังหวัดน่าน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดสวนตาล ถนนมหายศ ตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน เป็นวัดราษฎร์ ประดิษฐานพระพุทธรูป พระเจ้าทองทิพย์\nเป็นผู้สร้างวัดสวนตาล เมื่อ พ.ศ. 1770\nพ.ศ. 1987 พระเจ้าติโลกราชแห่งนครเชียงใหม่ ได้สร้างพระพุทธรูป พระเจ้าทองทิพย์ เป็นพระพุทธรูปทองสำริด ปางมารวิชัย หน้าตักกว้าง 10 ฟุต สูง 14 ฟุต 4 นิ้ว (4.11 เมตร) พระพุทธรูป พระเจ้าทองทิพย์เป็นพระพุทธรูปทองสำริดองค์ใหญ่ปางมารวิชัย เป็นพระประธานในวิหารวัดสวนตาล\nพ.ศ. 2457 ในรัชสมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว พระเจ้าสุริยพงษ์ผริตเดชฯ พระเจ้าน่าน ได้ทรงบูรณะรูปทรงเป็นเจดีย์ยอดปรางค์ดังที่เห็นในปัจจุบัน \nส่วนฐานเป็นฐานหน้ากระดานสี่เหลี่ยมซ้อนกัน รองรับเรือนธาตุย่อเก็จ ส่วนยอดเป็นพุ่มข้าวบิณฑ์ มีปล้องไฉนและปลียอด ตามแบบเจดีย์พุ่มข้าวบิณฑ์…",
+        "sections": [],
+        "chars": 987
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดสวนตาล (จังหวัดน่าน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดสวนตาล ถนนมหายศ ตำบลในเวียง อำเภอเมืองน่าน จังหวัดน่าน เป็นวัดราษฎร์ ประดิษฐานพระพุทธรูป พระเจ้าทองทิพย์\nเป็นผู้สร้างวัดสวนตาล เมื่อ พ.ศ. 1770\nพ.ศ. 1987 พระเจ้าติโลกราชแห่งนครเชียงใหม่ ได้สร้างพระพุทธรูป พระเจ้าทองทิพย์ เป็นพระพุทธรูปทองสำริด ปางมารวิชัย หน้าตักกว้าง 10 ฟุต สูง 14 ฟุต 4 นิ้ว (4.11 เมตร) พระพุทธรูป พระเจ้าทองทิพย์เป็นพระพุทธรูปทองสำริดองค์ใหญ่ปางมารวิชัย เป็นพระประธานในวิหารวัดสวนตาล\nพ.ศ. 2457 ในรัชสมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว พระเจ้าสุริยพงษ์ผริตเดชฯ พระเจ้าน่าน ได้ทรงบูรณะรูปทรงเป็นเจดีย์ยอดปรางค์ดังที่เห็นในปัจจุบัน \nส่วนฐานเป็นฐานหน้ากระดานสี่เหลี่ยมซ้อนกัน รองรับเรือนธาตุย่อเก็จ ส่วนยอดเป็นพุ่มข้าวบิณฑ์ มีปล้องไฉนและปลียอด ตามแบบเจดีย์พุ่มข้าวบิณฑ์…",
+          "sections": [],
+          "chars": 987
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Suan Tan, Nan.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Wat_Suan_Tan%2C_Nan.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wat_Suan_Tan%2C_Nan.jpg/960px-Wat_Suan_Tan%2C_Nan.jpg",
+        "width": 800,
+        "author": "Ellnik",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "description": "Garden, temples, and chedi (stupa) - at Wat Suan Tan, in Nan, Thailand .",
+        "capturedAt": "2007-04-01",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Suan_Tan,_Nan.jpg",
+        "credit": "Garden, temples, and chedi (stupa) - at Wat Suan Tan, in Nan, Thailand . — Ellnik, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Suan Tan 03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/2013_Wat_Suan_Tan_03.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2013_Wat_Suan_Tan_03.jpg/960px-2013_Wat_Suan_Tan_03.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The ho trai (religious scriptures depository building) of Wat Suan Tan.",
+        "capturedAt": "2013-12-11",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Suan_Tan_03.jpg",
+        "credit": "The ho trai (religious scriptures depository building) of Wat Suan Tan. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Suan Tan 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/2013_Wat_Suan_Tan_01.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2013_Wat_Suan_Tan_01.jpg/960px-2013_Wat_Suan_Tan_01.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The 15th century CE chedi of Wat Suan Tan.",
+        "capturedAt": "2013-12-11",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Suan_Tan_01.jpg",
+        "credit": "The 15th century CE chedi of Wat Suan Tan. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Suan Tan 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2013_Wat_Suan_Tan_02.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2013_Wat_Suan_Tan_02.jpg/960px-2013_Wat_Suan_Tan_02.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "A statue of a ruesi (Thai script: ฤษี), a Thai hermit and/or mystic, in his usual attire, at Wat Suan Tan. Ruesi perform certain specific rituals, practice astrology, alternative medicine, and create amulets. Their mysticism is infused with Buddhist and animist practices.",
+        "capturedAt": "2013-12-11",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Suan_Tan_02.jpg",
+        "credit": "A statue of a ruesi (Thai script: ฤษี), a Thai hermit and/or mystic, in his usual attire, at Wat Suan Tan. Ruesi perform certain specific rituals, practice astrology, alternative medicine, and create amulets. Their mysticism is infused with Buddhist and animist practices. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/247050757",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q16004409",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-chang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าช้าง",
+    "nameRoman": "Wat Tha Chang",
+    "lat": 18.7887521,
+    "lng": 100.7879564,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6935532382",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-lo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าล้อ",
+    "nameRoman": "Wat Tha Lo",
+    "lat": 18.7766566,
+    "lng": 100.7841691,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Phu Wiang district, Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดท่าล้อ (อำเภอภูเพียง)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%AD_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดท่าล้อ เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลฝายแก้ว อำเภอภูเพียง จังหวัดน่าน\nวัดท่าล้อไม่มีประวัติการสร้าง โบราณสถานสำคัญคือ องค์เจดีย์ สำนักงานพระพุทธศาสนาแห่งชาติ ระบุว่าตั้งวัดเมื่อ พ.ศ. 1890 ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 24 กันยายน พ.ศ. 2468 กรมศิลปากรได้ประกาศขึ้นทะเบียนโบราณสถานวัดท่าล้อในราชกิจจานุเบกษาเล่มที่ 61 ตอนที่ 65 ลงวันที่ 24 ตุลาคม พ.ศ. 2487 และประกาศกำหนดขอบเขตในราชกิจจานุเบกษา เล่มที่ 97 ตอนที่ 159 ลงวันที่ 14 ตุลาคม พ.ศ. 2523\nอาคารและเสนาสนะที่สำคัญ ได้แก่ เจดีย์ทรงระฆัง ซึ่งองค์เจดีย์ถูกยึดฐานให้สูง และองค์ระฆังมีขนาดเล็กเพรียว ฐานล่างเป็นฐานเขียงสามชั้นขนาดใหญ่ รองรับฐานบัวลูกแก้วอกไก่ ซึ่งมีลวดบัว 2 ลวด และถัดขึ้นไปเป็นกลุ่มมาลัยเถา 4…",
+        "sections": [],
+        "chars": 905
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดท่าล้อ (อำเภอภูเพียง)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B9%89%E0%B8%AD_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดท่าล้อ เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลฝายแก้ว อำเภอภูเพียง จังหวัดน่าน\nวัดท่าล้อไม่มีประวัติการสร้าง โบราณสถานสำคัญคือ องค์เจดีย์ สำนักงานพระพุทธศาสนาแห่งชาติ ระบุว่าตั้งวัดเมื่อ พ.ศ. 1890 ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 24 กันยายน พ.ศ. 2468 กรมศิลปากรได้ประกาศขึ้นทะเบียนโบราณสถานวัดท่าล้อในราชกิจจานุเบกษาเล่มที่ 61 ตอนที่ 65 ลงวันที่ 24 ตุลาคม พ.ศ. 2487 และประกาศกำหนดขอบเขตในราชกิจจานุเบกษา เล่มที่ 97 ตอนที่ 159 ลงวันที่ 14 ตุลาคม พ.ศ. 2523\nอาคารและเสนาสนะที่สำคัญ ได้แก่ เจดีย์ทรงระฆัง ซึ่งองค์เจดีย์ถูกยึดฐานให้สูง และองค์ระฆังมีขนาดเล็กเพรียว ฐานล่างเป็นฐานเขียงสามชั้นขนาดใหญ่ รองรับฐานบัวลูกแก้วอกไก่ ซึ่งมีลวดบัว 2 ลวด และถัดขึ้นไปเป็นกลุ่มมาลัยเถา 4…",
+          "sections": [],
+          "chars": 905
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Tha Lo 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Wat_Tha_Lo_02.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wat_Tha_Lo_02.jpg/960px-Wat_Tha_Lo_02.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Tha Lo, in the city of Nan, is a rare example of a Thai Buddhist temple with a cruciform floor plan, seemingly modelled after Wat Phumin, also in Nan.",
+        "capturedAt": "2014-01-09",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Tha_Lo_02.jpg",
+        "credit": "Wat Tha Lo, in the city of Nan, is a rare example of a Thai Buddhist temple with a cruciform floor plan, seemingly modelled after Wat Phumin, also in Nan. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Tha Lo 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wat_Tha_Lo_01.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wat_Tha_Lo_01.jpg/960px-Wat_Tha_Lo_01.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The chedi of Wat Tha Lo, in the city of Nan.",
+        "capturedAt": "2014-01-09",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Tha_Lo_01.jpg",
+        "credit": "The chedi of Wat Tha Lo, in the city of Nan. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/742861112",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q99624728",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-nao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าน้าว",
+    "nameRoman": "Wat Tha Nao",
+    "lat": 18.7368499,
+    "lng": 100.7686566,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6937697385",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tham-chetawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถ้ำเชตวัน",
+    "nameRoman": "Wat Tham Chetawan",
+    "lat": 18.272767,
+    "lng": 100.5781267,
+    "geoPrecision": "block",
+    "address": "San Tha",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://watchetawan.org/",
+      "openingHours": "Mo-Su 07:00-17:00",
+      "province": "Nan",
+      "district": "Na Noi",
+      "subdistrict": "San Tha",
+      "summary": {
+        "lang": "th",
+        "title": "วัดถ้ำเชตวัน",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%A7%E0%B8%B1%E0%B8%99",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดถ้ำเชตวัน เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลสันทะ อำเภอนาน้อย จังหวัดน่าน\nวัดถ้ำเชตวัน หรือ พุทธสถานถ้ำเชตวัน หรือที่ชาวบ้านเรียกกันว่า วัดครูบาน้อย ตั้งวัดเมื่อวันที่ 28 กุมภาพันธ์ พ.ศ. 2566 เป็นสถานที่ที่ ครูบาน้อย ญาณวิไชย เกจิชื่อดังแห่งเมืองน่าน เดินทางเข้าไปปฏิบัติธรรมอยู่ในถ้ำเป็นเวลา 3 ปี 3 เดือน 3 วัน เมื่อราว พ.ศ. 2555–2556 ครูบาน้อย ได้สร้าง พุทธสถานถ้ำเชตวัน จนแล้วเสร็จ ประกอบด้วยเสนาสนะคือ วิหาร ศาลาหลวง กุฏิสงฆ์ พระธาตุทันใจสหลีกู่แก้ว พระพุทธไสยาสน์ ศาลาอาคารพิพิธภัณฑ์ และพระเจ้าทันใจ เป็นต้น \nอาคารมีลักษณะศิลปะล้านนา มีพระมหาธาตุเจดีย์วัดถ้ำเชตวัน พระพุทธไสยาสน์มีความยาว 15 เมตร พระหยกขาว วิหาร ศาลาหลวง หอกลอง หอหลวงเทวดา ถ้ำธรรมชาติ พิพิธภัณฑ์ถ้ำเชตวัน…",
+        "sections": [],
+        "chars": 935
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดถ้ำเชตวัน",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%A7%E0%B8%B1%E0%B8%99",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดถ้ำเชตวัน เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลสันทะ อำเภอนาน้อย จังหวัดน่าน\nวัดถ้ำเชตวัน หรือ พุทธสถานถ้ำเชตวัน หรือที่ชาวบ้านเรียกกันว่า วัดครูบาน้อย ตั้งวัดเมื่อวันที่ 28 กุมภาพันธ์ พ.ศ. 2566 เป็นสถานที่ที่ ครูบาน้อย ญาณวิไชย เกจิชื่อดังแห่งเมืองน่าน เดินทางเข้าไปปฏิบัติธรรมอยู่ในถ้ำเป็นเวลา 3 ปี 3 เดือน 3 วัน เมื่อราว พ.ศ. 2555–2556 ครูบาน้อย ได้สร้าง พุทธสถานถ้ำเชตวัน จนแล้วเสร็จ ประกอบด้วยเสนาสนะคือ วิหาร ศาลาหลวง กุฏิสงฆ์ พระธาตุทันใจสหลีกู่แก้ว พระพุทธไสยาสน์ ศาลาอาคารพิพิธภัณฑ์ และพระเจ้าทันใจ เป็นต้น \nอาคารมีลักษณะศิลปะล้านนา มีพระมหาธาตุเจดีย์วัดถ้ำเชตวัน พระพุทธไสยาสน์มีความยาว 15 เมตร พระหยกขาว วิหาร ศาลาหลวง หอกลอง หอหลวงเทวดา ถ้ำธรรมชาติ พิพิธภัณฑ์ถ้ำเชตวัน…",
+          "sections": [],
+          "chars": 935
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1489131358",
+        "fetched": "2026-07-21"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q131100656",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "what-pughet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูเก็ต",
+    "nameRoman": "What Pughet",
+    "lat": 19.1652742,
+    "lng": 100.9340438,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/652761555",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  }
+]

@@ -1,0 +1,357 @@
+{
+  "_generated": "by scripts/gen-auspicious.mjs from auspicious-rules.json — do not hand-edit",
+  "points": [
+    {
+      "id": "ausp-gate-chang-phueak",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "ประตูช้างเผือก (ประตูหัวเวียง)",
+      "nameRoman": "Chang Phueak Gate (Hua Wiang)",
+      "lat": 18.7954331,
+      "lng": 98.9865942,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa det (เดช — power), direction N; functions: royal-entry, head-of-city; rating: SOLID; see auspicious-basis.md §1, §2 Chang Phueak; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "major"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §2 Chang Phueak"
+        },
+        {
+          "type": "osm",
+          "ref": "node/11229077788",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-jaeng-si-phum",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "แจ่งศรีภูมิ (สะหลีภูมิ)",
+      "nameRoman": "Jaeng Si Phum",
+      "lat": 18.7950004,
+      "lng": 98.993422,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa si (ศรี — glory), direction NE; functions: founding-start; rating: SOLID; see auspicious-basis.md §1, §3 Si Phum; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "major"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §3 Si Phum"
+        },
+        {
+          "type": "osm",
+          "ref": "way/263459882",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-gate-tha-phae",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "ประตูท่าแพ (ประตูเชียงเรือก)",
+      "nameRoman": "Tha Phae Gate (Chiang Rueak)",
+      "lat": 18.7877625,
+      "lng": 98.9932697,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa mula (มูละ — wealth/root), direction E; functions: trade, wealth; rating: SOLID; see auspicious-basis.md §1, §2 Tha Phae; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "minor"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §2 Tha Phae"
+        },
+        {
+          "type": "osm",
+          "ref": "node/1017379824",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-jaeng-katam",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "แจ่งก๊ะต๊ำ",
+      "nameRoman": "Jaeng Katam",
+      "lat": 18.7814237,
+      "lng": 98.9926503,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa utsaha (อุตสาหะ — industry), direction SE; functions: water-out, lowest-corner; rating: SOLID; see auspicious-basis.md §1, §3 Katam; CAVEAT: \"Katam = unlucky\" is UNVERIFIED — taksa assigns industry (mildly positive); basis §3; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "minor"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §3 Katam"
+        },
+        {
+          "type": "osm",
+          "ref": "way/791602197",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "\"Katam = unlucky\" is UNVERIFIED — taksa assigns industry (mildly positive); basis §3",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-gate-chiang-mai",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "ประตูเชียงใหม่ (ประตูท้ายเวียง)",
+      "nameRoman": "Chiang Mai Gate (Thai Wiang)",
+      "lat": 18.781504,
+      "lng": 98.9867163,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa montri (มนตรี — counsel), direction S; functions: tail-of-city, corpse-prohibited; rating: SOLID name; corpse-prohibition REPORTED; see auspicious-basis.md §1, §2 Chiang Mai Gate; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "minor"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §2 Chiang Mai Gate"
+        },
+        {
+          "type": "osm",
+          "ref": "node/1035253409",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-gate-saen-pung",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "ประตูแสนปุง (สวนปรุง)",
+      "nameRoman": "Saen Pung / Suan Prung Gate",
+      "lat": 18.7815449,
+      "lng": 98.9815967,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa kalakini sector (กาลกิณี (ภาคทิศ) — misfortune sector), direction SSW; functions: corpse-exit, ghost-gate, executions; rating: SOLID (ghost gate); executions REPORTED; see auspicious-basis.md §1, §2 Saen Pung; CAVEAT: \"Suan Prung = disembowelling\" etymology UNVERIFIED; attested แสนปุง = hundred-thousand hearths; basis §2; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "inauspicious",
+        "strength": "major"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §2 Saen Pung"
+        },
+        {
+          "type": "osm",
+          "ref": "node/11226724529",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "\"Suan Prung = disembowelling\" etymology UNVERIFIED; attested แสนปุง = hundred-thousand hearths; basis §2",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-jaeng-ku-hueang",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "แจ่งกู่เฮือง",
+      "nameRoman": "Jaeng Ku Hueang",
+      "lat": 18.7818383,
+      "lng": 98.9781186,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa kalakini (กาลกิณี — misfortune), direction SW; functions: kalakini-corner; rating: SOLID (taksa); \"most ill-fated bastion\" REPORTED; see auspicious-basis.md §1, §3 Ku Hueang; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "inauspicious",
+        "strength": "major"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §3 Ku Hueang"
+        },
+        {
+          "type": "osm",
+          "ref": "way/317516851",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-gate-suan-dok",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "ประตูสวนดอก",
+      "nameRoman": "Suan Dok Gate",
+      "lat": 18.7888357,
+      "lng": 98.9781922,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa boriwan (บริวาร — retinue), direction W; functions: royal-garden; rating: SOLID; see auspicious-basis.md §1, §2 Suan Dok; CAVEAT: No corpse function — \"corpses via west gate\" retellings UNVERIFIED for Chiang Mai; basis §2; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "minor"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §2 Suan Dok"
+        },
+        {
+          "type": "osm",
+          "ref": "node/6717438786",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "No corpse function — \"corpses via west gate\" retellings UNVERIFIED for Chiang Mai; basis §2",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-jaeng-hua-lin",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "แจ่งหัวลิน",
+      "nameRoman": "Jaeng Hua Lin",
+      "lat": 18.7979127,
+      "lng": 98.9773127,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa ayu (อายุ — longevity), direction NW; functions: water-in, head-of-water; rating: SOLID; see auspicious-basis.md §1, §3 Hua Lin; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "minor"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §3 Hua Lin"
+        },
+        {
+          "type": "osm",
+          "ref": "way/249153935",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-sadue-mueang",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "สะดือเมือง (ข่วงสามกษัตริย์ / วัดอินทขีลสะดือเมือง)",
+      "nameRoman": "City navel (Three Kings / Wat Inthakhin Sadue Mueang)",
+      "lat": 18.7902299,
+      "lng": 98.9873524,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa ket (เกตุ — center), direction C; functions: city-navel, original-pillar-site; rating: SOLID; see auspicious-basis.md §1, §5, §6; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "major"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §1, §5, §6"
+        },
+        {
+          "type": "osm",
+          "ref": "node/1619287904",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "",
+      "updatedAt": "2026-07-19"
+    },
+    {
+      "id": "ausp-sao-inthakhin",
+      "lens": [
+        "auspicious"
+      ],
+      "name": "เสาอินทขีล (วัดเจดีย์หลวง)",
+      "nameRoman": "Sao Inthakhin city pillar (Wat Chedi Luang)",
+      "lat": 18.7875903,
+      "lng": 98.9868373,
+      "geoPrecision": "exact",
+      "address": null,
+      "attrs": {
+        "basis": "taksa ket (relocated under Kawila) (เกตุ (ย้ายสมัยกาวิละ) — center, relocated ca. 1800), direction C; functions: city-pillar, inthakhin-festival; rating: SOLID; golden-age-vs-Kawila dating controversy REPORTED; see auspicious-basis.md §5; scheme caveat: Documented tradition (Surapol Damrikul 2002; Sanguan 1965); projection back to the 1296 founding is a later overlay — basis §1 caveat",
+        "polarity": "auspicious",
+        "strength": "major"
+      },
+      "media": [],
+      "sources": [
+        {
+          "type": "basis",
+          "ref": "auspicious-basis.md §5"
+        },
+        {
+          "type": "osm",
+          "ref": "node/1614993559",
+          "fetched": "2026-07-19"
+        }
+      ],
+      "confidence": "heuristic",
+      "notes": "",
+      "updatedAt": "2026-07-19"
+    }
+  ]
+}

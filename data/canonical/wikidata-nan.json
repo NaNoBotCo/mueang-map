@@ -1,0 +1,1468 @@
+[
+  {
+    "id": "wat-bo-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ่อแก้ว",
+    "nameRoman": "Wat Bo Kaeo",
+    "lat": 18.207606786,
+    "lng": 100.666833441,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดบ่อแก้ว (จังหวัดน่าน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดบ่อแก้ว เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลบ่อแก้ว อำเภอนาหมื่น จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 3 ไร่ 20 ตารางวา ที่ธรณีสงฆ์ จำนวน 1 แปลง มีเนื้อที่รวม 2 งาน 46 ตารางวา\nวัดบ่อแก้วตั้งวัดเมื่อ พ.ศ. 2390 เดิมชื่อ วัดศรีมาราม ต่อมาได้เปลี่ยนชื่อตามหมู่บ้านบ่อแก้ว เป็นวัดบ่อแก้ว และได้รับพระราชทานวิสุงคามสีมา เมื่อวันที่ 7 พฤษภาคม พ.ศ. 2557 เขตวิสุงคามสีมา กว้าง 20 เมตร ยาว 40 เมตร ต่อมามีพระเถระรูปหนึ่งนำพระบรมสารีริกธาตุมาบรรจุไว้ ชาวบ้านจึงเรียกชื่อว่า พระธาตุบ่อแก้ว\nอาคารเสนาสนะ ประกอบด้วย อุโบสถ กว้าง 12 เมตร ยาว 24 เมตร เป็นอาคารคอนกรีตเสริมเหล็ก สร้างเมื่อ พ.ศ. 2505 อุโบสถหลังใหม่เป็นอาคารสีขาว มีลวดลายแกะสลักปูนปั้นประดับกระจกสีต่าง ๆ ศาลาการเปรียญ กว้าง 11…",
+        "sections": [
+          {
+            "heading": "รายนามเจ้าอาวาส",
+            "kind": null,
+            "text": "พระครูสิรินันทคุณ พ.ศ. 2507–2522\nพระสมุห์สมบูรณ์ ฉนฺทโก พ.ศ. 2523–2556\nพระอธิการธีรเมธ ธีรปญฺโญ พ.ศ. 2557–2561\nพระครูพิพิธนันทสาร พ.ศ. 2562–"
+          }
+        ],
+        "chars": 1344
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดบ่อแก้ว (จังหวัดน่าน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดบ่อแก้ว เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลบ่อแก้ว อำเภอนาหมื่น จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 3 ไร่ 20 ตารางวา ที่ธรณีสงฆ์ จำนวน 1 แปลง มีเนื้อที่รวม 2 งาน 46 ตารางวา\nวัดบ่อแก้วตั้งวัดเมื่อ พ.ศ. 2390 เดิมชื่อ วัดศรีมาราม ต่อมาได้เปลี่ยนชื่อตามหมู่บ้านบ่อแก้ว เป็นวัดบ่อแก้ว และได้รับพระราชทานวิสุงคามสีมา เมื่อวันที่ 7 พฤษภาคม พ.ศ. 2557 เขตวิสุงคามสีมา กว้าง 20 เมตร ยาว 40 เมตร ต่อมามีพระเถระรูปหนึ่งนำพระบรมสารีริกธาตุมาบรรจุไว้ ชาวบ้านจึงเรียกชื่อว่า พระธาตุบ่อแก้ว\nอาคารเสนาสนะ ประกอบด้วย อุโบสถ กว้าง 12 เมตร ยาว 24 เมตร เป็นอาคารคอนกรีตเสริมเหล็ก สร้างเมื่อ พ.ศ. 2505 อุโบสถหลังใหม่เป็นอาคารสีขาว มีลวดลายแกะสลักปูนปั้นประดับกระจกสีต่าง ๆ ศาลาการเปรียญ กว้าง 11…",
+          "sections": [
+            {
+              "heading": "รายนามเจ้าอาวาส",
+              "kind": null,
+              "text": "พระครูสิรินันทคุณ พ.ศ. 2507–2522\nพระสมุห์สมบูรณ์ ฉนฺทโก พ.ศ. 2523–2556\nพระอธิการธีรเมธ ธีรปญฺโญ พ.ศ. 2557–2561\nพระครูพิพิธนันทสาร พ.ศ. 2562–"
+            }
+          ],
+          "chars": 1344
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q125469597",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-du-phong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดู่พงษ์",
+    "nameRoman": "Wat Du Phong",
+    "lat": 18.921462615,
+    "lng": 100.935527827,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "summary": {
+        "lang": "th",
+        "title": "วัดดู่พงษ์",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดดู่พงษ์ เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลดู่พงษ์ อำเภอสันติสุข จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 1 ไร่ 3 งาน 11 ตารางวา มีที่ธรณีสงฆ์ จำนวน 1 แปลง มีเนื้อที่รวม 1 งาน 13 ตารางวา\nวัดดู่พงษ์ตั้งวัดเมื่อ พ.ศ. 2444 โดยชาวบ้านอพยพมาจากประเทศลาวที่มาตั้งถิ่นฐานอยู่ปากแม่น้ำพง และได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 25 กันยายน พ.ศ. 2533 เขตวิสุงคามสีมา กว้าง 20 เมตร ยาว 40 เมตร\nอาคารเสนาสนะที่สำคัญ ได้แก่ อุโบสถ กว้าง 20 เมตร ยาว 25 เมตร เป็นอาคารคอนกรีตเสริมเหล็ก สร้างเมื่อ พ.ศ. 2550 ภายในอุโบสถเขียนภาพตำนานวัวโพงซึ่งเป็นเรื่องเล่ามุขปาฐะในอำเภอสันติสุข ศาลาการเปรียญ กว้าง 18 เมตร ยาว 22 เมตร เป็นอาคารคอนกรีตเสริมเหล็ก สร้างเมื่อ พ.ศ. 2533 กุฏิสงฆ์ จำนวน 1 หลัง…",
+        "sections": [
+          {
+            "heading": "รายนามเจ้าอาวาส",
+            "kind": null,
+            "text": "พระสตถิต พ.ศ. 2515–2520\nพระกมลพัน พ.ศ. 2536–2548\nพระครูวิชานนันทคุณ พ.ศ. 2551–"
+          }
+        ],
+        "chars": 1135
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดดู่พงษ์",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดดู่พงษ์ เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลดู่พงษ์ อำเภอสันติสุข จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 1 ไร่ 3 งาน 11 ตารางวา มีที่ธรณีสงฆ์ จำนวน 1 แปลง มีเนื้อที่รวม 1 งาน 13 ตารางวา\nวัดดู่พงษ์ตั้งวัดเมื่อ พ.ศ. 2444 โดยชาวบ้านอพยพมาจากประเทศลาวที่มาตั้งถิ่นฐานอยู่ปากแม่น้ำพง และได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 25 กันยายน พ.ศ. 2533 เขตวิสุงคามสีมา กว้าง 20 เมตร ยาว 40 เมตร\nอาคารเสนาสนะที่สำคัญ ได้แก่ อุโบสถ กว้าง 20 เมตร ยาว 25 เมตร เป็นอาคารคอนกรีตเสริมเหล็ก สร้างเมื่อ พ.ศ. 2550 ภายในอุโบสถเขียนภาพตำนานวัวโพงซึ่งเป็นเรื่องเล่ามุขปาฐะในอำเภอสันติสุข ศาลาการเปรียญ กว้าง 18 เมตร ยาว 22 เมตร เป็นอาคารคอนกรีตเสริมเหล็ก สร้างเมื่อ พ.ศ. 2533 กุฏิสงฆ์ จำนวน 1 หลัง…",
+          "sections": [
+            {
+              "heading": "รายนามเจ้าอาวาส",
+              "kind": null,
+              "text": "พระสตถิต พ.ศ. 2515–2520\nพระกมลพัน พ.ศ. 2536–2548\nพระครูวิชานนันทคุณ พ.ศ. 2551–"
+            }
+          ],
+          "chars": 1135
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123630995",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-lai-nan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไหล่น่าน",
+    "nameRoman": "Wat Lai Nan",
+    "lat": 18.577727793,
+    "lng": 100.757088238,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "summary": {
+        "lang": "th",
+        "title": "วัดไหล่น่าน",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดไหล่น่าน เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลไหล่น่าน อำเภอเวียงสา จังหวัดน่าน มีที่ดินที่ตั้งวัดเนื้อที่ 9 ไร่ มีที่ธรณีสงฆ์ จำนวน 3 แปลง มีเนื้อที่รวม 19 ไร่ \nวัดไหล่น่านตั้งวัดเมื่อวันที่ 9 มีนาคม พ.ศ. 2411 เดิมชื่อ วัดหล่ายน่าน เริ่มสร้างเป็นศาลาขึ้นหนึ่งหลังโดยพระสุรินทร์ ซึ่งเป็นพระภิกษุจากวัดบุญยืน ต่อมามีพระศรีวิชัย เป็นเจ้าอาวาส ซึ่งในปี พ.ศ. 2421 พระศรีวิชัยได้ย้ายวัดมาจากที่อยู่ทางตอนใต้มาตั้งอยู่ในสถานที่ปัจจุบัน เนื่องจากเห็นว่า สถานที่ตั้งวัดในปัจจุบันนั้น ถูกแม่น้ำน่านกัดเซาะจนตลิ่งพัง เกรงว่าการตั้งวัดต่อไปภายหน้าจะไม่มั่นคง \nวัดได้รับพระราชทานวิสุงคามสีมา เมื่อวันที่ 10 พฤศจิกายน พ.ศ. 2457 เขตวิสุงคามสีมากว้าง 16 เมตร ยาว 21 เมตร ผูกพัทธสีมาเมื่อวันที่…",
+        "sections": [],
+        "chars": 1313
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดไหล่น่าน",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดไหล่น่าน เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลไหล่น่าน อำเภอเวียงสา จังหวัดน่าน มีที่ดินที่ตั้งวัดเนื้อที่ 9 ไร่ มีที่ธรณีสงฆ์ จำนวน 3 แปลง มีเนื้อที่รวม 19 ไร่ \nวัดไหล่น่านตั้งวัดเมื่อวันที่ 9 มีนาคม พ.ศ. 2411 เดิมชื่อ วัดหล่ายน่าน เริ่มสร้างเป็นศาลาขึ้นหนึ่งหลังโดยพระสุรินทร์ ซึ่งเป็นพระภิกษุจากวัดบุญยืน ต่อมามีพระศรีวิชัย เป็นเจ้าอาวาส ซึ่งในปี พ.ศ. 2421 พระศรีวิชัยได้ย้ายวัดมาจากที่อยู่ทางตอนใต้มาตั้งอยู่ในสถานที่ปัจจุบัน เนื่องจากเห็นว่า สถานที่ตั้งวัดในปัจจุบันนั้น ถูกแม่น้ำน่านกัดเซาะจนตลิ่งพัง เกรงว่าการตั้งวัดต่อไปภายหน้าจะไม่มั่นคง \nวัดได้รับพระราชทานวิสุงคามสีมา เมื่อวันที่ 10 พฤศจิกายน พ.ศ. 2457 เขตวิสุงคามสีมากว้าง 16 เมตร ยาว 21 เมตร ผูกพัทธสีมาเมื่อวันที่…",
+          "sections": [],
+          "chars": 1313
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123950737",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-na-tao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาเตา",
+    "nameRoman": "Wat Na Tao",
+    "lat": 18.34,
+    "lng": 100.73,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดนาเตา",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B8%B2",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดนาเตา เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลศีรษะเกษ อำเภอนาน้อย จังหวัดน่าน\nวัดนาเตาตั้งเป็นวัดเมื่อ พ.ศ. 2356 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2478 จากจารึกวัดนาเตาระบุว่า เมื่อ พ.ศ. 2356 เริ่มปฏิสังขรณ์วิหารวัดหนองเทา (วัดนาเตา) โดยมีครูบาเจ้าวัดนาราบเป็นที่ปรึกษา มีพระอุปนันทะเจ้าอาวาสวัดหนองเทาเป็นประธานฝ่ายบรรพชิต และมีแสนทักขิณะเป็นประธานฝ่ายฆราวาสร่วมกับพระภิกษุสามเณรและคนบ้านหนองเทาและคนในหมู่บ้านใกล้เคียง ในการนี้มีพระปัญโญเป็นผู้ควบคุมการก่อสร้าง \nภายในอุโบสถมีองค์พระประธานที่เป็นองค์นอนหันหน้าไปทางทิศตะวันออก หอไตรไม่ปรากฏหลักฐานการสร้าง ลักษณะเป็นอาคารทรงสี่เหลี่ยมจัตุรัสก่ออิฐถือปูน ส่วนฐานหน้ากระดานลูกแก้วอกไก่ หลังคามุงหลังคาเดิมเป็นหินชนวน…",
+        "sections": [],
+        "chars": 1056
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดนาเตา",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B8%B2",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดนาเตา เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลศีรษะเกษ อำเภอนาน้อย จังหวัดน่าน\nวัดนาเตาตั้งเป็นวัดเมื่อ พ.ศ. 2356 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2478 จากจารึกวัดนาเตาระบุว่า เมื่อ พ.ศ. 2356 เริ่มปฏิสังขรณ์วิหารวัดหนองเทา (วัดนาเตา) โดยมีครูบาเจ้าวัดนาราบเป็นที่ปรึกษา มีพระอุปนันทะเจ้าอาวาสวัดหนองเทาเป็นประธานฝ่ายบรรพชิต และมีแสนทักขิณะเป็นประธานฝ่ายฆราวาสร่วมกับพระภิกษุสามเณรและคนบ้านหนองเทาและคนในหมู่บ้านใกล้เคียง ในการนี้มีพระปัญโญเป็นผู้ควบคุมการก่อสร้าง \nภายในอุโบสถมีองค์พระประธานที่เป็นองค์นอนหันหน้าไปทางทิศตะวันออก หอไตรไม่ปรากฏหลักฐานการสร้าง ลักษณะเป็นอาคารทรงสี่เหลี่ยมจัตุรัสก่ออิฐถือปูน ส่วนฐานหน้ากระดานลูกแก้วอกไก่ หลังคามุงหลังคาเดิมเป็นหินชนวน…",
+          "sections": [],
+          "chars": 1056
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115766753",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-lat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำลัด",
+    "nameRoman": "Wat Nam Lat",
+    "lat": 18.223447,
+    "lng": 100.687643,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดน้ำลัด (อำเภอนาน้อย)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%94_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดน้ำลัด ตั้งอยู่ที่บ้านน้ำลัด หมู่ที่ 6 ตำบลสถาน อำเภอนาน้อย จังหวัดน่าน \nก่อตั้งขึ้นในสมัย พ.ศ. 2398 มีผู้ก่อตั้งในสมัยนั้น คือ ผู้ใหญ่มา มาลัด มีพระภิกษุรูปแรก คือหลวงพ่อจันต๊ะ ปสธวโร\nโบราณวัตถุที่พบ ได้แก่ จารึกบนแผงพระพิมพ์ไม้วัดน้ำลัด (พ.ศ. 2341) จารึกฐานพระพุทธรูปวัดน้ำลัด 1 (พ.ศ. 2343) จารึกฐานพระพุทธรูปวัดน้ำลัด 2 (พ.ศ. 2347) จารึกฐานพระพุทธรูปวัดน้ำลัด 3 (พ.ศ. 2337) จารึกฐานพระพุทธรูปวัดน้ำลัด 4 (พ.ศ. 2338) และกู่พระ สร้างด้วยอิฐและดินผสมหลายอย่าง ความสูงฐานล่าง 1 เมตร 9 ซ.ม. ตรงกลาง 1 เมตร 36 ซ.ม. ความสูง 4 เมตร 76 ซ.ม. ในกู่พระกว้างประมาณ 90 ซ.ม. สูง 1 เมตร ก่อสร้างเมื่อ พ.ศ. 2237",
+        "sections": [],
+        "chars": 619
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดน้ำลัด (อำเภอนาน้อย)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%94_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดน้ำลัด ตั้งอยู่ที่บ้านน้ำลัด หมู่ที่ 6 ตำบลสถาน อำเภอนาน้อย จังหวัดน่าน \nก่อตั้งขึ้นในสมัย พ.ศ. 2398 มีผู้ก่อตั้งในสมัยนั้น คือ ผู้ใหญ่มา มาลัด มีพระภิกษุรูปแรก คือหลวงพ่อจันต๊ะ ปสธวโร\nโบราณวัตถุที่พบ ได้แก่ จารึกบนแผงพระพิมพ์ไม้วัดน้ำลัด (พ.ศ. 2341) จารึกฐานพระพุทธรูปวัดน้ำลัด 1 (พ.ศ. 2343) จารึกฐานพระพุทธรูปวัดน้ำลัด 2 (พ.ศ. 2347) จารึกฐานพระพุทธรูปวัดน้ำลัด 3 (พ.ศ. 2337) จารึกฐานพระพุทธรูปวัดน้ำลัด 4 (พ.ศ. 2338) และกู่พระ สร้างด้วยอิฐและดินผสมหลายอย่าง ความสูงฐานล่าง 1 เมตร 9 ซ.ม. ตรงกลาง 1 เมตร 36 ซ.ม. ความสูง 4 เมตร 76 ซ.ม. ในกู่พระกว้างประมาณ 90 ซ.ม. สูง 1 เมตร ก่อสร้างเมื่อ พ.ศ. 2237",
+          "sections": [],
+          "chars": 619
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004318",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nirot-rangsi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนิโรธรังสี",
+    "nameRoman": "Wat Nirot Rangsi",
+    "lat": 18.601163619,
+    "lng": 100.716828014,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "founded": "2015",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111192612",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-daeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองแดง",
+    "nameRoman": "Wat Nong Daeng",
+    "lat": 19.303611111,
+    "lng": 100.854444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในอำเภอเชียงกลาง จังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดหนองแดง (อำเภอเชียงกลาง)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%87_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดหนองแดง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเปือ อำเภอเชียงกลาง จังหวัดน่าน\nวัดหนองแดงสร้างขึ้นเมื่อ พ.ศ. 2330 โดยชาวไทลื้อร่วมกับไทพวน องค์พระประธานสร้างคือ ครูบาสิทธิการ ต่อมามีการบูรณะวิหารเมื่อ พ.ศ. 2492 และครั้งต่อมาเมื่อ พ.ศ. 2538 แล้วเสร็จเมื่อ พ.ศ. 2539 วัดหนองแดงได้รับรางวัลดีเด่นประเภทแหล่งท่องเที่ยว ศิลปวัฒนธรรม (ภาคเหนือ) รางวัลอุตสาหกรรมท่องเที่ยว ครั้งที่ 5 พ.ศ. 2547 วัดได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2365\nอุโบสถมีช่อฟ้าสลักรูปนกหัสดีลิงค์ ซึ่งชาวไทลื้อเชื่อว่าเป็นสัตว์ชั้นสูงจากสวรรค์ เชิงชายประดับไม้ฉลุลายน้ำหยาด ซึ่งเป็นลวดลายเฉพาะของชาวไทลื้อ พระพุทธรูปประดิษฐานอยู่บนฐานชุกชี เรียกว่า นาคบัลลังก์ เลื้อยพันรอบองค์พระประธานตวัดหางสู่เบื้องบน",
+        "sections": [],
+        "chars": 708
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดหนองแดง (อำเภอเชียงกลาง)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%87_(%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดหนองแดง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลเปือ อำเภอเชียงกลาง จังหวัดน่าน\nวัดหนองแดงสร้างขึ้นเมื่อ พ.ศ. 2330 โดยชาวไทลื้อร่วมกับไทพวน องค์พระประธานสร้างคือ ครูบาสิทธิการ ต่อมามีการบูรณะวิหารเมื่อ พ.ศ. 2492 และครั้งต่อมาเมื่อ พ.ศ. 2538 แล้วเสร็จเมื่อ พ.ศ. 2539 วัดหนองแดงได้รับรางวัลดีเด่นประเภทแหล่งท่องเที่ยว ศิลปวัฒนธรรม (ภาคเหนือ) รางวัลอุตสาหกรรมท่องเที่ยว ครั้งที่ 5 พ.ศ. 2547 วัดได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2365\nอุโบสถมีช่อฟ้าสลักรูปนกหัสดีลิงค์ ซึ่งชาวไทลื้อเชื่อว่าเป็นสัตว์ชั้นสูงจากสวรรค์ เชิงชายประดับไม้ฉลุลายน้ำหยาด ซึ่งเป็นลวดลายเฉพาะของชาวไทลื้อ พระพุทธรูปประดิษฐานอยู่บนฐานชุกชี เรียกว่า นาคบัลลังก์ เลื้อยพันรอบองค์พระประธานตวัดหางสู่เบื้องบน",
+          "sections": [],
+          "chars": 708
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Nong Daeng 2014 a.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Wat_Nong_Daeng_2014_a.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Wat_Nong_Daeng_2014_a.jpg/960px-Wat_Nong_Daeng_2014_a.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Nong Daeng in Chiang Klang, Nan Province: chedi",
+        "capturedAt": "2014-01-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Nong_Daeng_2014_a.jpg",
+        "credit": "Wat Nong Daeng in Chiang Klang, Nan Province: chedi — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Nong Daeng 2014 b.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Wat_Nong_Daeng_2014_b.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wat_Nong_Daeng_2014_b.jpg/960px-Wat_Nong_Daeng_2014_b.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Nong Daeng in Chiang Klang, Nan Province: interior",
+        "capturedAt": "2014-01-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Nong_Daeng_2014_b.jpg",
+        "credit": "Wat Nong Daeng in Chiang Klang, Nan Province: interior — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Nong Daeng 2014 d.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Wat_Nong_Daeng_2014_d.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wat_Nong_Daeng_2014_d.jpg/960px-Wat_Nong_Daeng_2014_d.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Nong Daeng in Chiang Klang, Nan Province: unusual Buddha statue",
+        "capturedAt": "2014-01-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Nong_Daeng_2014_d.jpg",
+        "credit": "Wat Nong Daeng in Chiang Klang, Nan Province: unusual Buddha statue — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Nong Daeng 2014 c.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Wat_Nong_Daeng_2014_c.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Wat_Nong_Daeng_2014_c.jpg/960px-Wat_Nong_Daeng_2014_c.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Nong Daeng in Chiang Klang, Nan Province: unusual Buddha statue",
+        "capturedAt": "2014-01-10",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Nong_Daeng_2014_c.jpg",
+        "credit": "Wat Nong Daeng in Chiang Klang, Nan Province: unusual Buddha statue — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99641789",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-nanthaburi-yannasangwararam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่านันทบุรีญาณสังวราราม",
+    "nameRoman": "Wat Pa Nanthaburi Yannasangwararam",
+    "lat": 18.869548789,
+    "lng": 100.744196338,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "summary": {
+        "lang": "th",
+        "title": "วัดป่านันทบุรีญาณสังวราราม",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดป่านันทบุรีญาณสังวราราม เป็นวัดราษฎร์สังกัดคณะสงฆ์ธรรมยุติกนิกาย ตั้งอยู่ในตำบลผาสิงห์ อำเภอเมืองน่าน จังหวัดน่าน\nวัดป่านันทบุรีญาณสังวรารามตั้งวัดเมื่อวันที่ 31 ตุลาคม พ.ศ. 2556 ได้รับพระราชาทานวิสุงคามสีมาเมื่อวันที่ 3 พฤศจิกายน พ.ศ. 2557 โดยคุณยายวัลลภา ศิริพรรฒ ได้ซื้อที่ดินเพื่อสร้างวัดจำนวนประมาณ 30 ไร่ มอบถวายคณะสงฆ์วัดป่าดาราภิรมย์ โดยมีพระเดชพระคุณพระราชวิสุทธิญาณ (ฤทธิรงค์ ญาณวโร) เป็นประธาน เมื่อวันที่ 8 มีนาคม 2555 โดยมอบหมายให้ พระครูจันทโรภาส (จักรกริศน์ จนฺโทภาโส) ผู้ช่วยเจ้าอาวาส ซึ่งมีภูมิลำเนาเดิมเป็นชาวจังหวัดน่าน เริ่มดำเนินการสร้างวัดเมื่อวันที่ 6 มิถุนายน พ.ศ. 2555 สมเด็จพระญาณสังวร สมเด็จพระสังฆราช สกลมหาสังฆปรินายก ทรงรับวัดไว้ในพระสังฆราชูปถัมภ์…",
+        "sections": [],
+        "chars": 1330
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดป่านันทบุรีญาณสังวราราม",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดป่านันทบุรีญาณสังวราราม เป็นวัดราษฎร์สังกัดคณะสงฆ์ธรรมยุติกนิกาย ตั้งอยู่ในตำบลผาสิงห์ อำเภอเมืองน่าน จังหวัดน่าน\nวัดป่านันทบุรีญาณสังวรารามตั้งวัดเมื่อวันที่ 31 ตุลาคม พ.ศ. 2556 ได้รับพระราชาทานวิสุงคามสีมาเมื่อวันที่ 3 พฤศจิกายน พ.ศ. 2557 โดยคุณยายวัลลภา ศิริพรรฒ ได้ซื้อที่ดินเพื่อสร้างวัดจำนวนประมาณ 30 ไร่ มอบถวายคณะสงฆ์วัดป่าดาราภิรมย์ โดยมีพระเดชพระคุณพระราชวิสุทธิญาณ (ฤทธิรงค์ ญาณวโร) เป็นประธาน เมื่อวันที่ 8 มีนาคม 2555 โดยมอบหมายให้ พระครูจันทโรภาส (จักรกริศน์ จนฺโทภาโส) ผู้ช่วยเจ้าอาวาส ซึ่งมีภูมิลำเนาเดิมเป็นชาวจังหวัดน่าน เริ่มดำเนินการสร้างวัดเมื่อวันที่ 6 มิถุนายน พ.ศ. 2555 สมเด็จพระญาณสังวร สมเด็จพระสังฆราช สกลมหาสังฆปรินายก ทรงรับวัดไว้ในพระสังฆราชูปถัมภ์…",
+          "sections": [],
+          "chars": 1330
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q132145327",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phaya-wat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพญาวัด",
+    "nameRoman": "Wat Phaya Wat",
+    "lat": 18.77,
+    "lng": 100.762777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพญาวัด",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%94",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพญาวัด เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลดู่ใต้ อำเภอเมืองน่าน จังหวัดน่าน\nวัดพญาวัด ไม่มีประวัติการสร้างที่แน่ชัด แต่จากการเปรียบเทียบศิลปกรรมเจดีย์วัดพญาวัดและการขุดค้นทางโบราณคดีบริเวณวัดพญา เจดีย์วัดพญาวัดน่าจะสร้างขึ้นในราวพุทธศตวรรษที่ 21 อีกข้อสันนิษฐาน คือ พื้นที่ของวัดอยู่ภายในเขต เวียงวัดพญาวัด เป็นเวียงโบราณริมแม่น้ำน่านที่คงสร้างขึ้นก่อนการสร้างเมืองน่าน (พ.ศ. 1911) โดยย้ายเมืองมาจากบริเวณภูเวียงแช่แห้ง (บริเวณวัดพระธาตุแช่แห้งในปัจจุบัน) มาสร้างเมืองใหม่ ณ ริมฝั้งแม่น้ำน่านทางทิศตะวันตก จึงคาดว่า วัดพญาวัดคงสร้างพร้อมกันกับเวียงพญาวัด ยังปรากฏในเอกสารประวัติศาสตร์บางฉบับ เช่น พงศาวดารล้านนาและพงศาวดารเมืองน่าน เป็นต้น…",
+        "sections": [],
+        "chars": 1285
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพญาวัด",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%94",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพญาวัด เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลดู่ใต้ อำเภอเมืองน่าน จังหวัดน่าน\nวัดพญาวัด ไม่มีประวัติการสร้างที่แน่ชัด แต่จากการเปรียบเทียบศิลปกรรมเจดีย์วัดพญาวัดและการขุดค้นทางโบราณคดีบริเวณวัดพญา เจดีย์วัดพญาวัดน่าจะสร้างขึ้นในราวพุทธศตวรรษที่ 21 อีกข้อสันนิษฐาน คือ พื้นที่ของวัดอยู่ภายในเขต เวียงวัดพญาวัด เป็นเวียงโบราณริมแม่น้ำน่านที่คงสร้างขึ้นก่อนการสร้างเมืองน่าน (พ.ศ. 1911) โดยย้ายเมืองมาจากบริเวณภูเวียงแช่แห้ง (บริเวณวัดพระธาตุแช่แห้งในปัจจุบัน) มาสร้างเมืองใหม่ ณ ริมฝั้งแม่น้ำน่านทางทิศตะวันตก จึงคาดว่า วัดพญาวัดคงสร้างพร้อมกันกับเวียงพญาวัด ยังปรากฏในเอกสารประวัติศาสตร์บางฉบับ เช่น พงศาวดารล้านนาและพงศาวดารเมืองน่าน เป็นต้น…",
+          "sections": [],
+          "chars": 1285
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Phaya Wat 2014 i.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Wat_Phaya_Wat_2014_i.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wat_Phaya_Wat_2014_i.jpg/960px-Wat_Phaya_Wat_2014_i.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The back of the wihan of Wat Phaya Wat.",
+        "capturedAt": "2014-01-09",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Phaya_Wat_2014_i.jpg",
+        "credit": "The back of the wihan of Wat Phaya Wat. — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Nan wat phaya wat 2006 1003.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Nan_wat_phaya_wat_2006_1003.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/39/Nan_wat_phaya_wat_2006_1003.jpg",
+        "width": 600,
+        "author": "Takeaway ( talk )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The Chedi of Wat Phaya Wat in the town on Nan, Thailand. It is pyramidal shaped as the chedi of Wat Chedi Liem in Chiang Mai and the chedi of Wat Phra That Hariphunchai in Lamphun . This shape is derived from Hariphunchai architecture of the Mon people . Wat Phaya Wat was probably built in the 17th or 18th century.",
+        "capturedAt": "27 April 2",
+        "source": "https://commons.wikimedia.org/wiki/File:Nan_wat_phaya_wat_2006_1003.jpg",
+        "credit": "The Chedi of Wat Phaya Wat in the town on Nan, Thailand. It is pyramidal shaped as the chedi of Wat Chedi Liem in Chiang Mai and the chedi of Wat Phra That Hariphunchai in Lamphun . This shape is derived from Hariphunchai architecture of the Mon people . Wat Phaya Wat was probably built in the 17th or 18th century. — Takeaway ( talk ), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Wat Phaya Wat 2014 a.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Wat_Phaya_Wat_2014_a.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Wat_Phaya_Wat_2014_a.jpg/960px-Wat_Phaya_Wat_2014_a.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Phaya Wat in Nan, missing one of its chofa .",
+        "capturedAt": "2014-01-08",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Phaya_Wat_2014_a.jpg",
+        "credit": "Wat Phaya Wat in Nan, missing one of its chofa . — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Mom Wat Phaya Wat.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mom_Wat_Phaya_Wat.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mom_Wat_Phaya_Wat.jpg/960px-Mom_Wat_Phaya_Wat.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Sculptures in stucco of mom (Thai script: มอม): a mythical animal somewhat resembling a dog. These here were about 20 cm in length, and perched on the tails of two large nagas at the main entrance of the temple's wihan building.",
+        "capturedAt": "2014-01-09",
+        "source": "https://commons.wikimedia.org/wiki/File:Mom_Wat_Phaya_Wat.jpg",
+        "credit": "Sculptures in stucco of mom (Thai script: มอม): a mythical animal somewhat resembling a dog. These here were about 20 cm in length, and perched on the tails of two large nagas at the main entrance of the temple's wihan building. — Takeaway, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q91200982",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pho-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโพธิ์ชัย",
+    "nameRoman": "Wat Pho Chai",
+    "lat": 18.00186,
+    "lng": 100.884269,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "founded": "1883",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20084471",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-nang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมนาง",
+    "nameRoman": "Wat Phra That Chom Nang",
+    "lat": 19.080305555,
+    "lng": 100.872666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุจอมนาง",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%87",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุจอมนาง ตั้งอยู่ที่หมู่ 9 ตำบลจอมพระ อำเภอท่าวังผา จังหวัดน่าน สร้างราวประมาณพุทธศักราช 1600-1650 สมัยพระเจ้าเจืองฟ้าธรรมิกราช หรือ พ่อขุนเจือง กษัตริย์ผู้ครองภูกามยาว หิรัญเงินยาง เวียงปะกัน และหัวเมืองต่าง ๆ ตลอดสายแม่น้ำโขง ในสมัยโบราณวัดพระธาตุจอมนางเป็นวัดหลวงประจำเมือง คือ เวียงเหียง หรือ แส่งเหียง ตามจารึกภูกามยาว (พะเยา) \nวัดพระธาตุจอมนางได้รับการประกาศขึ้นทะเบียนเป็นโบราณสถานในราชกิจจานุเบกษา เล่ม 61 ตอน 65 วันที่ 24 ตุลาคม 2487\nปัจจุบันวัดพระธาตุจอมนาง มีเพียงแต่พุทธบริษัท ผู้ศรัทธา ได้ร่วมแรงร่วมใจกันตั้งสถานปฏิบัติธรรมในเขตโบราณสถานวัดพระธาตุจอมนาง ให้เป็นสถานที่ปฏิบัติธรรม ภาวนา มีพระภิกษุ สามเณร สายวัดป่า (ฝ่ายธรรมยุตินิกาย) จำพรรษาอยู่ โดยใช้ชื่อเรียกว่า…",
+        "sections": [
+          {
+            "heading": "การเดินทาง",
+            "kind": null,
+            "text": "จากอำเภอเมืองน่าน มาตามถนนน่านทุ่งช้าง (ทางหลวง1080) ถึงอำเภอท่าวังผา ระยะทาง 43 ก.ม.\nเมื่อถึงอำเภอท่าวังผา ผ่านตลาดเทศบาลท่าวังผา (ถนนสี่เลน) ให้ชิดขวา แล้วเลี้ยวเข้า ช่องขวา (ทางกลับรถวัดศิลามงคล) ให้วิ่งรถเข้าช่องกลาง สังเกตป้ายทางหลวง “น้ำตกศิลาเพชร” กับป้าย “บ้านน้ำยาว”\nเมื่อวิ่งตามถนนท่าวังผาศิลาเพชร (ทางหลวง 1170) เข้ามา 8 ก.ม.สังเกตป้ายซ้ายมือ “พระธาตุจอมนาง” หรือป้าย “ปรมัตถภาวนากรรมฐาน”"
+          }
+        ],
+        "chars": 1148
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุจอมนาง",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%87",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุจอมนาง ตั้งอยู่ที่หมู่ 9 ตำบลจอมพระ อำเภอท่าวังผา จังหวัดน่าน สร้างราวประมาณพุทธศักราช 1600-1650 สมัยพระเจ้าเจืองฟ้าธรรมิกราช หรือ พ่อขุนเจือง กษัตริย์ผู้ครองภูกามยาว หิรัญเงินยาง เวียงปะกัน และหัวเมืองต่าง ๆ ตลอดสายแม่น้ำโขง ในสมัยโบราณวัดพระธาตุจอมนางเป็นวัดหลวงประจำเมือง คือ เวียงเหียง หรือ แส่งเหียง ตามจารึกภูกามยาว (พะเยา) \nวัดพระธาตุจอมนางได้รับการประกาศขึ้นทะเบียนเป็นโบราณสถานในราชกิจจานุเบกษา เล่ม 61 ตอน 65 วันที่ 24 ตุลาคม 2487\nปัจจุบันวัดพระธาตุจอมนาง มีเพียงแต่พุทธบริษัท ผู้ศรัทธา ได้ร่วมแรงร่วมใจกันตั้งสถานปฏิบัติธรรมในเขตโบราณสถานวัดพระธาตุจอมนาง ให้เป็นสถานที่ปฏิบัติธรรม ภาวนา มีพระภิกษุ สามเณร สายวัดป่า (ฝ่ายธรรมยุตินิกาย) จำพรรษาอยู่ โดยใช้ชื่อเรียกว่า…",
+          "sections": [
+            {
+              "heading": "การเดินทาง",
+              "kind": null,
+              "text": "จากอำเภอเมืองน่าน มาตามถนนน่านทุ่งช้าง (ทางหลวง1080) ถึงอำเภอท่าวังผา ระยะทาง 43 ก.ม.\nเมื่อถึงอำเภอท่าวังผา ผ่านตลาดเทศบาลท่าวังผา (ถนนสี่เลน) ให้ชิดขวา แล้วเลี้ยวเข้า ช่องขวา (ทางกลับรถวัดศิลามงคล) ให้วิ่งรถเข้าช่องกลาง สังเกตป้ายทางหลวง “น้ำตกศิลาเพชร” กับป้าย “บ้านน้ำยาว”\nเมื่อวิ่งตามถนนท่าวังผาศิลาเพชร (ทางหลวง 1170) เข้ามา 8 ก.ม.สังเกตป้ายซ้ายมือ “พระธาตุจอมนาง” หรือป้าย “ปรมัตถภาวนากรรมฐาน”"
+            }
+          ],
+          "chars": 1148
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004339",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-phrik",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมพริก",
+    "nameRoman": "Wat Phra That Chom Phrik",
+    "lat": 19.081388888,
+    "lng": 100.911111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุจอมพริก",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุจอมพริก เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลยม อำเภอท่าวังผา จังหวัดน่าน\nวัดพระธาตุจอมพริกมีพระธาตุซึ่งเชื่อว่าบรรจุพระบรมสารีริกธาตุของสมเด็จพระสัมมาสัมพุทธเจ้า เมื่อถึงคืนวันเพ็ญเดือน 6 จะเกิดแสงรัศมีพุ่งจากยอดเจดีย์ไปหาเจดีย์องค์อื่น สันนิษฐานว่าพระธาตุสร้างขึ้นราวพุทธศตวรรษที่ 18 ประมาณ พ.ศ. 1825–1991 ตั้งแต่สมัยเมืองย่าง ก่อนที่จะย้ายเมืองไปที่เมืองน่านในปัจจุบัน พระธาตุมีลักษณะศิลปะสุโขทัยผสมศิลปะล้านนาและศิลปะพื้นบ้านไทยกาว มีสภาพทรุดโทรม และมีต้นพริกโบราณที่ใหญ่ที่สุดในโลกอายุกว่า 800 ปี เคียงคู่พระธาตุ ต้นพริกได้รับการลงทะเบียนอยู่ในรุกข มรดกของแผ่นดิน\nจากข้อมูลของสำนักงานพระพุทธศาสนาแห่งชาติ ระบุว่าตั้งวัดเมื่อ พ.ศ. 2430…",
+        "sections": [],
+        "chars": 809
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุจอมพริก",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุจอมพริก เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลยม อำเภอท่าวังผา จังหวัดน่าน\nวัดพระธาตุจอมพริกมีพระธาตุซึ่งเชื่อว่าบรรจุพระบรมสารีริกธาตุของสมเด็จพระสัมมาสัมพุทธเจ้า เมื่อถึงคืนวันเพ็ญเดือน 6 จะเกิดแสงรัศมีพุ่งจากยอดเจดีย์ไปหาเจดีย์องค์อื่น สันนิษฐานว่าพระธาตุสร้างขึ้นราวพุทธศตวรรษที่ 18 ประมาณ พ.ศ. 1825–1991 ตั้งแต่สมัยเมืองย่าง ก่อนที่จะย้ายเมืองไปที่เมืองน่านในปัจจุบัน พระธาตุมีลักษณะศิลปะสุโขทัยผสมศิลปะล้านนาและศิลปะพื้นบ้านไทยกาว มีสภาพทรุดโทรม และมีต้นพริกโบราณที่ใหญ่ที่สุดในโลกอายุกว่า 800 ปี เคียงคู่พระธาตุ ต้นพริกได้รับการลงทะเบียนอยู่ในรุกข มรดกของแผ่นดิน\nจากข้อมูลของสำนักงานพระพุทธศาสนาแห่งชาติ ระบุว่าตั้งวัดเมื่อ พ.ศ. 2430…",
+          "sections": [],
+          "chars": 809
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111189625",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chomsin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมศีล",
+    "nameRoman": "Wat Phra That Chomsin",
+    "lat": 19.083678065,
+    "lng": 100.073113179,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุจอมศีล",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A8%E0%B8%B5%E0%B8%A5",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุจอมศีล เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลบ้านถ้ำ อำเภอดอกคำใต้ จังหวัดพะเยา\nวัดพระธาตุจอมศีลมีตำนานเล่าว่ามียักษ์ 2 ตน เป็นสามีภรรยากัน ซึ่งรักษาบริเวณภูเขามาช้านาน อาหารของยักษ์ก็คือสัตว์ต่าง ๆ จากนั้นได้มีพระพุทธเจ้าเสด็จมาบริเวณน้ำออกฮู (รู) ในปัจจุบันนี้ ยักษ์ได้พบพระพุทธเจ้าที่ได้เสด็จมาบริเวณนั้น จากนั้นยักษ์ คิดว่า มีอาหารแล้วและจะจับพระพุทธเจ้ากินเป็นอาหาร แต่พระพุทธเจ้าก็แสดงอิทธิฤทธิ์ โดยยักษ์ก็จะร้อนเป็นไฟจนยักษ์บอกว่าพอแล้วข้ายอมแล้ว พอยักษ์หยุดคิดที่จะกินพระพุทธเจ้าแล้ว จากนั้นจึงยอมทุกอย่างที่พระพุทธเจ้าได้สั่งสอนไว้และได้และได้จำศีลอยู่ที่ภูเขา ต่อมาชาวบ้านได้สร้างวัดพระธาตุจอมศีล วัดพระธาตุจอมศีลตั้งวัดเมื่อ พ.ศ. 2470…",
+        "sections": [],
+        "chars": 1030
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุจอมศีล",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%A8%E0%B8%B5%E0%B8%A5",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุจอมศีล เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลบ้านถ้ำ อำเภอดอกคำใต้ จังหวัดพะเยา\nวัดพระธาตุจอมศีลมีตำนานเล่าว่ามียักษ์ 2 ตน เป็นสามีภรรยากัน ซึ่งรักษาบริเวณภูเขามาช้านาน อาหารของยักษ์ก็คือสัตว์ต่าง ๆ จากนั้นได้มีพระพุทธเจ้าเสด็จมาบริเวณน้ำออกฮู (รู) ในปัจจุบันนี้ ยักษ์ได้พบพระพุทธเจ้าที่ได้เสด็จมาบริเวณนั้น จากนั้นยักษ์ คิดว่า มีอาหารแล้วและจะจับพระพุทธเจ้ากินเป็นอาหาร แต่พระพุทธเจ้าก็แสดงอิทธิฤทธิ์ โดยยักษ์ก็จะร้อนเป็นไฟจนยักษ์บอกว่าพอแล้วข้ายอมแล้ว พอยักษ์หยุดคิดที่จะกินพระพุทธเจ้าแล้ว จากนั้นจึงยอมทุกอย่างที่พระพุทธเจ้าได้สั่งสอนไว้และได้และได้จำศีลอยู่ที่ภูเขา ต่อมาชาวบ้านได้สร้างวัดพระธาตุจอมศีล วัดพระธาตุจอมศีลตั้งวัดเมื่อ พ.ศ. 2470…",
+          "sections": [],
+          "chars": 1030
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q121264776",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-yuak-nan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยหยวก",
+    "nameRoman": "Wat Phra That Doi Yuak",
+    "lat": 19.138055555,
+    "lng": 100.262777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "description": "Buddhist temple in Phayao province, Thailand",
+      "descriptionTh": "วัดในจังหวัดพะเยา",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุดอยหยวก",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุดอยหยวก ตั้งอยู่บ้านหนุน หมู่ที่ 6 ตำบลปง อำเภอปง จังหวัดพะเยา เป็นปูชนียสถานที่มีความสำคัญคู่อำเภอปง และเป็นที่บรรจุพระบรมสารีริกธาตุ พระเกศา และพระอัฐิจักษุ (กระดูกริมตาข้างขวา) ของพระพุทธเจ้า ระยะทางจากตัวอำเภอ 2 กิโลเมตร\nแต่เดิมมีวัดอยู่ 2 วัดในบริเวณใกล้กันคือ วัดที่ตั้งอยู่บนเนินเขาเรียกว่า วัดบน คือวัดพระธาตุดอยหยวกปัจจุบัน แต่เป็นวัดร้างและวัดที่ตั้งอยู่ด้านล่างเรียกว่า วัดล่าง ต่อมามีพระสังฆะมณฑลเดินทางมาจากจังหวัดน่าน มาตรวจกิจการพระศาสนาเห็นว่าวัดบนมีปูชนียสถานที่สำคัญกว่าคือพระธาตุภูเติม (พระธาตุ ดอยหยวก) แต่ขาดการเอาใจใส่บำรุงรักษา จึงสั่งให้รวมวัดทั้งสองแห่ง ให้เป็นวัดเดียวกัน โดยให้วัดล่างไปรวมกับวัดบนให้ชื่อว่า \"วัดพระธาตุดอยหยวก\"",
+        "sections": [],
+        "chars": 681
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุดอยหยวก",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุดอยหยวก ตั้งอยู่บ้านหนุน หมู่ที่ 6 ตำบลปง อำเภอปง จังหวัดพะเยา เป็นปูชนียสถานที่มีความสำคัญคู่อำเภอปง และเป็นที่บรรจุพระบรมสารีริกธาตุ พระเกศา และพระอัฐิจักษุ (กระดูกริมตาข้างขวา) ของพระพุทธเจ้า ระยะทางจากตัวอำเภอ 2 กิโลเมตร\nแต่เดิมมีวัดอยู่ 2 วัดในบริเวณใกล้กันคือ วัดที่ตั้งอยู่บนเนินเขาเรียกว่า วัดบน คือวัดพระธาตุดอยหยวกปัจจุบัน แต่เป็นวัดร้างและวัดที่ตั้งอยู่ด้านล่างเรียกว่า วัดล่าง ต่อมามีพระสังฆะมณฑลเดินทางมาจากจังหวัดน่าน มาตรวจกิจการพระศาสนาเห็นว่าวัดบนมีปูชนียสถานที่สำคัญกว่าคือพระธาตุภูเติม (พระธาตุ ดอยหยวก) แต่ขาดการเอาใจใส่บำรุงรักษา จึงสั่งให้รวมวัดทั้งสองแห่ง ให้เป็นวัดเดียวกัน โดยให้วัดล่างไปรวมกับวัดบนให้ชื่อว่า \"วัดพระธาตุดอยหยวก\"",
+          "sections": [],
+          "chars": 681
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดดอยหยวก.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81.jpg/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81.jpg",
+        "width": 800,
+        "author": "Vichitsilp",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2015-04-15",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Vichitsilp, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:วัดพระธาตุดอยหยวก.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/25/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81.jpg",
+        "width": 960,
+        "author": "Sirikarn Suksomnak",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2558-09-30",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A2%E0%B8%A7%E0%B8%81.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Sirikarn Suksomnak, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004213",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-ton-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุต้นฝาง",
+    "nameRoman": "Wat Phra That Ton Fang",
+    "lat": 19.144837876,
+    "lng": 100.391259597,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพระธาตุต้นฝาง",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9D%E0%B8%B2%E0%B8%87",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพระธาตุต้นฝาง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลขุนควร อำเภอปง จังหวัดพะเยา\nพื้นที่เดิมของวัดเป็นป่าทึบไม่มีผู้คนอาศัย ต่อมาได้มีชาวบ้านได้อพยพโยกย้ายแหล่งท้ามาหากินจากจังหวัดน่านตั้งเป็นหมู่บ้านบ้านสบขามและบ้านนาอ้อม มีหอศาลเจ้าหลวงควรในบริเวณที่เรียกว่า \"ดงป่ากรรม\" ซึ่งพบซากปรักหักพังของอิฐ พระพุทธรูปทั้ง หินทราย และสัมฤทธิ์ เป็นจำนวนมาก จนกาลเวลาล่วงสมัยมาจนถึงปัจจุบัน มีพระธุดงเข้าไปจำพรรษาอยู่ในดงป่ากรรม ปฏิบัติปัดกวาดพื้นที่รกร้าง สร้างเป็นสถานที่ปฏิบัติธรรม ได้ตั้งเป็นวัดเมื่อวันที่ 12 สิงหาคม พ.ศ. 2548\nเดิมวัดเรียกว่า วัดเก๊าราชถาน ก่อตั้งขึ้นในยุคสมัยเดียวกับอาณาจักรล้านนา อาณาจักภูกามยาวและรัฐกาวน่าน พบหลักศิลาจารึก ลักษณะเป็นหินทรายจ้านวนด้าน 2 ด้าน มี 30…",
+        "sections": [],
+        "chars": 1247
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพระธาตุต้นฝาง",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%9D%E0%B8%B2%E0%B8%87",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพระธาตุต้นฝาง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลขุนควร อำเภอปง จังหวัดพะเยา\nพื้นที่เดิมของวัดเป็นป่าทึบไม่มีผู้คนอาศัย ต่อมาได้มีชาวบ้านได้อพยพโยกย้ายแหล่งท้ามาหากินจากจังหวัดน่านตั้งเป็นหมู่บ้านบ้านสบขามและบ้านนาอ้อม มีหอศาลเจ้าหลวงควรในบริเวณที่เรียกว่า \"ดงป่ากรรม\" ซึ่งพบซากปรักหักพังของอิฐ พระพุทธรูปทั้ง หินทราย และสัมฤทธิ์ เป็นจำนวนมาก จนกาลเวลาล่วงสมัยมาจนถึงปัจจุบัน มีพระธุดงเข้าไปจำพรรษาอยู่ในดงป่ากรรม ปฏิบัติปัดกวาดพื้นที่รกร้าง สร้างเป็นสถานที่ปฏิบัติธรรม ได้ตั้งเป็นวัดเมื่อวันที่ 12 สิงหาคม พ.ศ. 2548\nเดิมวัดเรียกว่า วัดเก๊าราชถาน ก่อตั้งขึ้นในยุคสมัยเดียวกับอาณาจักรล้านนา อาณาจักภูกามยาวและรัฐกาวน่าน พบหลักศิลาจารึก ลักษณะเป็นหินทรายจ้านวนด้าน 2 ด้าน มี 30…",
+          "sections": [],
+          "chars": 1247
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116103340",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพรหม",
+    "nameRoman": "Wat Phrom",
+    "lat": 18.718634654,
+    "lng": 101.002888042,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "summary": {
+        "lang": "th",
+        "title": "วัดพรหม",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดพรหม เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลหนองแดง อำเภอแม่จริม จังหวัดน่าน มีเนื้อที่ 1 ไร่ 2 งาน 70 ตารางวา\nวัดพรหมตั้งวัดเมื่อ พ.ศ. 1707 โดยการนำของครูบาค่อม มีผู้อุปถัมภ์คือ พญาพรหม บัณฑิต ร่วมกับคณะศรัทธาบ้านพรหม เริ่มแรกได้สร้างวิหารหลังเล็กกลางทุ่งนา พร้อมกุฎิเป็นที่พำนักสงฆ์ ต่อมาไม่นานถูกไฟป่าเผาไหม้ จึงได้ย้ายมาสร้างในที่ดินใกล้หมู่บ้าน ในสมัยพระครูบาวังโส มีการบูรณะปฏิสังขรณ์วัด โดยความอุปถัมภ์ของแสนขันธะ และขยายพื้นที่โดยการซื้อที่ดินในการจัดสร้างศาลาการเปรียญ มีศาสนสถานต่าง ๆ ภายในวัดเป็นจำนวนมาก เมื่อครูบาวังโสมรณภาพ ก็มีครูบาหลวงลาวจากนครเวียงจันทร์ ได้มาก่อสร้างเสนาสนะต่าง ๆ มีพญาอินต๊ะบุญเรือง ร่วมกับชาวบ้านเป็นผู้อุปถัมภ์…",
+        "sections": [],
+        "chars": 1313
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดพรหม",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดพรหม เป็นวัดราษฎร์สังกัดคณะสงฆ์มหานิกาย ตั้งอยู่ในตำบลหนองแดง อำเภอแม่จริม จังหวัดน่าน มีเนื้อที่ 1 ไร่ 2 งาน 70 ตารางวา\nวัดพรหมตั้งวัดเมื่อ พ.ศ. 1707 โดยการนำของครูบาค่อม มีผู้อุปถัมภ์คือ พญาพรหม บัณฑิต ร่วมกับคณะศรัทธาบ้านพรหม เริ่มแรกได้สร้างวิหารหลังเล็กกลางทุ่งนา พร้อมกุฎิเป็นที่พำนักสงฆ์ ต่อมาไม่นานถูกไฟป่าเผาไหม้ จึงได้ย้ายมาสร้างในที่ดินใกล้หมู่บ้าน ในสมัยพระครูบาวังโส มีการบูรณะปฏิสังขรณ์วัด โดยความอุปถัมภ์ของแสนขันธะ และขยายพื้นที่โดยการซื้อที่ดินในการจัดสร้างศาลาการเปรียญ มีศาสนสถานต่าง ๆ ภายในวัดเป็นจำนวนมาก เมื่อครูบาวังโสมรณภาพ ก็มีครูบาหลวงลาวจากนครเวียงจันทร์ ได้มาก่อสร้างเสนาสนะต่าง ๆ มีพญาอินต๊ะบุญเรือง ร่วมกับชาวบ้านเป็นผู้อุปถัมภ์…",
+          "sections": [],
+          "chars": 1313
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123115029",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-santi-karam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันติการาม",
+    "nameRoman": "Wat Santi Karam",
+    "lat": 19.079027777,
+    "lng": 100.899777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดสันติการาม (จังหวัดน่าน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดสันติการาม หรือวัดบ้านพร้าว ตั้งอยู่ ณ เลขที่ 2 หมู่ 8 ตำบลยม อำเภอท่าวังผา จังหวัดน่าน ก่อตั้งขึ้นเมื่อปี พ.ศ. 2400 เป็นวัดราษฎร์ ประเภทมหานิกาย",
+        "sections": [
+          {
+            "heading": "ประวัติวัดสันติการาม",
+            "kind": "history",
+            "text": "วัดสันติการาม หรือ วัดบ้านพร้าว สร้างขึ้นเมื่อปี พ.ศ. 2400เป็นวัดราษฎร์ ฝ่ายมหานิกาย ตั้งอยู่ ณ เลขที่ 2 หมู่ 8 ตำบลยม อำเภอท่าวังผา จังหวัดน่าน\nประวัติวัด\nวัดสันติการาม หรือ วัดพร้าว ตำบลยม อำเภอปัว (ในขณะนั้น) จังหวัดน่าน สร้างขึ้นเมื่อปี พ.ศ. 2400 ผู้เฒ่าผู้แก่เล่าว่า ในสมัยนั้นราษฎรบ้านพร้าวก็มีน้อย แต่มีใจศรัทธาที่จะสร้างวัด จึงพร้อมใจกันหาที่ดินที่จะสร้างวัด แรกสร้างนั้นยังมีพื้นที่ที่คับแคบมาก จึงได้พากันแผ้วถางปรับพื้นที่เรียบร้อย ก็ได้หาไม้เปาหนุ่มมาสร้าง ฝาสานด้วยไม่ไผ่ หลังคามุงด้วยหญ้าคา พื้นปูด้วยดิน แท่นพระเจ้าใช้สร้างเป็นขาตีเป็นโต๊ะวาง สำหรับเคารพกราบไว้บูชาในวันพระ ซึ่งในสมัยนั้นมีนายเมืองคำ พรมวังขวา เป็นผู้ใหญ่บ้าน\n\nต่อมาในปี พ.ศ. 2470 ได้บูรณปฏิสังขรณ์ใหม่อีกครั้ง ได้วางรางฐาน ก่ออิฐขนาดแผ่นใหญ่ ล้อมรอบทั้ง 4 ด้าน ใช้ดินเผือกทุ่งนามาก่อ ซึ่งในขณะนั้นไม่มีปูนขาว และปูนซีเมนต์ ขนาดกว้าง 3 ห้อง หลังผลัดมุงด้วยหญ้าคา มีหน้าต่างประตู ช่างที่มารับเหมาก่อสร้างวิหาร เป็นคนเมืองพงษ์มาสร้างจนเสร็จเรียบร้อย ซึ่งในขณะนั้นมีนายเสาร์ ไชยเพ็ชร เป็นผู้ใหญ่บ้าน\nต่อมาในปี พ.ศ. 2490 ได้รื้อและปฏิสังขรณ์พระวิหารใหม่ โดยใช้ไม้ประดู่มาทำเป็นเสา หลังคามุงด้วยไม้แป้นเกร็ด ช่างที่มารับเหมาคือผู้ใหญ่หวัน พลจร บ้านดอนมูล ตำบลศิลาเพชร ซึ่งในขณะนั้นมีนายอิ่นแก้ว ต๊ะผัด เป็นผู้ใหญ่บ้าน\nต่อมาวันที่ 18 เมษายน พ.ศ. 2504 ได้รื้อและปฏิสังขรณ์ใหม่ ดังนี้\nขุดเอาเสาไม้ประดู่ออก\nรื้อไม้แป้นเกร็ดออก\nรื้อแล้วทุบฝาผนังขยายเนื้อที่ออกให้กว้างกว่าเดิม\nได้ก่อเสาอิฐมี 12 เหลี่ยม\nทำหลังคาใหม่เป็น 3 ชุด\nหลังคามุงด้วยแป้นเกร็ด\nขยายประตูหน้าต่าง (โดยช่างสมบรูณ์ ถาวงค์)\nซึ่งในขณะนั้นมีนายคำมุง จันทร์สุข เป็นผู้ใหญ่บ้าน\nต่อมาวันที่ 15 พฤษภาคม พ.ศ. 2518 ได้รับพระราชทานวิสุงคามสีมา ซึ่งในขณะนั้นมีนายคำมุง จันทร์สุข เป็นผู้ใหญ่บ้าน\nต่อมาวันที่ 2 เมษายน พ.ศ. 2532 ผู้ใหญ่บ้านและราษฎรในบ้านพร้าว ได้ร่วมกันบูรณะปฏิสังขรณ์และซ่อมแซมพระวิหาร มีรายการดังต่อไปนี้\nขุดเสาก่ออิฐ 12 เหลี่ยมออก\nรื้อไม้แป้นเกร็ดออก\nยกหลังคาใหม่\nหล่อเสาซีเมนต์\nมุงหลังคาด้วยสังกะสีสีแดง\nได้ยกช่อฟ้าใบระกาใหม่ เมื่อวันที่ 28 ตุลาคม พ.ศ. 2533"
+          },
+          {
+            "heading": "พระราชทานวิสุงคามสีมา",
+            "kind": null,
+            "text": "วัดสันติการาม ได้รับพระราชทานวิสุงคามสีมา เมื่อวันจันทร์ ที่ 5 พฤษภาคม พ.ศ. 2518 (แรม 10 ค่ำ เดือน 6 ) ในสมัย หม่อมราชวงศ์คึกฤทธิ์ ปราโมช เป็นนายกรัฐมนตรี"
+          },
+          {
+            "heading": "สิ่งสำคัญภายในวัด",
+            "kind": "interest",
+            "text": "บุคคลที่สร้างพระเจ้าวัดสันติการาม \n\nพระเจ้าองค์ใหญ่ ปู่น้อย มอญ ปัญโญ ท่านเป็นคนสร้างไว้\nส่วนพระเจ้าทันใจองค์น้อย พ่อหม่อน ธรรมชัย เป็นคนปั้นภายใน 1 วัน โดยขายนา 1 บ่อน (ไร่) เพื่อมาสร้างพระเจ้าทันใจ\nพระเจ้าด้านข้าง 4 องค์ ผู้ใหญ่สงค์ คำแสน บ้านเสี้ยวเป็นคนสร้างไว้กับวัดสันติการาม\nพระพุทธรูปไม้โบราณ สันนิฐานว่ามีอายุเก่าแก่ ถึง 200 ถึง 300 ปี มีอักษรล้านนาจารึกใต้ฐานพระพุทธรูป แต่อักษรปรากฏไม่ชัดเจน\nธรรมมาสน์ไม้โบราณ สร้างขึ้นปี พ.ศ. 2509 ศรัทธา พ่อแสน - แม่แก้ว พรมวังขวา"
+          }
+        ],
+        "chars": 2787
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดสันติการาม (จังหวัดน่าน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดสันติการาม หรือวัดบ้านพร้าว ตั้งอยู่ ณ เลขที่ 2 หมู่ 8 ตำบลยม อำเภอท่าวังผา จังหวัดน่าน ก่อตั้งขึ้นเมื่อปี พ.ศ. 2400 เป็นวัดราษฎร์ ประเภทมหานิกาย",
+          "sections": [
+            {
+              "heading": "ประวัติวัดสันติการาม",
+              "kind": "history",
+              "text": "วัดสันติการาม หรือ วัดบ้านพร้าว สร้างขึ้นเมื่อปี พ.ศ. 2400เป็นวัดราษฎร์ ฝ่ายมหานิกาย ตั้งอยู่ ณ เลขที่ 2 หมู่ 8 ตำบลยม อำเภอท่าวังผา จังหวัดน่าน\nประวัติวัด\nวัดสันติการาม หรือ วัดพร้าว ตำบลยม อำเภอปัว (ในขณะนั้น) จังหวัดน่าน สร้างขึ้นเมื่อปี พ.ศ. 2400 ผู้เฒ่าผู้แก่เล่าว่า ในสมัยนั้นราษฎรบ้านพร้าวก็มีน้อย แต่มีใจศรัทธาที่จะสร้างวัด จึงพร้อมใจกันหาที่ดินที่จะสร้างวัด แรกสร้างนั้นยังมีพื้นที่ที่คับแคบมาก จึงได้พากันแผ้วถางปรับพื้นที่เรียบร้อย ก็ได้หาไม้เปาหนุ่มมาสร้าง ฝาสานด้วยไม่ไผ่ หลังคามุงด้วยหญ้าคา พื้นปูด้วยดิน แท่นพระเจ้าใช้สร้างเป็นขาตีเป็นโต๊ะวาง สำหรับเคารพกราบไว้บูชาในวันพระ ซึ่งในสมัยนั้นมีนายเมืองคำ พรมวังขวา เป็นผู้ใหญ่บ้าน\n\nต่อมาในปี พ.ศ. 2470 ได้บูรณปฏิสังขรณ์ใหม่อีกครั้ง ได้วางรางฐาน ก่ออิฐขนาดแผ่นใหญ่ ล้อมรอบทั้ง 4 ด้าน ใช้ดินเผือกทุ่งนามาก่อ ซึ่งในขณะนั้นไม่มีปูนขาว และปูนซีเมนต์ ขนาดกว้าง 3 ห้อง หลังผลัดมุงด้วยหญ้าคา มีหน้าต่างประตู ช่างที่มารับเหมาก่อสร้างวิหาร เป็นคนเมืองพงษ์มาสร้างจนเสร็จเรียบร้อย ซึ่งในขณะนั้นมีนายเสาร์ ไชยเพ็ชร เป็นผู้ใหญ่บ้าน\nต่อมาในปี พ.ศ. 2490 ได้รื้อและปฏิสังขรณ์พระวิหารใหม่ โดยใช้ไม้ประดู่มาทำเป็นเสา หลังคามุงด้วยไม้แป้นเกร็ด ช่างที่มารับเหมาคือผู้ใหญ่หวัน พลจร บ้านดอนมูล ตำบลศิลาเพชร ซึ่งในขณะนั้นมีนายอิ่นแก้ว ต๊ะผัด เป็นผู้ใหญ่บ้าน\nต่อมาวันที่ 18 เมษายน พ.ศ. 2504 ได้รื้อและปฏิสังขรณ์ใหม่ ดังนี้\nขุดเอาเสาไม้ประดู่ออก\nรื้อไม้แป้นเกร็ดออก\nรื้อแล้วทุบฝาผนังขยายเนื้อที่ออกให้กว้างกว่าเดิม\nได้ก่อเสาอิฐมี 12 เหลี่ยม\nทำหลังคาใหม่เป็น 3 ชุด\nหลังคามุงด้วยแป้นเกร็ด\nขยายประตูหน้าต่าง (โดยช่างสมบรูณ์ ถาวงค์)\nซึ่งในขณะนั้นมีนายคำมุง จันทร์สุข เป็นผู้ใหญ่บ้าน\nต่อมาวันที่ 15 พฤษภาคม พ.ศ. 2518 ได้รับพระราชทานวิสุงคามสีมา ซึ่งในขณะนั้นมีนายคำมุง จันทร์สุข เป็นผู้ใหญ่บ้าน\nต่อมาวันที่ 2 เมษายน พ.ศ. 2532 ผู้ใหญ่บ้านและราษฎรในบ้านพร้าว ได้ร่วมกันบูรณะปฏิสังขรณ์และซ่อมแซมพระวิหาร มีรายการดังต่อไปนี้\nขุดเสาก่ออิฐ 12 เหลี่ยมออก\nรื้อไม้แป้นเกร็ดออก\nยกหลังคาใหม่\nหล่อเสาซีเมนต์\nมุงหลังคาด้วยสังกะสีสีแดง\nได้ยกช่อฟ้าใบระกาใหม่ เมื่อวันที่ 28 ตุลาคม พ.ศ. 2533"
+            },
+            {
+              "heading": "พระราชทานวิสุงคามสีมา",
+              "kind": null,
+              "text": "วัดสันติการาม ได้รับพระราชทานวิสุงคามสีมา เมื่อวันจันทร์ ที่ 5 พฤษภาคม พ.ศ. 2518 (แรม 10 ค่ำ เดือน 6 ) ในสมัย หม่อมราชวงศ์คึกฤทธิ์ ปราโมช เป็นนายกรัฐมนตรี"
+            },
+            {
+              "heading": "สิ่งสำคัญภายในวัด",
+              "kind": "interest",
+              "text": "บุคคลที่สร้างพระเจ้าวัดสันติการาม \n\nพระเจ้าองค์ใหญ่ ปู่น้อย มอญ ปัญโญ ท่านเป็นคนสร้างไว้\nส่วนพระเจ้าทันใจองค์น้อย พ่อหม่อน ธรรมชัย เป็นคนปั้นภายใน 1 วัน โดยขายนา 1 บ่อน (ไร่) เพื่อมาสร้างพระเจ้าทันใจ\nพระเจ้าด้านข้าง 4 องค์ ผู้ใหญ่สงค์ คำแสน บ้านเสี้ยวเป็นคนสร้างไว้กับวัดสันติการาม\nพระพุทธรูปไม้โบราณ สันนิฐานว่ามีอายุเก่าแก่ ถึง 200 ถึง 300 ปี มีอักษรล้านนาจารึกใต้ฐานพระพุทธรูป แต่อักษรปรากฏไม่ชัดเจน\nธรรมมาสน์ไม้โบราณ สร้างขึ้นปี พ.ศ. 2509 ศรัทธา พ่อแสน - แม่แก้ว พรมวังขวา"
+            }
+          ],
+          "chars": 2787
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดสันติการาม3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A13.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A13.jpg/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A13.jpg",
+        "width": 800,
+        "author": "Saranphat chaiphet",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "วัดสันติการาม3",
+        "capturedAt": "2019-12-09",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A13.jpg",
+        "credit": "วัดสันติการาม3 — Saranphat chaiphet, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:พระราชทานวิสุงคามสีมาวัดสันติการาม.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg/960px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg",
+        "width": 800,
+        "author": "Saranphat chaiphet",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "พระราชทานวิสุงคามสีมาวัดสันติการาม",
+        "capturedAt": "2019-12-08",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg",
+        "credit": "พระราชทานวิสุงคามสีมาวัดสันติการาม — Saranphat chaiphet, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:พระเจ้าทันใจ1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%881.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%881.jpg/960px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%881.jpg",
+        "width": 800,
+        "author": "Saranphat chaiphet",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "พระเจ้าทันใจ1",
+        "capturedAt": "2019-12-08",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B9%83%E0%B8%881.jpg",
+        "credit": "พระเจ้าทันใจ1 — Saranphat chaiphet, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:ธรรมมาสน์โบราณ2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%932.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%932.jpg/960px-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%932.jpg",
+        "width": 800,
+        "author": "Saranphat chaiphet",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "ธรรมมาสน์โบราณ2",
+        "capturedAt": "2019-12-09",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%932.jpg",
+        "credit": "ธรรมมาสน์โบราณ2 — Saranphat chaiphet, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q78148129",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sapan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสะปัน",
+    "nameRoman": "Wat Sapan",
+    "lat": 19.193156989,
+    "lng": 101.199644417,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "summary": {
+        "lang": "th",
+        "title": "วัดสะปัน",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B0%E0%B8%9B%E0%B8%B1%E0%B8%99",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดสะปัน เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ริมแม่น้ำว้า ในตำบลบ่อเกลือเหนือ อำเภอบ่อเกลือ จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 7 ไร่ มีที่ธรณีสงฆ์ จำนวน 3 แปลง \nวัดสะปันตั้งวัดเมื่อ พ.ศ. 2369 สร้างโดยเจ้าพ่อพญาติ๋น ซึ่งเป็นผู้นำชาวบ้านเข้าถางป่าและจัดตั้งหมู่บ้านขึ้น ซึ่งภายในวัดมีศาลเจ้าพ่อพญาติ๋นที่ชาวบ้านสร้างขึ้น\nอาคารเสนาสนะ ประกอบด้วย กุฏิสงฆ์ จำนวน 1 หลัง เป็นอาคารไม้ วิหาร กว้าง 10 เมตร ยาว 16 เมตร เป็นอาคารคอนกรีตเสริมเหล็ก สร้างเมื่อ พ.ศ. 2545 หอกลอง 1 หลัง โรงครัว 1 หลัง ปูชนียวัตถุมีพระประธานประจำวิหาร ปางมารวิชัยขนาดหน้าตัก กว้าง 1.20 เมตร สูง 1.40 เมตร สร้างเมื่อ พ.ศ. 2557",
+        "sections": [
+          {
+            "heading": "รายนามเจ้าอาวาส",
+            "kind": null,
+            "text": "พระหลง อินสุด\nพระชื่น เขื่อนเมือง\nพระศรี ช่างเงิน\nพระประดิษฐ์ อินสุด\nพระเมือง อินสุด\nพระสวัสดิ์ อินสุด\nพระครูอุดมนันทสาร\nพระสมาน ปภสฺสโร รักษาการเจ้าอาวาส พ.ศ. 2561 - ปัจจุบัน"
+          }
+        ],
+        "chars": 825
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดสะปัน",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B0%E0%B8%9B%E0%B8%B1%E0%B8%99",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดสะปัน เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ริมแม่น้ำว้า ในตำบลบ่อเกลือเหนือ อำเภอบ่อเกลือ จังหวัดน่าน ที่ดินที่ตั้งวัด มีเนื้อที่ 7 ไร่ มีที่ธรณีสงฆ์ จำนวน 3 แปลง \nวัดสะปันตั้งวัดเมื่อ พ.ศ. 2369 สร้างโดยเจ้าพ่อพญาติ๋น ซึ่งเป็นผู้นำชาวบ้านเข้าถางป่าและจัดตั้งหมู่บ้านขึ้น ซึ่งภายในวัดมีศาลเจ้าพ่อพญาติ๋นที่ชาวบ้านสร้างขึ้น\nอาคารเสนาสนะ ประกอบด้วย กุฏิสงฆ์ จำนวน 1 หลัง เป็นอาคารไม้ วิหาร กว้าง 10 เมตร ยาว 16 เมตร เป็นอาคารคอนกรีตเสริมเหล็ก สร้างเมื่อ พ.ศ. 2545 หอกลอง 1 หลัง โรงครัว 1 หลัง ปูชนียวัตถุมีพระประธานประจำวิหาร ปางมารวิชัยขนาดหน้าตัก กว้าง 1.20 เมตร สูง 1.40 เมตร สร้างเมื่อ พ.ศ. 2557",
+          "sections": [
+            {
+              "heading": "รายนามเจ้าอาวาส",
+              "kind": null,
+              "text": "พระหลง อินสุด\nพระชื่น เขื่อนเมือง\nพระศรี ช่างเงิน\nพระประดิษฐ์ อินสุด\nพระเมือง อินสุด\nพระสวัสดิ์ อินสุด\nพระครูอุดมนันทสาร\nพระสมาน ปภสฺสโร รักษาการเจ้าอาวาส พ.ศ. 2561 - ปัจจุบัน"
+            }
+          ],
+          "chars": 825
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123936677",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-fai-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าฟ้าใต้",
+    "nameRoman": "Wat Tha Fai Tai",
+    "lat": 19.001666666,
+    "lng": 100.281111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Phayao province, Thailand",
+      "descriptionTh": "วัดในจังหวัดพะเยา",
+      "summary": {
+        "lang": "th",
+        "title": "วัดท่าฟ้าใต้",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดท่าฟ้าใต้ อยู่ที่บ้านฟ้าสีทอง หมู่ที่ 11 ตำบลสระ อำเภอเชียงม่วน จังหวัดพะเยา บนเส้นทางสายปง-เชียงม่วน สร้างเมื่อ พ.ศ. 2311 โดยครูธรรมเสนา และพ่อเฒ่าแสนอัฐิ ผู้นำชาวไทลื้อซึ่งอพยพมาจากสิบสองปันนา ลักษณะตัวพระอุโบสถ เป็นทรงเตี้ยก่ออิฐถือปูน หลังคาสามชั้นมุงด้วยแป้นเกล็ด ตามแบบสถาปัตยกรรมไทลื้อ องค์พระประธานแกะสลักจากไม้ประดู่เป็นพระพุทธรูปปางมารวิชัย หน้าตักกว้าง 117.5 เซนติเมตร สูง 227.5 เซนติเมตร ซึ่งอัญเชิญมาจากสิบสองปันนา ประดิษฐานบนฐานชุกชี ทรงสี่เหลี่ยมย่อมุมศิลปะไทลื้อ ประดับด้วยลายปูนปั้นรูปเครือเถา ลงรักปิดทอง ประดับกระจก มีแท่นธรรมาสน์ ลักษณะคล้ายมณฑปหรือปราสาท ฐานสี่เหลี่ยมย่อมุมยี่สิบชั้น ประดับลายปูนปั้นรูปเครือเถาและสัตว์ต่าง ๆ เช่น กวาง ช้าง ม้า นกยูง ลักษณะเด่น…",
+        "sections": [],
+        "chars": 1605
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดท่าฟ้าใต้",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดท่าฟ้าใต้ อยู่ที่บ้านฟ้าสีทอง หมู่ที่ 11 ตำบลสระ อำเภอเชียงม่วน จังหวัดพะเยา บนเส้นทางสายปง-เชียงม่วน สร้างเมื่อ พ.ศ. 2311 โดยครูธรรมเสนา และพ่อเฒ่าแสนอัฐิ ผู้นำชาวไทลื้อซึ่งอพยพมาจากสิบสองปันนา ลักษณะตัวพระอุโบสถ เป็นทรงเตี้ยก่ออิฐถือปูน หลังคาสามชั้นมุงด้วยแป้นเกล็ด ตามแบบสถาปัตยกรรมไทลื้อ องค์พระประธานแกะสลักจากไม้ประดู่เป็นพระพุทธรูปปางมารวิชัย หน้าตักกว้าง 117.5 เซนติเมตร สูง 227.5 เซนติเมตร ซึ่งอัญเชิญมาจากสิบสองปันนา ประดิษฐานบนฐานชุกชี ทรงสี่เหลี่ยมย่อมุมศิลปะไทลื้อ ประดับด้วยลายปูนปั้นรูปเครือเถา ลงรักปิดทอง ประดับกระจก มีแท่นธรรมาสน์ ลักษณะคล้ายมณฑปหรือปราสาท ฐานสี่เหลี่ยมย่อมุมยี่สิบชั้น ประดับลายปูนปั้นรูปเครือเถาและสัตว์ต่าง ๆ เช่น กวาง ช้าง ม้า นกยูง ลักษณะเด่น…",
+          "sections": [],
+          "chars": 1605
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดท่าฟ้าใต้.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89.jpg/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+        "width": 800,
+        "author": "Vichitsilp",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2015-07-30",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Vichitsilp, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Imageวัดท่าฟ้าใต้.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Image%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Image%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89.jpg/960px-Image%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+        "width": 800,
+        "author": "Vichitsilp",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2015-07-30",
+        "source": "https://commons.wikimedia.org/wiki/File:Image%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%95%E0%B9%89.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Vichitsilp, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020694",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thammikaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธรรมมิการาม",
+    "nameRoman": "Wat Thammikaram",
+    "lat": 19.159088751,
+    "lng": 100.356084284,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "summary": {
+        "lang": "th",
+        "title": "วัดธรรมมิการาม (จังหวัดพะเยา)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดธรรมมิการาม เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลขุนควร อำเภอปง จังหวัดพะเยา\nวัดธรรมมิการาม หรือ วัดสบเกี๋ยง ตั้งวัดเมื่อวันที่ 3 สิงหาคม พ.ศ. 2559 ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 10 กุมภาพันธ์ พ.ศ. 2564\nวัดได้จัดตั้งพิพิธภัณฑ์เมืองขุนควรขึ้น ภายในกุฏิไม้ทรงไทย เพื่อเก็บรวบรวมผ้ายันต์ชนิดต่าง ๆ ของทางล้านนาภาคเหนือ ผ้ายันต์ที่เก็บรักษาไว้มีกว่า 200 ผืน โดยมีอายุต่ำสุดประมาณ 50–70 ปี และมากสุดประมาณ 100 ปี ขึ้นไป นอกจากนี้ภายในยังเก็บรวบรวมพระพุทธรูปเก่าแก่ ยันต์ตะกรุดต่าง ๆ พระพุทธรูปงาช้าง คัมภีร์ตำราล้านนาต่าง ๆ ที่ตัวอักษรเป็นตัวเมืองล้านนา",
+        "sections": [],
+        "chars": 591
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดธรรมมิการาม (จังหวัดพะเยา)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดธรรมมิการาม เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลขุนควร อำเภอปง จังหวัดพะเยา\nวัดธรรมมิการาม หรือ วัดสบเกี๋ยง ตั้งวัดเมื่อวันที่ 3 สิงหาคม พ.ศ. 2559 ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 10 กุมภาพันธ์ พ.ศ. 2564\nวัดได้จัดตั้งพิพิธภัณฑ์เมืองขุนควรขึ้น ภายในกุฏิไม้ทรงไทย เพื่อเก็บรวบรวมผ้ายันต์ชนิดต่าง ๆ ของทางล้านนาภาคเหนือ ผ้ายันต์ที่เก็บรักษาไว้มีกว่า 200 ผืน โดยมีอายุต่ำสุดประมาณ 50–70 ปี และมากสุดประมาณ 100 ปี ขึ้นไป นอกจากนี้ภายในยังเก็บรวบรวมพระพุทธรูปเก่าแก่ ยันต์ตะกรุดต่าง ๆ พระพุทธรูปงาช้าง คัมภีร์ตำราล้านนาต่าง ๆ ที่ตัวอักษรเป็นตัวเมืองล้านนา",
+          "sections": [],
+          "chars": 591
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q131763216",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thung-phueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งผึ้ง",
+    "nameRoman": "Wat Thung Phueng",
+    "lat": 19.391229812,
+    "lng": 100.891439455,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "summary": {
+        "lang": "th",
+        "title": "วัดทุ่งผึ้ง (จังหวัดน่าน)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดทุ่งผึ้ง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลทุ่งช้าง อำเภอทุ่งช้าง จังหวัดน่าน มีที่ดินตั้งวัดมีเนื้อที่ 6 ไร่ \nจากประวัติวัดระบุว่าวัดทุ่งผึ้งสร้างโดยหลวงพ่อหมึก (ตุ๊หมึก) พร้อมประชาชนบ้านทุ่งผึ้งเมื่อวันพฤหัสบดี ขึ้น 15 ค่ำ ปีขาล พ.ศ. 1865 และทำการบูรณะครั้งใหญ่เมื่อ พ.ศ. 2100 โดยท่านครูบาธรรมสิทธิ์ และได้ปลูกต้นโพธิ์ไว้ 5 ต้น ทางทิศตะวันตกของวัด ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 5 เมษายน พ.ศ. 2517 เขต วิสุงคามสีมา กว้าง 14 เมตร ยาว 28 เมตร อย่างไรก็ดีสำนักงานพระพุทธศาสนาแห่งชาติ ระบุว่าตั้งวัดเมื่อ พ.ศ. 2350\nอาคารเสนาสนะประกอบด้วยอุโบสถ ศาลาการเปรียญและกุฏิสงฆ์ ปูชนียวัตถุมีพระประธานเป็นพระพุทธรูปปูนปั้น สร้างเมื่อ พ.ศ. 2350 และมีพระพุทธรูปมงคลสมฤทธิ์ 700 ปี…",
+        "sections": [],
+        "chars": 1071
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดทุ่งผึ้ง (จังหวัดน่าน)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดทุ่งผึ้ง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลทุ่งช้าง อำเภอทุ่งช้าง จังหวัดน่าน มีที่ดินตั้งวัดมีเนื้อที่ 6 ไร่ \nจากประวัติวัดระบุว่าวัดทุ่งผึ้งสร้างโดยหลวงพ่อหมึก (ตุ๊หมึก) พร้อมประชาชนบ้านทุ่งผึ้งเมื่อวันพฤหัสบดี ขึ้น 15 ค่ำ ปีขาล พ.ศ. 1865 และทำการบูรณะครั้งใหญ่เมื่อ พ.ศ. 2100 โดยท่านครูบาธรรมสิทธิ์ และได้ปลูกต้นโพธิ์ไว้ 5 ต้น ทางทิศตะวันตกของวัด ได้รับพระราชทานวิสุงคามสีมาเมื่อวันที่ 5 เมษายน พ.ศ. 2517 เขต วิสุงคามสีมา กว้าง 14 เมตร ยาว 28 เมตร อย่างไรก็ดีสำนักงานพระพุทธศาสนาแห่งชาติ ระบุว่าตั้งวัดเมื่อ พ.ศ. 2350\nอาคารเสนาสนะประกอบด้วยอุโบสถ ศาลาการเปรียญและกุฏิสงฆ์ ปูชนียวัตถุมีพระประธานเป็นพระพุทธรูปปูนปั้น สร้างเมื่อ พ.ศ. 2350 และมีพระพุทธรูปมงคลสมฤทธิ์ 700 ปี…",
+          "sections": [],
+          "chars": 1071
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113756214",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-laeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นแหลง",
+    "nameRoman": "Wat Ton Laeng",
+    "lat": 19.188611111,
+    "lng": 100.906111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "heritage": "registered Thai historic site",
+      "description": "Buddhist temple in Nan province, Thailand",
+      "descriptionTh": "วัดในจังหวัดน่าน",
+      "summary": {
+        "lang": "th",
+        "title": "วัดต้นแหลง",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%87",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดต้นแหลง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลไชยวัฒนา อำเภอปัว จังหวัดน่าน\nวัดต้นแหลงสันนิษฐานว่าสร้างวัดเมื่อ พ.ศ. 2127 โดยช่างชาวไทลื้อ กรมการศาสนาระบุว่าตั้งวัดเมื่อ พ.ศ. 2390 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2470 มีข้อสันนิษฐานว่าวัดต้นแหล๋งน่าจะสร้างขึ้นสมัยกรุงสุโขทัยตอนปลาย เพราะลักษณะของหลังคาเป็นทรงสามชั้นมุงด้วยไม้ทั้งหมด นาคบนหลังคาเป็นนาคสามเศียรคล้าย ๆ กับนาคของประเทศลาว\nสถาปัตยกรรมไทลื้อของวัดที่โดดเด่น คือ วิหารหรืออุโบสถ ตัววิหารเดิมถูกรื้อแล้วสร้างใหม่ เนื่องจากสร้างอยู่ริมตลิ่งทำให้ในฤดูน้ำหลาก หลังคาวิหารเป็นทรงคุ่มลาดเอียง ซ้อนกัน 3 ชั้น ต่อมาได้เกิดการชำรุดเนื่องจากปลวกแมลงและความชื้นจากดิน จึงต้องเปลี่ยนผนังใหม่เป็นผนังก่ออิฐ…",
+        "sections": [],
+        "chars": 918
+      },
+      "province": "Nan",
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดต้นแหลง",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%87",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดต้นแหลง เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลไชยวัฒนา อำเภอปัว จังหวัดน่าน\nวัดต้นแหลงสันนิษฐานว่าสร้างวัดเมื่อ พ.ศ. 2127 โดยช่างชาวไทลื้อ กรมการศาสนาระบุว่าตั้งวัดเมื่อ พ.ศ. 2390 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2470 มีข้อสันนิษฐานว่าวัดต้นแหล๋งน่าจะสร้างขึ้นสมัยกรุงสุโขทัยตอนปลาย เพราะลักษณะของหลังคาเป็นทรงสามชั้นมุงด้วยไม้ทั้งหมด นาคบนหลังคาเป็นนาคสามเศียรคล้าย ๆ กับนาคของประเทศลาว\nสถาปัตยกรรมไทลื้อของวัดที่โดดเด่น คือ วิหารหรืออุโบสถ ตัววิหารเดิมถูกรื้อแล้วสร้างใหม่ เนื่องจากสร้างอยู่ริมตลิ่งทำให้ในฤดูน้ำหลาก หลังคาวิหารเป็นทรงคุ่มลาดเอียง ซ้อนกัน 3 ชั้น ต่อมาได้เกิดการชำรุดเนื่องจากปลวกแมลงและความชื้นจากดิน จึงต้องเปลี่ยนผนังใหม่เป็นผนังก่ออิฐ…",
+          "sections": [],
+          "chars": 918
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Ban Ton Laeng 3099.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Wat_Ban_Ton_Laeng_3099.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wat_Ban_Ton_Laeng_3099.jpg/960px-Wat_Ban_Ton_Laeng_3099.jpg",
+        "width": 800,
+        "author": "K.Phothiwijit",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2011-11-19",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Ban_Ton_Laeng_3099.jpg",
+        "credit": "This is a photo of a monument in Thailand identified by the ID — K.Phothiwijit, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Ban Ton Laeng 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/2013_Wat_Ban_Ton_Laeng_01.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2013_Wat_Ban_Ton_Laeng_01.jpg/960px-2013_Wat_Ban_Ton_Laeng_01.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Ban Ton Laeng : interior",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Ban_Ton_Laeng_01.jpg",
+        "credit": "Wat Ban Ton Laeng : interior — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Ban Ton Laeng 02.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/2013_Wat_Ban_Ton_Laeng_02.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2013_Wat_Ban_Ton_Laeng_02.jpg/960px-2013_Wat_Ban_Ton_Laeng_02.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Ban Ton Laeng : exterior view",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Ban_Ton_Laeng_02.jpg",
+        "credit": "Wat Ban Ton Laeng : exterior view — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:2013 Wat Ban Ton Laeng 03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/2013_Wat_Ban_Ton_Laeng_03.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2013_Wat_Ban_Ton_Laeng_03.jpg/960px-2013_Wat_Ban_Ton_Laeng_03.jpg",
+        "width": 800,
+        "author": "Takeaway",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Wat Ban Ton Laeng : exterior view",
+        "capturedAt": "2013-12-12",
+        "source": "https://commons.wikimedia.org/wiki/File:2013_Wat_Ban_Ton_Laeng_03.jpg",
+        "credit": "Wat Ban Ton Laeng : exterior view — Takeaway, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99622812",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  }
+]

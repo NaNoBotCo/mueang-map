@@ -1,0 +1,1457 @@
+[
+  {
+    "id": "wat-bo-kaeo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ่อแก้ว",
+    "nameRoman": "Wat Bo Kaeo",
+    "lat": 18.207606786,
+    "lng": 100.666833441,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q125469597",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-bun-yuen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุญยืน",
+    "nameRoman": "Wat Bun Yuen",
+    "lat": 18.571388888,
+    "lng": 100.752222222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99641829",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-champa-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจำปาหลวง",
+    "nameRoman": "Wat Champa Luang",
+    "lat": 19.139722222,
+    "lng": 100.018611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56598914",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-chong-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจองคำ",
+    "nameRoman": "Wat Chong Kham",
+    "lat": 18.667997,
+    "lng": 99.925243,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020650",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนชัย",
+    "nameRoman": "Wat Don Chai",
+    "lat": 19.035,
+    "lng": 100.778888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q26435547",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-don-mun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนมูล",
+    "nameRoman": "Wat Don Mun",
+    "lat": 19.067437637,
+    "lng": 100.7785478,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q121614399",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-du-phong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดู่พงษ์",
+    "nameRoman": "Wat Du Phong",
+    "lat": 18.921462615,
+    "lng": 100.935527827,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123630995",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-hua-khuang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวข่วง",
+    "nameRoman": "Wat Hua Khuang",
+    "lat": 18.777125,
+    "lng": 100.771247,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020887",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ko",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดก้อ",
+    "nameRoman": "Wat Ko",
+    "lat": 18.796962916,
+    "lng": 101.029960649,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123114864",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ku-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกู่คำ",
+    "nameRoman": "Wat Ku Kham",
+    "lat": 18.775825903,
+    "lng": 100.774526509,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123134161",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-lai-nan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไหล่น่าน",
+    "nameRoman": "Wat Lai Nan",
+    "lat": 18.577727793,
+    "lng": 100.757088238,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123950737",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mae-yang-kwao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ยางกวาว",
+    "nameRoman": "Wat Mae Yang Kwao",
+    "lat": 18.291666666,
+    "lng": 100.246944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004361",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ming-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดมิ่งเมือง",
+    "nameRoman": "Wat Ming Mueang",
+    "lat": 18.774647,
+    "lng": 100.769116,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99641655",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-mon-sai-non",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดม่อนทรายนอน",
+    "nameRoman": "Wat Mon Sai Non",
+    "lat": 18.729722222,
+    "lng": 99.993055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109985108",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-na-pang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาปัง",
+    "nameRoman": "Wat Na Pang",
+    "lat": 18.71420801,
+    "lng": 100.775053636,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123123267",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-na-tao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาเตา",
+    "nameRoman": "Wat Na Tao",
+    "lat": 18.34,
+    "lng": 100.73,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115766753",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nam-lat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำลัด",
+    "nameRoman": "Wat Nam Lat",
+    "lat": 18.223447,
+    "lng": 100.687643,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004318",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nirot-rangsi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนิโรธรังสี",
+    "nameRoman": "Wat Nirot Rangsi",
+    "lat": 18.601163619,
+    "lng": 100.716828014,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "founded": "2015"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111192612",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-bua",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองบัว",
+    "nameRoman": "Wat Nong Bua",
+    "lat": 19.088611111,
+    "lng": 100.785833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99641196",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-daeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองแดง",
+    "nameRoman": "Wat Nong Daeng",
+    "lat": 19.303611111,
+    "lng": 100.854444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99641789",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-nong-ngueak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองเงือก",
+    "nameRoman": "Wat Nong Ngueak",
+    "lat": 19.187222222,
+    "lng": 100.836666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q107315412",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pa-nanthaburi-yannasangwararam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่านันทบุรีญาณสังวราราม",
+    "nameRoman": "Wat Pa Nanthaburi Yannasangwararam",
+    "lat": 18.869548789,
+    "lng": 100.744196338,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q132145327",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phaya-phu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพญาภู",
+    "nameRoman": "Wat Phaya Phu",
+    "lat": 18.773333333,
+    "lng": 100.774444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99641321",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phaya-wat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพญาวัด",
+    "nameRoman": "Wat Phaya Wat",
+    "lat": 18.77,
+    "lng": 100.762777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q91200982",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pho-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโพธิ์ชัย",
+    "nameRoman": "Wat Pho Chai",
+    "lat": 18.00186,
+    "lng": 100.884269,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "founded": "1883"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20084471",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-koet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระเกิด",
+    "nameRoman": "Wat Phra Koet",
+    "lat": 18.79,
+    "lng": 100.786388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108011769",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chae-haeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุแช่แห้ง",
+    "nameRoman": "Wat Phra That Chae Haeng",
+    "lat": 18.758245,
+    "lng": 100.79169,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q6630393",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chang-kham-worawihan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุช้างค้ำวรวิหาร",
+    "nameRoman": "Wat Phra That Chang Kham Worawihan",
+    "lat": 18.776226,
+    "lng": 100.772026,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004222",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-nang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมนาง",
+    "nameRoman": "Wat Phra That Chom Nang",
+    "lat": 19.080305555,
+    "lng": 100.872666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004339",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chom-phrik",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมพริก",
+    "nameRoman": "Wat Phra That Chom Phrik",
+    "lat": 19.081388888,
+    "lng": 100.911111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111189625",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-chomsin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมศีล",
+    "nameRoman": "Wat Phra That Chomsin",
+    "lat": 19.083678065,
+    "lng": 100.073113179,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q121264776",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-doi-yuak",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยหยวก",
+    "nameRoman": "Wat Phra That Doi Yuak",
+    "lat": 19.138055555,
+    "lng": 100.262777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004213",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-khao-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุเขาน้อย",
+    "nameRoman": "Wat Phra That Khao Noi",
+    "lat": 18.769583333,
+    "lng": 100.750583333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13017426",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-khing-kaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุขิงแกง",
+    "nameRoman": "Wat Phra That Khing Kaeng",
+    "lat": 19.29,
+    "lng": 100.19,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered archaeological site in Finland"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q117047681",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-puchae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุปูแจ",
+    "nameRoman": "Wat Phra That Puchae",
+    "lat": 18.203611111,
+    "lng": 100.292777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004207",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phra-that-ton-fang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุต้นฝาง",
+    "nameRoman": "Wat Phra That Ton Fang",
+    "lat": 19.144837876,
+    "lng": 100.391259597,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116103340",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phrom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพรหม",
+    "nameRoman": "Wat Phrom",
+    "lat": 18.718634654,
+    "lng": 101.002888042,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123115029",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-phumin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูมินทร์",
+    "nameRoman": "Wat Phumin",
+    "lat": 18.774669444,
+    "lng": 100.771591666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q588172",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-pra-that-beng-sakat",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุเบ็งสกัด",
+    "nameRoman": "Wat Pra That Beng Sakat",
+    "lat": 19.178611111,
+    "lng": 100.918055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99642038",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-rong-ngae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร้องแง",
+    "nameRoman": "Wat Rong Ngae",
+    "lat": 19.175555555,
+    "lng": 100.935555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99641869",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-santi-karam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันติการาม",
+    "nameRoman": "Wat Santi Karam",
+    "lat": 19.079027777,
+    "lng": 100.899777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q78148129",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-sapan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสะปัน",
+    "nameRoman": "Wat Sapan",
+    "lat": 19.193156989,
+    "lng": 101.199644417,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q123936677",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-si-pan-ton",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีพันต้น",
+    "nameRoman": "Wat Si Pan Ton",
+    "lat": 18.776008234,
+    "lng": 100.76561878,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116244142",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-soi-si",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสร้อยศรี",
+    "nameRoman": "Wat Soi Si",
+    "lat": 19.343055555,
+    "lng": 100.17,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q60041976",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-suan-tan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสวนตาล",
+    "nameRoman": "Wat Suan Tan",
+    "lat": 18.784194444,
+    "lng": 100.774055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16004409",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-fai-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าฟ้าใต้",
+    "nameRoman": "Wat Tha Fai Tai",
+    "lat": 19.001666666,
+    "lng": 100.281111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020694",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tha-lo",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าล้อ",
+    "nameRoman": "Wat Tha Lo",
+    "lat": 18.776944444,
+    "lng": 100.784166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99624728",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-tham-chetawan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถ้ำเชตวัน",
+    "nameRoman": "Wat Tham Chetawan",
+    "lat": 18.272890403,
+    "lng": 100.57813591,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q131100656",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thammikaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธรรมมิการาม",
+    "nameRoman": "Wat Thammikaram",
+    "lat": 19.159088751,
+    "lng": 100.356084284,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q131763216",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-thung-phueng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งผึ้ง",
+    "nameRoman": "Wat Thung Phueng",
+    "lat": 19.391229812,
+    "lng": 100.891439455,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113756214",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wat-ton-laeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต้นแหลง",
+    "nameRoman": "Wat Ton Laeng",
+    "lat": 19.188611111,
+    "lng": 100.906111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Nan",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99622812",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-21"
+  }
+]

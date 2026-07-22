@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mueang Map — เชียงใหม่</title>
+<style>
+/*@MAPLIBRE_CSS@*/
+</style>
+<style>
+/* Flat dark chrome — the map is the visual richness. */
+:root {
+  --bg: #14161a; --panel: #1c1f24; --panel2: #23272d;
+  --fg: #e8e6e1; --muted: #9aa0a6; --line: #34383f;
+  --accent: #e0a63c; --danger: #e5484d;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: var(--bg); color: var(--fg);
+  font: 16px/1.45 -apple-system, 'Noto Sans Thai', 'Segoe UI', sans-serif;
+  /* Thai wraps at syllable boundaries; never use word-break:break-all */
+  line-break: normal; overflow-wrap: break-word; }
+#map { position: fixed; inset: 0; top: calc(48px + 56px); bottom: 0; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+header { position: fixed; top: 0; left: 0; right: 0; height: 48px; z-index: 30;
+  display: flex; align-items: center; gap: 8px; padding: 0 10px;
+  background: var(--panel); border-bottom: 1px solid var(--line); }
+header h1 { font-size: 1rem; margin: 0; font-weight: 600; }
+header .count { color: var(--muted); font-size: .85rem; margin-left: auto; }
+header button { min-width: 44px; min-height: 44px; background: none;
+  border: none; border-radius: 8px; cursor: pointer; font-size: 1.2rem; }
+header button:active { background: var(--panel2); }
+
+#chips { position: fixed; top: 48px; left: 0; right: 0; height: 56px; z-index: 30;
+  display: flex; gap: 8px; align-items: center; padding: 6px 10px;
+  overflow-x: auto; background: var(--panel); border-bottom: 1px solid var(--line);
+  -webkit-overflow-scrolling: touch; }
+.chip { flex: 0 0 auto; min-height: 44px; padding: 0 14px; border-radius: 22px;
+  border: 1px solid var(--line); background: var(--panel2); cursor: pointer;
+  display: inline-flex; align-items: center; gap: 6px; font-size: .9rem; }
+.chip[aria-pressed="true"] { border-color: var(--chipc, var(--accent));
+  background: color-mix(in srgb, var(--chipc, var(--accent)) 18%, var(--panel2));
+  font-weight: 600; }
+.chip .dot { width: 12px; height: 12px; display: inline-block; }
+
+.sheet { position: fixed; z-index: 40; left: 0; right: 0; bottom: 0;
+  max-height: 72vh; overflow-y: auto; background: var(--panel);
+  border-top: 2px solid var(--line); border-radius: 14px 14px 0 0;
+  padding: 14px 16px calc(20px + env(safe-area-inset-bottom)); }
+.sheet[hidden] { display: none; }
+.sheet h2 { margin: 0 0 2px; font-size: 1.15rem; }
+.sheet .roman { color: var(--muted); margin: 0 0 10px; }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
+.badge { font-size: .78rem; padding: 3px 9px; border-radius: 10px;
+  border: 1px solid var(--line); background: var(--panel2); }
+.badge.conf-verified { border-color: #58b97e; color: #7fd8a4; }
+.badge.conf-reported { border-color: #5b9dc4; color: #8cc0dd; }
+.badge.conf-crawled { border-color: var(--muted); color: var(--muted); }
+.badge.conf-heuristic { border-color: #a06fc9; color: #c19ade; }
+.attrs { margin: 10px 0; border-top: 1px solid var(--line); }
+.attrs div { display: flex; gap: 10px; padding: 6px 0; border-bottom: 1px solid var(--line); }
+.attrs dt { color: var(--muted); flex: 0 0 42%; }
+.attrs dd { margin: 0; }
+.sources { color: var(--muted); font-size: .85rem; margin-top: 10px; }
+.sheet img { max-width: 100%; border-radius: 8px; margin-top: 8px; }
+.sheet .closebtn { position: sticky; float: right; top: 0; }
+
+.drawer { position: fixed; z-index: 45; top: 0; right: 0; bottom: 0;
+  width: min(340px, 92vw); background: var(--panel); border-left: 1px solid var(--line);
+  padding: 14px 16px; overflow-y: auto; }
+.drawer[hidden] { display: none; }
+label { display: block; margin: 12px 0 4px; color: var(--muted); font-size: .88rem; }
+select, input[type=text], input[type=number], textarea { width: 100%;
+  min-height: 44px; padding: 8px 10px; border-radius: 8px;
+  border: 1px solid var(--line); background: var(--bg); color: var(--fg); font: inherit; }
+textarea { min-height: 70px; }
+.btn { min-height: 44px; padding: 8px 16px; border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--panel2); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: #1a1204; font-weight: 600; }
+.btn.danger { border-color: var(--danger); color: var(--danger); background: none; }
+.row { display: flex; gap: 8px; margin-top: 14px; flex-wrap: wrap; }
+fieldset { border: 1px solid var(--line); border-radius: 8px; margin: 12px 0; }
+.checkline { display: flex; align-items: center; gap: 10px; min-height: 44px; }
+.checkline input { width: 22px; height: 22px; }
+
+#debug { position: fixed; z-index: 50; left: 8px; bottom: 8px; right: 8px;
+  max-height: 40vh; overflow: auto; background: #000c; color: #9fdf9f;
+  font: 12px/1.4 ui-monospace, monospace; padding: 10px; border-radius: 8px;
+  white-space: pre-wrap; }
+#debug[hidden] { display: none; }
+footer.attrib { position: fixed; z-index: 20; bottom: 0; right: 0;
+  font-size: .7rem; color: var(--muted); background: #14161acc; padding: 2px 8px; }
+footer.attrib a { color: var(--muted); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); }
+@media (min-width: 700px) { .sheet { left: auto; width: 420px; border-radius: 14px 0 0 0; } }
+</style>
+</head>
+<body>
+<header>
+  <h1 id="title">Mueang Map</h1>
+  <span class="count" id="count" aria-live="polite"></span>
+  <button id="btn-here" title="I'm here — add a point" aria-label="Add a point here">＋</button>
+  <button id="btn-filter" title="Filters" aria-label="Open filters" aria-expanded="false">☰</button>
+</header>
+<nav id="chips" aria-label="Lenses"></nav>
+<div id="map" role="application" aria-label="Map of Chiang Mai"></div>
+
+<section class="sheet" id="card" hidden aria-modal="false" role="dialog" aria-labelledby="card-name"></section>
+<section class="drawer" id="drawer" hidden role="dialog" aria-label="Filters and field tools"></section>
+<pre id="debug" hidden></pre>
+<footer class="attrib">© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors (ODbL) · MapLibre</footer>
+
+<script type="application/json" id="mm-lenses">/*@LENSES_JSON@*/</script>
+<script type="application/json" id="mm-data">/*@DATA_JSON@*/</script>
+<script type="application/json" id="mm-meta">/*@META_JSON@*/</script>
+<script>
+/*@MAPLIBRE_JS@*/
+</script>
+<script>
+/*@LOGIC_JS@*/
+/*@APP_JS@*/
+</script>
+</body>
+</html>

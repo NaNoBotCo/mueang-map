@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "ban-ho-mosque",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "มัสยิดบ้านฮ่อ",
+    "nameRoman": "Ban Ho Mosque",
+    "lat": 18.786686111,
+    "lng": 99.001247222,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "mosque",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Baan Haw Mosque 4-6-09.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Baan_Haw_Mosque_4-6-09.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Baan_Haw_Mosque_4-6-09.jpg/960px-Baan_Haw_Mosque_4-6-09.jpg",
+        "author": "Iceway12 at en.wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Baan Haw Mosque, Chiang Mai Province, Thailand",
+        "capturedAt": "2009-06-04",
+        "source": "https://commons.wikimedia.org/wiki/File:Baan_Haw_Mosque_4-6-09.jpg",
+        "publicDomain": false,
+        "credit": "Baan Haw Mosque, Chiang Mai Province, Thailand — Iceway12 at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Ban Hoe Mosque2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ban_Hoe_Mosque2.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ban_Hoe_Mosque2.jpg/960px-Ban_Hoe_Mosque2.jpg",
+        "author": "Iceway12 ( talk )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Ban Hoe Mosque ( Chinese : 王和清真寺; pinyin : wánghéqīngzhēnsì, Thai : มัสยิดเฮดายาตุลอิสลามบ้านฮ่อ), located at Night Bazaar in Chiang Mai , is one of the biggest en:mosques in the province.",
+        "capturedAt": "2009-01-01",
+        "source": "https://commons.wikimedia.org/wiki/File:Ban_Hoe_Mosque2.jpg",
+        "publicDomain": false,
+        "credit": "Ban Hoe Mosque ( Chinese : 王和清真寺; pinyin : wánghéqīngzhēnsì, Thai : มัสยิดเฮดายาตุลอิสลามบ้านฮ่อ), located at Night Bazaar in Chiang Mai , is one of the biggest en:mosques in the province. — Iceway12 ( talk ), CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Ban Hoe Mosque.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ban_Hoe_Mosque.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ban_Hoe_Mosque.JPG/960px-Ban_Hoe_Mosque.JPG",
+        "author": "Iceway12 ( talk )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Ban Hoe Mosque (, ), located at Night Bazaar in Chiang Mai , is one of the biggest mosques in the province.",
+        "capturedAt": "2009-01-01",
+        "source": "https://commons.wikimedia.org/wiki/File:Ban_Hoe_Mosque.JPG",
+        "publicDomain": false,
+        "credit": "Ban Hoe Mosque (, ), located at Night Bazaar in Chiang Mai , is one of the biggest mosques in the province. — Iceway12 ( talk ), CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q4022414",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "darul-aman-mosque",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "Darul Aman Mosque",
+    "nameRoman": "Darul Aman Mosque",
+    "lat": 19.907847222,
+    "lng": 99.829261111,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "mosque",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Chiang Rai - Darul Aman Mosque - 0001.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Chiang_Rai_-_Darul_Aman_Mosque_-_0001.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chiang_Rai_-_Darul_Aman_Mosque_-_0001.jpg/960px-Chiang_Rai_-_Darul_Aman_Mosque_-_0001.jpg",
+        "author": "Stefan Fussan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Darul Aman Mosque, Chiang Rai, Thailand",
+        "capturedAt": "2014-05-31",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_-_Darul_Aman_Mosque_-_0001.jpg",
+        "publicDomain": false,
+        "credit": "Darul Aman Mosque, Chiang Rai, Thailand — Stefan Fussan, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chiang Rai Mosque1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chiang_Rai_Mosque1.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Chiang_Rai_Mosque1.jpg/960px-Chiang_Rai_Mosque1.jpg",
+        "author": "Iceway12 ( talk ) / Iceway12 at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Duranaman Mosque located in Chiang Rai , is the biggest mosques in the province.",
+        "capturedAt": "2009-12-27",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_Mosque1.jpg",
+        "publicDomain": false,
+        "credit": "Duranaman Mosque located in Chiang Rai , is the biggest mosques in the province. — Iceway12 ( talk ) / Iceway12 at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chiang Rai Mosque3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Chiang_Rai_Mosque3.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chiang_Rai_Mosque3.jpg/960px-Chiang_Rai_Mosque3.jpg",
+        "author": "Iceway12 ( talk ) / Iceway12 at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Ban Hoe Mosque located in Chiang Rai , is the biggest mosques in the province.",
+        "capturedAt": "2009-12-27",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_Mosque3.jpg",
+        "publicDomain": false,
+        "credit": "Ban Hoe Mosque located in Chiang Rai , is the biggest mosques in the province. — Iceway12 ( talk ) / Iceway12 at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q22246043",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "darunaman-mosque",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "มัสยิดดารุลอามาน",
+    "nameRoman": "Darunaman Mosque",
+    "lat": 19.907847222,
+    "lng": 99.829261111,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "mosque",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Chiang Rai Mosque1.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chiang_Rai_Mosque1.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Chiang_Rai_Mosque1.jpg/960px-Chiang_Rai_Mosque1.jpg",
+        "author": "Iceway12 ( talk ) / Iceway12 at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Duranaman Mosque located in Chiang Rai , is the biggest mosques in the province.",
+        "capturedAt": "2009-12-27",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_Mosque1.jpg",
+        "publicDomain": false,
+        "credit": "Duranaman Mosque located in Chiang Rai , is the biggest mosques in the province. — Iceway12 ( talk ) / Iceway12 at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chiang Rai Mosque3.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Chiang_Rai_Mosque3.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chiang_Rai_Mosque3.jpg/960px-Chiang_Rai_Mosque3.jpg",
+        "author": "Iceway12 ( talk ) / Iceway12 at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Ban Hoe Mosque located in Chiang Rai , is the biggest mosques in the province.",
+        "capturedAt": "2009-12-27",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_Mosque3.jpg",
+        "publicDomain": false,
+        "credit": "Ban Hoe Mosque located in Chiang Rai , is the biggest mosques in the province. — Iceway12 ( talk ) / Iceway12 at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chiang Rai Mosque2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Chiang_Rai_Mosque2.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chiang_Rai_Mosque2.jpg/960px-Chiang_Rai_Mosque2.jpg",
+        "author": "Iceway12 ( talk ) / Iceway12 at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Ban Hoe Mosque located in Chiang Rai , is the biggest mosques in the province.",
+        "capturedAt": "2009-12-27",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_Mosque2.jpg",
+        "publicDomain": false,
+        "credit": "Ban Hoe Mosque located in Chiang Rai , is the biggest mosques in the province. — Iceway12 ( talk ) / Iceway12 at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q5225804",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "great-guan-yin-statue-wat-huay-pla-kang",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "รูปปั้นพระโพธิสัตว์กวนอิมวัดห้วยปลากั้ง",
+    "nameRoman": "Great Guan Yin Statue, Wat Huay Pla Kang",
+    "lat": 19.948589232,
+    "lng": 99.805679273,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "statue",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Wat Huay Pla Kang วัดห้วยปลากั้ง Chiang Rai เชียงราย 10.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wat_Huay_Pla_Kang_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B9%89%E0%B8%87_Chiang_Rai_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_10.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wat_Huay_Pla_Kang_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B9%89%E0%B8%87_Chiang_Rai_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_10.jpg/960px-Wat_Huay_Pla_Kang_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B9%89%E0%B8%87_Chiang_Rai_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_10.jpg",
+        "author": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Giant Guan Yin Statue of Wat Huay Pla Kang, Chiang Rai Province",
+        "capturedAt": "2020-10-22",
+        "source": "https://commons.wikimedia.org/wiki/File:Wat_Huay_Pla_Kang_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B9%89%E0%B8%87_Chiang_Rai_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_10.jpg",
+        "publicDomain": false,
+        "credit": "Giant Guan Yin Statue of Wat Huay Pla Kang, Chiang Rai Province — Chainwit., CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chiang Rai - Wat Huay Pla Kang - Great Guan Yin Statue (2026) - img 03.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chiang_Rai_-_Wat_Huay_Pla_Kang_-_Great_Guan_Yin_Statue_%282026%29_-_img_03.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chiang_Rai_-_Wat_Huay_Pla_Kang_-_Great_Guan_Yin_Statue_%282026%29_-_img_03.jpg/960px-Chiang_Rai_-_Wat_Huay_Pla_Kang_-_Great_Guan_Yin_Statue_%282026%29_-_img_03.jpg",
+        "author": "Chainwit.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Bodhisattva Guan Yin Statue, Wat Huay Pla Kang",
+        "capturedAt": "2026-01-15",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_-_Wat_Huay_Pla_Kang_-_Great_Guan_Yin_Statue_(2026)_-_img_03.jpg",
+        "publicDomain": false,
+        "credit": "Bodhisattva Guan Yin Statue, Wat Huay Pla Kang — Chainwit., CC BY 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chiang Rai - Wat Huay Pla Kang - Great Guan Yin Statue (2026) - img 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Chiang_Rai_-_Wat_Huay_Pla_Kang_-_Great_Guan_Yin_Statue_%282026%29_-_img_01.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Chiang_Rai_-_Wat_Huay_Pla_Kang_-_Great_Guan_Yin_Statue_%282026%29_-_img_01.jpg/960px-Chiang_Rai_-_Wat_Huay_Pla_Kang_-_Great_Guan_Yin_Statue_%282026%29_-_img_01.jpg",
+        "author": "Chainwit.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Bodhisattva Guan Yin Statue, Wat Huay Pla Kang",
+        "capturedAt": "2026-01-15",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_-_Wat_Huay_Pla_Kang_-_Great_Guan_Yin_Statue_(2026)_-_img_01.jpg",
+        "publicDomain": false,
+        "credit": "Bodhisattva Guan Yin Statue, Wat Huay Pla Kang — Chainwit., CC BY 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108207981",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-lot",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำลอด",
+    "nameRoman": "Tham Lot",
+    "lat": 19.571944444,
+    "lng": 98.277222222,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Exit of the Tham Lot cave.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Exit_of_the_Tham_Lot_cave.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Exit_of_the_Tham_Lot_cave.JPG/960px-Exit_of_the_Tham_Lot_cave.JPG",
+        "author": "Tinss",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The exit of the Tham Lot cave, Thailand.",
+        "capturedAt": "2014-03-11",
+        "source": "https://commons.wikimedia.org/wiki/File:Exit_of_the_Tham_Lot_cave.JPG",
+        "publicDomain": false,
+        "credit": "The exit of the Tham Lot cave, Thailand. — Tinss, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Bamboo rafts in the Tham Lot cave.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bamboo_rafts_in_the_Tham_Lot_cave.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bamboo_rafts_in_the_Tham_Lot_cave.JPG/960px-Bamboo_rafts_in_the_Tham_Lot_cave.JPG",
+        "author": "Tinss",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Bamboo rafts in the Tham Lot cave, Thailande.",
+        "capturedAt": "2014-03-11",
+        "source": "https://commons.wikimedia.org/wiki/File:Bamboo_rafts_in_the_Tham_Lot_cave.JPG",
+        "publicDomain": false,
+        "credit": "Bamboo rafts in the Tham Lot cave, Thailande. — Tinss, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Entrance of the Tham Lot cave.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Entrance_of_the_Tham_Lot_cave.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Entrance_of_the_Tham_Lot_cave.JPG/960px-Entrance_of_the_Tham_Lot_cave.JPG",
+        "author": "Tinss",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The entrance of the Tham Lot cave, Thailand.",
+        "capturedAt": "2014-03-11",
+        "source": "https://commons.wikimedia.org/wiki/File:Entrance_of_the_Tham_Lot_cave.JPG",
+        "publicDomain": false,
+        "credit": "The entrance of the Tham Lot cave, Thailand. — Tinss, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q7709773",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-luang",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำหลวง",
+    "nameRoman": "Tham Luang",
+    "lat": 20.38119,
+    "lng": 99.86761,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Rescue equipment in Tham Luang entrance chamber (cropped3).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rescue_equipment_in_Tham_Luang_entrance_chamber_%28cropped3%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rescue_equipment_in_Tham_Luang_entrance_chamber_%28cropped3%29.jpg",
+        "author": "NBT",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Personnel and equipment in the entrance chamber of Tham Luang cave during rescue operations during 26–27 June 2018. Screen capture from NBT news report.",
+        "capturedAt": "2018-06-27",
+        "source": "https://commons.wikimedia.org/wiki/File:Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped3).jpg",
+        "publicDomain": false,
+        "credit": "Personnel and equipment in the entrance chamber of Tham Luang cave during rescue operations during 26–27 June 2018. Screen capture from NBT news report. — NBT, CC BY 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Tham Luang - current sign.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tham_Luang_-_current_sign.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tham_Luang_-_current_sign.jpg/960px-Tham_Luang_-_current_sign.jpg",
+        "author": "Taweetham",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Tham Luang - current sign",
+        "capturedAt": "2023-01-20",
+        "source": "https://commons.wikimedia.org/wiki/File:Tham_Luang_-_current_sign.jpg",
+        "publicDomain": false,
+        "credit": "Tham Luang - current sign — Taweetham, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Tham Luang - inside.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Tham_Luang_-_inside.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tham_Luang_-_inside.jpg/960px-Tham_Luang_-_inside.jpg",
+        "author": "Taweetham",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Tham Luang - inside",
+        "capturedAt": "2023-01-20",
+        "source": "https://commons.wikimedia.org/wiki/File:Tham_Luang_-_inside.jpg",
+        "publicDomain": false,
+        "credit": "Tham Luang - inside — Taweetham, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q14752104",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "the-navel-city-pillar-of-chiang-rai",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "เสาสะดือเมืองเชียงราย",
+    "nameRoman": "The Navel City Pillar of Chiang Rai",
+    "lat": 19.915,
+    "lng": 99.82275,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "city pillar",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:SaDuMuangChiangRai.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/SaDuMuangChiangRai.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SaDuMuangChiangRai.jpg/960px-SaDuMuangChiangRai.jpg",
+        "author": "Unknown (see source page)",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "description": null,
+        "capturedAt": null,
+        "source": "https://commons.wikimedia.org/wiki/File:SaDuMuangChiangRai.jpg",
+        "publicDomain": true,
+        "credit": "Unknown (see source page), Public domain, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chiang Rai Navel Pillar สะดือเมืองเชียงราย (2020) - img 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Chiang_Rai_Navel_Pillar_%E0%B8%AA%E0%B8%B0%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%282020%29_-_img_01.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chiang_Rai_Navel_Pillar_%E0%B8%AA%E0%B8%B0%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%282020%29_-_img_01.jpg/960px-Chiang_Rai_Navel_Pillar_%E0%B8%AA%E0%B8%B0%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_%282020%29_-_img_01.jpg",
+        "author": "Chainwit.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Navel City Pillar of Chiang Rai, located in Wat Phra That Doi Chom Thong, Chiang Rai",
+        "capturedAt": "2020-10-25",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_Navel_Pillar_%E0%B8%AA%E0%B8%B0%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2_(2020)_-_img_01.jpg",
+        "publicDomain": false,
+        "credit": "Navel City Pillar of Chiang Rai, located in Wat Phra That Doi Chom Thong, Chiang Rai — Chainwit., CC BY 4.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:Chiang Rai - City Pillar Shrine - 0005-Pano.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Chiang_Rai_-_City_Pillar_Shrine_-_0005-Pano.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chiang_Rai_-_City_Pillar_Shrine_-_0005-Pano.jpg/960px-Chiang_Rai_-_City_Pillar_Shrine_-_0005-Pano.jpg",
+        "author": "Stefan Fussan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "City Navel Pillar, Chiang Rai , Thailand",
+        "capturedAt": "2014-05-31",
+        "source": "https://commons.wikimedia.org/wiki/File:Chiang_Rai_-_City_Pillar_Shrine_-_0005-Pano.jpg",
+        "publicDomain": false,
+        "credit": "City Navel Pillar, Chiang Rai , Thailand — Stefan Fussan, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q6667224",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wiang-kum-kam",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "เวียงกุมกาม",
+    "nameRoman": "Wiang Kum Kam",
+    "lat": 18.75409444,
+    "lng": 98.99555556,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "ancient city",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Chedi at Wat Kuu Kham, Chiang Mai, Thailand-KayEss-1.jpeg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chedi_at_Wat_Kuu_Kham%2C_Chiang_Mai%2C_Thailand-KayEss-1.jpeg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/48/Chedi_at_Wat_Kuu_Kham%2C_Chiang_Mai%2C_Thailand-KayEss-1.jpeg",
+        "author": "KayEss",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "description": "Wat Ku kham at Saraphi District, Chiang Mai",
+        "capturedAt": "2004-11-27",
+        "source": "https://commons.wikimedia.org/wiki/File:Chedi_at_Wat_Kuu_Kham,_Chiang_Mai,_Thailand-KayEss-1.jpeg",
+        "publicDomain": false,
+        "credit": "Wat Ku kham at Saraphi District, Chiang Mai — KayEss, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:003 Kinnon (9203579637).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/003_Kinnon_%289203579637%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/003_Kinnon_%289203579637%29.jpg/960px-003_Kinnon_%289203579637%29.jpg",
+        "author": "Photo Dharma from Sadao, Thailand",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "description": "03 Kinnon, Wiang Kum Kam, Chiang Mai Province",
+        "capturedAt": "2011-07-05",
+        "source": "https://commons.wikimedia.org/wiki/File:003_Kinnon_(9203579637).jpg",
+        "publicDomain": false,
+        "credit": "03 Kinnon, Wiang Kum Kam, Chiang Mai Province — Photo Dharma from Sadao, Thailand, CC BY 2.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:002 Ruins under Water (9206368766).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/002_Ruins_under_Water_%289206368766%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/002_Ruins_under_Water_%289206368766%29.jpg/960px-002_Ruins_under_Water_%289206368766%29.jpg",
+        "author": "Photo Dharma from Sadao, Thailand",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "description": "02 Ruins under Water, Wiang Kum Kam, Chiang Mai Province",
+        "capturedAt": "2011-07-05",
+        "source": "https://commons.wikimedia.org/wiki/File:002_Ruins_under_Water_(9206368766).jpg",
+        "publicDomain": false,
+        "credit": "02 Ruins under Water, Wiang Kum Kam, Chiang Mai Province — Photo Dharma from Sadao, Thailand, CC BY 2.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1537210",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wiang-tha-kan",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "เวียงท่ากาน",
+    "nameRoman": "Wiang Tha Kan",
+    "lat": 18.550278,
+    "lng": 98.880833,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "ancient city",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:วัดต้นกอก เวียงท่ากาน.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81_%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81_%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99.JPG/960px-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81_%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99.JPG",
+        "author": "Andromeda Oscar",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2013-05-04",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81_%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99.JPG",
+        "publicDomain": false,
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Andromeda Oscar, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:สงบ.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/%E0%B8%AA%E0%B8%87%E0%B8%9A.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%E0%B8%AA%E0%B8%87%E0%B8%9A.jpg/960px-%E0%B8%AA%E0%B8%87%E0%B8%9A.jpg",
+        "author": "Pitchayawat",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2013-09-22",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%AA%E0%B8%87%E0%B8%9A.jpg",
+        "publicDomain": false,
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Pitchayawat, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:ร่มรื่น.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%99.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%99.jpg/960px-%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%99.jpg",
+        "author": "Pitchayawat",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "This is a photo of a monument in Thailand identified by the ID",
+        "capturedAt": "2012-02-18",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%99.jpg",
+        "publicDomain": false,
+        "credit": "This is a photo of a monument in Thailand identified by the ID — Pitchayawat, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q20898012",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "al-israq-mosque",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "มัสยิดอัลอิสรออุ",
+    "nameRoman": "Al-Israq Mosque",
+    "lat": 19.360166,
+    "lng": 98.440204,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "mosque",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Pai Mosque.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Pai_Mosque.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pai_Mosque.jpg/960px-Pai_Mosque.jpg",
+        "author": "User:Iceway",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Pai Mosque, located at Amphoe Pai , Mae Hong Son Province , Thailand .",
+        "capturedAt": "2008-03-15",
+        "source": "https://commons.wikimedia.org/wiki/File:Pai_Mosque.jpg",
+        "publicDomain": false,
+        "credit": "Pai Mosque, located at Amphoe Pai , Mae Hong Son Province , Thailand . — User:Iceway, CC BY 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56217984",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "attaqwa-mosque",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "มัสยิดอัตตักวา",
+    "nameRoman": "Attaqwa Mosque",
+    "lat": 18.792033333,
+    "lng": 99.007044444,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "mosque",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Attaqwa Mosque.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Attaqwa_Mosque.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Attaqwa_Mosque.jpg/960px-Attaqwa_Mosque.jpg",
+        "author": "Iceway12",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Attaqwa Mosque, Chiang Mai, 2011",
+        "capturedAt": "2011-09-24",
+        "source": "https://commons.wikimedia.org/wiki/File:Attaqwa_Mosque.jpg",
+        "publicDomain": false,
+        "credit": "Attaqwa Mosque, Chiang Mai, 2011 — Iceway12, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q4818120",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "cave-of-the-monk",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "Cave of the Monk",
+    "nameRoman": "Cave of the Monk",
+    "lat": 19.409383,
+    "lng": 98.817056,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:ChiangDao Mountains.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/ChiangDao_Mountains.JPG",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ChiangDao_Mountains.JPG/960px-ChiangDao_Mountains.JPG",
+        "author": "(WT-en) Jpatokal at English Wikivoyage",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The Doi Chiang Dao mountain in Chiang Dao Wildlife Sanctuary, in the Chiang Dao District of Thailand.",
+        "capturedAt": "22 March 2",
+        "source": "https://commons.wikimedia.org/wiki/File:ChiangDao_Mountains.JPG",
+        "publicDomain": false,
+        "credit": "The Doi Chiang Dao mountain in Chiang Dao Wildlife Sanctuary, in the Chiang Dao District of Thailand. — (WT-en) Jpatokal at English Wikivoyage, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q25389276",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "phra-sing-san-chana-man",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "พระสิงห์สานชนะมาร",
+    "nameRoman": "Phra Sing San Chana Man",
+    "lat": 20.4279142,
+    "lng": 99.9438571,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "buddha image",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:(October 2021) Wat Hiranyawat (Temple of the Woven Buddha) วัดหิรัญญาวาส (วัดพระสาน แม่สาย) - img 01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%28October_2021%29_Wat_Hiranyawat_%28Temple_of_the_Woven_Buddha%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%AA_%28%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A2%29_-_img_01.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%28October_2021%29_Wat_Hiranyawat_%28Temple_of_the_Woven_Buddha%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%AA_%28%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A2%29_-_img_01.jpg/960px-%28October_2021%29_Wat_Hiranyawat_%28Temple_of_the_Woven_Buddha%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%AA_%28%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A2%29_-_img_01.jpg",
+        "author": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Wat Hiranyawat (the temple of woven Buddha) in Mae Sai",
+        "capturedAt": "2021-10-26",
+        "source": "https://commons.wikimedia.org/wiki/File:(October_2021)_Wat_Hiranyawat_(Temple_of_the_Woven_Buddha)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%AA_(%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A2)_-_img_01.jpg",
+        "publicDomain": false,
+        "credit": "Wat Hiranyawat (the temple of woven Buddha) in Mae Sai — Chainwit., CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q138581081",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-phra",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำพระ",
+    "nameRoman": "Tham Phra",
+    "lat": 19.918333333,
+    "lng": 99.789444444,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:Tham Phra.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tham_Phra.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tham_Phra.jpg/960px-Tham_Phra.jpg",
+        "author": "Vano111ru",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Tham Phra (كهف في تايلاند)",
+        "capturedAt": "26 January",
+        "source": "https://commons.wikimedia.org/wiki/File:Tham_Phra.jpg",
+        "publicDomain": false,
+        "credit": "Tham Phra (كهف في تايلاند) — Vano111ru, CC BY-SA 4.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q49319840",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "banyan-valley-cave",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำปุงฮุง",
+    "nameRoman": "Banyan Valley Cave",
+    "lat": 19.633333,
+    "lng": 98.233333,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave; ancient city",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q807015",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "phra-phuttha-chaloem-sirirat",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "พระพุทธเฉลิมสิริราช",
+    "nameRoman": "Phra Phuttha Chaloem Sirirat",
+    "lat": 18.652385238,
+    "lng": 99.065804132,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "buddha image",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13017525",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "spirit-cave-thailand",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำผีแมน",
+    "nameRoman": "Spirit Cave, Thailand",
+    "lat": 19.567805555,
+    "lng": 98.281083333,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave; ancient city",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q372696",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "steep-cliff-cave",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ําผาชัน",
+    "nameRoman": "Steep Cliff Cave",
+    "lat": 19.565277777,
+    "lng": 98.280555555,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave; ancient city",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1415091",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-bamphen-bun",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำบำเพ็ญบุญ",
+    "nameRoman": "Tham Bamphen Bun",
+    "lat": 19.709444444,
+    "lng": 99.755277777,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q49319815",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-doi-kong-khao",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำดอยกองข้าว",
+    "nameRoman": "Tham Doi Kong Khao",
+    "lat": 19.913888888,
+    "lng": 99.777222222,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q49319822",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-luang-pha-wiang",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำหลวงผาเวียง",
+    "nameRoman": "Tham Luang Pha Wiang",
+    "lat": 18.22209,
+    "lng": 98.858,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q4280139",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-mae-lana",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำแม่ละนา",
+    "nameRoman": "Tham Mae Lana",
+    "lat": 19.574671,
+    "lng": 98.215849,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q30591701",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-pha-chang",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำผาช้าง",
+    "nameRoman": "Tham Pha Chang",
+    "lat": 18.22944444,
+    "lng": 98.48611111,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q1456903",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-pha-nang-khoi",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำผานางคอย",
+    "nameRoman": "Tham Pha Nang Khoi",
+    "lat": 18.369722222,
+    "lng": 100.353888888,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q49319835",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-pla",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำปลา",
+    "nameRoman": "Tham Pla",
+    "lat": 20.33111,
+    "lng": 99.86383,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q4378157",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "tham-pum",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "ถ้ำปุม",
+    "nameRoman": "Tham Pum",
+    "lat": 20.34849,
+    "lng": 99.85285,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "cave",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q4737841",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "the-nativity-of-our-lady-church",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "วัดแม่พระบังเกิด",
+    "nameRoman": "The Nativity of Our Lady Church",
+    "lat": 19.913249,
+    "lng": 99.844449,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "church",
+      "heritage": ""
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q52161550",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wiang-chiang-rung",
+    "lens": [
+      "sacred"
+    ],
+    "kind": "sacred",
+    "name": "เวียงเชียงรุ้ง",
+    "nameRoman": "Wiang Chiang Rung",
+    "lat": 19.95,
+    "lng": 99.99,
+    "geoPrecision": "block",
+    "attrs": {
+      "siteType": "ancient city",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115648741",
+        "fetched": "2026-07-21"
+      }
+    ],
+    "confidence": "crawled",
+    "updatedAt": "2026-07-21"
+  }
+]

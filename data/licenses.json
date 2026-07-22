@@ -1,0 +1,33 @@
+{
+  "_comment": "License per source. ODbL share-alike applies to point data derived from OSM.",
+  "osm": {
+    "license": "ODbL 1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "url": "https://www.openstreetmap.org/copyright",
+    "shareAlike": true
+  },
+  "wikidata": {
+    "license": "CC0 1.0",
+    "attribution": "Wikidata",
+    "url": "https://www.wikidata.org",
+    "shareAlike": false
+  },
+  "wikipedia": {
+    "license": "CC BY-SA 4.0",
+    "attribution": "Wikipedia (per-article attribution in point sources)",
+    "url": "https://en.wikipedia.org",
+    "shareAlike": true
+  },
+  "field": {
+    "license": "CC BY-SA 4.0",
+    "attribution": "Mueang Map contributors",
+    "url": null,
+    "shareAlike": true
+  },
+  "maplibre": {
+    "license": "BSD-3-Clause",
+    "attribution": "MapLibre GL JS",
+    "url": "https://maplibre.org",
+    "shareAlike": false
+  }
+}

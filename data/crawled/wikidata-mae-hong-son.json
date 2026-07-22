@@ -1,0 +1,1697 @@
+[
+  {
+    "id": "wat-aranyawiwake",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอรัญญวิเวก",
+    "nameRoman": "Wat Aranyawiwake",
+    "lat": 19.137019444,
+    "lng": 98.983891666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q16025250",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-ban-chiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบ้านเจียง",
+    "nameRoman": "Wat Ban Chiang",
+    "lat": 18.510833333,
+    "lng": 98.358888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108888816",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-ban-den",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเด่นสะหลีศรีเมืองแกน",
+    "nameRoman": "Wat Ban Den",
+    "lat": 19.157521,
+    "lng": 98.978444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q99736007",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดใจ",
+    "nameRoman": "Wat Chai",
+    "lat": 19.363461396,
+    "lng": 98.95889971,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113827721",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจันทร์",
+    "nameRoman": "Wat Chan",
+    "lat": 19.074444444,
+    "lng": 98.305277777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020653",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chedi-mae-khrua",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเจดีย์แม่ครัว",
+    "nameRoman": "Wat Chedi Mae Khrua",
+    "lat": 18.980066252,
+    "lng": 98.981004197,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q117865597",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chiang-man",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเชียงมั่น",
+    "nameRoman": "Wat Chiang Man",
+    "lat": 19.465,
+    "lng": 98.965555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q101420931",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chong-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจองคำ",
+    "nameRoman": "Wat Chong Kham",
+    "lat": 19.29822,
+    "lng": 97.967671,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "founded": "1827"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q56447615",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chong-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดจองกลาง",
+    "nameRoman": "Wat Chong Klang",
+    "lat": 19.298166666,
+    "lng": 97.967388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q66477520",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-fa-wiang-in",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดฟ้าเวียงอินทร์",
+    "nameRoman": "Wat Fa Wiang In",
+    "lat": 19.713939737,
+    "lng": 98.625195968,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q116193059",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-hua-wiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหัวเวียง",
+    "nameRoman": "Wat Hua Wiang",
+    "lat": 19.302805555,
+    "lng": 97.966166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q66477704",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-kam-ko",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดก้ำก่อ",
+    "nameRoman": "Wat Kam Ko",
+    "lat": 19.297887,
+    "lng": 97.963932,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q101439305",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-khum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดขุ่ม",
+    "nameRoman": "Wat Khum",
+    "lat": 18.823553405,
+    "lng": 97.937168322,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115348889",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-klang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกลาง",
+    "nameRoman": "Wat Klang",
+    "lat": 19.359722222,
+    "lng": 98.443055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105846598",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-klang-thung",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกลางทุ่ง",
+    "nameRoman": "Wat Klang Thung",
+    "lat": 19.300555555,
+    "lng": 97.973888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111752925",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-kong-kan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกองกาน",
+    "nameRoman": "Wat Kong Kan",
+    "lat": 18.547929418,
+    "lng": 98.352989755,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q113827005",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-kong-khaek",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกองแขก",
+    "nameRoman": "Wat Kong Khaek",
+    "lat": 18.434444438,
+    "lng": 98.3925,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108887515",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-kung-pao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดกุงเปา",
+    "nameRoman": "Wat Kung Pao",
+    "lat": 19.309444444,
+    "lng": 97.953055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111483813",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลวง",
+    "nameRoman": "Wat Luang",
+    "lat": 19.36,
+    "lng": 98.438611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105846794",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-luang-khun-win",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหลวงขุนวิน",
+    "nameRoman": "Wat Luang Khun Win",
+    "lat": 18.715833333,
+    "lng": 98.713611111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109321361",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-la-noi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ลาน้อย",
+    "nameRoman": "Wat Mae La Noi",
+    "lat": 18.381690806,
+    "lng": 97.935992752,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q124022188",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-rim",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ริม",
+    "nameRoman": "Wat Mae Rim",
+    "lat": 18.91569687,
+    "lng": 98.943983947,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110994241",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-sangkha",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่สะงา",
+    "nameRoman": "Wat Mae Sangkha",
+    "lat": 19.414143042,
+    "lng": 97.954613134,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111752999",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mueang-pon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเมืองปอน",
+    "nameRoman": "Wat Mueang Pon",
+    "lat": 18.740833333,
+    "lng": 97.930833333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108532917",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-na-chalong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาจลอง",
+    "nameRoman": "Wat Na Chalong",
+    "lat": 19.395833333,
+    "lng": 98.443055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110083002",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-na-pu-pom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนาปู่ป้อม",
+    "nameRoman": "Wat Na Pu Pom",
+    "lat": 19.647222222,
+    "lng": 98.094722222,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108886245",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-nam-hu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดน้ำฮู",
+    "nameRoman": "Wat Nam Hu",
+    "lat": 19.364722222,
+    "lng": 98.413333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110083461",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-nong-kai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหนองก๋าย",
+    "nameRoman": "Wat Nong Kai",
+    "lat": 19.029911603,
+    "lng": 98.865306538,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q122426020",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-daet",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าแดด",
+    "nameRoman": "Wat Pa Daet",
+    "lat": 18.479166666,
+    "lng": 98.376666666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108888791",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-dara-phirom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าดาราภิรมย์",
+    "nameRoman": "Wat Pa Dara Phirom",
+    "lat": 18.910880555,
+    "lng": 98.941311111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q3090866",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าขาม",
+    "nameRoman": "Wat Pa Kham",
+    "lat": 19.359166666,
+    "lng": 98.444166666,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105846832",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-nam-rin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าน้ำริน",
+    "nameRoman": "Wat Pa Nam Rin",
+    "lat": 18.985970558,
+    "lng": 98.93871068,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q136674652",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pa-thara-phirom",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดป่าธาราภิรมย์",
+    "nameRoman": "Wat Pa Thara Phirom",
+    "lat": 19.413747505,
+    "lng": 99.001316191,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109326708",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pang-mu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปางหมู",
+    "nameRoman": "Wat Pang Mu",
+    "lat": 19.356388888,
+    "lng": 97.963055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q111008334",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pha-ang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผาอ่าง",
+    "nameRoman": "Wat Pha Ang",
+    "lat": 19.317751367,
+    "lng": 97.965052795,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q117007298",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pha-bong-nuea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผาบ่องเหนือ",
+    "nameRoman": "Wat Pha Bong Nuea",
+    "lat": 19.209444444,
+    "lng": 97.981111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110609689",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pha-bong-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดผาบ่องใต้",
+    "nameRoman": "Wat Pha Bong Tai",
+    "lat": 19.201111111,
+    "lng": 97.983055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110693385",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-boromathat-doi-pha-som",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระบรมธาตุดอยผาส้ม",
+    "nameRoman": "Wat Phra Boromathat  Doi Pha Som",
+    "lat": 18.937838518,
+    "lng": 98.588619153,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q125692150",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-non",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนอน",
+    "nameRoman": "Wat Phra Non",
+    "lat": 19.298529,
+    "lng": 97.963022,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q101439228",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-puttha-baht-si-roi",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระพุทธบาทสี่รอย",
+    "nameRoman": "Wat Phra Puttha Baht Si Roi",
+    "lat": 19.016541016,
+    "lng": 98.762191936,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108147420",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chom-chaeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมแจ้ง",
+    "nameRoman": "Wat Phra That Chom Chaeng",
+    "lat": 19.312460378,
+    "lng": 98.447234717,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q115645064",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-doi-kio-khamin",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยกิ่วขมิ้น",
+    "nameRoman": "Wat Phra That Doi Kio Khamin",
+    "lat": 19.291666666,
+    "lng": 97.977777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q112176284",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-doi-kong-mu",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยกองมู",
+    "nameRoman": "Wat Phra That Doi Kong Mu",
+    "lat": 19.30013,
+    "lng": 97.96013,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020754",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-pu-kam",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสว่างมงคล",
+    "nameRoman": "Wat Phra That Pu Kam",
+    "lat": 19.484444444,
+    "lng": 98.966111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q101229370",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phu-samanaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูสมณาราม",
+    "nameRoman": "Wat Phu Samanaram",
+    "lat": 19.389311428,
+    "lng": 97.956119924,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q122663778",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phut-en",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพุทธเอ้น",
+    "nameRoman": "Wat Phut En",
+    "lat": 18.513333333,
+    "lng": 98.350555555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108731183",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pratu-mueang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดประตูเมือง",
+    "nameRoman": "Wat Pratu Mueang",
+    "lat": 18.809166666,
+    "lng": 97.848055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108442856",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sawang-bantoeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสว่างบรรเทิง",
+    "nameRoman": "Wat Sawang Bantoeng",
+    "lat": 18.892567329,
+    "lng": 98.952727778,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110503127",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sawang-mongkhon",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสว่างมงคล",
+    "nameRoman": "Wat Sawang Mongkhon",
+    "lat": 19.491666666,
+    "lng": 98.973888888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q13020856",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-don-chai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนชัย",
+    "nameRoman": "Wat Si Don Chai",
+    "lat": 19.379444444,
+    "lng": 98.447777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105882131",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-don-chai-q105882211",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนชัย",
+    "nameRoman": "Wat Si Don Chai",
+    "lat": 19.379444444,
+    "lng": 98.447777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105882211",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sop-loen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสบเลิม",
+    "nameRoman": "Wat Sop Loen",
+    "lat": 19.191181,
+    "lng": 98.995345,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q43691365",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sop-pong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสบป่อง",
+    "nameRoman": "Wat Sop Pong",
+    "lat": 19.518055555,
+    "lng": 98.261944444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109180853",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-sop-pong-q109181903",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสบป่อง",
+    "nameRoman": "Wat Sop Pong",
+    "lat": 19.290277777,
+    "lng": 97.937777777,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q109181903",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tham-chiang-dao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดถ้ำเชียงดาว",
+    "nameRoman": "Wat Tham Chiang Dao",
+    "lat": 19.394166666,
+    "lng": 98.929444444,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108612032",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-thamma-chedi-wanaran",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดธรรมเจดีย์วนาราม",
+    "nameRoman": "Wat Thamma Chedi Wanaran",
+    "lat": 18.738055555,
+    "lng": 97.921388888,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110083915",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-thung-pong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งโป่ง",
+    "nameRoman": "Wat Thung Pong",
+    "lat": 19.334722222,
+    "lng": 98.443333333,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q110441103",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-to-phae",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต่อแพ",
+    "nameRoman": "Wat To Phae",
+    "lat": 18.800555555,
+    "lng": 97.903055555,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105628683",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-wohan-khun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดโวหารคุณ",
+    "nameRoman": "Wat Wohan Khun",
+    "lat": 18.37451154,
+    "lng": 97.938117904,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q108138299",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-yang-luang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดยางหลวง",
+    "nameRoman": "Wat Yang Luang",
+    "lat": 18.475833333,
+    "lng": 98.371111111,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Mae Hong Son",
+      "heritage": "registered Thai historic site"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "wikidata",
+        "ref": "Q105859565",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  }
+]

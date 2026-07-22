@@ -1,0 +1,21 @@
+{
+  "name": "mueang-map",
+  "private": true,
+  "type": "module",
+  "description": "Chiang Mai niche-lens atlas — static-first participatory map",
+  "scripts": {
+    "build": "node build.mjs",
+    "harvest": "node harvest/osm-overpass.mjs --fetch",
+    "harvest:landmarks": "node harvest/osm-landmarks.mjs --fetch",
+    "harvest:wikidata": "node harvest/wikidata.mjs --fetch",
+    "gen:auspicious": "node scripts/gen-auspicious.mjs",
+    "seed": "node harvest/osm-overpass.mjs --fetch && node merge.mjs crawled osm && node harvest/wikidata.mjs --fetch && node merge.mjs enrich wikidata && node harvest/osm-landmarks.mjs --fetch && node scripts/gen-auspicious.mjs && node build.mjs",
+    "build:wats": "node scripts/build-wats-visual.mjs",
+    "crawl:nan": "node harvest/osm-overpass.mjs --region=nan --only=wat --fetch && node merge.mjs crawled osm-nan && node harvest/wikidata.mjs --region=nan --fetch && node merge.mjs enrich wikidata-nan && node merge.mjs promote wikidata-nan && node build.mjs && node scripts/build-wats-visual.mjs",
+    "crawl:chiang-rai": "node harvest/osm-overpass.mjs --region=chiang-rai --only=wat --fetch && node merge.mjs crawled osm-chiang-rai && node harvest/wikidata.mjs --region=chiang-rai --fetch && node merge.mjs enrich wikidata-chiang-rai && node merge.mjs promote wikidata-chiang-rai && node build.mjs && node scripts/build-wats-visual.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "^28.1.0"
+  }
+}

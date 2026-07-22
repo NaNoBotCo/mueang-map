@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "chedi-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "Chedi",
+    "nameRoman": "Chedi",
+    "lat": 19.0747675,
+    "lng": 100.0101819,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1465313026",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-node-3623390788",
+    "lens": [
+      "wat"
+    ],
+    "name": "ถ้ำใหญ่ผาตั้งถ้ำพระ",
+    "nameRoman": null,
+    "lat": 19.36579,
+    "lng": 100.5313014,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3623390788",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-node-3720209955",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแดนเมือง",
+    "nameRoman": null,
+    "lat": 19.5478036,
+    "lng": 100.2968957,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3720209955",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-node-3720237588",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสบบง",
+    "nameRoman": null,
+    "lat": 19.5726392,
+    "lng": 100.2984488,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3720237588",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-node-3720237589",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนตัน",
+    "nameRoman": null,
+    "lat": 19.5645433,
+    "lng": 100.297415,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3720237589",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "osm-node-3730048783",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเปื๋อยเปียง",
+    "nameRoman": null,
+    "lat": 19.5400691,
+    "lng": 100.3087641,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3730048783",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "reclining-buddha-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "Reclining buddha",
+    "nameRoman": "Reclining buddha",
+    "lat": 19.0607037,
+    "lng": 99.9299033,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3966179060",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "sri-chom-rueang-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีจอมเรีอง",
+    "nameRoman": "Sri Chom Rueang Temple",
+    "lat": 19.1624493,
+    "lng": 99.9149527,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/558164739",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "ubosot-klang-nam-wat-sri-khom-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "อุโบสถกลางน้ำ วัดศรีโคมคำ",
+    "nameRoman": "Ubosot Klang Nam Wat Sri Khom Kham",
+    "lat": 19.175802,
+    "lng": 99.8891526,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Mueang Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/534387042",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wanglo-stupa",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wanglo Stupa",
+    "nameRoman": "Wanglo Stupa",
+    "lat": 19.4508057,
+    "lng": 100.0758736,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4045200077",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-analayo",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Analayo",
+    "nameRoman": "Wat Analayo",
+    "lat": 19.1761603,
+    "lng": 99.8123721,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/714019441",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-analayo-thipphayaram",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดอนาลโยทิพยาราม",
+    "nameRoman": "Wat Analayo Thipphayaram",
+    "lat": 19.1772152,
+    "lng": 99.812575,
+    "geoPrecision": "exact",
+    "address": "San Pa Muang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Mueang Phayao",
+      "subdistrict": "San Pa Muang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13470708578",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-bo-haew",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Bo Haew",
+    "nameRoman": "Wat Bo Haew",
+    "lat": 19.1377268,
+    "lng": 99.8651757,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3834367807",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-bun-yuen-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดบุญยืน",
+    "nameRoman": "Wat Bun Yuen",
+    "lat": 19.1735316,
+    "lng": 99.8948875,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1212411290",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chae-haeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแช่แห้ง",
+    "nameRoman": "Wat Chae Haeng",
+    "lat": 19.5430619,
+    "lng": 100.3000201,
+    "geoPrecision": "exact",
+    "address": "Yuan",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Chiang Kham",
+      "subdistrict": "Yuan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3730048785",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chai-awas",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Chai Awas",
+    "nameRoman": "Wat Chai Awas",
+    "lat": 19.1691976,
+    "lng": 99.8984926,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1360460992",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-chaisathan",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดไชยสถาน",
+    "nameRoman": "Wat Chaisathan",
+    "lat": 18.8744595,
+    "lng": 100.3093792,
+    "geoPrecision": "exact",
+    "address": "Chiang Muan",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Chiang Muan",
+      "subdistrict": "Chiang Muan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/7021161398",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-don-chai-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนไชย",
+    "nameRoman": "Wat Don Chai",
+    "lat": 19.5303115,
+    "lng": 100.3010585,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3720161278",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-don-chai-temple",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดอนไชย",
+    "nameRoman": "Wat Don Chai temple",
+    "lat": 19.1526615,
+    "lng": 99.9357066,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2423219681",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-don-mun-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Don Mun",
+    "nameRoman": "Wat Don Mun",
+    "lat": 19.1074943,
+    "lng": 99.949105,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1465011640",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-dong-phra-chao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดดงพระเจ้า",
+    "nameRoman": "Wat Dong Phra Chao",
+    "lat": 19.0583207,
+    "lng": 99.9294895,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13923115381",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-huai-pha-kiang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดห้วยผาเกี๋ยง",
+    "nameRoman": "Wat Huai Pha Kiang",
+    "lat": 19.2260908,
+    "lng": 99.9058765,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3809419546",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-li-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดลี",
+    "nameRoman": "Wat Li",
+    "lat": 19.1659824,
+    "lng": 99.9160067,
+    "geoPrecision": "block",
+    "address": "51 ถนน วัดลี ซอย 1 Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Mueang Phayao",
+      "subdistrict": "Wiang",
+      "street": "51 ถนน วัดลี ซอย 1"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/770416899",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-mae-sai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแม่ใส",
+    "nameRoman": "Wat Mae Sai",
+    "lat": 19.1339388,
+    "lng": 99.8839832,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1041350416",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-na-nun",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Na Nun",
+    "nameRoman": "Wat Na Nun",
+    "lat": 19.6893294,
+    "lng": 100.3594119,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1474035502",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-nam-paeng",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Nam Paeng",
+    "nameRoman": "Wat Nam Paeng",
+    "lat": 19.1758206,
+    "lng": 100.4222558,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5323150608",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-nantaram-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดนันตาราม",
+    "nameRoman": "Wat Nantaram",
+    "lat": 19.5282737,
+    "lng": 100.3032784,
+    "geoPrecision": "exact",
+    "address": "Ban Don Chai Yuan",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/wat.nantaram/",
+      "province": "Phayao",
+      "district": "Chiang Kham",
+      "subdistrict": "Yuan",
+      "street": "Ban Don Chai"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3720161275",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-nueang-chum",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดเนืองชุม",
+    "nameRoman": "Wat Nueang Chum",
+    "lat": 19.1571968,
+    "lng": 99.914787,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "summary": {
+        "lang": "th",
+        "title": "วัดเมืองชุม (จังหวัดพะเยา)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดเมืองชุม เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลแม่ต๋ำ อำเภอเมืองพะเยา จังหวัดพะเยา \nวัดเมืองชุมตั้งวัดเมื่อ พ.ศ. 2420 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2481 ที่ดินตั้งวัดมีเนื้อที่ 3 ไร่ 3 งาน 96 ตารางวา มีธรณีสงฆ์จำนวน 1 แปลง เนื้อที่ 3 งาน อาคารเสนาสนะประกอบด้วย อุโบสถ ศาลาการเปรียญ และกุฏิสงฆ์ กุฎิไม้เคยเป็นที่เรียนของสงฆ์ โดยพระครูอุบาลีเจ้าอาวาสวัดศรีโคมคำ และเจดีย์หินทรายได้บูรณะโดยวัดเองตามยุคสมัย และมีพระพุทธรูปหินทรายที่ตั้งอยู่หน้าเจดีย์ เป็นศิลปะศตวรรษที่ 21 เจดีย์นี้สร้างขึ้นด้วยหินทั้งแท่ง และแกะสลักขึ้นรูปด้วยสกุลช่างพะเยาโบราณมีขนาดฐานกว้างประมาณ 2.5 เมตร สูง 5 เมตร ซึ่งก่อนหน้านี้ได้ประดิษฐานไว้ที่วัดลี หลังจากนั้น 100 กว่าปีให้หลัง…",
+        "sections": [],
+        "chars": 1025
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดเมืองชุม (จังหวัดพะเยา)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดเมืองชุม เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลแม่ต๋ำ อำเภอเมืองพะเยา จังหวัดพะเยา \nวัดเมืองชุมตั้งวัดเมื่อ พ.ศ. 2420 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2481 ที่ดินตั้งวัดมีเนื้อที่ 3 ไร่ 3 งาน 96 ตารางวา มีธรณีสงฆ์จำนวน 1 แปลง เนื้อที่ 3 งาน อาคารเสนาสนะประกอบด้วย อุโบสถ ศาลาการเปรียญ และกุฏิสงฆ์ กุฎิไม้เคยเป็นที่เรียนของสงฆ์ โดยพระครูอุบาลีเจ้าอาวาสวัดศรีโคมคำ และเจดีย์หินทรายได้บูรณะโดยวัดเองตามยุคสมัย และมีพระพุทธรูปหินทรายที่ตั้งอยู่หน้าเจดีย์ เป็นศิลปะศตวรรษที่ 21 เจดีย์นี้สร้างขึ้นด้วยหินทั้งแท่ง และแกะสลักขึ้นรูปด้วยสกุลช่างพะเยาโบราณมีขนาดฐานกว้างประมาณ 2.5 เมตร สูง 5 เมตร ซึ่งก่อนหน้านี้ได้ประดิษฐานไว้ที่วัดลี หลังจากนั้น 100 กว่าปีให้หลัง…",
+          "sections": [],
+          "chars": 1025
+        },
+        "en": null
+      }
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1016739444",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q137195791",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-pang-tham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดปางถ้ำ",
+    "nameRoman": "Wat Pang Tham",
+    "lat": 19.501418,
+    "lng": 100.4596952,
+    "geoPrecision": "exact",
+    "address": "Rom Yen",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Chiang Kham",
+      "subdistrict": "Rom Yen"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13506720103",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-nang-din-1472704850",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนั่งดิน",
+    "nameRoman": "Wat Phra Nang Din",
+    "lat": 19.4982316,
+    "lng": 100.3243958,
+    "geoPrecision": "block",
+    "address": "Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Chiang Kham",
+      "subdistrict": "Wiang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1472704850",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-nang-din-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระนั่งดิน",
+    "nameRoman": "Wat Phra Nang Din",
+    "lat": 19.4983156,
+    "lng": 100.3239899,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3720121477",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chae-wo",
+    "lens": [
+      "wat"
+    ],
+    "name": "Wat Phra That Chae Wo",
+    "nameRoman": "Wat Phra That Chae Wo",
+    "lat": 19.0748716,
+    "lng": 100.0102123,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/7210762081",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-chomt-thong",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุจอมทอง",
+    "nameRoman": "Wat Phra That Chomt Thong",
+    "lat": 19.1839036,
+    "lng": 99.888451,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6337601426",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-doi-yuak-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยหยวก",
+    "nameRoman": "Wat Phra That Doi Yuak",
+    "lat": 19.1379453,
+    "lng": 100.2623252,
+    "geoPrecision": "exact",
+    "address": "Pong",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Pong",
+      "subdistrict": "Pong"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13514225084",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-phu-sang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุภูซาง",
+    "nameRoman": "Wat Phra That Phu Sang",
+    "lat": 19.6515605,
+    "lng": 100.3783315,
+    "geoPrecision": "exact",
+    "address": "Phu Sang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Phu Sang",
+      "subdistrict": "Phu Sang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/6984010687",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-pong-kluea",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุโปงเกลือ",
+    "nameRoman": "Wat Phra That Pong Kluea",
+    "lat": 19.2906311,
+    "lng": 99.862159,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/550424146",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phra-that-sop-waen",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุสบแวน",
+    "nameRoman": "Wat Phra That Sop Waen",
+    "lat": 19.5366204,
+    "lng": 100.2917482,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4394700394",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phrathat-doi-kham",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดพระธาตุดอยคำ",
+    "nameRoman": "Wat Phrathat Doi Kham",
+    "lat": 19.52101,
+    "lng": 100.37601,
+    "geoPrecision": "exact",
+    "address": "Thung Hua Chang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Lamphun",
+      "district": "Thung Hua Chang",
+      "subdistrict": "Thung Hua Chang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/867533445",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-phumin-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดภูมินทร์",
+    "nameRoman": "Wat Phumin",
+    "lat": 19.1451141,
+    "lng": 99.9080229,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1013619734",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-rachakrauh",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดราชคฤห์",
+    "nameRoman": "Wat Rachakrauh",
+    "lat": 19.1670008,
+    "lng": 99.903516,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Mueang Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4733160948",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-rong-ho",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดร่องโฮ",
+    "nameRoman": "Wat Rong Ho",
+    "lat": 19.1455633,
+    "lng": 99.8940174,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/2546456946",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-saen-muang-ma",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดแสนเมืองมา",
+    "nameRoman": "Wat Saen Muang Ma",
+    "lat": 19.5219619,
+    "lng": 100.3015922,
+    "geoPrecision": "block",
+    "address": "Yuan",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Chiang Kham",
+      "subdistrict": "Yuan"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1360895858",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-san-pa-muang",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าม่วง",
+    "nameRoman": "Wat San Pa Muang",
+    "lat": 19.1789407,
+    "lng": 99.8366548,
+    "geoPrecision": "exact",
+    "address": "San Pa Muang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Mueang Phayao",
+      "subdistrict": "San Pa Muang"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4734042123",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-san-paton",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดสันป่าถ่อน",
+    "nameRoman": "Wat San Paton",
+    "lat": 19.1399766,
+    "lng": 99.8556463,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/460696127",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-don-mun",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีดอนมูล",
+    "nameRoman": "Wat Si Don Mun",
+    "lat": 19.3528096,
+    "lng": 99.8414101,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/550515471",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-khom-kham-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีโคมคำ",
+    "nameRoman": "Wat Si Khom Kham",
+    "lat": 19.1765032,
+    "lng": 99.8893094,
+    "geoPrecision": "block",
+    "address": "692 Phahon Yothin Rd Wiang",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "website": "https://www.facebook.com/watsrikomkam.phayao",
+      "province": "Phayao",
+      "district": "Mueang Phayao",
+      "subdistrict": "Wiang",
+      "street": "692 Phahon Yothin Rd"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/210167222",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-ping-mueang-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีปิงเมือง",
+    "nameRoman": "Wat Si Ping Mueang",
+    "lat": 19.4493047,
+    "lng": 100.0918228,
+    "geoPrecision": "exact",
+    "address": "Lo",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Chun",
+      "subdistrict": "Lo"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13504905498",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-suphan-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีสุพรรณ",
+    "nameRoman": "Wat Si Suphan",
+    "lat": 19.345726,
+    "lng": 99.8152593,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "description": "Buddhist temple in Phayao province, Thailand",
+      "descriptionTh": "วัดในจังหวัดพะเยา",
+      "summary": {
+        "lang": "th",
+        "title": "วัดศรีสุพรรณ (จังหวัดพะเยา)",
+        "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "text": "วัดศรีสุพรรณ เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลแม่ใจ อำเภอแม่ใจ จังหวัดพะเยา\nวัดศรีสุพรรณ หรือเดิมชาวบ้านเรียกว่า วัดแม่ใจปงสนุก ในอดีตเรียกว่า วัดไชยปงสนุก บางท่านเรียกว่า วัดพระเจ้าทองทิพย์ สร้างขึ้นโดยชาวลำปางคณะหนึ่งอยู่ที่หมู่บ้านปงสนุก ได้อพยพมาตั้งรกรากทำมาหากิน ณ บ้านแม่ใจ ตั้งวัดเมื่อ พ.ศ. 2362 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2482 ตั้งชื่อวัดเพื่อให้สอดคล้องกับชื่อหมู่บ้านเดิมของตนที่อพยพมาจากบ้านปงสนุก จังหวัดลำปาง \nชาวบ้านได้ค้นพบพระพุทธรูปองค์หนึ่งบริเวณที่สร้างเป็นวัดศรีสุพรรณในปัจจุบัน มีลักษณะงดงามโดยได้ขนานนามว่า พระเจ้าทองทิพย์ เป็นพระพุทธรูปสำริด ปางมารวิชัย เรียกว่าพระสิงห์รุ่น 3 คือผสมผสานศิลปะเชียงแสน ฺศิลปะสุโขทัย และศิลปะล้านช้าง…",
+        "sections": [],
+        "chars": 1047
+      },
+      "article": {
+        "th": {
+          "lang": "th",
+          "title": "วัดศรีสุพรรณ (จังหวัดพะเยา)",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "text": "วัดศรีสุพรรณ เป็นวัดราษฎร์สังกัดคณะสงฆ์ฝ่ายมหานิกาย ตั้งอยู่ในตำบลแม่ใจ อำเภอแม่ใจ จังหวัดพะเยา\nวัดศรีสุพรรณ หรือเดิมชาวบ้านเรียกว่า วัดแม่ใจปงสนุก ในอดีตเรียกว่า วัดไชยปงสนุก บางท่านเรียกว่า วัดพระเจ้าทองทิพย์ สร้างขึ้นโดยชาวลำปางคณะหนึ่งอยู่ที่หมู่บ้านปงสนุก ได้อพยพมาตั้งรกรากทำมาหากิน ณ บ้านแม่ใจ ตั้งวัดเมื่อ พ.ศ. 2362 ได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. 2482 ตั้งชื่อวัดเพื่อให้สอดคล้องกับชื่อหมู่บ้านเดิมของตนที่อพยพมาจากบ้านปงสนุก จังหวัดลำปาง \nชาวบ้านได้ค้นพบพระพุทธรูปองค์หนึ่งบริเวณที่สร้างเป็นวัดศรีสุพรรณในปัจจุบัน มีลักษณะงดงามโดยได้ขนานนามว่า พระเจ้าทองทิพย์ เป็นพระพุทธรูปสำริด ปางมารวิชัย เรียกว่าพระสิงห์รุ่น 3 คือผสมผสานศิลปะเชียงแสน ฺศิลปะสุโขทัย และศิลปะล้านช้าง…",
+          "sections": [],
+          "chars": 1047
+        },
+        "en": null
+      }
+    },
+    "media": [
+      {
+        "type": "image",
+        "title": "File:ศรีสุพรรณ แม่ใจ - panoramio (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88_-_panoramio_%281%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88_-_panoramio_%281%29.jpg/960px-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88_-_panoramio_%281%29.jpg",
+        "width": 800,
+        "author": "Thanapat Sakulna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "ศรีสุพรรณ แม่ใจ",
+        "capturedAt": "Taken on 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88_-_panoramio_(1).jpg",
+        "credit": "ศรีสุพรรณ แม่ใจ — Thanapat Sakulna, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:ป้ายวัดศรีสุพรรณ แม่ใจ - panoramio.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88_-_panoramio.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88_-_panoramio.jpg/960px-%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88_-_panoramio.jpg",
+        "width": 800,
+        "author": "Thanapat Sakulna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "ป้ายวัดศรีสุพรรณ แม่ใจ",
+        "capturedAt": "Taken on 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88_-_panoramio.jpg",
+        "credit": "ป้ายวัดศรีสุพรรณ แม่ใจ — Thanapat Sakulna, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:พระเจ้าทองทิพย์ - panoramio.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C_-_panoramio.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C_-_panoramio.jpg/960px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C_-_panoramio.jpg",
+        "width": 800,
+        "author": "Thanapat Sakulna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "พระเจ้าทองทิพย์",
+        "capturedAt": "Taken on 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C_-_panoramio.jpg",
+        "credit": "พระเจ้าทองทิพย์ — Thanapat Sakulna, CC BY-SA 3.0, via Wikimedia Commons"
+      },
+      {
+        "type": "image",
+        "title": "File:พระเจ้าทองทิพย์ - panoramio (1).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C_-_panoramio_%281%29.jpg",
+        "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C_-_panoramio_%281%29.jpg/960px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C_-_panoramio_%281%29.jpg",
+        "width": 800,
+        "author": "Thanapat Sakulna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "พระเจ้าทองทิพย์",
+        "capturedAt": "Taken on 1",
+        "source": "https://commons.wikimedia.org/wiki/File:%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C_-_panoramio_(1).jpg",
+        "credit": "พระเจ้าทองทิพย์ — Thanapat Sakulna, CC BY-SA 3.0, via Wikimedia Commons"
+      }
+    ],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/550515470",
+        "fetched": "2026-07-22"
+      },
+      {
+        "type": "wikidata",
+        "ref": "Q110735527",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-si-umong-kham-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดศรีอุโมงค์คำ",
+    "nameRoman": "Wat Si Umong Kham",
+    "lat": 19.1654398,
+    "lng": 99.9007348,
+    "geoPrecision": "block",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Mueang Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "way/1212763493",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tha-pha-tai",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดท่าฟ้าใต้",
+    "nameRoman": "Wat Tha Pha Tai",
+    "lat": 19.0013915,
+    "lng": 100.281359,
+    "geoPrecision": "exact",
+    "address": "Sa",
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao",
+      "district": "Chiang Muan",
+      "subdistrict": "Sa"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/13514296881",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-thung-kio",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดทุ่งกิ่ว",
+    "nameRoman": "Wat Thung Kio",
+    "lat": 19.1561628,
+    "lng": 99.857974,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3834369864",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tilok-aram-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดติโลกอาราม",
+    "nameRoman": "Wat Tilok Aram",
+    "lat": 19.1585174,
+    "lng": 99.8996461,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/5230006780",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-tom-klang-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดต๋อมกลาง",
+    "nameRoman": "Wat Tom Klang",
+    "lat": 19.1984795,
+    "lng": 99.8378967,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/4734043130",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  },
+  {
+    "id": "wat-yuan-phayao",
+    "lens": [
+      "wat"
+    ],
+    "name": "วัดหย่วน",
+    "nameRoman": "Wat Yuan",
+    "lat": 19.5266713,
+    "lng": 100.2988376,
+    "geoPrecision": "exact",
+    "address": null,
+    "attrs": {
+      "status": "active",
+      "sect": "unknown",
+      "province": "Phayao"
+    },
+    "media": [],
+    "sources": [
+      {
+        "type": "osm",
+        "ref": "node/3720161276",
+        "fetched": "2026-07-22"
+      }
+    ],
+    "confidence": "crawled",
+    "notes": "",
+    "updatedAt": "2026-07-22"
+  }
+]
