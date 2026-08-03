@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>List your business free — Mueang Map</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Free self-serve page for clinics, massage shops, tattoo studios, and wats — with a printable QR code.">
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body {
+  font: 16px/1.5 -apple-system, "Noto Sans Thai", system-ui, sans-serif;
+  max-width: 480px; margin: 0 auto; padding: 1.5rem 1rem 4rem;
+  color: #1a1a1a; background: #fdfcf9;
+}
+h1 { font-size: 1.4rem; margin-bottom: .25rem; }
+p.sub { color: #555; margin-top: 0; }
+label { display: block; font-weight: 600; margin: 1.1rem 0 .3rem; font-size: .95rem; }
+label .th { font-weight: 400; color: #666; font-size: .85em; }
+input, select, textarea {
+  width: 100%; font-size: 1rem; padding: .65rem .7rem; border: 1px solid #ccc;
+  border-radius: 8px; font-family: inherit; background: #fff;
+}
+textarea { resize: vertical; min-height: 3.5rem; }
+.hint { color: #777; font-size: .82rem; margin-top: .25rem; }
+button.submit {
+  width: 100%; margin-top: 1.75rem; padding: .9rem; font-size: 1.05rem; font-weight: 700;
+  border: none; border-radius: 10px; background: #1a6b4a; color: #fff; cursor: pointer;
+}
+button.submit:active { background: #14523a; }
+button.submit:disabled { background: #999; }
+.error { color: #a12; font-size: .9rem; margin-top: .6rem; min-height: 1.2em; }
+.ref-note { background: #f0ebe0; border-radius: 8px; padding: .6rem .8rem; font-size: .88rem; margin: 1rem 0; }
+
+#form-view, #success-view { display: none; }
+#form-view.active, #success-view.active { display: block; }
+
+.card {
+  border: 1px solid #ddd; border-radius: 14px; padding: 1.25rem; margin-top: 1.25rem;
+  text-align: center; background: #fff;
+}
+.card h2 { font-size: 1.1rem; margin: 0 0 .2rem; }
+.card .cardsub { color: #666; font-size: .85rem; margin-bottom: .9rem; }
+.qr-wrap { display: flex; justify-content: center; margin: .5rem 0; }
+.qr-wrap img { width: 200px; height: 200px; image-rendering: pixelated; }
+.qr-small .qr-wrap img { width: 120px; height: 120px; }
+.url-text {
+  font-family: ui-monospace, monospace; font-size: .78rem; word-break: break-all;
+  color: #444; background: #f5f0e6; padding: .4rem .5rem; border-radius: 6px; margin-top: .5rem;
+}
+.refcode { font-size: 1.6rem; font-weight: 800; letter-spacing: .08em; margin: .3rem 0; }
+.two-cards { display: flex; flex-direction: column; gap: 1rem; }
+.print-btn, .again-link {
+  display: block; width: 100%; text-align: center; margin-top: 1rem; padding: .75rem;
+  border-radius: 8px; text-decoration: none; font-weight: 600; cursor: pointer; border: none; font-size: 1rem;
+}
+.print-btn { background: #2b2b2b; color: #fff; }
+.again-link { background: none; color: #1a6b4a; border: 1px solid #1a6b4a; }
+
+@media print {
+  body * { visibility: hidden; }
+  #print-card, #print-card * { visibility: visible; }
+  #print-card { position: absolute; top: 0; left: 0; width: 100%; }
+  .no-print { display: none !important; }
+}
+</style>
+</head>
+<body>
+
+<div id="form-view" class="active">
+  <h1>List your business free</h1>
+  <p class="sub">ลงทะเบียนร้าน/คลินิก/วัดของคุณ ฟรี — ไม่มีค่าใช้จ่าย</p>
+  <div id="ref-note" class="ref-note" style="display:none"></div>
+
+  <form id="claim-form">
+    <label>Business / temple name (Thai) <span class="th">ชื่อ (ภาษาไทย)</span></label>
+    <input name="name" required maxlength="200" placeholder="เช่น วัดเจดีย์หลวง">
+
+    <label>Name in English/roman letters <span class="th">ชื่อภาษาอังกฤษ (ถ้ามี)</span></label>
+    <input name="nameRoman" maxlength="200" placeholder="e.g. Wat Chedi Luang">
+
+    <label>Type <span class="th">ประเภท</span></label>
+    <select name="lens" required>
+      <option value="">— choose —</option>
+      <option value="clinic">Clinic คลินิก</option>
+      <option value="massage">Massage นวด</option>
+      <option value="tattoo">Tattoo studio ร้านสัก</option>
+      <option value="wat">Wat วัด</option>
+      <option value="other">Other อื่นๆ</option>
+    </select>
+
+    <label>Area / neighborhood <span class="th">ย่าน/พื้นที่</span></label>
+    <input name="area" maxlength="120" placeholder="e.g. Nimman, Old City, San Sai">
+
+    <label>LINE ID <span class="th">ไลน์ไอดี</span></label>
+    <input name="contactLine" maxlength="120" placeholder="@yourshop">
+
+    <label>Phone <span class="th">เบอร์โทร</span></label>
+    <input name="contactPhone" maxlength="40" placeholder="053-000000" inputmode="tel">
+    <p class="hint">LINE ID or phone — at least one, so people can reach you.</p>
+
+    <label>Hours <span class="th">เวลาเปิด-ปิด</span></label>
+    <input name="hours" maxlength="200" placeholder="e.g. 10:00–20:00 daily">
+
+    <label>Anything else <span class="th">ข้อมูลเพิ่มเติม</span></label>
+    <textarea name="note" maxlength="500" placeholder="Optional"></textarea>
+
+    <button type="submit" class="submit">Create my free page — สร้างเพจฟรี</button>
+    <div class="error" id="form-error"></div>
+  </form>
+</div>
+
+<div id="success-view">
+  <h1>You're listed</h1>
+  <p class="sub" id="success-sub"></p>
+
+  <div class="two-cards">
+    <div class="card" id="print-card">
+      <h2>Show customers</h2>
+      <div class="cardsub">ให้ลูกค้าสแกน — วางที่หน้าร้าน</div>
+      <div class="qr-wrap"><img id="qr-view" alt="QR code to your public page"></div>
+      <div class="url-text" id="view-url-text"></div>
+      <p class="refcode" id="refcode-text"></p>
+      <div class="cardsub">Your code — share it with other shops. When one joins because of you, we'll know it was you.</div>
+    </div>
+
+    <div class="card qr-small no-print">
+      <h2>Edit your page (keep private)</h2>
+      <div class="cardsub">แก้ไขเพจของคุณ — เก็บลิงก์นี้ไว้เอง อย่าให้คนอื่น</div>
+      <div class="qr-wrap"><img id="qr-edit" alt="QR code to edit your page"></div>
+      <div class="url-text" id="edit-url-text"></div>
+    </div>
+  </div>
+
+  <button class="print-btn no-print" onclick="window.print()">Print this card — พิมพ์การ์ด</button>
+  <a class="again-link no-print" href="javascript:location.reload()">List another business</a>
+</div>
+
+<script>/*@QRCODE_JS@*/</script>
+<script>/*@QRCODE_UTF8_JS@*/</script>
+<script>
+var WORKER_URL = /*@WORKER_URL_JSON@*/;
+
+function qrDataUrl(text, size) {
+  var qr = qrcode(0, 'M'); // typeNumber 0 = auto-select smallest that fits
+  qr.addData(text);
+  qr.make();
+  var cellSize = Math.max(2, Math.floor(size / qr.getModuleCount()));
+  return qr.createDataURL(cellSize, 0);
+}
+
+var params = new URLSearchParams(location.search);
+var refFromCard = params.get('ref');
+if (refFromCard) {
+  var note = document.getElementById('ref-note');
+  note.style.display = 'block';
+  note.textContent = 'Joining via code ' + refFromCard + ' — thanks to whoever shared it with you!';
+}
+
+document.getElementById('claim-form').addEventListener('submit', async function (e) {
+  e.preventDefault();
+  var btn = e.target.querySelector('button.submit');
+  var errEl = document.getElementById('form-error');
+  errEl.textContent = '';
+  var fd = new FormData(e.target);
+  var body = {};
+  fd.forEach(function (v, k) { if (v) body[k] = v; });
+  if (refFromCard) body.ref = refFromCard;
+  if (!body.contactLine && !body.contactPhone) {
+    errEl.textContent = 'Add a LINE ID or phone number so people can reach you.';
+    return;
+  }
+  btn.disabled = true;
+  btn.textContent = 'Creating…';
+  try {
+    var res = await fetch(WORKER_URL + '/claim', {
+      method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body),
+    });
+    var data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'something went wrong');
+    showSuccess(data, body.nameRoman || body.name);
+  } catch (err) {
+    errEl.textContent = err.message || 'something went wrong — try again';
+    btn.disabled = false;
+    btn.textContent = 'Create my free page — สร้างเพจฟรี';
+  }
+});
+
+function showSuccess(data, displayName) {
+  document.getElementById('form-view').classList.remove('active');
+  var sv = document.getElementById('success-view');
+  sv.classList.add('active');
+  document.getElementById('success-sub').textContent = displayName + ' is live.';
+  document.getElementById('qr-view').src = qrDataUrl(data.viewUrl, 200);
+  document.getElementById('qr-edit').src = qrDataUrl(data.editUrl, 120);
+  document.getElementById('view-url-text').textContent = data.viewUrl;
+  document.getElementById('edit-url-text').textContent = data.editUrl;
+  document.getElementById('refcode-text').textContent = data.refCode;
+  window.scrollTo(0, 0);
+}
+</script>
+</body>
+</html>

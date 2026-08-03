@@ -126,3 +126,135 @@ test('validation + rate limit at the edge', async () => {
   const limited = await req('/suggest', { method: 'POST', body: entry('p-last'), ip: '8.8.8.8' })
   assert.equal(limited.status, 429)
 })
+
+// ---- /trail — walks offered from wichaa.net ---------------------------------
+// A trail is not a point: no coordinates, so it cannot ride /suggest (readEntry
+// would reject it for a missing point, and again for the bbox). Same queue
+// posture though — public in, moderation out, nothing live automatically.
+const walk = (n = 3) => ({
+  kind: 'trail',
+  steps: Array.from({ length: n }, (_, i) => ({ href: `/m?id=${i + 1}`, title: `Step ${i + 1}` })),
+  note: 'a walk worth following',
+})
+
+test('trail: public may offer one; it lands pending and never goes live', async () => {
+  const res = await req('/trail', { method: 'POST', body: walk(), ip: '1.1.1.1' })
+  assert.equal(res.status, 200)
+  const { ok, queued } = await res.json()
+  assert.equal(ok, true)
+  const stored = JSON.parse(env.KV.store.get(`trail:${queued}`))
+  assert.equal(stored.status, 'pending')
+  assert.equal(stored.steps.length, 3)
+  // and nothing entered the live point store
+  assert.equal([...env.KV.store.keys()].filter((k) => k.startsWith('pt:')).length, 0)
+})
+
+test('trail: a one-stop walk is not a trail; junk hrefs are refused', async () => {
+  const short = await req('/trail', { method: 'POST', body: walk(1), ip: '1.1.1.2' })
+  assert.equal(short.status, 400)
+  const evil = await req('/trail', {
+    method: 'POST', ip: '1.1.1.3',
+    body: { steps: [{ href: 'https://elsewhere.example/x' }, { href: '/ok' }] },
+  })
+  assert.equal(evil.status, 400)
+})
+
+test('trail: the offered queue is admin-only', async () => {
+  await req('/trail', { method: 'POST', body: walk(), ip: '1.1.1.4' })
+  assert.equal((await req('/trails')).status, 403)
+  const res = await req('/trails', { token: 'admintok' })
+  assert.equal(res.status, 200)
+  const { queue } = await res.json()
+  assert.equal(queue.length, 1)
+  assert.equal(queue[0].note, 'a walk worth following')
+})
+
+test('trail: rate-limited per IP, and its bucket is separate from /suggest', async () => {
+  for (let i = 0; i < 30; i++) await req('/trail', { method: 'POST', body: walk(), ip: '9.9.9.9' })
+  assert.equal((await req('/trail', { method: 'POST', body: walk(), ip: '9.9.9.9' })).status, 429)
+  // the point-suggestion bucket is untouched by all that trail traffic
+  assert.equal((await req('/suggest', { method: 'POST', body: entry('sh-after'), ip: '9.9.9.9' })).status, 200)
+})
+
+// ---- /claim, /edit/:token, /biz/:slug — self-serve business pages ---------
+const claim = (over = {}) => ({
+  name: 'ร้านสักลาย', nameRoman: 'Test Tattoo', lens: 'tattoo',
+  area: 'Nimman', contactLine: '@testtattoo', ...over,
+})
+
+test('claim: publishes instantly, no moderation queue involved', async () => {
+  const res = await req('/claim', { method: 'POST', body: claim(), ip: '2.2.2.1' })
+  assert.equal(res.status, 200)
+  const { ok, slug, refCode, viewUrl, editUrl } = await res.json()
+  assert.equal(ok, true)
+  assert.ok(env.KV.store.has(`biz:${slug}`))
+  assert.ok(env.KV.store.has(`bizref:${refCode}`))
+  assert.match(viewUrl, /\/biz\//)
+  assert.match(editUrl, /\/edit\//)
+  const page = await req('/biz/' + slug)
+  assert.equal(page.status, 200)
+  const html = await page.text()
+  assert.match(html, /Test Tattoo/)
+  assert.match(html, /schema\.org/) // JSON-LD present
+})
+
+test('claim: validation — name, an allowed lens, and a contact method are required', async () => {
+  assert.equal((await req('/claim', { method: 'POST', body: claim({ name: '' }), ip: '2.2.2.2' })).status, 400)
+  assert.equal((await req('/claim', { method: 'POST', body: claim({ lens: 'casino' }), ip: '2.2.2.2' })).status, 400)
+  assert.equal((await req('/claim', { method: 'POST', body: claim({ contactLine: undefined }), ip: '2.2.2.2' })).status, 400)
+})
+
+test('claim: wat lens defaults to the merit tier, never a cash commission', async () => {
+  const res = await req('/claim', { method: 'POST', body: claim({ lens: 'wat', name: 'วัดทดสอบ', nameRoman: 'Wat Test', contactPhone: '053-000000' }), ip: '2.2.2.3' })
+  const { slug } = await res.json()
+  const stored = JSON.parse(env.KV.store.get(`biz:${slug}`))
+  assert.equal(stored.commission, 'merit')
+  const html = await (await req('/biz/' + slug)).text()
+  assert.doesNotMatch(html, /List it free/) // no recruit-a-business CTA on a wat's own page
+})
+
+test('claim: a printed code on one page attributes the next claim', async () => {
+  const r1 = await req('/claim', { method: 'POST', body: claim(), ip: '2.2.2.4' })
+  const { slug: recruiterSlug, refCode } = await r1.json()
+  const r2 = await req('/claim', { method: 'POST', body: claim({ name: 'อีกร้าน', nameRoman: 'Another Shop', ref: refCode }), ip: '2.2.2.5' })
+  const { slug: newSlug } = await r2.json()
+  const stored = JSON.parse(env.KV.store.get(`biz:${newSlug}`))
+  assert.equal(stored.referredBySlug, recruiterSlug)
+})
+
+test('claim: an unrecognized ref code is silently ignored, not an error', async () => {
+  const res = await req('/claim', { method: 'POST', body: claim({ ref: 'NOSUCH1' }), ip: '2.2.2.6' })
+  assert.equal(res.status, 200)
+  const { slug } = await res.json()
+  assert.equal(JSON.parse(env.KV.store.get(`biz:${slug}`)).referredBySlug, null)
+})
+
+test('claim: two businesses with the same name get distinct slugs', async () => {
+  const r1 = await req('/claim', { method: 'POST', body: claim(), ip: '2.2.2.7' })
+  const r2 = await req('/claim', { method: 'POST', body: claim(), ip: '2.2.2.8' })
+  const s1 = (await r1.json()).slug
+  const s2 = (await r2.json()).slug
+  assert.notEqual(s1, s2)
+})
+
+test('claim: rate-limited per IP, bucket separate from /suggest and /trail', async () => {
+  for (let i = 0; i < 5; i++) await req('/claim', { method: 'POST', body: claim(), ip: '3.3.3.3' })
+  assert.equal((await req('/claim', { method: 'POST', body: claim(), ip: '3.3.3.3' })).status, 429)
+  assert.equal((await req('/suggest', { method: 'POST', body: entry('after-claim-limit'), ip: '3.3.3.3' })).status, 200)
+})
+
+test('edit: the token is the only credential — it reads and writes its one business, whitelisted fields only', async () => {
+  const { editUrl, slug } = await (await req('/claim', { method: 'POST', body: claim(), ip: '2.2.2.9' })).json()
+  const editToken = editUrl.split('/edit/')[1]
+  const got = await (await req('/edit/' + editToken)).json()
+  assert.equal(got.biz.slug, slug)
+
+  const upd = await req('/edit/' + editToken, { method: 'POST', body: { hours: '10:00-20:00', lens: 'wat', commission: 'standard' } })
+  assert.equal(upd.status, 200)
+  const stored = JSON.parse(env.KV.store.get(`biz:${slug}`))
+  assert.equal(stored.hours, '10:00-20:00')
+  assert.equal(stored.lens, 'tattoo') // lens is not owner-editable
+  assert.equal(stored.commission, 'standard') // commission is not owner-editable either
+
+  assert.equal((await req('/edit/not-a-real-token')).status, 404)
+})
