@@ -82,3 +82,7 @@ OSM data © OpenStreetMap contributors, ODbL (share-alike applies to derived
 point data; attribution in the viewer footer) · Wikidata CC0 · Wikipedia
 CC BY-SA · MapLibre GL JS BSD-3 (vendored in `vendor/`). Per-source records
 in [data/licenses.json](data/licenses.json).
+
+---
+
+Contact: Nan · nan@motdang.net · Sponsor: [Ko-fi](https://ko-fi.com/defiantchiangmai) · [Patreon](https://www.patreon.com/nanobotco)
