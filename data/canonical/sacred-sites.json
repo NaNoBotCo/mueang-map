@@ -12,7 +12,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "mosque",
-      "heritage": ""
+      "heritage": "",
+      "province": "Mae Hong Son"
     },
     "media": [
       {
@@ -53,7 +54,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "mosque",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Mai"
     },
     "media": [
       {
@@ -94,7 +96,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "mosque",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Mai"
     },
     "media": [
       {
@@ -163,7 +166,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave; ancient city",
-      "heritage": ""
+      "heritage": "",
+      "province": "Mae Hong Son"
     },
     "media": [],
     "sources": [
@@ -189,7 +193,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Mai"
     },
     "media": [
       {
@@ -230,7 +235,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "mosque",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [
       {
@@ -299,7 +305,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "mosque",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [
       {
@@ -368,7 +375,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "statue",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [
       {
@@ -437,7 +445,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "buddha image",
-      "heritage": ""
+      "heritage": "",
+      "province": "Lamphun"
     },
     "media": [],
     "sources": [
@@ -463,7 +472,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "buddha image",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [
       {
@@ -504,7 +514,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave; ancient city",
-      "heritage": ""
+      "heritage": "",
+      "province": "Mae Hong Son"
     },
     "media": [],
     "sources": [
@@ -530,7 +541,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave; ancient city",
-      "heritage": ""
+      "heritage": "",
+      "province": "Mae Hong Son"
     },
     "media": [],
     "sources": [
@@ -556,7 +568,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [],
     "sources": [
@@ -582,7 +595,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [],
     "sources": [
@@ -608,7 +622,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Mae Hong Son"
     },
     "media": [
       {
@@ -677,7 +692,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [
       {
@@ -746,7 +762,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Lamphun"
     },
     "media": [],
     "sources": [
@@ -772,7 +789,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Mae Hong Son"
     },
     "media": [],
     "sources": [
@@ -798,7 +816,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Mai"
     },
     "media": [],
     "sources": [
@@ -824,7 +843,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Phrae"
     },
     "media": [],
     "sources": [
@@ -850,7 +870,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [
       {
@@ -891,7 +912,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [],
     "sources": [
@@ -917,7 +939,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "cave",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [],
     "sources": [
@@ -943,7 +966,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "church",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [],
     "sources": [
@@ -969,7 +993,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "city pillar",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Rai"
     },
     "media": [
       {
@@ -1038,7 +1063,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "ancient city",
-      "heritage": "registered Thai historic site"
+      "heritage": "registered Thai historic site",
+      "province": "Chiang Rai"
     },
     "media": [],
     "sources": [
@@ -1064,7 +1090,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "ancient city",
-      "heritage": ""
+      "heritage": "",
+      "province": "Chiang Mai"
     },
     "media": [
       {
@@ -1133,7 +1160,8 @@
     "geoPrecision": "block",
     "attrs": {
       "siteType": "ancient city",
-      "heritage": "registered Thai historic site"
+      "heritage": "registered Thai historic site",
+      "province": "Chiang Mai"
     },
     "media": [
       {

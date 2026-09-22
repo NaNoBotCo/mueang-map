@@ -20,6 +20,7 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { slugify } from '../lib/schema.mjs'
+import { provinceAt } from '../lib/province.mjs'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 
@@ -197,6 +198,16 @@ function extract(cls, elements, seenIds) {
                      'ลำปาง': 'Lampang', 'น่าน': 'Nan', 'พะเยา': 'Phayao', 'แม่ฮ่องสอน': 'Mae Hong Son' }
         if (TH[raw]) attrs.province = TH[raw]
         else if (raw && !/[฀-๿]/.test(raw)) attrs.province = raw
+        // addr:province is a hand-typed tag and can simply be wrong, at which
+        // point the two lines above overwrite a value that was right by
+        // construction. วัดพระธาตุดอยคำ in อ.เชียงคำ came out of the TH-56 area
+        // query tagged "Lamphun" and shipped as a Lamphun temple 100 km from
+        // Lamphun. The boundary polygon outranks both the tag and the region.
+        const geo = provinceAt(pos.lat, pos.lng)
+        if (geo && geo !== attrs.province) {
+          if (raw) console.warn(`  ! ${name}: addr:province "${raw}" but the point is in ${geo} — using ${geo}`)
+          attrs.province = geo
+        }
         if (tags['addr:district']) attrs.district = tags['addr:district']
         if (tags['addr:subdistrict']) attrs.subdistrict = tags['addr:subdistrict']
         const street = [tags['addr:housenumber'], tags['addr:street']].filter(Boolean).join(' ')

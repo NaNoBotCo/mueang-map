@@ -13,6 +13,7 @@ import { createHash } from 'node:crypto'
 import { join, dirname, basename } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { validatePoint, inBbox, isPointFile, distanceM } from './lib/schema.mjs'
+import { provinceAt } from './lib/province.mjs'
 
 // MM_ROOT lets the test suite point merge at a fixture tree.
 const ROOT = process.env.MM_ROOT || dirname(fileURLToPath(import.meta.url))
@@ -326,6 +327,48 @@ if (mode === 'crawled') {
   for (const f of touched) save(join(CANON, f), canonFiles[f])
   writeFileSync(join(CANON, 'merge-conflicts.json'), JSON.stringify(conflicts, null, 2))
   console.log(`supersede ${src}: ${dropped} duplicate(s) dropped, ${moved} fact(s) transferred to the surviving OSM points, ${kept.length} kept`)
+} else if (mode === 'province') {
+  // Re-derive every canonical province from the changwat polygon the point sits
+  // in. Corrective for the radius-overshoot described in lib/province.mjs: the
+  // Wikidata harvests stamped each result with their REGION's label, and the
+  // radii overshoot the borders, so 159 records carried a neighbouring province
+  // — most visibly the 25 Phrae temples published as Lampang, which left Phrae
+  // showing no temples at all next to 2,133 Phrae manuscripts in the catalogue.
+  //
+  // Field-sourced records are never touched: a province someone asserted on the
+  // ground outranks a polygon, same as everywhere else in this script.
+  //   node merge.mjs province          # report only
+  //   node merge.mjs province --write
+  const write = arg === '--write'
+  const canonFiles = allCanonical()
+  const touched = new Set()
+  let fixed = 0, blank = 0, outside = 0, skippedField = 0
+  const by = new Map()
+  for (const [fname, pts] of Object.entries(canonFiles))
+    for (const p of pts) {
+      const geo = provinceAt(p.lat, p.lng)
+      if (!geo) { outside++; continue }
+      const cur = p.attrs?.province || ''
+      if (cur === geo) continue
+      if (hasFieldSource(p)) { skippedField++; continue }
+      const key = `${cur || '(none)'} → ${geo}`
+      by.set(key, (by.get(key) || 0) + 1)
+      if (!cur) blank++
+      addConflict(`province: ${p.id} ${cur || '(none)'} → ${geo} (point-in-polygon, OSM admin_level=4)`,
+                  { id: p.id, from: cur, to: geo, lat: p.lat, lng: p.lng })
+      p.attrs = { ...(p.attrs || {}), province: geo }
+      touched.add(fname); fixed++
+    }
+  for (const [k, n] of [...by].sort((a, b) => b[1] - a[1])) console.log(`  ${String(n).padStart(4)}  ${k}`)
+  console.log(`province: ${fixed} corrected (${blank} previously blank), ${skippedField} field-sourced left alone, ${outside} outside every cached changwat`)
+  if (write) {
+    for (const f of touched) save(join(CANON, f), canonFiles[f])
+    writeFileSync(join(CANON, 'merge-conflicts.json'), JSON.stringify(conflicts, null, 2))
+    console.log(`  wrote ${touched.size} canonical file(s)`)
+  } else {
+    console.log('  (dry run — pass --write)')
+  }
+
 } else if (mode === 'summary') {
   // Attach Wikipedia intro extracts, joined on QID. CC BY-SA 4.0, so the article
   // title, URL and licence travel WITH the text and are rendered beside it —

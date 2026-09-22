@@ -20,6 +20,7 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { slugify } from '../lib/schema.mjs'
+import { provinceAt } from '../lib/province.mjs'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 
@@ -140,16 +141,18 @@ function extract(doc) {
     seen.add(id)
 
     const attrs = { status: 'active', sect: 'unknown' }
-    // Region is known for certain here, so promoted pins get a province too —
-    // otherwise the 195 Wikidata-only temples would have no locality facet.
-    // Must list EVERY region in REGIONS above — a region added there but missed
-    // here silently yields pins with no province facet (36 Mae Hong Son pins did
-    // exactly that). Derived from REGIONS so the two cannot drift apart.
-    const RP = { cm: 'Chiang Mai', 'cm-province': 'Chiang Mai', 'chiang-rai': 'Chiang Rai',
-                 lamphun: 'Lamphun', lampang: 'Lampang', nan: 'Nan',
-                 phayao: 'Phayao', 'mae-hong-son': 'Mae Hong Son' }
-    for (const k of Object.keys(REGIONS)) if (!RP[k]) console.warn(`  ! no province label for region '${k}'`)
-    if (RP[REGION]) attrs.province = RP[REGION]
+    // Province comes from the POLYGON the point falls in, never from the region
+    // that happened to return it. These queries are bounded by centre+radius
+    // (P131 is too sparse to bound by) and the radii deliberately overshoot each
+    // changwat, so the region label is not evidence of anything: Lampang's 90 km
+    // reached into Phrae and published 25 Phrae temples as Lampang — Wat Sung
+    // Men included — leaving Phrae with zero while the manuscript catalogue held
+    // 2,133 manuscripts from it. 159 records were wrong this way in total.
+    // A point outside all eleven cached changwats gets NO province rather than a
+    // guess; that is the honest answer and it shows up as a gap, not as a lie.
+    const prov = provinceAt(e.pos.lat, e.pos.lng)
+    if (prov) attrs.province = prov
+    else console.warn(`  ! ${id} (${e.pos.lat}, ${e.pos.lng}) is outside every cached changwat — no province set`)
     if (e.inception) {
       // ISO like "1296-04-12T00:00:00Z" or "+1296-01-01..." → year.
       const ym = /([+-]?\d{3,4})-\d{2}-\d{2}/.exec(e.inception)

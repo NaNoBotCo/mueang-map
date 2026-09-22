@@ -10469,5 +10469,2700 @@
       "name": "Wat Yuan",
       "province": "Phayao"
     }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-gate-chang-phueak (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-gate-chang-phueak",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7954331,
+      "lng": 98.9865942
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-jaeng-si-phum (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-jaeng-si-phum",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7950004,
+      "lng": 98.993422
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-gate-tha-phae (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-gate-tha-phae",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7877625,
+      "lng": 98.9932697
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-jaeng-katam (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-jaeng-katam",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7814237,
+      "lng": 98.9926503
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-gate-chiang-mai (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-gate-chiang-mai",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.781504,
+      "lng": 98.9867163
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-gate-saen-pung (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-gate-saen-pung",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7815449,
+      "lng": 98.9815967
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-jaeng-ku-hueang (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-jaeng-ku-hueang",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7818383,
+      "lng": 98.9781186
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-gate-suan-dok (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-gate-suan-dok",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7888357,
+      "lng": 98.9781922
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-jaeng-hua-lin (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-jaeng-hua-lin",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7979127,
+      "lng": 98.9773127
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-sadue-mueang (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-sadue-mueang",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7902299,
+      "lng": 98.9873524
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ausp-sao-inthakhin (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ausp-sao-inthakhin",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7875903,
+      "lng": 98.9868373
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phrathat-doi-kham Lamphun → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phrathat-doi-kham",
+      "from": "Lamphun",
+      "to": "Phayao",
+      "lat": 19.52101,
+      "lng": 100.37601
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: 102-1 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "102-1",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7284202,
+      "lng": 99.0207629
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: architecture-library (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "architecture-library",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7979994,
+      "lng": 98.9492364
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: artisan-ink-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "artisan-ink-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7959097,
+      "lng": 98.9659947
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: bambi-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "bambi-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7889878,
+      "lng": 98.9902597
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: bloodline-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "bloodline-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7848824,
+      "lng": 98.9946811
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: bnana-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "bnana-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7880035,
+      "lng": 98.9924841
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: celebrity-ink-tattoo-studio-chiang-mai (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "celebrity-ink-tattoo-studio-chiang-mai",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7843417,
+      "lng": 98.9959333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: center-for-northern-culture (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "center-for-northern-culture",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7953333,
+      "lng": 99.029595
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: chiang-mai-public-library-wat-langka (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "chiang-mai-public-library-wat-langka",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8116777,
+      "lng": 99.0058442
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: chiang-mai-university-main-library (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "chiang-mai-university-main-library",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8012174,
+      "lng": 98.9518471
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: cnx-ink (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "cnx-ink",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7832453,
+      "lng": 98.9927594
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: dejavu-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "dejavu-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7904772,
+      "lng": 98.9909168
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: economics-library (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "economics-library",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8014507,
+      "lng": 98.9502927
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: faculty-of-veterinary-medicine-library (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "faculty-of-veterinary-medicine-library",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7590533,
+      "lng": 98.9409459
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: forever (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "forever",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7903825,
+      "lng": 98.9917315
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ganesha (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ganesha",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7837527,
+      "lng": 98.9904173
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: gao-yord-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "gao-yord-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7909004,
+      "lng": 98.993255
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: hall-zinthao (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "hall-zinthao",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.6875656,
+      "lng": 98.9933425
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: hansa-minigolf (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "hansa-minigolf",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8831925,
+      "lng": 99.0798315
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: humanities-library (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "humanities-library",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8040353,
+      "lng": 98.9517497
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: jin-bamboo-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "jin-bamboo-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7846784,
+      "lng": 98.9927144
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: js-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "js-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7940295,
+      "lng": 98.9925351
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: kalm-village-chiangmai (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "kalm-village-chiangmai",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7833599,
+      "lng": 98.9863906
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: lansieow-freeative-art-space (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "lansieow-freeative-art-space",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7780854,
+      "lng": 98.9503666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: leo-on-ink (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "leo-on-ink",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8068379,
+      "lng": 98.9838473
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: line-point-bamboo-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "line-point-bamboo-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7847032,
+      "lng": 98.9946677
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: mai-space (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "mai-space",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7855672,
+      "lng": 99.0030304
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: malamas-library (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "malamas-library",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.796648,
+      "lng": 99.0062099
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: malee-garden-bistro (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "malee-garden-bistro",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7782358,
+      "lng": 98.9503531
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: meingping-ink (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "meingping-ink",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7835395,
+      "lng": 98.9926692
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: mornzter-tattoo-studio (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "mornzter-tattoo-studio",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.785234,
+      "lng": 98.9925809
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: new-regional-art-gallery-ltd (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "new-regional-art-gallery-ltd",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.782933,
+      "lng": 99.0002222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-11370436480 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-11370436480",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8097257,
+      "lng": 98.9494864
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-13099793901 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-13099793901",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8164079,
+      "lng": 98.991897
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-2453767249 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-2453767249",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.800442,
+      "lng": 98.9504326
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-2453767252 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-2453767252",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.793046,
+      "lng": 98.956237
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-2453767253 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-2453767253",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.794082,
+      "lng": 98.9567547
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-2453767254 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-2453767254",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7929495,
+      "lng": 98.9574896
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-2453767255 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-2453767255",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7934878,
+      "lng": 98.9604776
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-2453767256 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-2453767256",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8014963,
+      "lng": 98.9534448
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-2453767257 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-2453767257",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8035699,
+      "lng": 98.9544782
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-4355117364 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-4355117364",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7995167,
+      "lng": 98.9484323
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-4359891502 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-4359891502",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8140688,
+      "lng": 98.9543102
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-4359957622 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-4359957622",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8134319,
+      "lng": 98.9570063
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-4359957762 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-4359957762",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8126513,
+      "lng": 98.9575248
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-4359963530 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-4359963530",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8138138,
+      "lng": 98.9567426
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-4359993317 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-4359993317",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8120769,
+      "lng": 98.9580481
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-node-9806826927 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-node-9806826927",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.888166,
+      "lng": 99.0298543
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: osm-way-124819910 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "osm-way-124819910",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7666074,
+      "lng": 99.0235534
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: pa-rang (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "pa-rang",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7913391,
+      "lng": 98.9795466
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: panumart-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "panumart-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7830528,
+      "lng": 98.9817329
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: powers-hall (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "powers-hall",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.79698,
+      "lng": 99.0036903
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ratchamangkhalaphisek-national-library-chiang-mai (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ratchamangkhalaphisek-national-library-chiang-mai",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7880344,
+      "lng": 98.9773461
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: rumpueng-loudspeaker (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "rumpueng-loudspeaker",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7766944,
+      "lng": 98.9476987
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: sac-residency-program (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "sac-residency-program",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.881671,
+      "lng": 98.9762849
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: sak-yant-chiang-mai (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "sak-yant-chiang-mai",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7918186,
+      "lng": 98.9785289
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: sak-yant-tatoo-chiang-mai (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "sak-yant-tatoo-chiang-mai",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7921775,
+      "lng": 98.9785182
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: sideroad-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "sideroad-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7845173,
+      "lng": 98.9949549
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: sirindhorn-learning-resources-center (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "sirindhorn-learning-resources-center",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7964592,
+      "lng": 99.0337679
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: skill-tattoo-studio (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "skill-tattoo-studio",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7840687,
+      "lng": 98.9959405
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: social-sciences-library (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "social-sciences-library",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8025424,
+      "lng": 98.9504542
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: solitary (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "solitary",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7912965,
+      "lng": 98.9502462
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: supthongkhum-sr-studio-1 (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "supthongkhum-sr-studio-1",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7005237,
+      "lng": 98.9378359
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: suvannabhumi-art-gallery (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "suvannabhumi-art-gallery",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7974214,
+      "lng": 98.9755799
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7928484,
+      "lng": 98.9913553
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tattoo-studio (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tattoo-studio",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7912157,
+      "lng": 98.9905084
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tcdc-chiang-mai (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tcdc-chiang-mai",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7953354,
+      "lng": 98.9963072
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: the-29-tattoo-studio (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "the-29-tattoo-studio",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7810699,
+      "lng": 98.9935902
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: the-best-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "the-best-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.790386,
+      "lng": 98.9917142
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: the-master-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "the-master-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7854528,
+      "lng": 98.9905585
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ttt-tattoo-cafe (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ttt-tattoo-cafe",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7848428,
+      "lng": 98.9947985
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wanlop-hansunthai-gallery (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wanlop-hansunthai-gallery",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.8800439,
+      "lng": 98.9768245
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: warp-tattoo (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "warp-tattoo",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7924277,
+      "lng": 98.9821748
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wattana-art-gallery (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wattana-art-gallery",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.7849646,
+      "lng": 98.9549693
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: xavier-ink-cnx (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "xavier-ink-cnx",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.783401,
+      "lng": 98.9771262
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: al-israq-mosque (none) → Mae Hong Son (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "al-israq-mosque",
+      "from": "",
+      "to": "Mae Hong Son",
+      "lat": 19.360166,
+      "lng": 98.440204
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: attaqwa-mosque (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "attaqwa-mosque",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.792033333,
+      "lng": 99.007044444
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: ban-ho-mosque (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "ban-ho-mosque",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.786686111,
+      "lng": 99.001247222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: banyan-valley-cave (none) → Mae Hong Son (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "banyan-valley-cave",
+      "from": "",
+      "to": "Mae Hong Son",
+      "lat": 19.633333,
+      "lng": 98.233333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: cave-of-the-monk (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "cave-of-the-monk",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 19.409383,
+      "lng": 98.817056
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: darul-aman-mosque (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "darul-aman-mosque",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.907847222,
+      "lng": 99.829261111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: darunaman-mosque (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "darunaman-mosque",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.907847222,
+      "lng": 99.829261111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: great-guan-yin-statue-wat-huay-pla-kang (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "great-guan-yin-statue-wat-huay-pla-kang",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.948589232,
+      "lng": 99.805679273
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: phra-phuttha-chaloem-sirirat (none) → Lamphun (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "phra-phuttha-chaloem-sirirat",
+      "from": "",
+      "to": "Lamphun",
+      "lat": 18.652385238,
+      "lng": 99.065804132
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: phra-sing-san-chana-man (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "phra-sing-san-chana-man",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 20.4279142,
+      "lng": 99.9438571
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: spirit-cave-thailand (none) → Mae Hong Son (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "spirit-cave-thailand",
+      "from": "",
+      "to": "Mae Hong Son",
+      "lat": 19.567805555,
+      "lng": 98.281083333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: steep-cliff-cave (none) → Mae Hong Son (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "steep-cliff-cave",
+      "from": "",
+      "to": "Mae Hong Son",
+      "lat": 19.565277777,
+      "lng": 98.280555555
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-bamphen-bun (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-bamphen-bun",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.709444444,
+      "lng": 99.755277777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-doi-kong-khao (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-doi-kong-khao",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.913888888,
+      "lng": 99.777222222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-lot (none) → Mae Hong Son (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-lot",
+      "from": "",
+      "to": "Mae Hong Son",
+      "lat": 19.571944444,
+      "lng": 98.277222222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-luang (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-luang",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 20.38119,
+      "lng": 99.86761
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-luang-pha-wiang (none) → Lamphun (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-luang-pha-wiang",
+      "from": "",
+      "to": "Lamphun",
+      "lat": 18.22209,
+      "lng": 98.858
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-mae-lana (none) → Mae Hong Son (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-mae-lana",
+      "from": "",
+      "to": "Mae Hong Son",
+      "lat": 19.574671,
+      "lng": 98.215849
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-pha-chang (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-pha-chang",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.22944444,
+      "lng": 98.48611111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-pha-nang-khoi (none) → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-pha-nang-khoi",
+      "from": "",
+      "to": "Phrae",
+      "lat": 18.369722222,
+      "lng": 100.353888888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-phra (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-phra",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.918333333,
+      "lng": 99.789444444
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-pla (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-pla",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 20.33111,
+      "lng": 99.86383
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: tham-pum (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "tham-pum",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 20.34849,
+      "lng": 99.85285
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: the-nativity-of-our-lady-church (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "the-nativity-of-our-lady-church",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.913249,
+      "lng": 99.844449
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: the-navel-city-pillar-of-chiang-rai (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "the-navel-city-pillar-of-chiang-rai",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.915,
+      "lng": 99.82275
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wiang-chiang-rung (none) → Chiang Rai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wiang-chiang-rung",
+      "from": "",
+      "to": "Chiang Rai",
+      "lat": 19.95,
+      "lng": 99.99
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wiang-kum-kam (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wiang-kum-kam",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.75409444,
+      "lng": 98.99555556
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wiang-tha-kan (none) → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wiang-tha-kan",
+      "from": "",
+      "to": "Chiang Mai",
+      "lat": 18.550278,
+      "lng": 98.880833
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-analayo-thiphayaram Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-analayo-thiphayaram",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.177223,
+      "lng": 99.81261
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ban-thung Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ban-thung",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.165555555,
+      "lng": 100.0025
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-champa-luang Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-champa-luang",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.139722222,
+      "lng": 100.018611111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-chedi-ngam Chiang Rai → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-chedi-ngam",
+      "from": "Chiang Rai",
+      "to": "Chiang Mai",
+      "lat": 19.91896788,
+      "lng": 99.212229919
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-don-lek Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-don-lek",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.169722222,
+      "lng": 99.988888888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-huai-hom Chiang Rai → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-huai-hom",
+      "from": "Chiang Rai",
+      "to": "Chiang Mai",
+      "lat": 19.812222222,
+      "lng": 99.131666666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ku-kai-kaeo Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ku-kai-kaeo",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.329904,
+      "lng": 100.116601
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ku-phang-lang Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ku-phang-lang",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.345277777,
+      "lng": 100.1125
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-li-chiang-rai Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-li-chiang-rai",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.166280649,
+      "lng": 99.915724258
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-luang-ratsanthan Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-luang-ratsanthan",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.168414512,
+      "lng": 99.900008901
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-mae-ai-luang Chiang Rai → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-mae-ai-luang",
+      "from": "Chiang Rai",
+      "to": "Chiang Mai",
+      "lat": 20.031706021,
+      "lng": 99.295667539
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-nan-taram Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-nan-taram",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.528333333,
+      "lng": 100.302777777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pa-daeng-bun-nak Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pa-daeng-bun-nak",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.181944444,
+      "lng": 99.905
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pa-sak-kham Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pa-sak-kham",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.179444444,
+      "lng": 99.936666666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pang-tonduea Chiang Rai → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pang-tonduea",
+      "from": "Chiang Rai",
+      "to": "Chiang Mai",
+      "lat": 20.094659141,
+      "lng": 99.280158896
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-photharam Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-photharam",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.353206343,
+      "lng": 99.808493619
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-kaeo-q112604678 Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-kaeo-q112604678",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.504833333,
+      "lng": 100.322083333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-nang-din-chiang-rai Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-nang-din-chiang-rai",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.498333333,
+      "lng": 100.324444444
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-chom-thong Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-chom-thong",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.184032,
+      "lng": 99.888458
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-khing-kaeng Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-khing-kaeng",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.29,
+      "lng": 100.19
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-sop-fang Chiang Rai → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-sop-fang",
+      "from": "Chiang Rai",
+      "to": "Chiang Mai",
+      "lat": 20.044819362,
+      "lng": 99.400091436
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phrathat-phu-sang Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phrathat-phu-sang",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.651783567,
+      "lng": 100.378244853
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phrathat-sop-waen Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phrathat-sop-waen",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.536796622,
+      "lng": 100.291713513
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ratcha-khrue Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ratcha-khrue",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.16693,
+      "lng": 99.903239
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-saen-mueang-ma Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-saen-mueang-ma",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.521944444,
+      "lng": 100.301944444
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-si-chom-rueang Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-si-chom-rueang",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.162223635,
+      "lng": 99.914291082
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-si-khom-kham-chiang-rai Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-si-khom-kham-chiang-rai",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.176666666,
+      "lng": 99.889722222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-si-umong-kham-chiang-rai Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-si-umong-kham-chiang-rai",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.165277777,
+      "lng": 99.900833333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-soi-si Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-soi-si",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.343055555,
+      "lng": 100.17
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-thaton Chiang Rai → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-thaton",
+      "from": "Chiang Rai",
+      "to": "Chiang Mai",
+      "lat": 20.064666666,
+      "lng": 99.351888888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-thung-kluai Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-thung-kluai",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.59,
+      "lng": 100.375833333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-tilok-aram-chiang-rai Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-tilok-aram-chiang-rai",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.158475,
+      "lng": 99.899795
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-tom-klang-chiang-rai Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-tom-klang-chiang-rai",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.198474142,
+      "lng": 99.837953519
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-wang-khem Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-wang-khem",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.529166666,
+      "lng": 100.317222222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-wiang-chai-prakan Chiang Rai → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-wiang-chai-prakan",
+      "from": "Chiang Rai",
+      "to": "Chiang Mai",
+      "lat": 19.752159791,
+      "lng": 99.16657438
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-yuan-chiang-rai Chiang Rai → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-yuan-chiang-rai",
+      "from": "Chiang Rai",
+      "to": "Phayao",
+      "lat": 19.526415157,
+      "lng": 100.29917528
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ban-mai-q110693643 Lampang → Lamphun (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ban-mai-q110693643",
+      "from": "Lampang",
+      "to": "Lamphun",
+      "lat": 17.861944444,
+      "lng": 99.046388888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-chaiyasit Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-chaiyasit",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 17.988055555,
+      "lng": 99.652777777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-chedi-khiri-wihan Lampang → Uttaradit (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-chedi-khiri-wihan",
+      "from": "Lampang",
+      "to": "Uttaradit",
+      "lat": 17.673055555,
+      "lng": 100.033611111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-chom-sawan Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-chom-sawan",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.150632,
+      "lng": 100.15103
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-hai-soi Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-hai-soi",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.037905817,
+      "lng": 99.784903068
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-hua-khuang-q102291045 Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-hua-khuang-q102291045",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.148055555,
+      "lng": 100.141111111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-hua-khuang-q111446577 Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-hua-khuang-q111446577",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.494444444,
+      "lng": 98.842777777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-luang-wiang-ta-mon Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-luang-wiang-ta-mon",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.262222222,
+      "lng": 100.000833333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-mae-yang-kwao Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-mae-yang-kwao",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.291666666,
+      "lng": 100.246944444
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-methang-krawat Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-methang-krawat",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.142777777,
+      "lng": 100.143055555
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-na-ton-chan Lampang → Sukhothai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-na-ton-chan",
+      "from": "Lampang",
+      "to": "Sukhothai",
+      "lat": 17.6203705,
+      "lng": 99.8275723
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phailom Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phailom",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.071666666,
+      "lng": 99.801388888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phak-rak Lampang → Uttaradit (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phak-rak",
+      "from": "Lampang",
+      "to": "Uttaradit",
+      "lat": 17.703055555,
+      "lng": 100.024722222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phong-sunan Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phong-sunan",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.143876944,
+      "lng": 100.13656
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-bat-ming-mueang-worawihan Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-bat-ming-mueang-worawihan",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.143804,
+      "lng": 100.140671
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-luang-that-moeng Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-luang-that-moeng",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.063888888,
+      "lng": 100.111666666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-non Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-non",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.144016944,
+      "lng": 100.134836944
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-phutthabat-huai-tom Lampang → Lamphun (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-phutthabat-huai-tom",
+      "from": "Lampang",
+      "to": "Lamphun",
+      "lat": 17.725833333,
+      "lng": 98.954444444
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-cho-hae Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-cho-hae",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.086278055,
+      "lng": 100.204138888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-chom-chaeng Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-chom-chaeng",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.076388888,
+      "lng": 100.1925
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-doi-leng Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-doi-leng",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.071666666,
+      "lng": 100.215277777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-duang-diao Lampang → Lamphun (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-duang-diao",
+      "from": "Lampang",
+      "to": "Lamphun",
+      "lat": 17.782144972,
+      "lng": 98.954328313
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-puchae Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-puchae",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.203611111,
+      "lng": 100.292777777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-suthon-mongkhon-khiri-samakkhi-tham Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-suthon-mongkhon-khiri-samakkhi-tham",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 17.975431,
+      "lng": 100.015295
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-salaeng Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-salaeng",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.094166666,
+      "lng": 99.832777777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-samphao-q114229506 Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-samphao-q114229506",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.144326487,
+      "lng": 100.179606382
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-si-chum-q21193036 Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-si-chum-q21193036",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.146289,
+      "lng": 100.138736
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-si-don-kaeo Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-si-don-kaeo",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.109722222,
+      "lng": 99.789166666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-si-don-kham Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-si-don-kham",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.075664615,
+      "lng": 99.829437685
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-sung-men Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-sung-men",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.05,
+      "lng": 100.12
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-thong-laplae Lampang → Uttaradit (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-thong-laplae",
+      "from": "Lampang",
+      "to": "Uttaradit",
+      "lat": 17.670833333,
+      "lng": 100.028055555
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ton-thong Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ton-thong",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.138265008,
+      "lng": 100.147429797
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-wut-mongkhon Lampang → Phrae (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-wut-mongkhon",
+      "from": "Lampang",
+      "to": "Phrae",
+      "lat": 18.058888888,
+      "lng": 100.123055555
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-khantha-phrueksa Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-khantha-phrueksa",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.866666666,
+      "lng": 99.354166666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-luang-khun-win Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-luang-khun-win",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.715833333,
+      "lng": 98.713611111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-mae-lai Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-mae-lai",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.880836847,
+      "lng": 99.350380224
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-mongkhon Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-mongkhon",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.573055555,
+      "lng": 98.920277777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-mongkhon-q100359280 Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-mongkhon-q100359280",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.5325,
+      "lng": 98.858333333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-muen-prik Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-muen-prik",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.386104,
+      "lng": 98.686173
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-nong-kai Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-nong-kai",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 19.029911603,
+      "lng": 98.865306538
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-on-luai Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-on-luai",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.78877076,
+      "lng": 99.257735666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pa-chedi-liam Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pa-chedi-liam",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.523333333,
+      "lng": 98.889722222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-doi-noi Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-doi-noi",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.465555555,
+      "lng": 98.803888888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-si-chomthong Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-si-chomthong",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.420138888,
+      "lng": 98.67875
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pong-yang-khok Lamphun → Lampang (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pong-yang-khok",
+      "from": "Lamphun",
+      "to": "Lampang",
+      "lat": 18.280833333,
+      "lng": 99.384166666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-san-kawan Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-san-kawan",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.535555555,
+      "lng": 98.875555555
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ton-kok Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ton-kok",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.554166666,
+      "lng": 98.875
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-aranyawiwake Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-aranyawiwake",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.137019444,
+      "lng": 98.983891666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ban-chiang Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ban-chiang",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 18.510833333,
+      "lng": 98.358888888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ban-den Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ban-den",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.157521,
+      "lng": 98.978444
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-chai Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-chai",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.363461396,
+      "lng": 98.95889971
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-chan Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-chan",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.074444444,
+      "lng": 98.305277777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-fa-wiang-in Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-fa-wiang-in",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.713939737,
+      "lng": 98.625195968
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-kong-kan Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-kong-kan",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 18.547929418,
+      "lng": 98.352989755
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-kong-khaek Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-kong-khaek",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 18.434444438,
+      "lng": 98.3925
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pa-thara-phirom Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pa-thara-phirom",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.413747505,
+      "lng": 99.001316191
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-boromathat-doi-pha-som Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-boromathat-doi-pha-som",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 18.937838518,
+      "lng": 98.588619153
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-puttha-baht-si-roi Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-puttha-baht-si-roi",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.016541016,
+      "lng": 98.762191936
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-pu-kam Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-pu-kam",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.484444444,
+      "lng": 98.966111111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phut-en Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phut-en",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 18.513333333,
+      "lng": 98.350555555
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-sawang-mongkhon Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-sawang-mongkhon",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.491666666,
+      "lng": 98.973888888
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-sop-loen Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-sop-loen",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.191181,
+      "lng": 98.995345
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-tham-chiang-dao Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-tham-chiang-dao",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 19.394166666,
+      "lng": 98.929444444
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-yang-luang Mae Hong Son → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-yang-luang",
+      "from": "Mae Hong Son",
+      "to": "Chiang Mai",
+      "lat": 18.475833333,
+      "lng": 98.371111111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pho-chai Nan → Uttaradit (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pho-chai",
+      "from": "Nan",
+      "to": "Uttaradit",
+      "lat": 18.00186,
+      "lng": 100.884269
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-chomsin Nan → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-chomsin",
+      "from": "Nan",
+      "to": "Phayao",
+      "lat": 19.083678065,
+      "lng": 100.073113179
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-doi-yuak-nan Nan → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-doi-yuak-nan",
+      "from": "Nan",
+      "to": "Phayao",
+      "lat": 19.138055555,
+      "lng": 100.262777777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-ton-fang Nan → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-ton-fang",
+      "from": "Nan",
+      "to": "Phayao",
+      "lat": 19.144837876,
+      "lng": 100.391259597
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-tha-fai-tai Nan → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-tha-fai-tai",
+      "from": "Nan",
+      "to": "Phayao",
+      "lat": 19.001666666,
+      "lng": 100.281111111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-thammikaram Nan → Phayao (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-thammikaram",
+      "from": "Nan",
+      "to": "Phayao",
+      "lat": 19.159088751,
+      "lng": 100.356084284
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-bo-sang Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-bo-sang",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.771678542,
+      "lng": 99.085948913
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-chedi-mae-khrua Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-chedi-mae-khrua",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.980066252,
+      "lng": 98.981004197
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-chiang-saen Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-chiang-saen",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.7475,
+      "lng": 99.026666666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-doi-thaen-phra-pha-luang Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-doi-thaen-phra-pha-luang",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.945076721,
+      "lng": 99.070421496
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-hang-dong Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-hang-dong",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.696111111,
+      "lng": 98.916666666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-kha-chao Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-kha-chao",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.815,
+      "lng": 99.003333333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-khun-khong-luang Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-khun-khong-luang",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.668657,
+      "lng": 98.950724
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-ku-din-khao Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-ku-din-khao",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.807319,
+      "lng": 98.945584
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-mae-rim Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-mae-rim",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.91569687,
+      "lng": 98.943983947
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-nong-thong Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-nong-thong",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.621722222,
+      "lng": 98.942083333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pa-dara-phirom Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pa-dara-phirom",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.910880555,
+      "lng": 98.941311111
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pa-nam-rin Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pa-nam-rin",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.985970558,
+      "lng": 98.93871068
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-pa-phut-photchanaram Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-pa-phut-photchanaram",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.730014386,
+      "lng": 98.88057877
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-phra-that-doi-saket Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-phra-that-doi-saket",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.872327,
+      "lng": 99.140073
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-rong-tham-samakkhi Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-rong-tham-samakkhi",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.741363,
+      "lng": 99.122718
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-rong-wua-daeng Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-rong-wua-daeng",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.743888888,
+      "lng": 99.170833333
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-san-pa-thong Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-san-pa-thong",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.625555555,
+      "lng": 98.889166666
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-si-koet-q109334571 Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-si-koet-q109334571",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.613888888,
+      "lng": 98.879722222
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-thao-kham-wang Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-thao-kham-wang",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.701388888,
+      "lng": 98.920277777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-thep-prasit Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-thep-prasit",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.693565477,
+      "lng": 98.951887483
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-thung-muen-noi Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-thung-muen-noi",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.889967,
+      "lng": 99.002383
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-thung-o Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-thung-o",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.642777777,
+      "lng": 98.920277777
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-umong-suan-phutthatham Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-umong-suan-phutthatham",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.78366667,
+      "lng": 98.95338889
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "reason": "province: wat-wiang-dong Lamphun → Chiang Mai (point-in-polygon, OSM admin_level=4)",
+    "entry": {
+      "id": "wat-wiang-dong",
+      "from": "Lamphun",
+      "to": "Chiang Mai",
+      "lat": 18.716441,
+      "lng": 98.909603
+    }
   }
 ]
